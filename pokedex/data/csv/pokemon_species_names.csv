@@ -2444,7 +2444,7 @@ pokemon_species_id,local_language_id,name,genus
 223,1,テッポウオ,ふんしゃポケモン
 223,2,Teppouo,
 223,3,총어,분사포켓몬
-223,4,鐵砲魚,噴射寶可夢
+223,4,鐵炮魚,噴射寶可夢
 223,5,Rémoraid,Pokémon Jet
 223,6,Remoraid,Hochdruck
 223,7,Remoraid,Pokémon Reactor
@@ -2554,14 +2554,14 @@ pokemon_species_id,local_language_id,name,genus
 233,1,ポリゴン２,バーチャルポケモン
 233,2,Porygon2,
 233,3,폴리곤2,가상포켓몬
-233,4,多邊獸２,虛擬寶可夢
+233,4,多邊獸Ⅱ,虛擬寶可夢
 233,5,Porygon2,Pokémon Virtuel
 233,6,Porygon2,Virtuell
 233,7,Porygon2,Pokémon Virtual
 233,8,Porygon2,Pokémon Virtuale
 233,9,Porygon2,Virtual Pokémon
 233,11,ポリゴン２,バーチャルポケモン
-233,12,多边兽２,虚拟宝可梦
+233,12,多边兽Ⅱ,虚拟宝可梦
 234,1,オドシシ,おおツノポケモン
 234,2,Odoshishi,
 234,3,노라키,큰뿔포켓몬
@@ -2836,7 +2836,7 @@ pokemon_species_id,local_language_id,name,genus
 258,8,Mudkip,Pokémon Fango Pesce
 258,9,Mudkip,Mud Fish Pokémon
 258,11,ミズゴロウ,ぬまうおポケモン
-258,12,水躍鱼,沼鱼宝可梦
+258,12,水跃鱼,沼鱼宝可梦
 259,1,ヌマクロー,ぬまうおポケモン
 259,2,Numacraw,
 259,3,늪짱이,늪물고기포켓몬
@@ -2847,7 +2847,7 @@ pokemon_species_id,local_language_id,name,genus
 259,8,Marshtomp,Pokémon Fango Pesce
 259,9,Marshtomp,Mud Fish Pokémon
 259,11,ヌマクロー,ぬまうおポケモン
-259,12,沼躍鱼,沼鱼宝可梦
+259,12,沼跃鱼,沼鱼宝可梦
 260,1,ラグラージ,ぬまうおポケモン
 260,2,Laglarge,
 260,3,대짱이,늪물고기포켓몬
@@ -3430,7 +3430,7 @@ pokemon_species_id,local_language_id,name,genus
 312,8,Minun,Pokémon Incitamento
 312,9,Minun,Cheering Pokémon
 312,11,マイナン,おうえんポケモン
-312,12,負电拍拍,加油宝可梦
+312,12,负电拍拍,加油宝可梦
 313,1,バルビート,ほたるポケモン
 313,2,Barubeat,
 313,3,볼비트,반딧불포켓몬
@@ -3727,7 +3727,7 @@ pokemon_species_id,local_language_id,name,genus
 339,8,Barboach,Pokémon Baffetti
 339,9,Barboach,Whiskers Pokémon
 339,11,ドジョッチ,ひげうおポケモン
-339,12,泥泥鰍,须鱼宝可梦
+339,12,泥泥鳅,须鱼宝可梦
 340,1,ナマズン,ひげうおポケモン
 340,2,Namazun,
 340,3,메깅,수염물고기포켓몬
@@ -4237,14 +4237,14 @@ pokemon_species_id,local_language_id,name,genus
 386,1,デオキシス,ＤＮＡポケモン
 386,2,Deoxys,
 386,3,테오키스,DNA포켓몬
-386,4,代歐奇希斯,ＤＮＡ寶可夢
+386,4,代歐奇希斯,DNA寶可夢
 386,5,Deoxys,Pokémon ADN
 386,6,Deoxys,DNS
 386,7,Deoxys,Pokémon ADN
 386,8,Deoxys,Pokémon DNA
 386,9,Deoxys,DNA Pokémon
 386,11,デオキシス,ＤＮＡポケモン
-386,12,代欧奇希斯,ＤＮＡ宝可梦
+386,12,代欧奇希斯,DNA宝可梦
 387,1,ナエトル,わかばポケモン
 387,2,Naetle,
 387,3,모부기,어린잎포켓몬
@@ -7414,7 +7414,7 @@ pokemon_species_id,local_language_id,name,genus
 692,12,铁臂枪虾,水枪宝可梦
 693,1,ブロスター,ランチャーポケモン
 693,3,블로스터,런처포켓몬
-693,4,鋼砲臂蝦,發射器寶可夢
+693,4,鋼炮臂蝦,發射器寶可夢
 693,5,Gamblast,Pokémon Blaster
 693,6,Wummer,Aquawumme
 693,7,Clawitzer,Pokémon Lanzachorro
@@ -7864,7 +7864,7 @@ pokemon_species_id,local_language_id,name,genus
 737,12,虫电宝,蓄电池宝可梦
 738,1,クワガノン,くわがたポケモン
 738,3,투구뿌논,뿔집게포켓몬
-738,4,鍬農砲蟲,鍬形蟲寶可夢
+738,4,鍬農炮蟲,鍬形蟲寶可夢
 738,5,Lucanon,Pokémon Scarabée
 738,6,Donarion,Kneifkäfer
 738,7,Vikavolt,Pokémon Escarabajo
@@ -8341,7 +8341,7 @@ pokemon_species_id,local_language_id,name,genus
 785,8,Tapu Koko,Pokémon Nume Locale
 785,9,Tapu Koko,Land Spirit Pokémon
 785,11,カプ・コケコ,とちがみポケモン
-785,12,卡璞・鸣鸣,土地神宝可梦
+785,12,卡璞·鸣鸣,土地神宝可梦
 786,1,カプ・テテフ,とちがみポケモン
 786,3,카푸나비나,토속신포켓몬
 786,4,卡璞・蝶蝶,土地神寶可夢
@@ -8351,7 +8351,7 @@ pokemon_species_id,local_language_id,name,genus
 786,8,Tapu Lele,Pokémon Nume Locale
 786,9,Tapu Lele,Land Spirit Pokémon
 786,11,カプ・テテフ,とちがみポケモン
-786,12,卡璞・蝶蝶,土地神宝可梦
+786,12,卡璞·蝶蝶,土地神宝可梦
 787,1,カプ・ブルル,とちがみポケモン
 787,3,카푸브루루,토속신포켓몬
 787,4,卡璞・哞哞,土地神寶可夢
@@ -8361,7 +8361,7 @@ pokemon_species_id,local_language_id,name,genus
 787,8,Tapu Bulu,Pokémon Nume Locale
 787,9,Tapu Bulu,Land Spirit Pokémon
 787,11,カプ・ブルル,とちがみポケモン
-787,12,卡璞・哞哞,土地神宝可梦
+787,12,卡璞·哞哞,土地神宝可梦
 788,1,カプ・レヒレ,とちがみポケモン
 788,3,카푸느지느,토속신포켓몬
 788,4,卡璞・鰭鰭,土地神寶可夢
@@ -8371,7 +8371,7 @@ pokemon_species_id,local_language_id,name,genus
 788,8,Tapu Fini,Pokémon Nume Locale
 788,9,Tapu Fini,Land Spirit Pokémon
 788,11,カプ・レヒレ,とちがみポケモン
-788,12,卡璞・鳍鳍,土地神宝可梦
+788,12,卡璞·鳍鳍,土地神宝可梦
 789,1,コスモッグ,せいうんポケモン
 789,3,코스모그,성운포켓몬
 789,4,科斯莫古,星雲寶可夢
@@ -8421,7 +8421,7 @@ pokemon_species_id,local_language_id,name,genus
 793,8,Nihilego,Pokémon Parassita
 793,9,Nihilego,Parasite Pokémon
 793,11,ウツロイド,きせいポケモン
-793,12,虛吾伊德,寄生宝可梦
+793,12,虚吾伊德,寄生宝可梦
 794,1,マッシブーン,ぼうちょうポケモン
 794,3,매시붕,팽창포켓몬
 794,4,爆肌蚊,膨脹寶可夢
@@ -8554,7 +8554,7 @@ pokemon_species_id,local_language_id,name,genus
 806,12,砰头小丑,烟火宝可梦
 807,1,ゼラオラ,じんらいポケモン
 807,3,제라오라,신뢰포켓몬
-807,4,捷拉奥拉,奔雷寶可夢
+807,4,捷拉奧拉,奔雷寶可夢
 807,5,Zeraora,Pokémon Vif Éclair
 807,6,Zeraora,Blitzsturm
 807,7,Zeraora,Pokémon Fulgor
@@ -8562,3 +8562,23 @@ pokemon_species_id,local_language_id,name,genus
 807,9,Zeraora,Thunderclap Pokémon
 807,11,ゼラオラ,じんらいポケモン
 807,12,捷拉奥拉,奔雷宝可梦
+808,1,メルタン,ナットポケモン
+808,3,멜탄,너트포켓몬
+808,4,美錄坦,螺帽寶可夢
+808,5,Meltan,Pokémon Écrou
+808,6,Meltan,Mutter
+808,7,Meltan,Pokémon Tuerca
+808,8,Meltan,Pokémon Bullone
+808,9,Meltan,Hex Nut Pokémon
+808,11,メルタン,ナットポケモン
+808,12,美录坦,螺帽宝可梦
+809,1,メルメタル,ナットポケモン
+809,3,멜메탈,너트포켓몬
+809,4,美錄梅塔,螺帽寶可夢
+809,5,Melmetal,Pokémon Écrou
+809,6,Melmetal,Mutter
+809,7,Melmetal,Pokémon Tuerca
+809,8,Melmetal,Pokémon Bullone
+809,9,Melmetal,Hex Nut Pokémon
+809,11,メルメタル,ナットポケモン
+809,12,美录梅塔,螺帽宝可梦
