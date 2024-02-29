@@ -1,0 +1,13 @@
+game_identifier,pokemon_identifier,slot_identifier,item_identifier
+diamond,electabuzz,common,electirizer
+diamond,magmar,rare,magmarizer
+diamond,elekid,common,electirizer
+diamond,magby,rare,magmarizer
+diamond,electivire,common,electirizer
+diamond,magmortar,rare,magmarizer
+pearl,electabuzz,rare,electirizer
+pearl,magmar,common,magmarizer
+pearl,elekid,rare,electirizer
+pearl,magby,common,magmarizer
+pearl,electivire,rare,electirizer
+pearl,magmortar,common,magmarizer

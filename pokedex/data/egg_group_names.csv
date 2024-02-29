@@ -1,0 +1,91 @@
+egg_group_identifier,language_identifier,name
+amorphous,jp-kana,ふていけい
+amorphous,en,Amorphous
+amorphous,fr,Amorphe
+amorphous,it,Amorfo
+amorphous,de,Amorph
+amorphous,es,Amorfo
+bug,jp-kana,むし
+bug,en,Bug
+bug,fr,Insectoïde
+bug,it,Coleottero
+bug,de,Käfer
+bug,es,Bicho
+ditto,jp-kana,メタモン
+ditto,en,Ditto
+ditto,fr,Métamorph
+ditto,it,Ditto
+ditto,de,Ditto
+ditto,es,Ditto
+dragon,jp-kana,ドラゴン
+dragon,en,Dragon
+dragon,fr,Draconique
+dragon,it,Drago
+dragon,de,Drache
+dragon,es,Dragón
+fairy,jp-kana,ようせい
+fairy,en,Fairy
+fairy,fr,Féerique
+fairy,it,Magico
+fairy,de,Fee
+fairy,es,Hada
+field,jp-kana,りくじょう
+field,en,Field
+field,fr,Terrestre
+field,it,Campo
+field,de,Feld
+field,es,Campo
+flying,jp-kana,ひこう
+flying,en,Flying
+flying,fr,Aérien
+flying,it,Volante
+flying,de,Flug
+flying,es,Volador
+grass,jp-kana,しょくぶつ
+grass,en,Grass
+grass,fr,Végétal
+grass,it,Erba
+grass,de,Pflanze
+grass,es,Planta
+human-like,jp-kana,ひとがた
+human-like,en,Human-Like
+human-like,fr,Humanoïde
+human-like,it,Umanoide
+human-like,de,Humanotyp
+human-like,es,Humanoide
+mineral,jp-kana,こうぶつ
+mineral,en,Mineral
+mineral,fr,Minéral
+mineral,it,Minerale
+mineral,de,Mineral
+mineral,es,Mineral
+monster,jp-kana,かいじゅう
+monster,en,Monster
+monster,fr,Monstrueux
+monster,it,Mostro
+monster,de,Monster
+monster,es,Monstru
+undiscovered,jp-kana,タマゴみはっけん
+undiscovered,en,Undiscovered
+undiscovered,fr,Inconnu
+undiscovered,it,Non ancora scoperto
+undiscovered,de,Unbekannt
+undiscovered,es,Desconocido
+water-1,jp-kana,すいちゅう１
+water-1,en,Water 1
+water-1,fr,Aquatique 1
+water-1,it,Acqua 1
+water-1,de,Wasser 1
+water-1,es,Agua 1
+water-2,jp-kana,すいちゅう２
+water-2,en,Water 2
+water-2,fr,Aquatique 2
+water-2,it,Acqua 2
+water-2,de,Wasser 2
+water-2,es,Agua 2
+water-3,jp-kana,すいちゅう 3
+water-3,en,Water 3
+water-3,fr,Aquatique 3
+water-3,it,Acqua 3
+water-3,de,Wasser 3
+water-3,es,Agua 3

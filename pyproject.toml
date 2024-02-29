@@ -1,0 +1,138 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+[project]
+name = "pokedex"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [
+    {name="Parnassius", email="Parnassius@users.noreply.github.com"},
+]
+dependencies = [
+    "sqlalchemy>=2.0.0",
+]
+dynamic = ["version"]
+
+[project.optional-dependencies]
+asyncio = [
+    "sqlalchemy[aiosqlite]>=2.0.0",
+]
+lint = [
+    "pokedex[test]",
+    "black==24.2.0",
+    "mypy==1.8.0",
+    "ruff==0.3.0",
+]
+test = [
+    "pokedex[asyncio]",
+    "pytest==8.0.2",
+    "pytest-asyncio==0.23.5",
+]
+
+[tool.hatch.envs.default.scripts]
+ruff-fix = "hatch run lint:ruff check pokedex tests --fix-only --exit-zero {args}"
+black = "hatch run lint:black pokedex tests {args}"
+format = ["ruff-fix", "black"]
+
+mypy = "hatch run lint:mypy pokedex tests {args}"
+ruff = "hatch run lint:ruff check pokedex tests {args}"
+pytest = "hatch run test:pytest {args}"
+pytest-ci = "hatch run +py={args} test:pytest"
+all = ["format", "mypy", "ruff", "pytest"]
+
+[tool.hatch.envs.lint]
+template = "lint"
+features = ["lint"]
+
+[tool.hatch.envs.test]
+template = "test"
+features = ["test"]
+
+[tool.hatch.envs.test.overrides]
+matrix.sqlalchemy.dependencies = [
+    {value="sqlalchemy==2.0.0", if=["2.0.0"]},
+]
+
+[[tool.hatch.envs.test.matrix]]
+python = ["3.9", "3.10", "3.11", "3.12", "pypy3.9", "pypy3.10"]
+sqlalchemy = ["2.0.0", "latest"]
+
+[tool.hatch.version]
+path = "pokedex/__about__.py"
+
+
+[tool.mypy]
+python_version = "3.9"
+strict = true
+
+# Disallow dynamic typing
+disallow_any_unimported = true
+#disallow_any_expr = true
+disallow_any_decorated = true
+disallow_any_explicit = true
+
+show_error_codes = true
+warn_unreachable = true
+
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+
+
+[tool.ruff]
+target-version = "py39"
+
+[tool.ruff.lint]
+select = [
+    "A",     # flake8-builtins
+    "ARG",   # flake8-unused-arguments
+    "B",     # flake8-bugbear
+    "C4",    # flake8-comprehensions
+    "DTZ",   # flake8-datetimez
+    "E",     # pycodestyle
+    "EM",    # flake8-errmsg
+    "F",     # pyflakes
+    "I",     # isort
+    "ICN",   # flake8-import-conventions
+    "ISC",   # flake8-implicit-str-concat
+    "N",     # pep8-naming
+    "PGH",   # pygrep-hooks
+    "PTH",   # flake8-use-pathlib
+    "RET",   # flake8-return
+    "RUF",   # Ruff-specific rules
+    "T10",   # flake8-debugger
+    "TID",   # flake8-tidy-imports
+    "TRY",   # tryceratops
+    "UP",    # pyupgrade
+    "W",     # pycodestyle
+    "YTT",   # flake8-2020
+]
+ignore = [
+    "A003",  # builtin-attribute-shadowing
+]
+fixable = [
+    "I",     # isort
+    "F401",  # unused-import
+    "TID",   # flake8-tidy-imports
+    "UP",    # pyupgrade
+]
+dummy-variable-rgx = "^_$"
+ignore-init-module-imports = true
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["RUF001"]
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = [
+    "pokedex.enums.GameGroup.get_default",
+    "pokedex.enums.Language.get_default",
+]
+
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "all"
+
+[tool.ruff.lint.isort]
+required-imports = ["from __future__ import annotations"]
+split-on-trailing-comma = false

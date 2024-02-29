@@ -1,0 +1,1859 @@
+game_identifier,pokemon_identifier,language_identifier,game_revision,flavor_text
+ruby,paras,en,rev-0,"PARAS has parasitic mushrooms growing
+on its back called tochukaso. They grow
+large by drawing nutrients from the BUGPOKéMON host. They are highly valued as
+a medicine for extending life."
+ruby,mawile,en,rev-0,"MAWHILE’s huge jaws are actually steel
+horns that have been transformed.
+Its docile-looking face serves to lullits foe into letting down its guard.
+When the foe least expects it, MAWHILE
+chomps it with its gaping jaws."
+sapphire,paras,en,rev-0,"PARAS has parasitic mushrooms growing
+on its back called tochukaso. They grow
+large by drawing nutrients from thisBUG POKéMON host. They are highly
+valued as a medicine for extending life."
+fire-red,chikorita,en,rev-0,"Its pleasantly aromatic leaves have the
+ability to check the humidity and
+temperature."
+fire-red,tyranitar,en,rev-0,"Its body can’t be harmed by any sort of
+attack, so it is very eager to make
+challenges against enemies."
+sword,mewtwo,jp-kana,base,"ミュウの　いでんしから　つくられた
+ポケモン。　あっとうてき　パワーと
+きょうぼうな　こころを　もつ。"
+sword,mewtwo,jp-kanji,base,"ミュウの　遺伝子から　つくられた
+ポケモン。　圧倒的　パワーと
+狂暴な　心を　もつ。"
+sword,mewtwo,en,base,"Created from the DNA of Mew, this Pokémon is a
+dangerous combination of overwhelming power
+and a savage heart."
+sword,mewtwo,fr,base,"Créé à partir des gènes de Mew, ce Pokémon
+est doté d’une puissance remarquable et animé
+par une grande férocité."
+sword,mewtwo,it,base,"Un Pokémon creato usando i geni di Mew. Ha
+un’indole feroce ed è dotato di una potenza
+impressionante."
+sword,mewtwo,de,base,"Dieses Pokémon wurde aus Mews Genen
+erschaffen. Es hat ein wildes Herz und
+verfügt über enorme Kräfte."
+sword,mewtwo,es,base,"Este Pokémon se creó a partir de los genes de
+Mew. Exhibe una naturaleza salvaje y posee una
+fuerza abrumadora."
+sword,mewtwo,ko,base,"뮤의 유전자로부터 만들어진
+포켓몬. 압도적인 파워와
+난폭한 마음을 가졌다."
+sword,mewtwo,zh-simp,base,"通过梦幻的基因制造出来的
+宝可梦。拥有无与伦比的量
+和凶暴的心灵。"
+sword,mewtwo,zh-trad,base,"透過夢幻的基因製造出來的
+寶可夢。擁有無與倫比的力量
+和凶暴的心靈。"
+sword,mew,jp-kana,base,"すべての　ポケモンの　せんぞと
+かんがえられている。　ちのうが
+たかく　あらゆる　わざが　つかえる。"
+sword,mew,jp-kanji,base,"すべての　ポケモンの　先祖と
+考えられている。　知能が
+高く　あらゆる　技が　使える。"
+sword,mew,en,base,"It’s very intelligent and can use an incredible
+variety of moves. Many believe that all other
+Pokémon are descendants of this one."
+sword,mew,fr,base,"On pense qu’il est l’ancêtre de tous les Pokémon.
+Il possède une intelligence exceptionnelle
+qui lui permet d’utiliser toutes les capacités."
+sword,mew,it,base,"Si ritiene che sia l’antenato di tutti i Pokémon.
+È dotato di grande intelligenza ed è in grado
+di usare qualsiasi mossa."
+sword,mew,de,base,"Man sagt, es sei der Vorfahre aller Pokémon.
+Es ist sehr intelligent und kann jede Attacke
+erlernen."
+sword,mew,es,base,"Considerado el ancestro de todos los Pokémon,
+posee una inteligencia extraordinaria y es capaz
+de usar cualquier técnica."
+sword,mew,ko,base,"모든 포켓몬의 선조로
+여겨지고 있다. 지능이 높아서
+모든 기술을 사용할 수 있다."
+sword,mew,zh-simp,base,"许多人认为它是所有宝可梦
+的祖先。有着很高的智力，
+能够使用一切的招式。"
+sword,mew,zh-trad,base,"許多人認為牠是所有寶可夢
+的祖先。有著很高的智力，
+能夠使用一切的招式。"
+sword,carvanha,it,base,"È di indole timida e non va mai a caccia da solo,
+ma in un gruppo di quattro o cinque esemplari
+diventa molto feroce."
+sword,purrloin,zh-simp,base,"为了要看见人们困扰的样子
+而去偷盗他们的物品。
+和偷儿狐是竞争对手。"
+sword,purrloin,zh-simp,upd-110,"为了要看见人们困扰的样子
+而去偷盗他们的物品。
+和偷儿狐是竞争对手。"
+sword,purrloin,zh-simp,upd-111,"为了要看见人们困扰的样子
+而去偷盗他们的物品。
+和偷儿狐是竞争对手。"
+sword,purrloin,zh-simp,upd-120,"为了要看见人们困扰的样子
+而去偷盗他们的物品。
+和偷儿狐是竞争对手。"
+sword,purrloin,zh-simp,upd-121,"为了要看见人们困扰的样子
+而去偷盗他们的物品。
+和偷儿狐是竞争对手。"
+sword,fletchinder,jp-kana,upd-120,"すあなのなかに　ひのこを　とばし　
+おどろいて　でできた　えものを
+するどい　ツメで　しとめるのだ。"
+sword,fletchinder,jp-kana,upd-121,"すあなのなかに　ひのこを　とばし　
+おどろいて　でできた　えものを
+するどい　ツメで　しとめるのだ。"
+sword,pancham,zh-simp,base,"会模仿自己敬为头头的
+流氓熊猫，向它学习战斗
+及捕捉猎物的方法。"
+sword,pancham,zh-simp,upd-110,"会模仿自己敬为头头的
+流氓熊猫，向它学习战斗
+及捕捉猎物的方法。"
+sword,pancham,zh-simp,upd-111,"会模仿自己敬为头头的
+流氓熊猫，向它学习战斗
+及捕捉猎物的方法。"
+sword,pancham,zh-simp,upd-120,"会模仿自己敬为头头的
+流氓熊猫，向它学习战斗
+及捕捉猎物的方法。"
+sword,pancham,zh-simp,upd-121,"会模仿自己敬为头头的
+流氓熊猫，向它学习战斗
+及捕捉猎物的方法。"
+shield,mewtwo,jp-kana,base,"ある　かがくしゃが　けんきゅうの
+すえに　うみだした。　そのちからは
+たたかうことに　とっか　している。"
+shield,mewtwo,jp-kanji,base,"ある　科学者が　研究の
+末に　生み出した。　その力は
+戦うことに　特化　している。"
+shield,mewtwo,en,base,"The research efforts of a certain scientist
+ultimately resulted in this Pokémon.
+Its powers are dedicated to battling."
+shield,mewtwo,fr,base,"Ce Pokémon est le fruit des expériences
+d’un scientifique. Sa puissance se révèle
+tout particulièrement en combat."
+shield,mewtwo,it,base,"È stato creato da uno scienziato dopo lunghe
+ricerche. La sua potenza emerge specialmente
+nella lotta."
+shield,mewtwo,de,base,"Dieses Pokémon ist das Resultat der Experimente
+eines gewissen Forschers. Es setzt all seine Kraft
+fürs Kämpfen ein."
+shield,mewtwo,es,base,"Este Pokémon es el fruto de la investigación de
+cierto científico. La fuerza que atesora luce en
+todo su esplendor durante los combates."
+shield,mewtwo,ko,base,"어느 과학자의 연구로
+태어났다. 그 힘은
+싸움에 특화되어 있다."
+shield,mewtwo,zh-simp,base,"某位科学家的研究
+造就了超梦的诞生。
+它的力量专为战斗而存在。"
+shield,mewtwo,zh-trad,base,"某位科學家的研究
+造就了超夢的誕生。
+牠的力量專為戰鬥而存在。"
+shield,mew,jp-kana,base,"ぜつめつしたと　いわれているが
+もくげき　じょうほうが　あとを
+たたない　まぼろしの　ポケモン。"
+shield,mew,jp-kanji,base,"絶滅したと　言われているが
+目撃　情報が　あとを
+絶たない　幻の　ポケモン。"
+shield,mew,en,base,"This mythical Pokémon is said to be extinct, but
+sightings of it are still being reported to this day."
+shield,mew,fr,base,"Des témoins continuent de rapporter l’existence
+de ce Pokémon fabuleux que l’on dit pourtant
+disparu."
+shield,mew,it,base,"Pokémon misterioso che si credeva estinto,
+ma di cui sono stati riportati innumerevoli
+avvistamenti."
+shield,mew,de,base,"Dieses Mysteriöse Pokémon gilt als ausgestorben,
+doch es melden sich immer wieder Augenzeugen,
+laut denen es noch immer existiert."
+shield,mew,es,base,"Los repetidos avistamientos registrados de este
+Pokémon singular ponen en entredicho la
+creencia popular de su extinción."
+shield,mew,ko,base,"멸종했다고 전해지지만
+목격 정보가 끊이지 않는
+환상의 포켓몬이다."
+shield,mew,zh-simp,base,"虽然被人们视为已经灭绝，
+目击到这只幻之宝可梦
+的传闻依然接连不断。"
+shield,mew,zh-trad,base,"雖然被人們認為已經滅絕，
+目擊到這隻幻之寶可夢
+的傳聞依然接連不斷。"
+shield,porygon2,zh-simp,upd-120,"在装载了ＡＩ功能后，
+多边兽Ⅱ便开始用只有彼此
+能懂的神秘语言互相交流了。"
+shield,porygon2,zh-simp,upd-121,"在装载了ＡＩ功能后，
+多边兽Ⅱ便开始用只有彼此
+能懂的神秘语言互相交流了。"
+shield,liepard,zh-simp,base,"和狐大盗争抢地盘。
+能够悄无声息地
+从背后偷偷靠近猎物。"
+shield,liepard,zh-simp,upd-110,"和狐大盗争抢地盘。
+能够悄无声息地
+从背后偷偷靠近猎物。"
+shield,liepard,zh-simp,upd-111,"和狐大盗争抢地盘。
+能够悄无声息地
+从背后偷偷靠近猎物。"
+shield,liepard,zh-simp,upd-120,"和狐大盗争抢地盘。
+能够悄无声息地
+从背后偷偷靠近猎物。"
+shield,liepard,zh-simp,upd-121,"和狐大盗争抢地盘。
+能够悄无声息地
+从背后偷偷靠近猎物。"
+shield,cofagrigus,zh-simp,base,"死神棺象征着国王的财富，
+因此许多古墓里
+都有它的壁画。"
+shield,cofagrigus,zh-simp,upd-110,"死神棺象征着国王的财富，
+因此许多古墓里
+都有它的壁画。"
+shield,cofagrigus,zh-simp,upd-111,"死神棺象征着国王的财富，
+因此许多古墓里
+都有它的壁画。"
+shield,cofagrigus,zh-simp,upd-120,"死神棺象征着国王的财富，
+因此许多古墓里
+都有它的壁画。"
+shield,cofagrigus,zh-simp,upd-121,"死神棺象征着国王的财富，
+因此许多古墓里
+都有它的壁画。"
+shield,keldeo-ordinary-form,zh-trad,base,"據說當牠挺過了艱難的戰鬥，
+額頭上的角就能得到鍛鍊，
+從而激發出自己真正的力量。"
+shield,keldeo-resolute-form,jp-kana,base,"からだの　おくそこで　ねむっていた
+ちからが　ひたいの　ツノに　まとい
+すべてを　きりさく　つるぎとなった。"
+shield,keldeo-resolute-form,jp-kanji,base,"体の　奥底で　眠っていた
+力が　額の　ツノに　まとい
+すべてを　切り裂く　剣となった。"
+shield,keldeo-resolute-form,zh-trad,base,"沉睡在身體深處的力量
+包裹住了牠額頭上的角，
+形成了能撕裂一切的劍。"
+shield,clawitzer,zh-trad,upd-120,"右臂是能夠發射海水
+砲彈的大砲。威力之強，
+甚至能夠擊沈油輪。"
+shield,clawitzer,zh-trad,upd-121,"右臂是能夠發射海水
+砲彈的大砲。威力之強，
+甚至能夠擊沈油輪。"
+brilliant-diamond,uxie,zh-simp,base,"被称为知识之神。
+据说拥有消除与之目光交汇者的
+记忆的力量。"
+scarlet,pikachu,jp-kana,base,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kana,upd-101,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kana,upd-110,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kana,upd-120,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kana,upd-130,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kana,upd-131,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kanji,base,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kanji,upd-101,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kanji,upd-110,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kanji,upd-120,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kanji,upd-130,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,pikachu,jp-kanji,upd-131,"￹両頬￺りょうほお￻には　￹電気￺でんき￻を　￹溜￺た￻めこむ
+￹袋￺ふくろ￻がある。　￹怒￺おこ￻ると　￹溜￺た￻めこんだ
+￹電気￺でんき￻を　￹一気￺いっき￻に　￹放￺はな￻ってくる。"
+scarlet,primeape,it,base,"Diventa furioso se si sente osservato. Insegue
+chiunque incontri il suo sguardo."
+scarlet,primeape,es,base,"Se pone furioso si nota que alguien lo está
+mirando. Persigue a cualquiera que establezca
+contacto visual con él."
+scarlet,grimer,it,base,"Un Pokémon nato dalla melma. Predilige i posti
+sporchi perché gli permettono di aumentare
+la sua carica batterica."
+scarlet,grimer,es,base,"Formados a partir de lodo, los Grimer se juntan
+en lugares sucios para aumentar el número de
+gérmenes de su cuerpo."
+scarlet,muk,en,base,"It’s thickly covered with a filthy, vile sludge. It is
+so toxic, even its footprints contain poison."
+scarlet,muk,it,base,"Coperto di melma sudicia, è così tossico che
+persino le sue impronte sono velenose."
+scarlet,muk,es,base,"Está cubierto por un repugnante lodo. Es tan
+tóxico que hasta su rastro es venenoso."
+scarlet,cloyster,es,base,"A los Cloyster que viven en las fuertes corrientes
+marinas les crecen largas y afiladas púas en
+la concha."
+scarlet,haunter,it,base,"Adora stare in agguato nei luoghi bui e toccare
+le spalle delle vittime con le sue mani gassose.
+Il suo tocco causa brividi incontenibili."
+scarlet,gengar,en,base,"To steal the life of its target, it slips into the prey’s
+shadow and silently waits for an opportunity."
+scarlet,hypno,it,base,"Quando cattura lo sguardo del nemico, usa
+una varietà di poteri psichici come, ad esempio,
+l’ipnosi."
+scarlet,electrode,en,base,"The more energy it charges up, the faster it gets.
+But this also makes it more likely to explode."
+scarlet,electrode,it,base,"L’energia Elettro che immagazzina lo fa andare
+sempre più veloce, ma lo fa anche esplodere più
+facilmente."
+scarlet,electrode,es,base,"Cuanta más energía almacena, mayor velocidad
+alcanza, aunque aumenta también el riesgo de
+que explote."
+scarlet,electrode-hisuian-form,en,base,"The more energy it charges up, the faster it gets.
+But this also makes it more likely to explode."
+scarlet,electrode-hisuian-form,it,base,"L’energia Elettro che immagazzina lo fa andare
+sempre più veloce, ma lo fa anche esplodere più
+facilmente."
+scarlet,electrode-hisuian-form,es,base,"Cuanta más energía almacena, mayor velocidad
+alcanza, aunque aumenta también el riesgo de
+que explote."
+scarlet,exeggutor-alolan-form,jp-kana,upd-120,"ながいくびを　ムチのように　しならせ
+あたまを　あいてに　たたきつける。
+じぶんも　すこしクラクラしてしまう。。"
+scarlet,exeggutor-alolan-form,jp-kanji,upd-120,"ながいくびを　ムチのように　しならせ
+あたまを　あいてに　たたきつける。
+じぶんも　すこしクラクラしてしまう。。"
+scarlet,exeggutor-alolan-form,en,upd-120,"Blazing sunlight has brought out the true form
+and powers of this Pokémon."
+scarlet,exeggutor-alolan-form,fr,upd-120,Il utilise son grand cou comme un fouet et assène des coups de tête à son adversaire. Ces attaques l’étourdissent aussi un peu.
+scarlet,exeggutor-alolan-form,de,upd-120,"Es greift mit seinen harten Köpfen an, indem es seinen langen Hals wie eine Peitsche schwingt. Dabei wird ihm jedoch leicht schwindlig."
+scarlet,exeggutor-alolan-form,es,upd-120,Golpea al oponente a cabezazos chasqueando el cuello como un látigo. Se marea un poco al hacerlo.
+scarlet,scyther,en,base,"It slashes through grass with its sharp scythes,
+moving too fast for the human eye to track."
+scarlet,scyther,it,base,"Si fa strada tra l’erba grazie alle lame affilate,
+muovendosi troppo velocemente per l’occhio
+umano."
+scarlet,scyther,es,base,"Avanza por la hierba con sus afiladas guadañas,
+más rápido de lo que el ojo humano puede
+percibir."
+scarlet,tauros,de,base,"Wenn Tauros Beute ins Visier genommen hat,
+stürmt es direkt auf sie zu und benutzt seine
+Schweife als Peitsche, um sich anzutreiben."
+scarlet,tauros,de,upd-101,"Wenn Tauros Beute ins Visier genommen hat,
+stürmt es direkt auf sie zu und benutzt seine
+Schweife als Peitsche, um sich anzutreiben."
+scarlet,tauros,de,upd-110,"Wenn Tauros Beute ins Visier genommen hat,
+stürmt es direkt auf sie zu und benutzt seine
+Schweife als Peitsche, um sich anzutreiben."
+scarlet,tauros,de,upd-120,"Wenn Tauros Beute ins Visier genommen hat,
+stürmt es direkt auf sie zu und benutzt seine
+Schweife als Peitsche, um sich anzutreiben."
+scarlet,tauros-paldean-form-aqua-breed,en,base,"This Pokémon blasts water from holes on the tips
+of its horns—the high-pressure jets pierce right
+through Tauros’s enemies."
+scarlet,gyarados,en,base,"Once it appears, it goes on a rampage. It remains
+enraged until it demolishes everything around it."
+scarlet,gyarados,it,base,"Quando esce allo scoperto in preda alla furia,
+non si placa finché non ha raso al suolo ogni
+cosa."
+scarlet,gyarados,es,base,"Cuando aparece, monta en cólera. No deja de
+estar furioso hasta que lo destruye todo."
+scarlet,vaporeon,en,base,"It lives close to water. Its long tail is ridged with a
+fin, which is often mistaken for a mermaid’s."
+scarlet,azumarill,en,base,"Its long ears are superb sensors. It can distinguish
+the movements of things in water and tell what
+they are."
+scarlet,forretress,es,base,"Se le suele ver enganchado al tronco de un árbol
+grande. Cuando comienza la acción, dispara
+trozos de su coraza."
+scarlet,dunsparce,es,base,"Construye laberintos en lugares oscuros.
+Si alguien lo descubre, huye cavando un agujero
+con la cola."
+scarlet,scizor,en,base,"This Pokémon’s pincers, which contain steel, can
+crush any hard object they get ahold of into bits."
+scarlet,scizor,it,base,"Le chele, che contengono acciaio, possono fare
+a pezzi qualsiasi oggetto afferrino, anche se
+durissimo."
+scarlet,scizor,es,base,"Las pinzas que posee contienen acero y pueden
+hacer trizas cualquier objeto por duro que sea."
+scarlet,heracross,es,base,"Le encanta la savia dulce y usa su cuerno para
+lanzar por los aires a cualquiera que se acerque
+a ella."
+scarlet,ursaring,en,base,"It usually wears a hardened expression, but when
+it’s licking up honey—which it loves—the joy it
+feels will cause it to break into a wide grin."
+scarlet,ursaring,it,base,"Ha un’aria temeraria, ma quando lecca il miele
+di cui è ghiotto gli si dipinge un sorriso sul muso."
+scarlet,ursaring,es,base,"Su expresión dura y adusta se convierte en una
+sonrisa rebosante de felicidad en cuanto saborea
+la miel que tanto le gusta."
+scarlet,donphan,en,base,"Donphan is covered in tough hide, so even being
+hit by a car won’t faze this Pokémon. However, it
+is extremely susceptible to rain."
+scarlet,donphan,it,base,"La sua pelle è così dura che anche se sbatte
+contro una macchina non si fa un graffio.
+La pioggia è il suo punto debole."
+scarlet,donphan,es,base,"Su dura piel podría resistir el choque contra
+un coche sin sufrir un rasguño. La lluvia, sin
+embargo, es su punto débil."
+scarlet,blissey,it,base,"Basta un solo assaggio di una delle uova deposte
+da Blissey per diventare gentili e premurosi
+nei confronti di chiunque."
+scarlet,blissey,de,base,"Jeder, der von einem Ei kostet, das Heiteira
+gelegt hat, wird anderen gegenüber sorgsam und
+höflich."
+scarlet,blissey,es,base,"Cualquiera que pruebe un poco de huevo de
+Blissey, se volverá más amable y agradable con
+todos."
+scarlet,tyranitar,es,base,"Tiene tanta fuerza que puede cambiar el paisaje.
+Su naturaleza insolente le hace ser muy egoísta."
+scarlet,wingull,it,base,"Si lascia trasportare ad alta quota dalle correnti
+ascensionali, librandosi nel cielo come un aliante
+e trasportando il cibo nel becco."
+scarlet,wingull,es,base,"Aprovecha las corrientes ascendentes para ganar
+altura como si de un planeador se tratase. Suele
+llevar comida en el pico."
+scarlet,pelipper,it,base,"Un fattorino volante capace di trasportare piccoli
+Pokémon nel becco. Quando è stanco, scivola
+sulle onde per riposare le ali."
+scarlet,surskit,es,base,"Vive en estanques, pero, cuando se desata una
+tormenta, puede aparecer en los charcos que se
+forman en las ciudades."
+scarlet,vigoroth,de,base,"Wenn es sich nicht bewegt, steigt sein Stresslevel
+ins Unermessliche und es geht ihm schlecht."
+scarlet,slaking,en,base,"It is the world’s most slothful Pokémon. However,
+it can exert horrifying power by releasing pent-up
+energy all at once."
+scarlet,slaking,fr,base,"C’est le Pokémon le plus paresseux du monde.
+Il est cependant capable de libérer une puissance
+phénoménale en une seule attaque."
+scarlet,slaking,it,base,"È il Pokémon più pigro del mondo, ma può
+sprigionare di colpo una potenza spaventosa
+grazie all’energia accumulata."
+scarlet,slaking,es,base,"Es el Pokémon más vago que hay. Aun así, puede
+liberar de una vez una cantidad tremenda de
+energía acumulada."
+scarlet,makuhita,en,base,"It grows stronger by enduring harsh training. It is
+a gutsy Pokémon that can withstand any attack."
+scarlet,makuhita,it,base,"Si rafforza allenandosi duramente. La sua grande
+forza di volontà gli permette di resistere
+a qualsiasi attacco."
+scarlet,makuhita,es,base,"A base de duro entrenamiento se hace cada vez
+más fuerte. Es tan resistente que puede soportar
+cualquier ataque."
+scarlet,hariyama,en,base,"It loves challenging others to tests of strength.
+It has the power to stop a train with a slap."
+scarlet,hariyama,it,base,"Adora le gare di forza. Sarebbe capace
+di fermare un treno in corsa con un colpo
+della mano."
+scarlet,hariyama,es,base,"Le encanta medir sus fuerzas. Es tan fuerte
+que puede detener un tren en marcha de un
+manotazo."
+scarlet,swalot,en,base,"It gulps anything that fits in its mouth. Its special
+enzymes can dissolve anything."
+scarlet,swalot,it,base,"Inghiotte qualunque cosa che possa infilarsi
+in bocca. Non c’è nulla che i suoi succhi gastrici
+speciali non riescano a digerire."
+scarlet,camerupt,en,base,"It lives in the crater of a volcano. It is well known
+that the humps on its back erupt every 10 years."
+scarlet,camerupt,de,base,"Es lebt in Vulkankratern und ist bekannt dafür,
+dass die Höcker auf seinem Rücken alle zehn
+Jahre heftig ausbrechen."
+scarlet,camerupt,es,base,"Vive en cráteres de volcanes. Es famoso por las
+jorobas de su lomo, que entran en erupción cada
+diez años."
+scarlet,grumpig,es,base,"Para controlar a su rival usa unos curiosos pasos
+de baile, antaño muy populares en el extranjero."
+scarlet,cacnea,fr,base,"Ce Pokémon préfère les endroits hostiles, comme
+le désert. Il peut survivre trente jours grâce à l’eau
+emmagasinée dans son corps."
+scarlet,cacnea,it,base,"Predilige ambienti ostili come i deserti. Grazie
+all’acqua immagazzinata nel corpo, può resistere
+30 giorni senza bere."
+scarlet,swablu,en,base,"It constantly grooms its cotton-like wings. It takes
+a shower to clean itself if it becomes dirty."
+scarlet,swablu,es,base,"Está continuamente acicalándose las alas de
+algodón que tiene. Si se ensucia, se da un baño
+para limpiarse enseguida."
+scarlet,altaria,en,base,"If it bonds with a person, it will gently envelop
+the friend with its soft wings, then hum."
+scarlet,altaria,it,base,"Quando si affeziona a una persona, la avvolge
+nelle sue soffici ali e inizia a canticchiare."
+scarlet,altaria,es,base,"Si establece un vínculo con una persona,
+la envuelve con sus alas suaves y bellas y
+le canta en susurros."
+scarlet,shelgon,fr,base,"À l’intérieur de sa carapace, ses cellules changent
+à une vitesse vertigineuse. Il se prépare ainsi
+à son évolution."
+scarlet,salamence,it,base,"Volteggia nel cielo con le grandi ali cresciutegli
+con l’evoluzione, sputando fuoco dalla gioia e
+incenerendo ogni cosa."
+scarlet,starly,en,base,"They flock around mountains and fields, chasing
+after bug Pokémon. Their singing is noisy and
+annoying."
+scarlet,staravia,en,base,"Recognizing their own weakness, they always live
+in a group. When alone, a Staravia cries noisily."
+scarlet,staravia,it,base,"Conscio della propria debolezza, forma grandi
+gruppi con i propri simili. Quando si ritrova solo,
+canta con voce insistente e fastidiosa."
+scarlet,staraptor,en,base,"When Staravia evolve into Staraptor, they leave
+the flock to live alone. They have sturdy wings."
+scarlet,staraptor,it,base,"Non appena si evolve, lascia lo stormo e affronta
+la vita da solo. Le sue ali sono estremamente
+robuste."
+scarlet,vespiquen,it,base,"Nell’addome ospita la sua progenie, sulla quale
+esercita un controllo assoluto tramite i feromoni
+che rilascia."
+scarlet,vespiquen,es,base,"Cría larvas en los panales de su cuerpo y segrega
+diversas feromonas para controlarlas."
+scarlet,honchkrow,en,base,"It is merciless by nature. It is said that it never
+forgives the mistakes of its Murkrow followers."
+scarlet,honchkrow,it,base,"Ha un carattere spietato. Pare che non perdoni
+il minimo errore commesso dai Murkrow suoi
+seguaci."
+scarlet,skuntank,en,base,"It attacks by spraying a horribly smelly fluid from
+the tip of its tail. Attacks from above confound it."
+scarlet,skuntank,it,base,"Attacca spruzzando un fluido puzzolente
+dalla punta della coda. Gli attacchi dall’alto
+lo confondono."
+scarlet,skuntank,de,base,"Es greift mit einer übel riechenden Substanz an,
+die es aus der Spitze seines Schweifs versprüht.
+Angriffe von oben verblüffen es."
+scarlet,skuntank,es,base,"Ataca emitiendo un fluido maloliente por
+la punta de la cola. Los ataques aéreos lo
+confunden."
+scarlet,spiritomb,it,base,"A causa del suo comportamento molesto è stato
+imprigionato in una Roccianima con un misterioso
+incantesimo."
+scarlet,spiritomb,es,base,"Por sus constantes fechorías se le acabó uniendo
+a una Piedra Espíritu con un misterioso hechizo."
+scarlet,garchomp,it,base,"Si dice che, quando va a tutta velocità, le sue ali
+creino lame d’aria in grado di abbattere gli alberi
+vicini."
+scarlet,hippopotas,en,base,"It shuts its nostrils tight, then travels through sand
+as if walking. They form colonies of around 10."
+scarlet,hippopotas,fr,base,"Ce Pokémon peut obturer ses narines et avancer
+dans le sable avec aisance. Il vit en colonies
+d’environ dix individus."
+scarlet,hippopotas,it,base,"Chiude le narici e poi avanza nella sabbia in
+tutta tranquillità. Vive in gruppi di una decina
+di esemplari."
+scarlet,hippopotas,es,base,"Cierra los orificios nasales y luego se desplaza
+por la arena con total tranquilidad. Suele formar
+colonias de diez individuos."
+scarlet,hippowdon,en,base,"It is surprisingly quick to anger. It holds its mouth
+agape as a display of its strength."
+scarlet,hippowdon,it,base,"Si infuria molto facilmente. Per mostrare la sua
+forza tiene la bocca spalancata."
+scarlet,hippowdon,es,base,"Mantiene la boca abierta para mostrar su fuerza.
+Se enfada con sorprendente rapidez."
+scarlet,toxicroak,it,base,"Con il suo corpo flessibile schiva l’attacco del
+nemico e lo trafigge al volo con spine velenose."
+scarlet,snover,it,base,"In inverno scende fino ai piedi delle montagne,
+ma in primavera se ne torna sulle cime montuose
+dove c’è ancora neve."
+scarlet,snover,es,base,"En las estaciones frías baja al pie de la montaña,
+pero regresa a las cimas nevadas en primavera."
+scarlet,abomasnow,en,base,"It lives a quiet life on mountains that are
+perpetually covered in snow. It hides itself
+by whipping up blizzards."
+scarlet,abomasnow,it,base,"Vive nella pace delle cime montuose tra le nevi
+perenni. Si nasconde scatenando bufere di neve."
+scarlet,abomasnow,de,base,"Es führt ein ruhiges Leben im Gebirge, wo ewiger
+Schnee liegt, und löst Blizzards aus, um sich
+zu verstecken."
+scarlet,abomasnow,es,base,"Vive en paz en cordilleras de nieves eternas.
+Genera ventiscas para ocultarse."
+scarlet,magnezone,it,base,"Vola per il cielo inviando misteriose onde
+elettromagnetiche e ricevendo onde sconosciute."
+scarlet,magnezone,es,base,"Se dice que mientras vuela emite unas ondas
+eléctricas misteriosas, a la vez que recibe otras
+ondas desconocidas."
+scarlet,zoroark,en,base,"Stories say those who tried to catch Zoroark were
+trapped in an illusion and punished."
+scarlet,zoroark-hisuian-form,en,base,"Stories say those who tried to catch Zoroark were
+trapped in an illusion and punished."
+scarlet,eelektross,it,base,"Striscia fuori dal mare con la sola forza dei propri
+arti. Poi attacca la preda a riva e con un guizzo la
+trascina con sé in acqua."
+scarlet,eelektross,de,base,"Es kriecht mithilfe seiner Arme an Land, stürzt
+sich auf seine Beute und zerrt sie augenblicklich
+ins Meer."
+scarlet,eelektross,es,base,"Sale del mar con la fuerza de sus brazos y ataca
+a sus presas en la costa. Luego se las lleva de
+vuelta al mar."
+scarlet,beartic,en,base,"It is a ferocious, carnivorous Pokémon. Once it
+captures its prey, it will breathe cold air onto the
+prey to freeze and preserve it."
+scarlet,beartic,it,base,"Pokémon carnivoro e feroce, usa il suo respiro
+gelido per congelare le prede catturate e
+conservarle."
+scarlet,beartic,es,base,"Un fiero Pokémon carnívoro. Cuando atrapa a
+una presa, exhala un vaho gélido con el fin de
+congelarla y conservarla."
+scarlet,mienshao,jp-kana,upd-201,"￹奇妙￺きみょう￻な￹声￺こえ￻で　￹吠￺ほ￻えたら　￹危険￺きけん￻。
+￹目￺め￻にも￹止￺と￻まらぬ　キックや　チョップの
+￹連続攻撃￺れんぞくこうげき￻が　￹始￺はじ￻まるぞ。"
+scarlet,mienshao,jp-kana,upd-202,"￹奇妙￺きみょう￻な￹声￺こえ￻で　￹吠￺ほ￻えたら　￹危険￺きけん￻。
+￹目￺め￻にも￹止￺と￻まらぬ　キックや　チョップの
+￹連続攻撃￺れんぞくこうげき￻が　￹始￺はじ￻まるぞ。"
+scarlet,mienshao,jp-kanji,upd-201,"￹奇妙￺きみょう￻な￹声￺こえ￻で　￹吠￺ほ￻えたら　￹危険￺きけん￻。
+￹目￺め￻にも￹止￺と￻まらぬ　キックや　チョップの
+￹連続攻撃￺れんぞくこうげき￻が　￹始￺はじ￻まるぞ。"
+scarlet,mienshao,jp-kanji,upd-202,"￹奇妙￺きみょう￻な￹声￺こえ￻で　￹吠￺ほ￻えたら　￹危険￺きけん￻。
+￹目￺め￻にも￹止￺と￻まらぬ　キックや　チョップの
+￹連続攻撃￺れんぞくこうげき￻が　￹始￺はじ￻まるぞ。"
+scarlet,braviary,en,base,"The more scars they have, the more respect these
+brave soldiers of the sky get from their peers."
+scarlet,braviary,it,base,"È l’intrepido guerriero del cielo. Si dice che sia
+tanto più rispettato dai suoi simili quante più
+sono le sue cicatrici."
+scarlet,braviary-hisuian-form,en,base,"The more scars they have, the more respect these
+brave soldiers of the sky get from their peers."
+scarlet,braviary-hisuian-form,it,base,"È l’intrepido guerriero del cielo. Si dice che sia
+tanto più rispettato dai suoi simili quante più
+sono le sue cicatrici."
+scarlet,zweilous,jp-kana,base,"￹頭￺あたま￻どうしの　￹仲￺なか￻は　￹悪￺わる￻い。
+２つの　￹頭￺あたま￻を　￹可愛￺かわい￻がらないと
+￹嫉妬￺しっと￻で　￹大喧嘩￺おおげんか￻を　￹始￺はじ￻める。"
+scarlet,zweilous,jp-kanji,base,"￹頭￺あたま￻どうしの　￹仲￺なか￻は　￹悪￺わる￻い。
+２つの　￹頭￺あたま￻を　￹可愛￺かわい￻がらないと
+￹嫉妬￺しっと￻で　￹大喧嘩￺おおげんか￻を　￹始￺はじ￻める。"
+scarlet,fletchling,en,base,"This Pokémon is normally calm, but once it enters
+battle, its hormonal balance changes and it
+becomes aggressive."
+scarlet,fletchinder,en,base,"Fletchinder scatters embers in tall grass where
+bug Pokémon might be hiding and then catches
+them as they come leaping out."
+scarlet,fletchinder,it,base,"Sparge scintille nell’erba alta tra cui pensa siano
+nascosti dei Pokémon Coleottero e, non appena
+saltano fuori, li acchiappa."
+scarlet,talonflame,en,base,"It has top-notch flying capabilities. It flies around
+easily, even while carrying prey that weighs more
+than 220 lbs."
+scarlet,talonflame,it,base,"Le sue capacità di volo sono stupefacenti. Riesce
+a volare con estrema facilità anche dopo aver
+afferrato una preda di oltre 100 kg."
+scarlet,pyroar,it,base,"Le femmine collaborano per procacciare il cibo
+e grazie a loro il branco non patisce la fame."
+scarlet,flabebe-blue-flower,es,base,"Cabalga una flor azul. Cuando encuentra una flor
+de su agrado, la atesora de por vida."
+scarlet,flabebe-white-flower,en,base,"This Flabébé rides a white flower. The wind blows
+this Pokémon around as it drifts in search of
+flower gardens."
+scarlet,clawitzer,en,base,"Clawitzer can move through the water at a speed
+of 60 knots by using gas inside its body to expel
+water from the back of its claw."
+scarlet,clawitzer,it,base,"Usando i gas nel suo corpo riesce a espellere
+acqua dal retro della sua chela e nuotare a una
+velocità di 60 nodi."
+scarlet,clawitzer,es,base,"Emplea el gas de su cuerpo para lanzar chorros
+de agua por la parte trasera de su pinza que le
+permiten nadar a una velocidad de 60 nudos."
+scarlet,avalugg,en,base,"As Avalugg walks along with Bergmite on its back,
+it comes across pods of Cetitan. It lets them pass
+to avoid conflict."
+scarlet,avalugg-hisuian-form,en,base,"As Avalugg walks along with Bergmite on its back,
+it comes across pods of Cetitan. It lets them pass
+to avoid conflict."
+scarlet,noivern,en,base,"Ultrasonic waves emitted by a Noivern can
+pulverize a large boulder. This Pokémon has
+a cruel disposition."
+scarlet,crabrawler,en,base,"This Pokémon punches trees and eats the berries
+that drop down, training itself and getting food
+at the same time."
+scarlet,toxapex,it,base,"Vive in una cupola creata coi suoi stessi tentacoli.
+Usa gli artigli per scandagliare i dintorni e
+percepire i movimenti della marea."
+scarlet,oranguru,en,base,"People used to mistake Oranguru for a human
+when they saw it issue command after command
+to the other Pokémon of the forest."
+scarlet,oranguru,it,base,"Vedendolo dare ordini agli altri Pokémon nella
+foresta, in passato la gente lo scambiava spesso
+per un essere umano."
+scarlet,palossand,es,base,"Un Pokémon terrorífico que atrapa a Pokémon
+pequeños dentro de su cuerpo arenoso y les
+absorbe la vitalidad cuando se le antoja."
+scarlet,corvisquire,en,base,"It’s said that the reason behind Corvisquire’s high
+level of intelligence is the large size of its brain
+relative to those of other bird Pokémon."
+scarlet,drednaw,en,base,"Its massive, jagged teeth can crush a boulder in
+a single bite. This Pokémon has an extremely
+vicious disposition."
+scarlet,drednaw,it,base,"Con la sua grande mascella frastagliata riesce a
+frantumare una roccia con un morso. Ha un
+temperamento estremamente aggressivo."
+scarlet,carkol,it,base,"Se si emoziona, la sua temperatura interna sale.
+Corre freneticamente qua e là sputando fiamme."
+scarlet,coalossal,it,base,"Intimidisce gli avversari agitandosi vigorosamente
+per spargere tutt’intorno i carboni ardenti che
+porta sulle spalle."
+scarlet,flapple,it,base,"Svolazza qua e là in attesa del momento giusto
+per attaccare sputando un liquido talmente
+acido da sciogliere persino il metallo."
+scarlet,sandaconda,en,base,"It will expand its body as much as it can and then
+contract itself, blasting out sand with enough
+force to wash away a dump truck."
+scarlet,sandaconda,it,base,"Contrae il suo corpo fino all’estremo per poi
+espellere sabbia con una potenza tale da
+trascinare via anche un mezzo pesante."
+scarlet,sandaconda,es,base,"Estira y contrae su cuerpo al máximo para
+expulsar arena con tal potencia que puede
+mover incluso un camión."
+scarlet,sinistea-phony-form,jp-kana,base,"￹寂￺さび￻しく　￹死￺し￻んだ￹者￺もの￻の　￹魂￺たましい￻が
+￹飲￺の￻み￹残￺のこ￻しの　￹紅茶￺こうちゃ￻に　￹憑￺と￻りついた。
+ホテルや　￹民家￺みんか￻に　￹現￺あらわ￻れる。"
+scarlet,sinistea-phony-form,jp-kanji,base,"￹寂￺さび￻しく　￹死￺し￻んだ￹者￺もの￻の　￹魂￺たましい￻が
+￹飲￺の￻み￹残￺のこ￻しの　￹紅茶￺こうちゃ￻に　￹憑￺と￻りついた。
+ホテルや　￹民家￺みんか￻に　￹現￺あらわ￻れる。"
+scarlet,sinistea-antique-form,jp-kana,base,"こだわりぬいた　カップや　￹紅茶￺こうちゃ￻を
+￹用意￺ようい￻し　ヤバチャが　￹憑￺と￻りつくのを
+￹待￺ま￻ち￹続￺つづ￻ける　マニアも　いるのだ。"
+scarlet,sinistea-antique-form,jp-kanji,base,"こだわりぬいた　カップや　￹紅茶￺こうちゃ￻を
+￹用意￺ようい￻し　ヤバチャが　￹憑￺と￻りつくのを
+￹待￺ま￻ち￹続￺つづ￻ける　マニアも　いるのだ。"
+scarlet,grimmsnarl,en,base,"This Pokémon has complete control over its hair.
+Grimmsnarl normally keeps its hair wrapped
+around its body to support its muscles."
+scarlet,grimmsnarl,it,base,"Manovra la chioma come preferisce. Solitamente
+la tiene avvolta attorno al corpo per supportare
+i muscoli."
+scarlet,grimmsnarl,es,base,"Controla su cabello a placer. Suele enrollarse
+el pelo por todo el cuerpo para que le sirva de
+soporte muscular."
+scarlet,falinks,it,base,"L’elemento che sta davanti e che dà ordini
+al gruppo è il più forte e intelligente tra i sei."
+scarlet,falinks,de,base,"Der Anführer steht an erster Stelle und gibt die
+Befehle. Er ist das stärkste und schlauste Glied
+dieses sechsteiligen Pokémon."
+scarlet,falinks,es,base,"El líder, que es el más fuerte e inteligente de
+los seis, se encuentra al frente y da órdenes a
+los demás."
+scarlet,stonjourner,en,base,"The elemental composition of the rocks that form
+its body were found to match the bedrock of a
+land far away from this Pokémon’s habitat."
+scarlet,stonjourner,it,base,"La composizione delle pietre che formano il suo
+corpo coincide con quella di basamenti rocciosi
+molto distanti dal suo habitat."
+scarlet,stonjourner,es,base,"Los elementos que componen las rocas de su
+cuerpo se han encontrado en lechos de roca
+muy alejados de su hábitat."
+scarlet,cufant,it,base,"Con la sua proboscide appuntita scava la dura
+pietra di cui si nutre. Di carattere mite, aiuta
+gli esseri umani nei lavori pesanti."
+scarlet,copperajah,en,base,"This Pokémon was brought to Paldea long ago by
+people from a faraway land. It’s so strong that it
+can easily pull an airplane."
+scarlet,copperajah,it,base,"Introdotto tempo fa nella regione da un luogo
+remoto, è dotato di una forza tale da poter
+trainare un aereo come nulla fosse."
+scarlet,dragapult,es,base,"Es capaz de volver todo su cuerpo transparente
+al agudizar la mente. Los Dreepy que residen en
+sus cuernos también se vuelven invisibles."
+scarlet,skeledirge,fr,base,"Quand il chante, son oiseau de feu change de
+forme. Cet oiseau serait né lorsqu’une âme a pris
+possession de sa boule de feu."
+scarlet,skeledirge,it,base,"Si dice che l’uccello di fuoco, plasmato in varie
+forme dal suo canto, sia uno spirito che ha preso
+dimora nella sua palla di fuoco."
+scarlet,skeledirge,es,base,"Se dice que el pájaro flamígero al que da forma
+su canto es un espíritu que moraba en la bola de
+fuego que le coronaba la cabeza."
+scarlet,quaxwell,ko,base,"열심히 얕은 여울을 달리며
+하반신을 단련하고, 동료들끼리
+발기술의 화려함을 겨룬다."
+scarlet,oinkologne-female,it,base,"Emana un profumo simile a quello dei fiori. Può
+spiccare facilmente salti di oltre cinque metri
+grazie alle zampe dai muscoli ben sviluppati."
+scarlet,spidops,en,base,"It clings to branches and ceilings using its threads
+and moves without a sound. It takes out its prey
+before the prey even notices it."
+scarlet,maushold-family-of-three,it,base,"Costruiscono una grande tana divisa in più stanze
+a seconda dell’uso: una per dormire, una per
+mangiare e così via."
+scarlet,maushold-family-of-three,es,base,"Construyen grandes nidos que dividen en varias
+cámaras destinadas a distintas funciones, como
+dormir o comer."
+scarlet,maushold-family-of-four,en,base,"The two little ones just appeared one day.
+The group might be a family of related Pokémon,
+but nobody knows for sure."
+scarlet,maushold-family-of-four,fr,base,"Deux petits sont soudainement apparus à leurs
+côtés. Ils forment peut-être une famille, mais
+on ne connaît pas leurs liens avec certitude."
+scarlet,maushold-family-of-four,it,base,"A un certo punto si sono aggiunti due piccoli.
+Potrebbero essere una famiglia, ma non si sa
+con sicurezza."
+scarlet,maushold-family-of-four,de,base,"Auf einmal waren sie zu viert. Die Gruppe wirkt
+wie eine Familie, doch ob das wirklich der
+Wahrheit entspricht, ist unklar."
+scarlet,maushold-family-of-four,es,base,"Dos crías aparecieron de la noche a la mañana.
+Podrían ser familia, pero no se sabe a ciencia
+cierta."
+scarlet,fidough,es,base,"Resulta húmedo y suave al tacto. Hace fermentar
+las cosas a su alrededor con la levadura de su
+aliento."
+scarlet,arboliva,es,base,"Es pacífico y compasivo. Comparte su delicioso
+y nutritivo aceite con los Pokémon que han
+perdido las fuerzas."
+scarlet,squawkabilly-green-plumage,en,base,"These Pokémon prefer to live in cities. They form
+flocks based on the color of their feathers, and
+they fight over territory."
+scarlet,squawkabilly-white-plumage,en,base,"This Pokémon dislikes being alone. It has a strong
+sense of community and survives by cooperating
+with allies."
+scarlet,squawkabilly-white-plumage,it,base,"Questi Pokémon non amano agire singolarmente.
+Hanno un forte spirito di solidarietà e vivono
+aiutandosi a vicenda."
+scarlet,garganacl,de,base,"Es reibt seine Fingerspitzen aneinander, um Salz
+auf verwundete Pokémon zu streuen. Dieses heilt
+selbst schwere Verletzungen im Nu."
+scarlet,garganacl,es,base,"Cuando encuentra a un Pokémon herido, frota las
+puntas de los dedos para rociarlo con sal y curar
+rápidamente incluso las heridas más graves."
+scarlet,maschiff,it,base,"Si mostra sempre accigliato per evitare di essere
+preso sottogamba, ma il suo buffo muso fa ridere
+persino i bambini in preda al pianto."
+scarlet,mabosstiff,es,base,"Almacena energía en la papada y la libera toda
+de golpe para arrasar con sus rivales."
+scarlet,grafaiai,jp-kana,base,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kana,upd-101,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kana,upd-110,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kana,upd-120,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kana,upd-130,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kana,upd-131,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kanji,base,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kanji,upd-101,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kanji,upd-110,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kanji,upd-120,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kanji,upd-130,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,grafaiai,jp-kanji,upd-131,"エサによって　￹色￺いろ￻が　￹変化￺へんか￻する
+￹毒￺どく￻の　￹唾液￺だえき￻を　￹指￺ゆび￻に　￹塗￺まぶ￻して
+￹森￺もり￻の　￹木々￺きぎ￻に　￹模様￺もよう￻を　￹描￺か￻く。"
+scarlet,brambleghast,it,base,"Apre i rami del volto per ingoiare la preda. Dopo
+averne assorbito forza vitale a sufficienza,
+la sputa fuori."
+scarlet,klawf,en,base,"Klawf hangs upside-down from cliffs, waiting for
+prey. But Klawf can’t remain in this position for
+long because its blood rushes to its head."
+scarlet,rellor,en,base,"This Pokémon creates a mud ball by mixing sand
+and dirt with psychic energy. It treasures its mud
+ball more than its own life."
+scarlet,rellor,es,base,"Mezcla tierra, arena y energía psíquica para crear
+una bola de barro que atesora por encima de su
+propia vida."
+scarlet,wugtrio,de,base,"Entgegen seinem Äußeren ist es von grober Natur.
+Mit seinen langen Körpern nimmt es Beute in die
+Mangel und zieht sie in sein Nest."
+scarlet,wugtrio,es,base,"Es de temperamento agresivo, aunque no lo
+parezca. Envuelve a sus presas con sus largos
+cuerpos y las arrastra a su nido."
+scarlet,bombirdier,it,base,"Intreccia le piume cadute a quelle del petto
+per creare un grembiule in cui mettere oggetti,
+che fa poi precipitare dall’alto."
+scarlet,revavroom,es,base,"Posee ocho cilindros, con los que genera energía
+haciendo estallar el gas que produce al mezclar
+los minerales de las rocas con su veneno."
+scarlet,orthworm,en,base,"When attacked, this Pokémon will wield the
+tendrils on its body like fists and pelt the
+opponent with a storm of punches."
+scarlet,orthworm,it,base,"Quando viene assalito da un nemico, fa vibrare
+le ciglia laterali per investirlo con una tempesta
+di pugni."
+scarlet,orthworm,de,base,"Wird es angegriffen, setzt es seine Borsten wie
+Fäuste ein, um damit einen Sturm aus Hieben zu
+entfesseln."
+scarlet,orthworm,es,base,"Cuando lo atacan, usa los pelos de su cuerpo
+a modo de puños y hace llover un aluvión de
+puñetazos sobre sus enemigos."
+scarlet,houndstone,en,base,"Houndstone spends most of its time sleeping
+in graveyards. Among all the dog Pokémon, this
+one is most loyal to its master."
+scarlet,houndstone,it,base,"Di solito dorme nei cimiteri. Tra i tanti Pokémon
+canidi, è quello più fedele a chi lo alleva."
+scarlet,cetoddle,en,base,"This species left the ocean and began living on
+land a very long time ago. It seems to be closely
+related to Wailmer."
+scarlet,cetoddle,de,base,"Vor sehr langer Zeit verließ es das Meer, um an
+Land zu leben. Angeblich ist es eng mit Wailmer
+verwandt."
+scarlet,cetoddle,es,base,"Los miembros de esta especie, emparentada al
+parecer con los Wailmer, abandonaron hace ya
+mucho tiempo el mar para vivir en tierra firme."
+scarlet,cetitan,en,base,"This Pokémon wanders around snowy, icy areas.
+It protects its body with powerful muscles and
+a thick layer of fat under its skin."
+scarlet,cetitan,es,base,"Este Pokémon vive en áreas cubiertas de nieve
+y hielo. Se protege con su fuerte musculatura y
+una gruesa capa de grasa subcutánea."
+scarlet,dondozo,en,base,"This Pokémon is a glutton, but it’s bad at getting
+food. It teams up with a Tatsugiri to catch prey."
+scarlet,dondozo,de,base,"Es ist zwar ein Vielfraß, doch die Jagd liegt ihm
+nicht. Deshalb schließt es sich mit Nigiragi
+zusammen, um Beute zu fangen."
+scarlet,dondozo,es,base,"Le gusta mucho comer, pero no se le da bien
+cazar, por lo que aúna fuerzas con Tatsugiri
+con el fin de capturar presas."
+scarlet,annihilape,en,base,"When its anger rose beyond a critical point, this
+Pokémon gained power that is unfettered by the
+limits of its physical body."
+scarlet,annihilape,it,base,"Superando i livelli critici di rabbia, ha ottenuto
+il potere di andare oltre i vincoli del suo corpo
+fisico."
+scarlet,annihilape,es,base,"Cuando su ira explosiva rebasó el punto crítico,
+adquirió un poder que lo libró para siempre de
+las limitaciones de su cuerpo material."
+scarlet,clodsire,en,base,"When attacked, this Pokémon will retaliate by
+sticking thick spines out from its body. It’s a risky
+move that puts everything on the line."
+scarlet,clodsire,it,base,"Quando si trova sotto attacco, controbatte
+sfoderando le spesse spine retrattili, mettendo
+così a repentaglio anche se stesso."
+scarlet,clodsire,es,base,"Cuando se siente amenazado, repele al enemigo
+con sus gruesas púas retráctiles. Esta técnica tan
+peligrosa es un arma de doble filo."
+scarlet,dudunsparce-two-segment-form,fr,base,"Il se sert de sa queue pour creuser son terrier
+dans les profondeurs rocheuses de la terre.
+Celui-ci peut faire jusqu’à 10 km de long."
+scarlet,dudunsparce-two-segment-form,it,base,"Con la dura coda perfora gli strati rocciosi
+del sottosuolo per farne la sua tana, che può
+raggiungere i 10 km di profondità."
+scarlet,dudunsparce-three-segment-form,en,base,"The gentle Dudunsparce will put Pokémon that
+wander into its nest onto its back and carry them
+to the entrance."
+scarlet,dudunsparce-three-segment-form,it,base,"Ha un temperamento docile. Fa salire sul suo
+dorso i Pokémon che finiscono per sbaglio nella
+sua tana e li riaccompagna all’ingresso."
+scarlet,dudunsparce-three-segment-form,de,base,"Es hat ein sehr sanftes Gemüt. Pokémon, die sich
+in sein Nest verirren, trägt es auf seinem Rücken
+zurück zum Eingang."
+scarlet,kingambit,en,base,"Only a Bisharp that stands above all others in its
+vast army can evolve into Kingambit."
+scarlet,kingambit,it,base,"Solo il Bisharp che si erge alla vetta della propria
+armata può evolversi in Kingambit."
+scarlet,kingambit,es,base,"Solo el Bisharp más destacado entre las filas de
+cada gran ejército tiene el honor de evolucionar
+a Kingambit."
+scarlet,great-tusk,en,base,"Sightings of this Pokémon have occurred in recent
+years. The name Great Tusk was taken from a
+creature listed in a certain book."
+scarlet,great-tusk,de,base,"In den letzten Jahren gab es Sichtungen dieses
+Pokémon. Eine Kreatur aus einem gewissen Buch
+stand Pate für den Namen Riesenzahn."
+scarlet,great-tusk,es,base,"Testigos afirman haberlo visto recientemente. El
+nombre Colmilargo está tomado de una criatura
+mencionada en cierto libro."
+scarlet,iron-treads,it,base,"Somiglia molto a un’arma ad alta tecnologia che,
+secondo una rivista di paranormale, sarebbe
+stata inviata qui dagli alieni."
+scarlet,iron-treads,es,base,"Su aspecto recuerda al de un arma científica de
+origen extraterrestre que apareció en un artículo
+de una revista esotérica."
+scarlet,iron-hands,es,base,"Guarda parecido con un atleta, supuestamente
+transformado en cíborg, que apareció entre las
+exclusivas de una revista esotérica."
+scarlet,chien-pao,en,base,"This Pokémon can control 100 tons of fallen
+snow. It plays around innocently by leaping in
+and out of avalanches it has caused."
+scarlet,chien-pao,fr,base,"Ce Pokémon peut contrôler 100 tonnes de neige
+tombée. Il s’amuse en sautant joyeusement dans
+les avalanches qu’il provoque."
+scarlet,chien-pao,de,base,"Baojian kann bis zu 100 t Schnee kontrollieren.
+In den Lawinen, die es auslöst, tollt es ganz
+arglos herum."
+scarlet,chien-pao,es,base,"Controla a su voluntad masas de nieve de hasta
+cien toneladas. Se divierte zambulléndose y
+saltando felizmente en los aludes que provoca."
+scarlet,roaring-moon,en,base,"It is possible that this is the creature listed as
+Roaring Moon in an expedition journal that still
+holds many mysteries."
+scarlet,roaring-moon,it,base,"È possibile che si tratti della creatura catalogata
+come ""Lunaruggente"" in un diario di viaggio
+colmo di misteri."
+scarlet,roaring-moon,es,base,"Podría tratarse de la criatura que aparece bajo el
+nombre de Bramaluna en cierto diario repleto de
+incógnitas."
+scarlet,koraidon-apex-build,en,base,"This seems to be the Winged King mentioned in
+an old expedition journal. It was said to have
+split the land with its bare fists."
+scarlet,koraidon-apex-build,es,base,"Parece tratarse de Reyalado, la criatura que,
+según lo narrado en un antiguo diario, fue capaz
+de dividir la tierra con sus puños."
+scarlet,miraidon-ultimate-mode,en,base,"Much remains unknown about this creature.
+It resembles Cyclizar, but it is far more ruthless
+and powerful."
+scarlet,miraidon-ultimate-mode,es,base,"Pese a las similitudes con los Cyclizar, es mucho
+más fuerte y despiadado que ellos. Está rodeado
+de incógnitas."
+violet,wigglytuff,es,base,"Es como un peluche suave, tan agradable al tacto
+que, cuando alguien lo toca, no puede dejar de
+acariciarlo."
+violet,mankey,it,base,"Anche quando è di buon umore, solitamente può
+abbandonarsi all’ira da un momento all’altro
+per un nonnulla."
+violet,primeape,en,base,"Some researchers theorize that Primeape remains
+angry even when inside a Poké Ball."
+violet,primeape,it,base,"Secondo le teorie di certi studiosi, i Primeape
+sono arrabbiati anche quando si trovano dentro
+la Poké Ball."
+violet,primeape,es,base,"Según muestran los estudios de un investigador
+Pokémon, Primeape sigue enfadado incluso
+dentro de la Poké Ball."
+violet,grimer,it,base,"Quando due esemplari combinano i propri corpi,
+creano nuovi tipi di veleno."
+violet,grimer,es,base,"Cuando se une a otro compañero de su especie,
+se generan nuevos tipos de sustancia venenosa."
+violet,muk,de,base,"Sein Gestank ist unerträglich. Das starke Gift,
+aus dem sein Körper besteht, macht jeder Pflanze
+in seinem Weg den Garaus."
+violet,muk,es,base,"Es pestilente y los componentes tóxicos de su
+cuerpo hacen que, a su paso, cualquier planta
+se marchite."
+violet,haunter,it,base,"Attende in silenzio la preda, celandosi
+nell’oscurità più totale, dove non si vede nulla."
+violet,haunter,es,base,"En la oscuridad total, donde no se ve nada,
+Haunter acecha a su próxima víctima."
+violet,gengar,es,base,"De noche, se oculta en las sombras y absorbe
+el calor de sus víctimas, que sufren escalofríos
+irrefrenables."
+violet,electrode,en,base,"It explodes in response to even minor stimuli. It is
+feared, with the nickname of the Bomb Ball."
+violet,electrode,it,base,"Può esplodere al minimo urto. Temuto da tutti, è
+conosciuto con il nomignolo di ""Bomba Ball""."
+violet,electrode,es,base,"Como explotan a la mínima, se les tiene mucho
+miedo. Reciben el mote de Bomba Ball."
+violet,electrode-hisuian-form,en,base,"It explodes in response to even minor stimuli. It is
+feared, with the nickname of the Bomb Ball."
+violet,electrode-hisuian-form,it,base,"Può esplodere al minimo urto. Temuto da tutti, è
+conosciuto con il nomignolo di ""Bomba Ball""."
+violet,electrode-hisuian-form,es,base,"Como explotan a la mínima, se les tiene mucho
+miedo. Reciben el mote de Bomba Ball."
+violet,scyther,it,base,"Le falci sulle sue zampe anteriori diventano
+sempre più affilate man mano che tranciano
+oggetti duri."
+violet,scyther,de,base,"Die scharfen Sicheln an den Unterarmen werden
+durch das Schneiden harter Objekte noch
+schärfer."
+violet,scyther,es,base,"Las cortantes guadañas de sus antebrazos
+se vuelven más afiladas cada vez que cortan
+objetos duros."
+violet,tauros,en,base,"They fight each other by locking horns.
+The herd’s protector takes pride in its battle-
+scarred horns."
+violet,tauros,en,upd-101,"They fight each other by locking horns.
+The herd’s protector takes pride in its battle-
+scarred horns."
+violet,tauros,en,upd-110,"They fight each other by locking horns.
+The herd’s protector takes pride in its battle-
+scarred horns."
+violet,tauros,en,upd-120,"They fight each other by locking horns.
+The herd’s protector takes pride in its battle-
+scarred horns."
+violet,tauros,fr,base,"Ils se battent avec leurs cornes. Les Tauros qui
+protègent leur troupeau sont fiers de leurs cornes
+couvertes de cicatrices."
+violet,tauros,fr,upd-101,"Ils se battent avec leurs cornes. Les Tauros qui
+protègent leur troupeau sont fiers de leurs cornes
+couvertes de cicatrices."
+violet,tauros,fr,upd-110,"Ils se battent avec leurs cornes. Les Tauros qui
+protègent leur troupeau sont fiers de leurs cornes
+couvertes de cicatrices."
+violet,tauros,fr,upd-120,"Ils se battent avec leurs cornes. Les Tauros qui
+protègent leur troupeau sont fiers de leurs cornes
+couvertes de cicatrices."
+violet,tauros,it,base,"Lottano tra loro incrociando le corna.
+Il capobranco è fiero delle sue corna segnate
+dalle lotte."
+violet,tauros,it,upd-101,"Lottano tra loro incrociando le corna.
+Il capobranco è fiero delle sue corna segnate
+dalle lotte."
+violet,tauros,it,upd-110,"Lottano tra loro incrociando le corna.
+Il capobranco è fiero delle sue corna segnate
+dalle lotte."
+violet,tauros,it,upd-120,"Lottano tra loro incrociando le corna.
+Il capobranco è fiero delle sue corna segnate
+dalle lotte."
+violet,tauros,es,base,"Luchan entre sí con sus cuernos. El jefe de
+la manada alardea de las cicatrices de su
+cornamenta."
+violet,tauros,es,upd-101,"Luchan entre sí con sus cuernos. El jefe de
+la manada alardea de las cicatrices de su
+cornamenta."
+violet,tauros,es,upd-110,"Luchan entre sí con sus cuernos. El jefe de
+la manada alardea de las cicatrices de su
+cornamenta."
+violet,tauros,es,upd-120,"Luchan entre sí con sus cuernos. El jefe de
+la manada alardea de las cicatrices de su
+cornamenta."
+violet,tauros-paldean-form-aqua-breed,en,base,"It swims by jetting water from its horns. The most
+notable characteristic of the Aqua Breed is its
+high body fat, which allows it to float easily."
+violet,tauros-paldean-form-aqua-breed,it,base,"L’abbondante grasso corporeo che caratterizza la
+Varietà Acquatica gli permette di galleggiare con
+facilità. Nuota spruzzando acqua dalle corna."
+violet,tauros-paldean-form-aqua-breed,es,base,"Su elevado nivel de grasa corporal permite a la
+Variedad Acuática flotar en el agua. Se propulsa
+expulsando agua por los cuernos."
+violet,gyarados,it,base,"Quando nel mondo regnano i conflitti, appare
+dal nulla e mette a ferro e fuoco tutto ciò
+che incontra sul proprio cammino."
+violet,gyarados,es,base,"Cuando reina el conflicto en el mundo, aparece
+de la nada y reduce a cenizas todo lo que se
+cruza en su camino."
+violet,azumarill,en,base,"By keeping still and listening intently, it can tell
+what is in even wild, fast-moving rivers."
+violet,azumarill,de,base,"Verhält es sich regungslos und lauscht, so kann es
+hören, was sich in reißenden Flüssen verbirgt."
+violet,azumarill,es,base,"Guardando silencio y prestando mucha atención
+puede saber lo que hay en ríos de corrientes
+rápidas y fuertes."
+violet,forretress,it,base,"L’intero corpo è protetto da un guscio duro come
+l’acciaio. Nessuno sa cosa ci sia all’interno."
+violet,scizor,en,base,"It swings its eye-patterned pincers up to scare its
+foes. This makes it look like it has three heads."
+violet,scizor,es,base,"Intimida a los enemigos agitando sus pinzas con
+dibujos de ojos. Al hacerlo, da la impresión de
+tener tres cabezas."
+violet,heracross,fr,base,"Sa force colossale lui permet de soulever et
+de jeter facilement plus de cent fois son poids."
+violet,heracross,it,base,"La forza erculea gli permette di lanciare oggetti
+100 volte più pesanti di lui con facilità."
+violet,heracross,es,base,"Tiene una fuerza descomunal. Puede arrojar
+objetos que superen su peso cien veces sin gran
+esfuerzo."
+violet,ursaring,it,base,"Si arrampica abilmente sugli alberi. Se quando
+è in cerca di bacche si imbatte in un Primeape,
+la lite è assicurata."
+violet,donphan,en,base,"Donphan is normally a calm Pokémon, but once
+it is enraged, it will curl its body into a ball and
+charge at you while rolling."
+violet,donphan,it,base,"Di solito ha un’indole tranquilla, ma se qualcuno
+lo fa arrabbiare si appallottola e carica
+rotolando."
+violet,donphan,de,base,"Für gewöhnlich ist es von ruhigem Gemüt. Reizt
+man es jedoch, rollt es sich ein und donnert auf
+einen zu."
+violet,donphan,es,base,"Por lo general se muestra tranquilo, pero,
+si lo enfadan, se enrolla hasta hacerse una
+bola y embiste rodando."
+violet,blissey,es,base,"Los huevos que pone están llenos de felicidad.
+Solo con probar un poquito de uno, cualquiera
+sonríe."
+violet,tyranitar,en,base,"In just one of its mighty hands, it has the power to
+make the ground shake and mountains crumble."
+violet,tyranitar,it,base,"Racchiude in sé una potenza tale da permettergli
+di scuotere la terra e sbriciolare le montagne con
+un solo arto."
+violet,wingull,en,base,"It rides upon ocean winds as if it were a glider.
+In the winter, it hides food around its nest."
+violet,surskit,de,base,"Aus dem Fortsatz an seinem Kopf sondert es eine
+süß duftende, sirupartige Flüssigkeit ab. Es lebt in
+Tümpeln, die reich an Wasserpflanzen sind."
+violet,masquerain,de,base,"Die Fühler haben ein unverkennbares Muster, das
+Augen ähnelt. Bei Regen werden sie schwer und
+es kann nicht fliegen."
+violet,vigoroth,fr,base,"Ce Pokémon ne cesse de s’agiter et de semer
+la discorde, ce qui lui ouvre l’appétit. Il ne reste
+jamais immobile, même lorsqu’il se nourrit."
+violet,vigoroth,de,base,"Es hat immer Hunger, da es ständig randaliert.
+Auch während des Essens kann es nicht still sitzen."
+violet,vigoroth,es,base,"Siempre tiene hambre porque no para. No puede
+estarse quieto ni comiendo."
+violet,slaking,en,base,"This Pokémon lives lying on its side. It only
+rolls over and moves when there is no more
+grass to eat."
+violet,slaking,it,base,"Vive perennemente sdraiato e si muove solo
+per cambiare lato quando attorno a lui non
+c’è più erba da mangiare."
+violet,slaking,de,base,"Es verbringt sein Leben im Liegen und dreht sich
+nur dann mal um, wenn es in seinem Umfeld kein
+Gras mehr gibt, das es essen könnte."
+violet,slaking,es,base,"Vive tumbado todo el día, girándose
+exclusivamente de un lado a otro si no le queda
+más hierba para comer."
+violet,hariyama,en,base,"It stomps on the ground to build power. It can
+send a 10-ton truck flying with a straight-arm
+punch."
+violet,hariyama,fr,base,"Il piétine violemment le sol pour concentrer son
+énergie. Il peut propulser un camion de dix tonnes
+dans les airs d’un coup du plat de la main."
+violet,hariyama,it,base,"Pesta i piedi sul terreno per accumulare energia.
+Con una sola manata può far prendere il volo
+a un camion pesante dieci tonnellate."
+violet,hariyama,es,base,"Para aumentar su fuerza, da un pisotón en el
+suelo. Puede lanzar un camión de diez toneladas
+por los aires de un manotazo."
+violet,swalot,en,base,"It can swallow a tire whole in one gulp. It secretes
+a horribly toxic fluid from the pores on its body."
+violet,swalot,it,base,"Può ingoiare uno pneumatico in un sol boccone.
+Secerne un liquido incredibilmente tossico
+da tutti i pori del corpo."
+violet,swalot,es,base,"Es capaz de tragarse un neumático sin masticarlo.
+Segrega un fluido tremendamente tóxico por los
+poros."
+violet,numel,de,base,"Das heiße Magma in seinem Höcker dient ihm als
+Energiereserve und verleiht ihm enorme Stärke."
+violet,camerupt,de,base,"Wenn es wütend wird, speit es aus den Höckern
+auf seinem Rücken glühend heiße Lava. Es lebt in
+den Kratern von Vulkanen."
+violet,camerupt,es,base,"Cuando se enfada, las jorobas del lomo entran
+en erupción y expulsan lava. Habita los cráteres
+de los volcanes."
+violet,torkoal,de,base,"Kohle ist die Quelle seiner Energie. Es lebt daher
+meist in Bergen, die ein großes Kohlevorkommen
+aufweisen."
+violet,grumpig,en,base,"It uses black pearls to amplify its psychic power.
+It does a strange dance to control foes’ minds."
+violet,grumpig,de,base,"Mit schwarzen Perlen verstärkt es seine Psycho-
+Kräfte. Es kontrolliert seine Gegner mit seltsamen
+Tanzschritten."
+violet,cacturne,zh-simp,base,"栖息在沙漠。到了夜晚就会
+开始活动，去捕捉因受不了
+沙漠的炎热而筋疲力尽的猎物。"
+violet,cacturne,zh-trad,base,"棲息在沙漠。一到晚上就會
+開始活動，去捕捉因受不了
+沙漠的炎熱而筋疲力盡的獵物。"
+violet,swablu,en,base,"It can’t relax if it or its surroundings are not clean.
+It wipes off dirt with its wings."
+violet,swablu,it,base,"Non riesce a star tranquillo se c’è sporcizia su
+di sé o attorno a sé. Quando la trova, la spazza
+subito via con le ali."
+violet,swablu,es,base,"Si su cuerpo o su entorno no están limpios, no
+puede relajarse. En cuanto ve algo de mugre,
+la limpia con las alas."
+violet,altaria,en,base,"On sunny days, it flies freely through the sky and
+blends into the clouds. It sings in a beautiful
+soprano."
+violet,altaria,it,base,"Nelle belle giornate, ama volare nel cielo
+confondendosi tra le nuvole. Canta con una
+bellissima voce da soprano."
+violet,altaria,es,base,"En días soleados, le gusta mezclarse con las
+nubes y disfrutar de la libertad del cielo mientras
+trina con voz de soprano."
+violet,seviper,en,base,"Constant polishing makes the edge of the blade
+on its tail extremely sharp. It’s Zangoose’s
+archrival."
+violet,seviper,it,base,"Affila di continuo sulle rocce la sua coda a forma
+di lama, rendendola sempre più tagliente.
+È l’acerrimo nemico di Zangoose."
+violet,seviper,es,base,"Le une una relación de enemistad con Zangoose.
+Se lima con las rocas su cola en forma de espada
+para tenerla afilada."
+violet,glalie,en,base,"It prevents prey from escaping by instantaneously
+freezing moisture in the air."
+violet,shelgon,es,base,"La robusta capa que lo rodea repele los ataques.
+Aunque es una buena protección, lo hace lento y
+pesado."
+violet,starly,en,base,"Because they are weak individually, they form
+groups. However, they bicker if the group grows
+too big."
+violet,staravia,en,base,"They maintain huge flocks, although fierce
+scuffles break out between various flocks."
+violet,staravia,it,base,"Ha l’abitudine di riunirsi in grandi stormi.
+Le zuffe tra gruppi diversi sono particolarmente
+intense."
+violet,staraptor,en,base,"It never stops attacking even if it is injured.
+It fusses over the shape of its comb."
+violet,staraptor,it,base,"Non smette di attaccare neanche quando è
+ferito. Si premura di avere la cresta sempre
+in ordine."
+violet,vespiquen,en,base,"It raises grubs in the holes in its body. It secretes
+pheromones to control Combee."
+violet,vespiquen,es,base,"Cría larvas en los panales de su cuerpo. Con las
+feromonas que segrega, guía a los Combee."
+violet,honchkrow,en,base,"A single cry from this nocturnal Pokémon, and
+more than 100 of its Murkrow cronies will
+assemble."
+violet,honchkrow,it,base,"È un Pokémon notturno. Basta un suo solo
+verso per far accorrere all’istante un centinaio
+di Murkrow suoi seguaci."
+violet,skuntank,en,base,"It attacks by spraying a repugnant fluid from its
+tail, but the stench dulls after a few squirts."
+violet,skuntank,it,base,"Attacca spruzzando un liquido mefitico dalla
+punta della coda. Se attacca a ripetizione,
+l’odore si affievolisce."
+violet,bronzong,en,base,"It brought rains by opening portals to another
+world. It was revered as a bringer of plentiful
+harvests."
+violet,bronzong,it,base,"Apriva portali verso altri mondi dai quali faceva
+giungere la pioggia. Per questo veniva venerato
+come una divinità dei raccolti."
+violet,bronzong,de,base,"Ihm wurden reiche Ernten zugeschrieben, da es
+Portale zu anderen Welten öffnete, um für Regen
+zu sorgen."
+violet,bronzong,es,base,"Traía lluvias abriendo portales a otro mundo.
+Era adorado como propiciador de buenas
+cosechas."
+violet,spiritomb,it,base,"È formato da 108 spiriti che sono stati sigillati
+in una Roccianima affinché non facessero mai più
+del male."
+violet,gabite,en,base,"It loves sparkly things. It seeks treasures in caves
+and hoards the loot in its nest."
+violet,gabite,it,base,"Adora gli oggetti luccicanti. Va a caccia di tesori
+nelle grotte e li trasporta nel suo nido."
+violet,garchomp,en,base,"The protuberances on its head serve as sensors.
+It can even detect distant prey."
+violet,garchomp,it,base,"Le protuberanze che ha ai lati della testa hanno
+funzione di sensori e percepiscono le prede
+anche a grande distanza."
+violet,garchomp,de,base,"Die beiden Fortsätze an seinem Kopf haben die
+Funktion eines Sensors. Mit ihnen kann es auch
+weit entfernte Beute aufspüren."
+violet,garchomp,es,base,"Las dos protuberancias que tiene en la cabeza le
+sirven de sensores. Puede rastrear presas que se
+encuentren a gran distancia."
+violet,hippopotas,en,base,"It shrouds itself in sand to ward off germs.
+It travels easily through the sands of the desert."
+violet,hippopotas,it,base,"Si ricopre di sabbia per proteggersi dai germi.
+Si sposta immerso nella sabbia del deserto."
+violet,hippopotas,de,base,"Es bedeckt sich mit Sand, um Keime abzuhalten,
+und bewegt sich durch den Wüstensand fort."
+violet,hippowdon,en,base,"It brandishes its gaping mouth in a display of
+fearsome strength. It raises vast quantities of
+sand while attacking."
+violet,hippowdon,it,base,"Mostra la propria forza spalancando le fauci.
+Attacca sollevando immani quantità di sabbia."
+violet,hippowdon,de,base,"Das weit aufgerissene Maul demonstriert seine
+Stärke. Es attackiert, indem es Sandmassen
+aufwirbelt."
+violet,hippowdon,es,base,"Hace gala de su fuerza abriendo su enorme boca.
+Para atacar levanta gran cantidad de arena."
+violet,toxicroak,en,base,"It has a poison sac at its throat. When it croaks,
+the stored poison is churned for greater potency."
+violet,snover,en,base,"Seemingly curious about people, they gather
+around footsteps they find on snowy mountains."
+violet,snover,de,base,"Sie scheinen neugierig auf Menschen zu sein und
+versammeln sich bei Fußspuren, die sie auf
+verschneiten Bergen finden."
+violet,snover,es,base,"Sienten mucha curiosidad por los humanos.
+Si alguno encuentra huellas en la nieve, acuden
+todos a mirar."
+violet,abomasnow,en,base,"They appear when the snow flowers bloom.
+When the petals fall, they retreat to places
+unknown again."
+violet,abomasnow,fr,base,"Il apparaît quand les fleurs des terres enneigées
+éclosent et se retire quand elles se fanent.
+Personne ne sait où il va."
+violet,abomasnow,it,base,"Appare da chissà dove quando sbocciano i fiori
+invernali, e non appena i loro petali cadono
+torna a nascondersi nel luogo da cui era venuto."
+violet,abomasnow,es,base,"Aparece con las flores de nieve y se retira
+cuando se les caen los pétalos. No se sabe
+adónde va."
+violet,magnezone,en,base,"Exposure to a special magnetic field changed
+Magneton’s molecular structure, turning it into
+Magnezone."
+violet,magnezone,es,base,"Fruto de la evolución de Magneton al exponerse
+a un campo magnético especial que alteró su
+estructura molecular."
+violet,rotom,en,base,"Research continues on this Pokémon, which could
+be the power source of a unique motor."
+violet,rotom-wash,it,base,"Le lavatrici in cui Rotom può entrare sono ormai
+fuori produzione, perciò si vendono a prezzi
+molto alti."
+violet,rotom-wash,es,base,"El modelo de lavadora del que Rotom puede
+tomar posesión ya no se fabrica, por lo que se
+cotiza a precios muy elevados."
+violet,sandile,en,base,"They live hidden under hot desert sands in order
+to keep their body temperature from dropping."
+violet,krookodile,it,base,"I suoi occhi gli permettono di individuare prede
+minuscole a 50 km di distanza persino nelle
+tempeste di sabbia."
+violet,krookodile,es,base,"Su vista es tan perspicaz que puede divisar
+presas de pequeño tamaño a 50 km de distancia,
+incluso en plena tormenta de arena."
+violet,zoroark,es,base,"Tiene la facultad de confundir a muchos humanos
+a la vez. Protege su guarida creando un paisaje
+ilusorio."
+violet,zoroark-hisuian-form,es,base,"Tiene la facultad de confundir a muchos humanos
+a la vez. Protege su guarida creando un paisaje
+ilusorio."
+violet,eelektross,it,base,"Si attacca alla preda con la bocca a ventosa,
+conficca i denti nel suo corpo e rilascia una
+potente scarica elettrica."
+violet,beartic,en,base,"Feared as the Snow-White Demon in northern
+lands, Beartic uses its frosty claws and fangs
+to attack prey."
+violet,beartic,fr,base,"Il aspire la crainte dans les terres au nord, ce qui
+lui vaut le surnom de « démon blanc ». Il attaque
+ses proies de ses griffes et de ses crocs de glace."
+violet,beartic,fr,upd-101,"Il aspire la crainte dans les terres au nord, ce qui
+lui vaut le surnom de « démon blanc ». Il attaque
+ses proies de ses griffes et de ses crocs de glace."
+violet,beartic,fr,upd-110,"Il aspire la crainte dans les terres au nord, ce qui
+lui vaut le surnom de « démon blanc ». Il attaque
+ses proies de ses griffes et de ses crocs de glace."
+violet,braviary,en,base,"For the sake of its friends, this brave warrior of
+the sky will not stop battling, even if injured."
+violet,braviary,it,base,"È l’intrepido guerriero del cielo. Per difendere
+i suoi simili, lotta fino all’ultimo senza badare
+alle ferite."
+violet,braviary-hisuian-form,en,base,"For the sake of its friends, this brave warrior of
+the sky will not stop battling, even if injured."
+violet,braviary-hisuian-form,it,base,"È l’intrepido guerriero del cielo. Per difendere
+i suoi simili, lotta fino all’ultimo senza badare
+alle ferite."
+violet,zweilous,it,base,"Le due teste hanno preferenze diverse. Non ha
+bisogno dell’aiuto di nessuno per diventare più
+forte, gli bastano le zuffe tra le sue teste."
+violet,fletchinder,it,base,"Il suo territorio ha un raggio di 2-3 km.
+Non mostra alcuna pietà per i Pokémon alati
+che ne varcano i confini."
+violet,vivillon-icy-snow-pattern,en,base,"This Pokémon was born in frigid lands. It scatters
+colorful, toxic scales from its wings during battle."
+violet,vivillon-tundra-pattern,it,base,"Proviene da terre in cui il freddo è intenso. Lotta
+rilasciando dalle ali scaglie velenose dai colori
+vividi."
+violet,vivillon-sandstorm-pattern,it,base,"Proviene da terre aride. Lotta rilasciando dalle ali
+scaglie velenose dai colori vividi."
+violet,flabebe-red-flower,it,base,"Un Flabébé sopra a un fiore rosso. Appena nato,
+questo Pokémon si lancia subito in volo alla
+ricerca di un fiore che gli vada a genio."
+violet,flabebe-red-flower,es,base,"Cabalga una flor roja. En cuanto nace, revolotea
+en busca de una flor de su agrado."
+violet,flabebe-orange-flower,it,base,"Riceve la forza dai fiori e dà loro in cambio parte
+della sua energia. Gli piacciono i fiori arancioni."
+violet,flabebe-blue-flower,it,base,"Preferisce i fiori blu. Fluttua dolcemente nell’aria
+usando il potere sprigionato dal suo fiore."
+violet,clauncher,en,base,"Clauncher’s claws will regrow if they fall off.
+The meat inside the claws is edible, but it has a
+distinct flavor that doesn’t appeal to all tastes."
+violet,clauncher,it,base,"Anche se staccate, le sue chele ricrescono.
+La loro polpa è commestibile, ma ha un sapore
+particolare: alcuni la amano, altri la odiano."
+violet,clawitzer,en,base,"The cannonballs of seawater that Clawitzer
+launches from its claw are powerful enough to
+punch through tanker hulls."
+violet,clawitzer,it,base,"I proiettili di acqua marina sparati dalla sua chela
+sono talmente potenti da riuscire a perforare
+lo scafo di una nave cisterna."
+violet,clawitzer,de,base,"Die Geschosse aus Meerwasser, die es aus seiner
+Schere abfeuert, sind stark genug, um den Rumpf
+von Tankschiffen zu durchbohren."
+violet,clawitzer,es,base,"Los proyectiles de agua marina que dispara
+por la pinza poseen tal potencia que pueden
+perforar el casco de un petrolero."
+violet,avalugg,fr,base,"Ce géant de glace écrase tous les obstacles sans
+distinction. Lorsqu’il flotte sur la mer, il ressemble
+à s’y méprendre à un iceberg."
+violet,avalugg,it,base,"Schiaccia qualsiasi cosa lo intralci con il suo
+enorme corpo di ghiaccio. Quando galleggia
+nel mare, è tale e quale a un pezzo di banchisa."
+violet,avalugg-hisuian-form,fr,base,"Ce géant de glace écrase tous les obstacles sans
+distinction. Lorsqu’il flotte sur la mer, il ressemble
+à s’y méprendre à un iceberg."
+violet,avalugg-hisuian-form,it,base,"Schiaccia qualsiasi cosa lo intralci con il suo
+enorme corpo di ghiaccio. Quando galleggia
+nel mare, è tale e quale a un pezzo di banchisa."
+violet,noivern,en,base,"In the dark, even Hydreigon are terrified of this
+Pokémon. But in the light, Noivern is the one that
+avoids battle."
+violet,crabominable,fr,base,"Ses coups sont puissants, mais il se déplace
+lentement. Il immobilise ses adversaires en
+leur envoyant une écume glacée."
+violet,crabominable,es,base,"Sus puñetazos son temibles, pero se mueve muy
+lentamente. Escupe burbujas gélidas a sus rivales
+para inmovilizarlos."
+violet,toxapex,en,base,"Toxapex gets into fierce battles with Bruxish over
+areas where warm ocean currents flow, but the
+odds are always against it."
+violet,toxapex,it,base,"Lotta ferocemente con i Bruxish per il controllo
+delle zone in cui scorrono le correnti più calde,
+ma raramente ha la meglio."
+violet,toxapex,de,base,"Aggrostella kämpft mit Knirfish erbittert um
+Gebiete mit warmer Meeresströmung, doch es
+ist meist im Nachteil."
+violet,toxapex,es,base,"Se enfrenta a Bruxish en violentas disputas por
+las zonas de corrientes cálidas, aunque siempre
+lleva las de perder."
+violet,oranguru,en,base,"This Pokémon lives quietly in the depths of the
+forest. The purple, cape-like fur gets longer and
+longer as Oranguru ages."
+violet,oranguru,es,base,"Vive tranquilamente en las profundidades del
+bosque. El pelo morado que le crece a modo
+de capa se va alargando con los años."
+violet,palossand,en,base,"From the hollows in its arms, it fires the bones
+of its victims, which are all dried up after being
+drained of their vitality."
+violet,palossand,it,base,"Dalle cavità nelle braccia espelle le ossa delle
+sue vittime rinsecchite e ormai prosciugate di
+ogni energia vitale."
+violet,palossand,es,base,"Dispara por los huecos que tiene en los brazos
+los huesos de aquellos cuya energía vital ha
+absorbido por completo."
+violet,bruxish,fr,base,"Quand les rayons du soleil se réfléchissent sur
+les ondes formées par ses grincements de dents,
+l’eau autour de lui brille de mille feux."
+violet,corvisquire,en,base,"This intelligent Pokémon will quickly learn how to
+use any tool it can hold in its beak or its talons."
+violet,corviknight,en,base,"Although its wings have partly turned to steel and
+become heavy as a result, this Pokémon flies
+through the skies with ease."
+violet,corviknight,it,base,"Una parte delle sue ali si è tramutata in acciaio,
+ma riesce a librarsi in volo tranquillamente
+malgrado il peso aggiuntivo."
+violet,drednaw,en,base,"Drednaw lurks along the shoreline. When prey
+come to drink water, Drednaw stretches its neck
+out and chomps down on them."
+violet,drednaw,it,base,"Si nasconde vicino alla riva in attesa che le prede
+vadano ad abbeverarsi, per poi allungare il collo
+e azzannarle."
+violet,drednaw,es,base,"Acecha a la orilla del agua. Cuando una presa se
+acerca a beber, estira el cuello y le pega un buen
+mordisco."
+violet,carkol,en,base,"Due to the coal tar created inside it, the heap of
+coal on Carkol’s back never falls apart, even
+when the Pokémon rolls around at high speeds."
+violet,flapple,jp-kana,base,"￹体液￺たいえき￻で　りんごを　￹補修￺ほしゅう￻する。
+￹歴戦￺れきせん￻の　￹強者￺きょうしゃ￻の　りんごは
+￹全体的￺ぜんたいてき￻に　￹粘土色￺ねんどいろ￻。"
+violet,flapple,jp-kanji,base,"￹体液￺たいえき￻で　りんごを　￹補修￺ほしゅう￻する。
+￹歴戦￺れきせん￻の　￹強者￺きょうしゃ￻の　りんごは
+￹全体的￺ぜんたいてき￻に　￹粘土色￺ねんどいろ￻。"
+violet,sandaconda,it,base,"La ghiaia appuntita che si trova nella sabbia
+che espelle è in realtà sabbia mista a saliva
+solidificatasi in forme irregolari."
+violet,sandaconda,es,base,"La grava puntiaguda que mezcla con la arena
+que escupe se forma a partir de arena que ha
+compactado irregularmente con su saliva."
+violet,barraskewda,en,base,"It swims at speeds of over 100 knots and battles
+fiercely with pods of Finizen over prey."
+violet,hattrem,es,base,"En cuanto encuentra a alguien que transmite
+emociones intensas, lo golpea con sus mechones
+para dejarlo sin sentido y acallarlas."
+violet,grimmsnarl,en,base,"It lives deep within the forest. Even after evolving
+into this splendid form, it hasn’t given up on its
+petty misdeeds and pranks."
+violet,grimmsnarl,fr,base,"Il vit au fin fond des forêts. Il a beau avoir évolué
+en une créature majestueuse, il continue à faire
+des farces et à jouer de mauvais tours."
+violet,grimmsnarl,it,base,"Vive nelle profondità dei boschi. Per quanto si
+sia evoluto in questa splendida forma, non ha
+perso il vizio di fare dispetti e cattiverie."
+violet,grimmsnarl,es,base,"Vive en lo más profundo del bosque. A pesar de
+haber evolucionado, no abandona las pequeñas
+bromas y las trastadas."
+violet,falinks,en,base,"The leader, known as the brass, uses its
+extendible horn to issue orders to the others
+when it’s time to change formation."
+violet,falinks,it,base,"L’elemento che viene considerato il capo usa
+il proprio corno estensibile per indicare
+al gruppo in che tipo di formazione schierarsi."
+violet,falinks,de,base,"Mit seinem ausfahrbaren Horn gibt der Anführer
+Befehle zur Formationsänderung."
+violet,falinks,es,base,"El líder utiliza su cuerno, capaz de expandirse
+y contraerse, para ordenar a los demás que
+cambien la formación."
+violet,copperajah,it,base,"Ha un’indole orgogliosa e stizzosa. I Copperajah
+con la pelle di colore verde acceso sono riveriti
+dai propri simili."
+violet,copperajah,es,base,"Es orgulloso y difícil de tratar. Aquellos con un
+tono de piel verde más vivo se ganan el respeto
+de sus congéneres."
+violet,dragapult,de,base,"Das schnellste Exemplar einer Gruppe ist immer
+von Grolldra umgeben, die darauf aus sind,
+mit Schallgeschwindigkeit zu fliegen."
+violet,dragapult,es,base,"El más veloz de la manada siempre está rodeado
+de Dreepy deseosos de volar a velocidades
+supersónicas."
+violet,meowscarada,jp-kana,base,"￹敵￺てき￻の　￹意識￺いしき￻を　￹巧￺たく￻みに　そらし
+￹花粉￺かふん￻が　￹詰￺つ￻まった　￹花爆弾￺はなばくだん￻を
+いつの￹間￺ま￻にか　￹取￺と￻りつけ　￹爆破￺ばくは￻する。"
+violet,meowscarada,jp-kanji,base,"￹敵￺てき￻の　￹意識￺いしき￻を　￹巧￺たく￻みに　そらし
+￹花粉￺かふん￻が　￹詰￺つ￻まった　￹花爆弾￺はなばくだん￻を
+いつの￹間￺ま￻にか　￹取￺と￻りつけ　￹爆破￺ばくは￻する。"
+violet,skeledirge,en,base,"Skeledirge’s gentle singing soothes the souls of
+all that hear it. It burns its enemies to a crisp with
+flames of over 5,400 degrees Fahrenheit."
+violet,skeledirge,it,base,"Il suo dolce canto placa l’animo di chiunque
+lo ascolti. Riduce in cenere il nemico con fiamme
+che raggiungono i 3.000 ºC."
+violet,skeledirge,es,base,"Su dulce canto calma el espíritu de quien lo oye.
+Achicharra a sus enemigos con llamas que llegan
+a alcanzar los 3000 ºC."
+violet,lechonk,jp-kana,base,"￹選￺よ￻りすぐりの　エサしか　￹食￺た￻べない。
+￹体￺からだ￻から　￹虫￺むし￻ポケモンが　￹嫌￺きら￻う
+ハーブのような　￹香￺かお￻りを　￹放￺はな￻つ。"
+violet,lechonk,jp-kanji,base,"￹選￺よ￻りすぐりの　エサしか　￹食￺た￻べない。
+￹体￺からだ￻から　￹虫￺むし￻ポケモンが　￹嫌￺きら￻う
+ハーブのような　￹香￺かお￻りを　￹放￺はな￻つ。"
+violet,oinkologne-female,es,base,"Un Pokémon meticuloso que adora la pulcritud.
+Se envuelve de una fragancia floral que calma
+a los Pokémon de su alrededor."
+violet,tandemaus,de,base,"Die beiden sind unzertrennlich. Finden sie Futter,
+teilen sie dieses in zwei identische Hälften,
+ehe sie es zu fressen beginnen."
+violet,maushold-family-of-four,es,base,"En combate, los dos más grandes luchan a la vez
+que defienden a las crías. Cuando se enfrentan a
+adversarios fuertes, todos se unen a la refriega."
+violet,fidough,it,base,"Il lievito contenuto nel suo alito è utile in cucina,
+perciò questo Pokémon è stato protetto
+dagli esseri umani fin dall’antichità."
+violet,dachsbun,en,base,"The surface of this Pokémon’s skin hardens when
+exposed to intense heat, and its body has an
+appetizing aroma."
+violet,arboliva,en,base,"This Pokémon drives back enemies by launching
+its rich, aromatic oil at them with enough force to
+smash a boulder."
+violet,arboliva,it,base,"Respinge i nemici con un getto del suo olio
+corposo e profumato, così potente da frantumare
+anche la roccia."
+violet,arboliva,es,base,"Repele a sus enemigos disparando su exquisito
+y fragante aceite a una presión que bastaría
+para partir una roca."
+violet,naclstack,it,base,"Comprime salgemma all’interno del corpo per
+creare proiettili salini, che spara con una potenza
+tale da trafiggere lastre di ferro."
+violet,garganacl,en,base,"Many Pokémon gather around Garganacl, hoping
+to lick at its mineral-rich salt."
+violet,garganacl,it,base,"Sono molti i Pokémon che si raccolgono attorno
+a Garganacl per leccare il suo sale ricchissimo
+di minerali."
+violet,garganacl,de,base,"Viele Pokémon scharen sich um Saltigant, in der
+Hoffnung, an seinem mineralreichen Salz lecken
+zu können."
+violet,bellibolt,fr,base,"L’organe semblable à un œil qui se trouve sur
+son ventre sert à projeter l’électricité produite
+par son nombril-dynamo."
+violet,bellibolt,es,base,"Los órganos que parecen ojos sirven en realidad
+para descargar toda la electricidad generada por
+la dinamo de su ombligo."
+violet,wattrel,en,base,"These Pokémon make their nests on coastal cliffs.
+The nests have a strange, crackling texture, and
+they’re a popular delicacy."
+violet,kilowattrel,en,base,"It uses its throat sac to store electricity generated
+by its wings. There’s hardly any oil in its feathers,
+so it is a poor swimmer."
+violet,maschiff,it,base,"La mandibola e le zanne sono così potenti e ben
+sviluppate da poter sgretolare la pietra.
+Lo spesso strato di grasso gli dà un’ottima difesa."
+violet,mabosstiff,es,base,"Le encanta jugar con los niños. Normalmente es
+afable, pero, cuando ha de proteger a su familia,
+adopta un aspecto amenazante."
+violet,shroodle,jp-kana,base,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kana,upd-101,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kana,upd-110,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kana,upd-120,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kana,upd-130,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kana,upd-131,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kanji,base,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kanji,upd-101,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kanji,upd-110,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kanji,upd-120,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kanji,upd-130,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,shroodle,jp-kanji,upd-131,"￹縄張￺なわば￻りに　￹敵￺てき￻が　￹近￺ちか￻づかないよう
+￹刺激臭￺しげきしゅう￻がする　￹毒液￺どくえき￻で
+￹巣￺す￻の　まわりに　￹図形￺ずけい￻を　￹描￺か￻く。"
+violet,grafaiai,es,base,"Cada individuo pinta un patrón único y distintivo
+que irá replicando de forma constante a lo largo
+de toda su vida."
+violet,brambleghast,es,base,"Suele deambular por zonas áridas. En muy raras
+ocasiones, aparecen en masa y llegan a sepultar
+un pueblo entero."
+violet,klawf,en,base,"This Pokémon lives on sheer cliffs. It sidesteps
+opponents’ attacks, then lunges for their weak
+spots with its claws."
+violet,klawf,it,base,"Vive su ripidi dirupi. Schiva gli attacchi
+muovendosi di lato mentre mira dritto al punto
+debole del nemico con le sue chele."
+violet,klawf,es,base,"Habita en acantilados escarpados. Evade los
+ataques enemigos echándose a un lado y luego
+apunta a sus puntos vitales con las pinzas."
+violet,rellor,en,base,"It rolls its mud ball around while the energy it
+needs for evolution matures. Eventually the time
+comes for it to evolve."
+violet,wugtrio,en,base,"A variety of fish Pokémon, Wugtrio was once
+considered to be a regional form of Dugtrio."
+violet,wugtrio,de,base,"Schligda ist eine Art Fisch-Pokémon. Einst wurde
+es für eine Regionalform von Digdri gehalten."
+violet,wugtrio,de,upd-101,"Schligda ist eine Art Fisch-Pokémon.
+Einst wurde es für eine Regionalform
+von Digdri gehalten."
+violet,wugtrio,de,upd-110,"Schligda ist eine Art Fisch-Pokémon.
+Einst wurde es für eine Regionalform
+von Digdri gehalten."
+violet,wugtrio,es,base,"Una variedad de Pokémon pez. En el pasado
+se creía erróneamente que podía ser una forma
+regional de Dugtrio."
+violet,bombirdier,en,base,"Bombirdier uses the apron on its chest to bundle
+up food, which it carries back to its nest. It enjoys
+dropping things that make loud noises."
+violet,finizen,es,base,"Su anillo de agua está compuesto por una mezcla
+de agua marina y de un líquido aglutinante que
+segrega por el espiráculo."
+violet,revavroom,it,base,"Intimidisce il nemico con il rumore assordante dei
+suoi scarichi. Spruzza liquido tossico dalla bocca
+cilindrica facendo pernacchie."
+violet,orthworm,en,base,"This Pokémon lives in arid deserts. It maintains its
+metal body by consuming iron from the soil."
+violet,orthworm,it,base,"Vive in zone sabbiose dal clima secco. Si nutre
+del ferro contenuto nel terreno per sostentare
+il suo corpo metallico."
+violet,orthworm,es,base,"Habita en desiertos áridos. Se alimenta del hierro
+del suelo para mantener su cuerpo férreo."
+violet,houndstone,fr,base,"Il est la réincarnation d’un Pokémon regretté
+et il n’aime pas que l’on touche la protubérance
+sur sa tête."
+violet,houndstone,it,base,"È la reincarnazione di un Pokémon molto amato
+in vita e altrettanto compianto. Detesta che gli si
+tocchi la protuberanza che ha sulla testa."
+violet,houndstone,es,base,"La reencarnación de un Pokémon muy querido
+y llorado. Odia que le toquen la protuberancia
+de la cabeza."
+violet,cetoddle,it,base,"Vive in regioni fredde in branchi di circa cinque
+esemplari. È ghiotto dei minerali contenuti
+nella neve e nel ghiaccio."
+violet,cetoddle,de,base,"In Herden aus circa fünf Artgenossen bewohnt es
+frostige Gebiete. Am liebsten frisst es Mineralien,
+die in Schnee und Eis enthalten sind."
+violet,cetoddle,es,base,"Viven en manadas de unos cinco individuos
+en regiones gélidas. Les encantan los minerales
+presentes en la nieve y el hielo."
+violet,cetitan,en,base,"Ice energy builds up in the horn on its upper jaw,
+causing the horn to reach cryogenic temperatures
+that freeze its surroundings."
+violet,cetitan,es,base,"Acumula energía gélida en el cuerno del maxilar
+superior, que llega a alcanzar temperaturas muy
+bajas y congelar sus alrededores."
+violet,dondozo,en,base,"It treats Tatsugiri like its boss and follows it
+loyally. Though powerful, Dondozo is apparently
+not very smart."
+violet,dondozo,es,base,"Idolatra a Tatsugiri y lo trata como a un líder.
+Posee una fuerza descomunal, pero no destaca
+precisamente por su gran intelecto."
+violet,annihilape,es,base,"Machaca sin piedad a sus rivales concentrando
+en los puños hasta el último ápice de ira
+albergada en su corazón."
+violet,clodsire,en,base,"It lives at the bottom of ponds and swamps.
+It will carry Wooper on its back and ferry them
+across water from one shore to the other."
+violet,clodsire,es,base,"Vive en el fondo de los estanques y pantanos.
+Nada con Wooper sobre el lomo para ayudarlos
+a cruzar de una orilla a otra."
+violet,dudunsparce-two-segment-form,en,base,"It drives enemies out of its nest by sucking in
+enough air to fill its long, narrow lungs, then
+releasing the air in an intense blast."
+violet,dudunsparce-two-segment-form,fr,base,"Il chasse ses adversaires de son nid avec de
+violentes bourrasques qu’il génère en expirant
+l’air accumulé dans ses poumons longs et fins."
+violet,dudunsparce-three-segment-form,fr,base,"Une étude récente a démontré que le nombre
+de segments qui composent son corps est
+déterminé par ses gènes."
+violet,dudunsparce-three-segment-form,it,base,"Dalle ultime ricerche è emerso che il numero di
+segmenti del suo corpo è determinato a livello
+genetico."
+violet,dudunsparce-three-segment-form,de,base,"Neue Studien haben ergeben, dass die Anzahl
+seiner Körpersegmente von den Genen bestimmt
+wird."
+violet,dudunsparce-three-segment-form,es,base,"En un estudio reciente se descubrió que el
+número de segmentos de su cuerpo está
+determinado por su genética."
+violet,kingambit,it,base,"Lotta al comando di un grande battaglione, ma
+non è bravo a escogitare strategie sofisticate,
+perciò si limita a usare la forza bruta."
+violet,great-tusk,en,base,"This creature resembles a mysterious Pokémon
+that, according to a paranormal magazine, has
+lived since ancient times."
+violet,great-tusk,fr,base,"Il ressemble à un Pokémon mystérieux qui,
+selon une revue consacrée aux phénomènes
+paranormaux, existerait depuis la nuit des temps."
+violet,great-tusk,it,base,"Somiglia a un Pokémon enigmatico che, stando
+a una rivista di paranormale, esiste fin da tempi
+antichissimi."
+violet,great-tusk,de,base,"Es gleicht einem geheimnisvollen Pokémon, das
+einer esoterischen Zeitschrift zufolge seit grauer
+Vorzeit überdauert haben soll."
+violet,great-tusk,es,base,"Su aspecto recuerda al de un extraño Pokémon
+de origen primitivo que apareció en un artículo
+de cierta revista esotérica."
+violet,scream-tail,es,base,"Guarda similitud con el supuesto aspecto que,
+según una revista esotérica, tenía Jigglypuff hace
+mil millones de años."
+violet,brute-bonnet,es,base,"Guarda un leve parecido con un Pokémon mitad
+dinosaurio y mitad seta que apareció en un
+artículo de cierta revista de dudosa veracidad."
+violet,iron-treads,en,base,"Sightings of this Pokémon have occurred in recent
+years. It resembles a mysterious object described
+in an old expedition journal."
+violet,iron-treads,it,base,"Alcuni riportano di averlo avvistato negli ultimi
+anni. Somiglia a un oggetto misterioso descritto
+in un antico diario di viaggio."
+violet,iron-treads,es,base,"Se han constatado avistamientos en los últimos
+años. Su aspecto se asemeja al de un misterioso
+objeto descrito en un diario antiguo."
+violet,iron-hands,en,base,"This Pokémon shares many similarities with
+Iron Hands, an object mentioned in a certain
+expedition journal."
+violet,iron-hands,it,base,"Ha molti aspetti in comune con Manoferrea,
+un oggetto menzionato in un certo diario
+di viaggio."
+violet,iron-hands,es,base,"Este Pokémon comparte muchas características
+con Ferropalmas, un objeto descrito en cierto
+diario."
+violet,iron-jugulis,en,base,"It’s possible that Iron Jugulis, an object described
+in an old book, may actually be this Pokémon."
+violet,iron-jugulis,es,base,"Es posible que se trate de Ferrocuello, un objeto
+mencionado en unos viejos escritos."
+violet,chien-pao,en,base,"The hatred of those who perished by the sword
+long ago has clad itself in snow and become
+a Pokémon."
+violet,chien-pao,fr,base,"La haine de personnes ayant jadis succombé
+au fil de l’épée s’est mêlée à de la neige et
+a pris vie."
+violet,chien-pao,de,base,"Der Hass derjenigen, die vor langer Zeit durch
+das Schwert umkamen, hüllte sich in Schnee und
+wurde zu diesem Pokémon."
+violet,koraidon-apex-build,de,base,"Es ähnelt Mopex, ist aber deutlich kräftiger und
+brutaler. Über seine Lebensweise ist nichts
+bekannt."
+violet,miraidon-ultimate-mode,en,base,"This seems to be the Iron Serpent mentioned in
+an old book. The Iron Serpent is said to have
+turned the land to ash with its lightning."
+violet,miraidon-ultimate-mode,it,base,"Sembra che sia il Serpeferrea di cui si parla in
+un vecchio libro. Si dice che con i suoi fulmini
+abbia tramutato la terra in cenere."
+violet,miraidon-ultimate-mode,de,base,"Offenbar ist dies das Objekt Eisenschlange, das
+in einer alten Schrift erwähnt wurde. Es soll das
+Land mit Blitzen zu Asche verwandelt haben."
+violet,miraidon-ultimate-mode,es,base,"Parece tratarse de la criatura Ferromandra, que,
+según unos viejos escritos, transformó la tierra
+en cenizas con sus rayos."
