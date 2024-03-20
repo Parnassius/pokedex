@@ -5,7 +5,7 @@ import unicodedata
 from collections.abc import Callable
 from typing import Annotated
 
-from sqlalchemy import ForeignKey, UniqueConstraint
+from sqlalchemy import CheckConstraint, ForeignKey, UniqueConstraint
 from sqlalchemy.engine.default import DefaultExecutionContext
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
@@ -357,7 +357,7 @@ class PokemonEggGroup(mixins.GameGroupSequenceTable, Base):
     __tablename__ = "pokemon_egg_groups"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    slot: Mapped[intpk]
+    slot: Mapped[intpk] = mapped_column(CheckConstraint("slot IN (1, 2)"))
     egg_group_identifier: Mapped[str] = mapped_column(
         ForeignKey("egg_groups.identifier")
     )
@@ -450,8 +450,10 @@ class PokemonStat(mixins.GameGroupMappingTable, Base):
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
-    base_value: Mapped[int]
-    ev_yield: Mapped[int]
+    base_value: Mapped[int] = mapped_column(
+        CheckConstraint("base_value BETWEEN 1 AND 255")
+    )
+    ev_yield: Mapped[int] = mapped_column(CheckConstraint("ev_yield BETWEEN 0 AND 3"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
     stat: Mapped[Stat] = relationship(viewonly=True)
@@ -465,7 +467,7 @@ class PokemonType(mixins.GameGroupSequenceTable, Base):
     __tablename__ = "pokemon_types"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    slot: Mapped[intpk]
+    slot: Mapped[intpk] = mapped_column(CheckConstraint("slot IN (1, 2)"))
     type_identifier: Mapped[str] = mapped_column(ForeignKey("types.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
