@@ -71,8 +71,8 @@ class Ability(Base):
 class AbilityName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "ability_names"
 
-    ability_identifier: Mapped[str] = mapped_column(
-        ForeignKey("abilities.identifier"), primary_key=True
+    ability_identifier: Mapped[strpk] = mapped_column(
+        ForeignKey("abilities.identifier")
     )
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
@@ -85,8 +85,8 @@ class AbilityName(mixins.GameGroupTranslationsTable, Base):
 class AbilityNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
     __tablename__ = "ability_names_revision"
 
-    ability_identifier: Mapped[str] = mapped_column(
-        ForeignKey("abilities.identifier"), primary_key=True
+    ability_identifier: Mapped[strpk] = mapped_column(
+        ForeignKey("abilities.identifier")
     )
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
@@ -120,8 +120,8 @@ class EggGroup(Base):
 class EggGroupName(mixins.TranslationsTable, Base):
     __tablename__ = "egg_group_names"
 
-    egg_group_identifier: Mapped[str] = mapped_column(
-        ForeignKey("egg_groups.identifier"), primary_key=True
+    egg_group_identifier: Mapped[strpk] = mapped_column(
+        ForeignKey("egg_groups.identifier")
     )
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
@@ -191,9 +191,7 @@ class Item(Base):
 class ItemName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "item_names"
 
-    item_identifier: Mapped[str] = mapped_column(
-        ForeignKey("items.identifier"), primary_key=True
-    )
+    item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -205,9 +203,7 @@ class ItemName(mixins.GameGroupTranslationsTable, Base):
 class ItemNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
     __tablename__ = "item_names_revision"
 
-    item_identifier: Mapped[str] = mapped_column(
-        ForeignKey("items.identifier"), primary_key=True
-    )
+    item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -236,9 +232,7 @@ class Move(Base):
 class MoveName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "move_names"
 
-    move_identifier: Mapped[str] = mapped_column(
-        ForeignKey("moves.identifier"), primary_key=True
-    )
+    move_identifier: Mapped[strpk] = mapped_column(ForeignKey("moves.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -250,9 +244,7 @@ class MoveName(mixins.GameGroupTranslationsTable, Base):
 class MoveNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
     __tablename__ = "move_names_revision"
 
-    move_identifier: Mapped[str] = mapped_column(
-        ForeignKey("moves.identifier"), primary_key=True
-    )
+    move_identifier: Mapped[strpk] = mapped_column(ForeignKey("moves.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -275,9 +267,7 @@ class Nature(Base):
 class NatureName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "nature_names"
 
-    nature_identifier: Mapped[str] = mapped_column(
-        ForeignKey("natures.identifier"), primary_key=True
-    )
+    nature_identifier: Mapped[strpk] = mapped_column(ForeignKey("natures.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -342,9 +332,7 @@ class Pokemon(Base):
 class PokemonAbility(mixins.GameGroupSequenceTable, mixins.GameGroupMappingTable, Base):
     __tablename__ = "pokemon_abilities"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     slot_identifier: Mapped[enums.AbilitySlot] = mapped_column(
         ForeignKey("ability_slots.identifier"), primary_key=True
     )
@@ -368,9 +356,7 @@ class PokemonAbility(mixins.GameGroupSequenceTable, mixins.GameGroupMappingTable
 class PokemonEggGroup(mixins.GameGroupSequenceTable, Base):
     __tablename__ = "pokemon_egg_groups"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     slot: Mapped[intpk]
     egg_group_identifier: Mapped[str] = mapped_column(
         ForeignKey("egg_groups.identifier")
@@ -389,9 +375,7 @@ class PokemonEggGroup(mixins.GameGroupSequenceTable, Base):
 class PokemonFlavorText(mixins.GameTranslationsTable, Base):
     __tablename__ = "pokemon_flavor_text"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     flavor_text: Mapped[str]
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
@@ -400,9 +384,7 @@ class PokemonFlavorText(mixins.GameTranslationsTable, Base):
 class PokemonFlavorTextRevision(mixins.GameRevisionTranslationsTable, Base):
     __tablename__ = "pokemon_flavor_text_revision"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     flavor_text: Mapped[str]
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
@@ -411,9 +393,7 @@ class PokemonFlavorTextRevision(mixins.GameRevisionTranslationsTable, Base):
 class PokemonFormName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "pokemon_form_names"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -440,8 +420,8 @@ class PokemonSpecies(Base):
 class PokemonSpeciesName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "pokemon_species_names"
 
-    pokemon_species_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon_species.identifier"), primary_key=True
+    pokemon_species_identifier: Mapped[strpk] = mapped_column(
+        ForeignKey("pokemon_species.identifier")
     )
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
@@ -454,8 +434,8 @@ class PokemonSpeciesName(mixins.GameGroupTranslationsTable, Base):
 class PokemonSpeciesNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
     __tablename__ = "pokemon_species_names_revision"
 
-    pokemon_species_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon_species.identifier"), primary_key=True
+    pokemon_species_identifier: Mapped[strpk] = mapped_column(
+        ForeignKey("pokemon_species.identifier")
     )
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
@@ -468,12 +448,8 @@ class PokemonSpeciesNameRevision(mixins.GameGroupRevisionTranslationsTable, Base
 class PokemonStat(mixins.GameGroupMappingTable, Base):
     __tablename__ = "pokemon_stats"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
-    stat_identifier: Mapped[str] = mapped_column(
-        ForeignKey("stats.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
     base_value: Mapped[int]
     ev_yield: Mapped[int]
 
@@ -488,9 +464,7 @@ class PokemonStat(mixins.GameGroupMappingTable, Base):
 class PokemonType(mixins.GameGroupSequenceTable, Base):
     __tablename__ = "pokemon_types"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     slot: Mapped[intpk]
     type_identifier: Mapped[str] = mapped_column(ForeignKey("types.identifier"))
 
@@ -507,15 +481,11 @@ class PokemonType(mixins.GameGroupSequenceTable, Base):
 class PokemonWildHeldItemGame(mixins.GameMappingTable, Base):
     __tablename__ = "pokemon_wild_held_items_game"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     slot_identifier: Mapped[enums.HeldItemSlot] = mapped_column(
         ForeignKey("held_item_slots.identifier"), primary_key=True
     )
-    item_identifier: Mapped[str] = mapped_column(
-        ForeignKey("items.identifier"), primary_key=True
-    )
+    item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
     slot: Mapped[HeldItemSlot] = relationship(viewonly=True)
@@ -529,15 +499,11 @@ class PokemonWildHeldItemGame(mixins.GameMappingTable, Base):
 class PokemonWildHeldItemGameGroup(mixins.GameGroupMappingTable, Base):
     __tablename__ = "pokemon_wild_held_items_game_group"
 
-    pokemon_identifier: Mapped[str] = mapped_column(
-        ForeignKey("pokemon.identifier"), primary_key=True
-    )
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     slot_identifier: Mapped[enums.HeldItemSlot] = mapped_column(
         ForeignKey("held_item_slots.identifier"), primary_key=True
     )
-    item_identifier: Mapped[str] = mapped_column(
-        ForeignKey("items.identifier"), primary_key=True
-    )
+    item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
     slot: Mapped[HeldItemSlot] = relationship(viewonly=True)
@@ -562,9 +528,7 @@ class Stat(Base):
 class StatName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "stat_names"
 
-    stat_identifier: Mapped[str] = mapped_column(
-        ForeignKey("stats.identifier"), primary_key=True
-    )
+    stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
@@ -591,9 +555,7 @@ class Type(Base):
 class TypeName(mixins.GameGroupTranslationsTable, Base):
     __tablename__ = "type_names"
 
-    type_identifier: Mapped[str] = mapped_column(
-        ForeignKey("types.identifier"), primary_key=True
-    )
+    type_identifier: Mapped[strpk] = mapped_column(ForeignKey("types.identifier"))
     name: Mapped[str]
     normalized_name: Mapped[str] = mapped_column(
         index=True, default=_normalized_value("name")
