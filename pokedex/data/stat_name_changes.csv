@@ -1,0 +1,84 @@
+stat_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+hp,jp-kana,xy,,bdsp,,HP
+hp,jp-kanji,xy,,bdsp,,HP
+hp,zh-simp,sm,,bdsp,,HP
+hp,zh-trad,sm,,bdsp,,HP
+attack,en,rb,,e,,ATTACK
+attack,fr,rb,,y,,FOR
+attack,fr,gs,,b2w2,,ATTAQUE
+attack,it,rb,,b2w2,,ATTACCO
+attack,de,rb,,c,,ANGR
+attack,de,rs,,b2w2,,ANGRIFF
+attack,es,rb,,e,,ATAQUE
+defense,en,rb,,e,,DEFENSE
+defense,fr,rb,,y,,DEF
+defense,fr,gs,,e,,DEFENSE
+defense,fr,bw,,b2w2,,DÉFENSE
+defense,it,rb,,b2w2,,DIFESA
+defense,de,rb,,y,,VERT
+defense,de,gs,,c,,VER
+defense,de,rs,,b2w2,,VERT.
+defense,de,lgpe,,lgpe,,Verteidigung
+defense,es,rb,,e,,DEFENSA
+sp-atk,en,gs,,c,,SPCL.ATK
+sp-atk,en,rs,,e,,SP. ATK
+sp-atk,fr,gs,,c,,ATQ.SPE.
+sp-atk,fr,rs,,rs,,ATQ SP
+sp-atk,fr,frlg,,frlg,,ATQ. SPE.
+sp-atk,fr,e,,e,,ATQ SP
+sp-atk,fr,bw,,b2w2,,ATQ SPÉ
+sp-atk,it,gs,,c,,ATT.SPEC
+sp-atk,it,rs,,rs,,ATT.SP.
+sp-atk,it,frlg,,frlg,,ATT. SPEC.
+sp-atk,it,e,,b2w2,,ATT. SP.
+sp-atk,de,gs,,c,,SPEZ.ANG
+sp-atk,de,rs,,rs,,SP.ANG.
+sp-atk,de,frlg,,frlg,,SP. ANG.
+sp-atk,de,e,,e,,SP.ANG.
+sp-atk,de,dp,,hgss,,Sp. Ang.
+sp-atk,de,bw,,b2w2,,SP.-ANG.
+sp-atk,es,gs,,rs,,AT. ESP
+sp-atk,es,frlg,,frlg,,AT. ESP.
+sp-atk,es,e,,e,,AT. ESP
+sp-def,en,gs,,c,,SPCL.DEF
+sp-def,en,rs,,e,,SP. DEF
+sp-def,fr,gs,,c,,DEF.SPE.
+sp-def,fr,rs,,rs,,DEF SP
+sp-def,fr,frlg,,frlg,,DEF. SPE.
+sp-def,fr,e,,e,,DEF SP
+sp-def,fr,bw,,b2w2,,DÉF SPÉ
+sp-def,it,gs,,c,,DIF.SPEC
+sp-def,it,rs,,rs,,DIF.SP.
+sp-def,it,frlg,,frlg,,DIF. SPEC.
+sp-def,it,e,,b2w2,,DIF. SP.
+sp-def,de,gs,,c,,SPEZ.VER
+sp-def,de,rs,,rs,,SP.VER.
+sp-def,de,frlg,,frlg,,SP. VER.
+sp-def,de,e,,e,,SP.VER.
+sp-def,de,dp,,hgss,,Sp. Ver.
+sp-def,de,bw,,b2w2,,SP.-VER.
+sp-def,es,gs,,c,,DEF. ESP
+sp-def,es,rs,,rs,,DF. ESP
+sp-def,es,frlg,,frlg,,DEF. ESP.
+sp-def,es,e,,e,,DF. ESP
+speed,en,rb,,e,,SPEED
+speed,fr,rb,,y,,VIT
+speed,fr,gs,,c,,VITESSE
+speed,fr,rs,,rs,,VIT.
+speed,fr,frlg,,frlg,,VITESSE
+speed,fr,e,,e,,VIT.
+speed,fr,bw,,b2w2,,VITESSE
+speed,it,rb,,c,,VELOCITÀ
+speed,it,rs,,rs,,VELOC.
+speed,it,frlg,,frlg,,VELOCITÀ
+speed,it,e,,e,,VELOC.
+speed,it,bw,,b2w2,,VELOCITÀ
+speed,de,rb,,c,,INIT
+speed,de,rs,,e,,INIT.
+speed,de,dp,,hgss,,Init.
+speed,de,bw,,b2w2,,INIT.
+speed,es,rb,,c,,VELOCID.
+speed,es,rs,,rs,,VELOC.
+speed,es,frlg,,frlg,,VELOCID.
+speed,es,e,,e,,VELOC.
+speed,es,dp,,hgss,,Veloc.

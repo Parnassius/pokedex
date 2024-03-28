@@ -1,0 +1,446 @@
+ability_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+aftermath,es,dp,,lgpe,,Resquicio
+aftermath,zh-simp,sm,,ss,,引爆
+air-lock,en,rs,,e,,AIR LOCK
+air-lock,fr,rs,,e,,AIR LOCK
+air-lock,it,rs,,e,,RIPARO
+air-lock,de,rs,,e,,KLIMASCHUTZ
+air-lock,es,rs,,e,,BUCLE AIRE
+air-lock,es,dp,,la,,Bucle Aire
+analytic,es,bw,,b2w2,,Cálc. Final
+arena-trap,en,rs,,e,,ARENA TRAP
+arena-trap,fr,rs,,e,,PIEGE
+arena-trap,fr,dp,,oras,,Piège
+arena-trap,it,rs,,e,,TRAPPOARENA
+arena-trap,de,rs,,e,,AUSWEGSLOS
+arena-trap,de,dp,,hgss,,Auswegslos
+arena-trap,es,rs,,e,,TRAMPA ARENA
+battle-armor,en,rs,,e,,BATTLE ARMOR
+battle-armor,fr,rs,,e,,ARMURBASTON
+battle-armor,it,rs,,e,,LOTTASCUDO
+battle-armor,de,rs,,e,,KAMPFPANZER
+battle-armor,es,rs,,e,,ARMAD. BAT.
+battle-armor,es,dp,,b2w2,,Armad. Bat.
+berserk,fr,sm,,la,,Dracolère
+blaze,en,rs,,e,,BLAZE
+blaze,fr,rs,,e,,BRASIER
+blaze,it,rs,,e,,AIUTOFUOCO
+blaze,de,rs,,e,,GROSSBRAND
+blaze,es,rs,,e,,MAR LLAMAS
+chlorophyll,en,rs,,e,,CHLOROPHYLL
+chlorophyll,fr,rs,,e,,CHLOROPHYLE
+chlorophyll,fr,dp,,b2w2,,Chlorophyle
+chlorophyll,it,rs,,e,,CLOROFILLA
+chlorophyll,de,rs,,e,,CHLOROPHYLL
+chlorophyll,es,rs,,e,,CLOROFILA
+clear-body,en,rs,,e,,CLEAR BODY
+clear-body,fr,rs,,e,,CORPS SAIN
+clear-body,it,rs,,e,,CORPOCHIARO
+clear-body,de,rs,,e,,NEUTRALTORSO
+clear-body,es,rs,,e,,CUERPO PURO
+cloud-nine,en,rs,,e,,CLOUD NINE
+cloud-nine,fr,rs,,e,,CIEL GRIS
+cloud-nine,it,rs,,e,,ANTIMETEO
+cloud-nine,de,rs,,e,,WOLKE SIEBEN
+cloud-nine,es,rs,,e,,ACLIMATACIÓN
+color-change,en,rs,,e,,COLOR CHANGE
+color-change,fr,rs,,e,,DEGUISEMENT
+color-change,fr,dp,,lgpe,,Déguisement
+color-change,it,rs,,e,,CAMBIACOLORE
+color-change,de,rs,,e,,FARBWECHSEL
+color-change,es,rs,,e,,CAMBIO COLOR
+compound-eyes,en,rs,,e,,COMPOUNDEYES
+compound-eyes,en,dp,,b2w2,,Compoundeyes
+compound-eyes,fr,rs,,e,,OEIL COMPOSE
+compound-eyes,fr,dp,,hgss,,Oeil Composé
+compound-eyes,it,rs,,e,,INSETTOCCHI
+compound-eyes,de,rs,,e,,FACETTENAUGE
+compound-eyes,es,rs,,e,,OJOCOMPUESTO
+compound-eyes,es,dp,,b2w2,,Ojocompuesto
+cursed-body,es,bw,,b2w2,,Cue. Maldito
+cursed-body,zh-simp,sm,,ss,,诅咒之躯
+cute-charm,en,rs,,e,,CUTE CHARM
+cute-charm,fr,rs,,e,,JOLI SOURIRE
+cute-charm,it,rs,,e,,INCANTEVOLE
+cute-charm,de,rs,,e,,CHARMEBOLZEN
+cute-charm,es,rs,,e,,GRAN ENCANTO
+damp,en,rs,,e,,DAMP
+damp,fr,rs,,e,,MOITEUR
+damp,it,rs,,e,,UMIDITÀ
+damp,de,rs,,e,,FEUCHTIGKEIT
+damp,es,rs,,e,,HUMEDAD
+drizzle,en,rs,,e,,DRIZZLE
+drizzle,fr,rs,,e,,CRACHIN
+drizzle,it,rs,,e,,PIOVISCHIO
+drizzle,de,rs,,e,,NIESEL
+drizzle,es,rs,,e,,LLOVIZNA
+drought,en,rs,,e,,DROUGHT
+drought,fr,rs,,e,,SECHERESSE
+drought,it,rs,,e,,SICCITÀ
+drought,de,rs,,e,,DÜRRE
+drought,es,rs,,e,,SEQUÍA
+early-bird,en,rs,,e,,EARLY BIRD
+early-bird,fr,rs,,e,,MATINAL
+early-bird,it,rs,,e,,SVEGLIALAMPO
+early-bird,de,rs,,e,,FRÜHWECKER
+early-bird,es,rs,,e,,MADRUGAR
+effect-spore,en,rs,,e,,EFFECT SPORE
+effect-spore,fr,rs,,e,,POSE SPORE
+effect-spore,it,rs,,e,,SPARGISPORA
+effect-spore,de,rs,,e,,SPORENWIRT
+effect-spore,es,rs,,e,,EFEC. ESPORA
+effect-spore,es,dp,,b2w2,,Efec. Espora
+flame-body,en,rs,,e,,FLAME BODY
+flame-body,fr,rs,,e,,CORPS ARDENT
+flame-body,it,rs,,e,,CORPODIFUOCO
+flame-body,de,rs,,e,,FLAMMKÖRPER
+flame-body,es,rs,,e,,CUERPO LLAMA
+flare-boost,es,bw,,b2w2,,Ím. Ardiente
+flash-fire,en,rs,,e,,FLASH FIRE
+flash-fire,fr,rs,,e,,TORCHE
+flash-fire,it,rs,,e,,FUOCARDORE
+flash-fire,de,rs,,e,,FEUERFÄNGER
+flash-fire,es,rs,,e,,ABSOR. FUEGO
+flash-fire,es,dp,,b2w2,,Absor. Fuego
+forecast,en,rs,,e,,FORECAST
+forecast,fr,rs,,e,,METEO
+forecast,it,rs,,e,,PREVISIONI
+forecast,de,rs,,e,,PROGNOSE
+forecast,es,rs,,e,,PREDICCIÓN
+friend-guard,fr,bw,,lgpe,,Garde Amie
+guts,en,rs,,e,,GUTS
+guts,fr,rs,,e,,CRAN
+guts,it,rs,,e,,DENTISTRETTI
+guts,de,rs,,e,,ADRENALIN
+guts,es,rs,,e,,AGALLAS
+heatproof,fr,dp,,b2w2,,Ignifuge
+heavy-metal,es,bw,,b2w2,,Met. Pesado
+huge-power,en,rs,,e,,HUGE POWER
+huge-power,fr,rs,,e,,COLOFORCE
+huge-power,it,rs,,e,,MACROFORZA
+huge-power,de,rs,,e,,KRAFTKOLOSS
+huge-power,es,rs,,e,,POTENCIA
+hustle,en,rs,,e,,HUSTLE
+hustle,fr,rs,,e,,AGITATION
+hustle,it,rs,,e,,TUTTAFRETTA
+hustle,de,rs,,e,,ÜBEREIFER
+hustle,es,rs,,e,,ENTUSIASMO
+hyper-cutter,en,rs,,e,,HYPER CUTTER
+hyper-cutter,fr,rs,,e,,HYPER CUTTER
+hyper-cutter,it,rs,,e,,IPERTAGLIO
+hyper-cutter,de,rs,,e,,SCHERENMACHT
+hyper-cutter,es,rs,,e,,CORTE FUERTE
+illuminate,en,rs,,e,,ILLUMINATE
+illuminate,fr,rs,,e,,LUMIATIRANCE
+illuminate,fr,dp,,b2w2,,Lumiatirance
+illuminate,fr,xy,,sv,upd-202,Lumiattirance
+illuminate,it,rs,,e,,RISPLENDI
+illuminate,de,rs,,e,,ERLEUCHTUNG
+illuminate,es,rs,,e,,ILUMINACIÓN
+immunity,en,rs,,e,,IMMUNITY
+immunity,fr,rs,,e,,VACCIN
+immunity,it,rs,,e,,IMMUNITÀ
+immunity,de,rs,,e,,IMMUNITÄT
+immunity,es,rs,,e,,INMUNIDAD
+inner-focus,en,rs,,e,,INNER FOCUS
+inner-focus,fr,rs,,e,,ATTENTION
+inner-focus,it,rs,,e,,FUOCODENTRO
+inner-focus,it,dp,,oras,,Fuocodentro
+inner-focus,de,rs,,e,,KONZENTRATOR
+inner-focus,es,rs,,e,,FOCO INTERNO
+inner-focus,es,dp,,la,,Foco Interno
+insomnia,en,rs,,e,,INSOMNIA
+insomnia,fr,rs,,e,,INSOMNIA
+insomnia,it,rs,,e,,INSONNIA
+insomnia,de,rs,,e,,INSOMNIA
+insomnia,es,rs,,e,,INSOMNIO
+intimidate,en,rs,,e,,INTIMIDATE
+intimidate,fr,rs,,e,,INTIMIDATION
+intimidate,it,rs,,e,,PREPOTENZA
+intimidate,de,rs,,e,,BEDROHER
+intimidate,es,rs,,e,,INTIMIDACIÓN
+keen-eye,en,rs,,e,,KEEN EYE
+keen-eye,fr,rs,,e,,REGARD VIF
+keen-eye,it,rs,,e,,SGUARDOFERMO
+keen-eye,de,rs,,e,,ADLERAUGE
+keen-eye,es,rs,,e,,VISTA LINCE
+leaf-guard,fr,dp,,b2w2,,Feuil. Garde
+levitate,en,rs,,e,,LEVITATE
+levitate,fr,rs,,e,,LEVITATION
+levitate,it,rs,,e,,LEVITAZIONE
+levitate,de,rs,,e,,SCHWEBE
+levitate,es,rs,,e,,LEVITACIÓN
+light-metal,es,bw,,b2w2,,Met. Liviano
+lightning-rod,en,rs,,e,,LIGHTNINGROD
+lightning-rod,en,dp,,b2w2,,Lightningrod
+lightning-rod,fr,rs,,e,,PARATONNERRE
+lightning-rod,it,rs,,e,,PARAFULMINE
+lightning-rod,de,rs,,e,,BLITZFÄNGER
+lightning-rod,es,rs,,e,,PARARRAYOS
+limber,en,rs,,e,,LIMBER
+limber,fr,rs,,e,,ECHAUFFEMENT
+limber,fr,dp,,hgss,,Echauffement
+limber,it,rs,,e,,SCIOLTEZZA
+limber,de,rs,,e,,FLEXIBILITÄT
+limber,es,rs,,e,,FLEXIBILIDAD
+liquid-ooze,en,rs,,e,,LIQUID OOZE
+liquid-ooze,fr,rs,,e,,SUINTEMENT
+liquid-ooze,it,rs,,e,,MELMA
+liquid-ooze,de,rs,,e,,KLOAKENSOSSE
+liquid-ooze,es,rs,,e,,LODO LÍQUIDO
+liquid-ooze,es,dp,,la,,Lodo Líquido
+magic-bounce,es,bw,,b2w2,,Espejomágico
+magma-armor,en,rs,,e,,MAGMA ARMOR
+magma-armor,fr,rs,,e,,ARMUMAGMA
+magma-armor,it,rs,,e,,MAGMASCUDO
+magma-armor,de,rs,,e,,MAGMAPANZER
+magma-armor,es,rs,,e,,ESCUDO MAGMA
+magnet-pull,en,rs,,e,,MAGNET PULL
+magnet-pull,fr,rs,,e,,MAGNEPIEGE
+magnet-pull,it,rs,,e,,MAGNETISMO
+magnet-pull,de,rs,,e,,MAGNETFALLE
+magnet-pull,es,rs,,e,,IMÁN
+marvel-scale,en,rs,,e,,MARVEL SCALE
+marvel-scale,fr,rs,,e,,ECAILLE SPE.
+marvel-scale,fr,dp,,hgss,,Ecaille Spé.
+marvel-scale,fr,bw,,b2w2,,Écaille Spé.
+marvel-scale,it,rs,,e,,PELLEDURA
+marvel-scale,de,rs,,e,,NOTSCHUTZ
+marvel-scale,es,rs,,e,,ESCAMA ESP.
+marvel-scale,es,dp,,b2w2,,Escama Esp.
+minus,en,rs,,e,,MINUS
+minus,fr,rs,,e,,MINUS
+minus,fr,dp,,lgpe,,Minus
+minus,it,rs,,e,,MENO
+minus,de,rs,,e,,MINUS
+minus,es,rs,,e,,MENOS
+multiscale,es,bw,,lgpe,,Compensación
+natural-cure,en,rs,,e,,NATURAL CURE
+natural-cure,fr,rs,,e,,MEDIC NATURE
+natural-cure,it,rs,,e,,ALTERNACURA
+natural-cure,de,rs,,e,,INNERE KRAFT
+natural-cure,es,rs,,e,,CURA NATURAL
+oblivious,en,rs,,e,,OBLIVIOUS
+oblivious,fr,rs,,e,,BENET
+oblivious,it,rs,,e,,INDIFFERENZA
+oblivious,de,rs,,e,,DÖSIGKEIT
+oblivious,es,rs,,e,,DESPISTE
+overcoat,de,bw,,lgpe,,Wetterfest
+overgrow,en,rs,,e,,OVERGROW
+overgrow,fr,rs,,e,,ENGRAIS
+overgrow,it,rs,,e,,ERBAIUTO
+overgrow,de,rs,,e,,NOTDÜNGER
+overgrow,es,rs,,e,,ESPESURA
+own-tempo,en,rs,,e,,OWN TEMPO
+own-tempo,fr,rs,,e,,TEMPO PERSO
+own-tempo,it,rs,,e,,MENTE LOCALE
+own-tempo,de,rs,,e,,TEMPOMACHER
+own-tempo,de,dp,,la,,Tempomacher
+own-tempo,es,rs,,e,,RITMO PROPIO
+pickup,en,rs,,e,,PICKUP
+pickup,fr,rs,,e,,RAMASSAGE
+pickup,it,rs,,e,,RACCOLTA
+pickup,de,rs,,e,,MITNAHME
+pickup,es,rs,,e,,RECOGIDA
+plus,en,rs,,e,,PLUS
+plus,fr,rs,,e,,PLUS
+plus,it,rs,,e,,PIÙ
+plus,de,rs,,e,,PLUS
+plus,es,rs,,e,,MÁS
+poison-heal,de,dp,,la,,Aufheber
+poison-point,en,rs,,e,,POISON POINT
+poison-point,fr,rs,,e,,POINT POISON
+poison-point,it,rs,,e,,VELENOPUNTO
+poison-point,it,dp,,la,,Velenopunto
+poison-point,de,rs,,e,,GIFTDORN
+poison-point,es,rs,,e,,PUNTO TÓXICO
+power-of-alchemy,ko,sm,,la,,과학의힘
+pressure,en,rs,,e,,PRESSURE
+pressure,fr,rs,,e,,PRESSION
+pressure,it,rs,,e,,PRESSIONE
+pressure,de,rs,,e,,ERZWINGER
+pressure,es,rs,,e,,PRESIÓN
+pure-power,en,rs,,e,,PURE POWER
+pure-power,fr,rs,,e,,FORCE PURE
+pure-power,it,rs,,e,,FORZAPURA
+pure-power,de,rs,,e,,MENTALKRAFT
+pure-power,es,rs,,e,,ENERGÍA PURA
+rain-dish,en,rs,,e,,RAIN DISH
+rain-dish,fr,rs,,e,,CUVETTE
+rain-dish,it,rs,,e,,COPRIPIOGGIA
+rain-dish,de,rs,,e,,REGENGENUSS
+rain-dish,es,rs,,e,,CURA LLUVIA
+rks-system,zh-simp,lgpe,,lgpe,,AR系统
+rks-system,zh-trad,lgpe,,lgpe,,AR系統
+rock-head,en,rs,,e,,ROCK HEAD
+rock-head,fr,rs,,e,,TETE DE ROC
+rock-head,it,rs,,e,,TESTADURA
+rock-head,de,rs,,e,,STEINHAUPT
+rock-head,es,rs,,e,,CABEZA ROCA
+rough-skin,en,rs,,e,,ROUGH SKIN
+rough-skin,fr,rs,,e,,PEAU DURE
+rough-skin,it,rs,,e,,CARTAVETRO
+rough-skin,de,rs,,e,,RAUHAUT
+rough-skin,es,rs,,e,,PIEL TOSCA
+run-away,en,rs,,e,,RUN AWAY
+run-away,fr,rs,,e,,FUITE
+run-away,it,rs,,e,,FUGAFACILE
+run-away,de,rs,,e,,ANGSTHASE
+run-away,es,rs,,e,,FUGA
+sand-stream,en,rs,,e,,SAND STREAM
+sand-stream,fr,rs,,e,,SABLE VOLANT
+sand-stream,it,rs,,e,,SABBIAFIUME
+sand-stream,de,rs,,e,,SANDSTURM
+sand-stream,es,rs,,e,,CHORRO ARENA
+sand-veil,en,rs,,e,,SAND VEIL
+sand-veil,fr,rs,,e,,VOILE SABLE
+sand-veil,it,rs,,e,,SABBIAVELO
+sand-veil,de,rs,,e,,SANDSCHLEIER
+sand-veil,es,rs,,e,,VELO ARENA
+serene-grace,en,rs,,e,,SERENE GRACE
+serene-grace,fr,rs,,e,,SERENITE
+serene-grace,it,rs,,e,,LEGGIADRO
+serene-grace,de,rs,,e,,EDELMUT
+serene-grace,es,rs,,e,,DICHA
+shadow-tag,en,rs,,e,,SHADOW TAG
+shadow-tag,fr,rs,,e,,MARQUE OMBRE
+shadow-tag,it,rs,,e,,PEDINOMBRA
+shadow-tag,de,rs,,e,,WEGSPERRE
+shadow-tag,es,rs,,e,,SOMBRATRAMPA
+shadow-tag,es,dp,,b2w2,,Sombratrampa
+shed-skin,en,rs,,e,,SHED SKIN
+shed-skin,fr,rs,,e,,MUE
+shed-skin,it,rs,,e,,MUTA
+shed-skin,de,rs,,e,,EXPIDERMIS
+shed-skin,es,rs,,e,,MUDAR
+sheer-force,es,bw,,b2w2,,Pot. Bruta
+shell-armor,en,rs,,e,,SHELL ARMOR
+shell-armor,fr,rs,,e,,COQUE ARMURE
+shell-armor,it,rs,,e,,GUSCIOSCUDO
+shell-armor,de,rs,,e,,PANZERHAUT
+shell-armor,es,rs,,e,,CAPARAZÓN
+shield-dust,en,rs,,e,,SHIELD DUST
+shield-dust,fr,rs,,e,,ECRAN POUDRE
+shield-dust,fr,dp,,hgss,,Ecran Poudre
+shield-dust,it,rs,,e,,POLVOSCUDO
+shield-dust,de,rs,,e,,PUDERABWEHR
+shield-dust,es,rs,,e,,POLVO ESCUDO
+sniper,es,dp,,b2w2,,Francotirad.
+snow-warning,de,dp,,la,,Hagelalarm
+soundproof,en,rs,,e,,SOUNDPROOF
+soundproof,fr,rs,,e,,ANTI-BRUIT
+soundproof,it,rs,,e,,ANTISUONO
+soundproof,de,rs,,e,,LÄRMSCHUTZ
+soundproof,es,rs,,e,,INSONORIZAR
+speed-boost,en,rs,,e,,SPEED BOOST
+speed-boost,fr,rs,,e,,TURBO
+speed-boost,it,rs,,e,,ACCELERATORE
+speed-boost,de,rs,,e,,TEMPOSCHUB
+speed-boost,es,rs,,e,,IMPULSO
+static,en,rs,,e,,STATIC
+static,fr,rs,,e,,STATIK
+static,it,rs,,e,,STATICO
+static,de,rs,,e,,STATIK
+static,es,rs,,e,,ELEC. ESTÁT.
+static,es,dp,,b2w2,,Elec. Estát.
+stench,en,rs,,e,,STENCH
+stench,fr,rs,,e,,PUANTEUR
+stench,it,rs,,e,,TANFO
+stench,de,rs,,e,,DUFTNOTE
+stench,es,rs,,e,,HEDOR
+sticky-hold,en,rs,,e,,STICKY HOLD
+sticky-hold,fr,rs,,e,,GLUE
+sticky-hold,fr,dp,,lgpe,,Glue
+sticky-hold,it,rs,,e,,ANTIFURTO
+sticky-hold,de,rs,,e,,WERTEHALTER
+sticky-hold,de,dp,,lgpe,,Wertehalter
+sticky-hold,es,rs,,e,,VISCOSIDAD
+sturdy,en,rs,,e,,STURDY
+sturdy,fr,rs,,e,,FERMETE
+sturdy,it,rs,,e,,VIGORE
+sturdy,de,rs,,e,,ROBUSTHEIT
+sturdy,es,rs,,e,,ROBUSTEZ
+suction-cups,en,rs,,e,,SUCTION CUPS
+suction-cups,fr,rs,,e,,VENTOUSE
+suction-cups,it,rs,,e,,VENTOSE
+suction-cups,de,rs,,e,,SAUGNAPF
+suction-cups,es,rs,,e,,VENTOSAS
+swarm,en,rs,,e,,SWARM
+swarm,fr,rs,,e,,ESSAIM
+swarm,it,rs,,e,,AIUTINSETTO
+swarm,de,rs,,e,,HEXAPLAGA
+swarm,es,rs,,e,,ENJAMBRE
+swift-swim,en,rs,,e,,SWIFT SWIM
+swift-swim,fr,rs,,e,,GLISSADE
+swift-swim,it,rs,,e,,NUOTOVELOX
+swift-swim,de,rs,,e,,WASSERTEMPO
+swift-swim,es,rs,,e,,NADO RÁPIDO
+symbiosis,de,xy,,la,,Nutznießer
+synchronize,en,rs,,e,,SYNCHRONIZE
+synchronize,fr,rs,,e,,SYNCHRO
+synchronize,it,rs,,e,,SINCRONISMO
+synchronize,de,rs,,e,,SYNCHRO
+synchronize,es,rs,,e,,SINCRONÍA
+tangled-feet,de,dp,,la,,Fußangel
+thick-fat,en,rs,,e,,THICK FAT
+thick-fat,fr,rs,,e,,ISOGRAISSE
+thick-fat,it,rs,,e,,GRASSOSPESSO
+thick-fat,de,rs,,e,,SPECKSCHICHT
+thick-fat,es,rs,,e,,SEBO
+torrent,en,rs,,e,,TORRENT
+torrent,fr,rs,,e,,TORRENT
+torrent,it,rs,,e,,ACQUAIUTO
+torrent,de,rs,,e,,STURZBACH
+torrent,es,rs,,e,,TORRENTE
+toxic-boost,es,bw,,b2w2,,Ím. Tóxico
+trace,en,rs,,e,,TRACE
+trace,fr,rs,,e,,CALQUE
+trace,it,rs,,e,,TRACCIA
+trace,de,rs,,e,,FÄHRTE
+trace,de,dp,,lgpe,,Fährte
+trace,es,rs,,e,,RASTRO
+trace,es,dp,,la,,Rastro
+truant,en,rs,,e,,TRUANT
+truant,fr,rs,,e,,ABSENTEISME
+truant,it,rs,,e,,PIGRONE
+truant,de,rs,,e,,SCHNARCHNASE
+truant,es,rs,,e,,AUSENTE
+truant,es,dp,,la,,Ausente
+turboblaze,fr,bw,,lgpe,,TurboBrasier
+vital-spirit,en,rs,,e,,VITAL SPIRIT
+vital-spirit,fr,rs,,e,,ESPRIT VITAL
+vital-spirit,it,rs,,e,,SPIRITOVIVO
+vital-spirit,de,rs,,e,,MUNTERKEIT
+vital-spirit,es,rs,,e,,ESPÍR. VITAL
+vital-spirit,es,dp,,b2w2,,Espír. Vital
+volt-absorb,en,rs,,e,,VOLT ABSORB
+volt-absorb,fr,rs,,e,,ABSORB VOLT
+volt-absorb,fr,dp,,lgpe,,Absorb Volt
+volt-absorb,it,rs,,e,,ASSORBIVOLT
+volt-absorb,de,rs,,e,,VOLTABSORBER
+volt-absorb,es,rs,,e,,ABSOR. ELEC.
+volt-absorb,es,dp,,b2w2,,Absor. Elec.
+water-absorb,en,rs,,e,,WATER ABSORB
+water-absorb,fr,rs,,e,,ABSORB EAU
+water-absorb,fr,dp,,lgpe,,Absorb Eau
+water-absorb,it,rs,,e,,ASSORBACQUA
+water-absorb,de,rs,,e,,H2O-ABSORBER
+water-absorb,es,rs,,e,,ABSOR. AGUA
+water-absorb,es,dp,,b2w2,,Absor. Agua
+water-veil,en,rs,,e,,WATER VEIL
+water-veil,fr,rs,,e,,IGNIFU-VOILE
+water-veil,it,rs,,e,,IDROVELO
+water-veil,de,rs,,e,,AQUAHÜLLE
+water-veil,es,rs,,e,,VELO AGUA
+weak-armor,es,bw,,b2w2,,Arm. Frágil
+white-smoke,en,rs,,e,,WHITE SMOKE
+white-smoke,fr,rs,,e,,ECRAN FUMEE
+white-smoke,fr,dp,,hgss,,Ecran Fumée
+white-smoke,it,rs,,e,,FUMOCHIARO
+white-smoke,de,rs,,e,,PULVERRAUCH
+white-smoke,es,rs,,e,,HUMO BLANCO
+wonder-guard,en,rs,,e,,WONDER GUARD
+wonder-guard,fr,rs,,e,,GARDE MYSTIK
+wonder-guard,it,rs,,e,,MAGIDIFESA
+wonder-guard,de,rs,,e,,WUNDERWACHE
+wonder-guard,es,rs,,e,,SUPERGUARDA.

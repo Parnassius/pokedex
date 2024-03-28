@@ -30,7 +30,8 @@ class GameGroupCollectionTable(BaseCollectionTable):
     )
 
     @declared_attr
-    def game_group(self) -> Mapped[tables.GameGroup]:
+    @classmethod
+    def game_group(cls) -> Mapped[tables.GameGroup]:
         return relationship(viewonly=True)
 
     @property
@@ -44,7 +45,8 @@ class GameCollectionTable(BaseCollectionTable):
     )
 
     @declared_attr
-    def game(self) -> Mapped[tables.Game]:
+    @classmethod
+    def game(cls) -> Mapped[tables.Game]:
         return relationship(viewonly=True)
 
     @property
@@ -104,7 +106,8 @@ class TranslationsTable(BaseCollectionTable):
     )
 
     @declared_attr
-    def language(self) -> Mapped[tables.Language]:
+    @classmethod
+    def language(cls) -> Mapped[tables.Language]:
         return relationship(viewonly=True)
 
     @property
@@ -132,6 +135,27 @@ class TranslationsTable(BaseCollectionTable):
 
 
 TranslationsTableT = TypeVar("TranslationsTableT", bound=TranslationsTable)
+
+
+class TranslationChangesTable(TranslationsTable):
+    game_group_identifier_from: Mapped[enums.GameGroup] = mapped_column(
+        ForeignKey("game_groups.identifier"), primary_key=True
+    )
+    game_revision_from: Mapped[str] = mapped_column(primary_key=True)
+    game_group_identifier_to: Mapped[enums.GameGroup] = mapped_column(
+        ForeignKey("game_groups.identifier"), primary_key=True
+    )
+    game_revision_to: Mapped[str] = mapped_column(primary_key=True)
+
+    @declared_attr
+    @classmethod
+    def game_group_from(cls) -> Mapped[tables.GameGroup]:
+        return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_from)
+
+    @declared_attr
+    @classmethod
+    def game_group_to(cls) -> Mapped[tables.GameGroup]:
+        return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_to)
 
 
 class GameGroupTranslationsTable(GameGroupCollectionTable, TranslationsTable):

@@ -59,8 +59,8 @@ class Ability(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.GameGroupTranslationsCollection[AbilityName]] = (
-        relationship(viewonly=True)
+    names: Mapped[collections.TranslationsCollection[AbilityName]] = relationship(
+        viewonly=True
     )
 
     pokemon: Mapped[collections.GameGroupSequenceCollection[PokemonAbility]] = (
@@ -68,7 +68,7 @@ class Ability(Base):
     )
 
 
-class AbilityName(mixins.GameGroupTranslationsTable, Base):
+class AbilityName(mixins.TranslationsTable, Base):
     __tablename__ = "ability_names"
 
     ability_identifier: Mapped[strpk] = mapped_column(
@@ -82,8 +82,8 @@ class AbilityName(mixins.GameGroupTranslationsTable, Base):
     ability: Mapped[Ability] = relationship(viewonly=True)
 
 
-class AbilityNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
-    __tablename__ = "ability_names_revision"
+class AbilityNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "ability_name_changes"
 
     ability_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("abilities.identifier")
@@ -164,7 +164,7 @@ class Item(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.GameGroupTranslationsCollection[ItemName]] = relationship(
+    names: Mapped[collections.TranslationsCollection[ItemName]] = relationship(
         viewonly=True
     )
 
@@ -188,7 +188,7 @@ class Item(Base):
         )
 
 
-class ItemName(mixins.GameGroupTranslationsTable, Base):
+class ItemName(mixins.TranslationsTable, Base):
     __tablename__ = "item_names"
 
     item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
@@ -200,8 +200,8 @@ class ItemName(mixins.GameGroupTranslationsTable, Base):
     item: Mapped[Item] = relationship(viewonly=True)
 
 
-class ItemNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
-    __tablename__ = "item_names_revision"
+class ItemNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "item_name_changes"
 
     item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
     name: Mapped[str]
@@ -224,12 +224,12 @@ class Move(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.GameGroupTranslationsCollection[MoveName]] = relationship(
+    names: Mapped[collections.TranslationsCollection[MoveName]] = relationship(
         viewonly=True
     )
 
 
-class MoveName(mixins.GameGroupTranslationsTable, Base):
+class MoveName(mixins.TranslationsTable, Base):
     __tablename__ = "move_names"
 
     move_identifier: Mapped[strpk] = mapped_column(ForeignKey("moves.identifier"))
@@ -241,8 +241,8 @@ class MoveName(mixins.GameGroupTranslationsTable, Base):
     move: Mapped[Move] = relationship(viewonly=True)
 
 
-class MoveNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
-    __tablename__ = "move_names_revision"
+class MoveNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "move_name_changes"
 
     move_identifier: Mapped[strpk] = mapped_column(ForeignKey("moves.identifier"))
     name: Mapped[str]
@@ -259,13 +259,25 @@ class Nature(Base):
     identifier: Mapped[strpk]
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
-    names: Mapped[collections.GameGroupTranslationsCollection[NatureName]] = (
-        relationship(viewonly=True)
+    names: Mapped[collections.TranslationsCollection[NatureName]] = relationship(
+        viewonly=True
     )
 
 
-class NatureName(mixins.GameGroupTranslationsTable, Base):
+class NatureName(mixins.TranslationsTable, Base):
     __tablename__ = "nature_names"
+
+    nature_identifier: Mapped[strpk] = mapped_column(ForeignKey("natures.identifier"))
+    name: Mapped[str]
+    normalized_name: Mapped[str] = mapped_column(
+        index=True, default=_normalized_value("name")
+    )
+
+    nature: Mapped[Nature] = relationship(viewonly=True)
+
+
+class NatureNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "nature_name_changes"
 
     nature_identifier: Mapped[strpk] = mapped_column(ForeignKey("natures.identifier"))
     name: Mapped[str]
@@ -287,7 +299,7 @@ class Pokemon(Base):
 
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
 
-    form_names: Mapped[collections.GameGroupTranslationsCollection[PokemonFormName]] = (
+    form_names: Mapped[collections.TranslationsCollection[PokemonFormName]] = (
         relationship(viewonly=True)
     )
     abilities: Mapped[
@@ -390,8 +402,20 @@ class PokemonFlavorTextRevision(mixins.GameRevisionTranslationsTable, Base):
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
 
 
-class PokemonFormName(mixins.GameGroupTranslationsTable, Base):
+class PokemonFormName(mixins.TranslationsTable, Base):
     __tablename__ = "pokemon_form_names"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    name: Mapped[str]
+    normalized_name: Mapped[str] = mapped_column(
+        index=True, default=_normalized_value("name")
+    )
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+
+
+class PokemonFormNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "pokemon_form_name_changes"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     name: Mapped[str]
@@ -412,12 +436,12 @@ class PokemonSpecies(Base):
         order_by="Pokemon.form_order", viewonly=True
     )
 
-    names: Mapped[collections.GameGroupTranslationsCollection[PokemonSpeciesName]] = (
+    names: Mapped[collections.TranslationsCollection[PokemonSpeciesName]] = (
         relationship(viewonly=True)
     )
 
 
-class PokemonSpeciesName(mixins.GameGroupTranslationsTable, Base):
+class PokemonSpeciesName(mixins.TranslationsTable, Base):
     __tablename__ = "pokemon_species_names"
 
     pokemon_species_identifier: Mapped[strpk] = mapped_column(
@@ -431,8 +455,8 @@ class PokemonSpeciesName(mixins.GameGroupTranslationsTable, Base):
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
 
 
-class PokemonSpeciesNameRevision(mixins.GameGroupRevisionTranslationsTable, Base):
-    __tablename__ = "pokemon_species_names_revision"
+class PokemonSpeciesNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "pokemon_species_name_changes"
 
     pokemon_species_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("pokemon_species.identifier")
@@ -522,13 +546,25 @@ class Stat(Base):
     identifier: Mapped[strpk]
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
-    names: Mapped[collections.GameGroupTranslationsCollection[StatName]] = relationship(
+    names: Mapped[collections.TranslationsCollection[StatName]] = relationship(
         viewonly=True
     )
 
 
-class StatName(mixins.GameGroupTranslationsTable, Base):
+class StatName(mixins.TranslationsTable, Base):
     __tablename__ = "stat_names"
+
+    stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
+    name: Mapped[str]
+    normalized_name: Mapped[str] = mapped_column(
+        index=True, default=_normalized_value("name")
+    )
+
+    stat: Mapped[Stat] = relationship(viewonly=True)
+
+
+class StatNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "stat_name_changes"
 
     stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
     name: Mapped[str]
@@ -545,7 +581,7 @@ class Type(Base):
     identifier: Mapped[strpk]
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
-    names: Mapped[collections.GameGroupTranslationsCollection[TypeName]] = relationship(
+    names: Mapped[collections.TranslationsCollection[TypeName]] = relationship(
         viewonly=True
     )
 
@@ -554,8 +590,20 @@ class Type(Base):
     )
 
 
-class TypeName(mixins.GameGroupTranslationsTable, Base):
+class TypeName(mixins.TranslationsTable, Base):
     __tablename__ = "type_names"
+
+    type_identifier: Mapped[strpk] = mapped_column(ForeignKey("types.identifier"))
+    name: Mapped[str]
+    normalized_name: Mapped[str] = mapped_column(
+        index=True, default=_normalized_value("name")
+    )
+
+    type: Mapped[Type] = relationship(viewonly=True)
+
+
+class TypeNameChange(mixins.TranslationChangesTable, Base):
+    __tablename__ = "type_name_changes"
 
     type_identifier: Mapped[strpk] = mapped_column(ForeignKey("types.identifier"))
     name: Mapped[str]

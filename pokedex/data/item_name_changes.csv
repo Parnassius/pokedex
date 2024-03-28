@@ -1,0 +1,3761 @@
+item_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+ability-capsule,de,xy,,la,,Fähigk.-Kapsel
+ability-capsule,es,xy,,la,,Cáps. Habilidad
+ability-patch,de,ss,,la,,Fähigk.-Pflaster
+ability-urge,fr,bw,,b2w2,,Appel CapSpé
+ability-urge,de,bw,,oras,,Fäh.-Appell
+ability-urge,de,sm,,la,,Fähigk.-Appell
+acro-bike,en,rs,,e,,ACRO BIKE
+acro-bike,fr,rs,,e,,VELO CROSS
+acro-bike,it,rs,,e,,BICI CROSS
+acro-bike,de,rs,,e,,KUNSTRAD
+acro-bike,es,rs,,e,,BICI ACROB.
+adrenaline-orb,de,sm,,la,,Zitterorb
+adventure-guide,en,xy,,lgpe,,Adventure Rules
+adventure-guide,it,xy,,la,,Guida Avventura
+adventure-guide,es,xy,,lgpe,,Guía de Máximas
+aguav-berry,en,rs,,e,,AGUAV BERRY
+aguav-berry,fr,rs,,e,,BAIE GOWAV
+aguav-berry,it,rs,,e,,BACCAGUAVA
+aguav-berry,de,rs,,e,,GAUVEBEERE
+aguav-berry,es,rs,,e,,BAYA GUAYA
+amulet-coin,en,gs,,e,,AMULET COIN
+amulet-coin,fr,gs,,e,,PIECE RUNE
+amulet-coin,it,gs,,e,,MONETAMULETO
+amulet-coin,de,gs,,e,,MÜNZAMULETT
+amulet-coin,es,gs,,e,,MON. AMULETO
+amulet-coin,es,dp,,b2w2,,Mon. Amuleto
+amulet-coin,ko,gs,,gs,,부적 금화
+antidote,en,rb,,e,,ANTIDOTE
+antidote,fr,rb,,e,,ANTIDOTE
+antidote,it,rb,,e,,ANTIDOTO
+antidote,de,rb,,e,,GEGENGIFT
+antidote,es,rb,,e,,ANTÍDOTO
+apicot-berry,en,rs,,e,,APICOT BERRY
+apicot-berry,fr,rs,,e,,BAIE ABRIKO
+apicot-berry,it,rs,,e,,BACCACOCCA
+apicot-berry,de,rs,,e,,APIKOBEERE
+apicot-berry,es,rs,,e,,BAYA ARICOC
+apricorn-box,fr,hgss,,b2w2,,Bte Noigrume
+armor-fossil,fr,dp,,b2w2,,Foss. Armure
+aspear-berry,en,rs,,e,,ASPEAR BERRY
+aspear-berry,fr,rs,,e,,BAIE WILLIA
+aspear-berry,it,rs,,e,,BACCAPERINA
+aspear-berry,de,rs,,e,,WILBIRBEERE
+aspear-berry,es,rs,,e,,BAYA PERASI
+awakening,en,rb,,e,,AWAKENING
+awakening,fr,rb,,e,,REVEIL
+awakening,it,rb,,e,,SVEGLIA
+awakening,de,rb,,e,,AUFWECKER
+awakening,es,rb,,e,,DESPERTAR
+awakening,ko,gs,,gs,,잠깨는 약
+azure-flute,it,dp,,ss,,Flauto Cielo
+balm-mushroom,en,bw,,b2w2,,BalmMushroom
+basement-key--goldenrod-tunnel,jp-kana,gs,,c,,ちかのカギ
+basement-key--goldenrod-tunnel,en,gs,,c,,BASEMENT KEY
+basement-key--goldenrod-tunnel,fr,gs,,c,,CLE SOUS-SOL
+basement-key--goldenrod-tunnel,it,gs,,c,,CHIAVE SOTT.
+basement-key--goldenrod-tunnel,it,hgss,,b2w2,,Chiave Sott.
+basement-key--goldenrod-tunnel,it,xy,,xy,,Chiave Sotterr.
+basement-key--goldenrod-tunnel,de,gs,,c,,KELLERÖFFNER
+basement-key--goldenrod-tunnel,es,gs,,c,,LL. SÓTANO
+basement-key--goldenrod-tunnel,es,hgss,,b2w2,,Ll. Sótano
+basement-key--goldenrod-tunnel,es,xy,,la,,Llave Sótano
+basement-key--goldenrod-tunnel,ko,gs,,gs,,지하의 열쇠
+basement-key--new-mauville,en,rs,,e,,BASEMENT KEY
+basement-key--new-mauville,fr,rs,,e,,CLE SOUS-SOL
+basement-key--new-mauville,it,rs,,e,,CHIAVE SOTT.
+basement-key--new-mauville,de,rs,,e,,KELLERÖFFNER
+basement-key--new-mauville,es,rs,,e,,LL. SÓTANO
+belue-berry,en,rs,,e,,BELUE BERRY
+belue-berry,fr,rs,,e,,BAIE MYRTE
+belue-berry,it,rs,,e,,BACCARTILLO
+belue-berry,de,rs,,e,,MYRTILBEERE
+belue-berry,es,rs,,e,,BAYA ANDANO
+berry-juice,en,gs,,e,,BERRY JUICE
+berry-juice,fr,gs,,e,,JUS DE BAIE
+berry-juice,it,gs,,e,,SUCCODIBACCA
+berry-juice,it,dp,,la,,Succodibacca
+berry-juice,de,gs,,e,,BEERENSAFT
+berry-juice,es,gs,,e,,ZUMO DE BAYA
+big-mushroom,en,gs,,e,,BIG MUSHROOM
+big-mushroom,fr,gs,,e,,GROS CHAMPI
+big-mushroom,it,gs,,e,,GRANDE FUNGO
+big-mushroom,it,dp,,la,,Grande Fungo
+big-mushroom,de,gs,,e,,RIESENPILZ
+big-mushroom,es,gs,,e,,SETA GRANDE
+big-mushroom,ko,gs,,gs,,큰 버섯
+big-pearl,en,gs,,e,,BIG PEARL
+big-pearl,fr,gs,,e,,GRANDE PERLE
+big-pearl,it,gs,,e,,GRANDE PERLA
+big-pearl,it,dp,,la,,Grande Perla
+big-pearl,de,gs,,e,,RIESENPERLE
+big-pearl,es,gs,,e,,PERLA GRANDE
+big-pearl,ko,gs,,gs,,큰 진주
+big-root,fr,dp,,b2w2,,Grosseracine
+bike,en,rb,,e,,BICYCLE
+bike,en,dp,,xy,,Bicycle
+bike,fr,rb,,e,,BICYCLETTE
+bike,it,rb,,e,,BICICLETTA
+bike,de,rb,,e,,FAHRRAD
+bike,es,rb,,e,,BICICLETA
+bike--yellow,en,xy,,xy,,Bicycle
+binding-band,fr,bw,,b2w2,,B. Étreinte
+binding-band,es,bw,,b2w2,,Ban. Atadura
+black-apricorn,en,gs,,c,,BLK APRICORN
+black-apricorn,en,hgss,,b2w2,,Blk Apricorn
+black-apricorn,fr,gs,,c,,NOIGRUME NOI
+black-apricorn,fr,hgss,,oras,,Noigrume Noi
+black-apricorn,it,gs,,c,,GHICOC.NERA
+black-apricorn,it,hgss,,b2w2,,Ghic. Nera
+black-apricorn,it,xy,,la,,Ghicocca Nera
+black-apricorn,de,gs,,c,,APRIKOKO SWZ
+black-apricorn,de,hgss,,lgpe,,Aprikoko Swz
+black-apricorn,es,gs,,c,,BONGURI NEG
+black-apricorn,es,hgss,,b2w2,,Bonguri Neg
+black-apricorn,ko,gs,,gs,,검은 규토리
+black-belt,en,gs,,c,,BLACKBELT
+black-belt,en,rs,,e,,BLACK BELT
+black-belt,fr,gs,,e,,CEINT.NOIRE
+black-belt,fr,dp,,b2w2,,Ceint.Noire
+black-belt,it,gs,,e,,CINTURANERA
+black-belt,it,dp,,la,,Cinturanera
+black-belt,de,gs,,e,,SCHWARZGURT
+black-belt,es,gs,,e,,CINT. NEGRO
+black-belt,es,dp,,b2w2,,Cint. Negro
+black-flute,en,rs,,e,,BLACK FLUTE
+black-flute,fr,rs,,e,,FLUTE NOIRE
+black-flute,it,rs,,e,,FLAUTO NERO
+black-flute,it,dp,,la,,Flauto Nero
+black-flute,de,rs,,e,,SCHW. FLÖTE
+black-flute,de,dp,,oras,,Schw. Flöte
+black-flute,es,rs,,e,,FLAUTA NEGRA
+black-glasses,en,gs,,e,,BLACKGLASSES
+black-glasses,en,dp,,b2w2,,BlackGlasses
+black-glasses,fr,gs,,e,,LUNET.NOIRES
+black-glasses,fr,dp,,b2w2,,Lunet.Noires
+black-glasses,it,gs,,e,,OCCHIALINERI
+black-glasses,de,gs,,e,,SCHATTENGLAS
+black-glasses,de,dp,,lgpe,,Schattenglas
+black-glasses,es,gs,,e,,GAFAS DE SOL
+black-glasses,ko,gs,,gs,,검은 안경
+black-sludge,ko,dp,,la,,검은진흙
+blue-apricorn,en,gs,,c,,BLU APRICORN
+blue-apricorn,en,hgss,,b2w2,,Blu Apricorn
+blue-apricorn,fr,gs,,c,,NOIGRUME BLU
+blue-apricorn,fr,hgss,,oras,,Noigrume Blu
+blue-apricorn,it,gs,,c,,GHICOCCA BLU
+blue-apricorn,it,hgss,,b2w2,,Ghic. Blu
+blue-apricorn,it,xy,,la,,Ghicocca Blu
+blue-apricorn,de,gs,,c,,APRIKOKO BLU
+blue-apricorn,de,hgss,,lgpe,,Aprikoko Blu
+blue-apricorn,es,gs,,c,,BONGURI AZU
+blue-apricorn,es,hgss,,b2w2,,Bonguri Azu
+blue-apricorn,ko,gs,,gs,,파란 규토리
+blue-card,en,c,,c,,BLUE CARD
+blue-card,fr,c,,c,,CARTE BLEUE
+blue-card,it,c,,c,,CARTA BLU
+blue-card,it,hgss,,la,,Carta Blu
+blue-card,de,c,,c,,BLAUE KARTE
+blue-card,es,c,,c,,TARJETA AZUL
+blue-flute,en,rs,,e,,BLUE FLUTE
+blue-flute,fr,rs,,e,,FLUTE BLEUE
+blue-flute,it,rs,,e,,FLAUTO BLU
+blue-flute,it,dp,,la,,Flauto Blu
+blue-flute,de,rs,,e,,BLAUE FLÖTE
+blue-flute,es,rs,,e,,FLAUTA AZUL
+blue-orb,en,rs,,e,,BLUE ORB
+blue-orb,fr,rs,,e,,ORBE BLEU
+blue-orb,fr,hgss,,xy,,Orbe Bleu
+blue-orb,it,rs,,e,,SFERA BLU
+blue-orb,it,hgss,,xy,,Sfera Blu
+blue-orb,de,rs,,e,,BLAUE KUGEL
+blue-orb,de,hgss,,xy,,Blaue Kugel
+blue-orb,es,rs,,e,,ESFERA AZUL
+blue-orb,es,hgss,,xy,,Esfera Azul
+blue-scarf,en,rs,,e,,BLUE SCARF
+blue-scarf,fr,rs,,e,,FOUL. BLEU
+blue-scarf,fr,dp,,b2w2,,Foul. Bleu
+blue-scarf,it,rs,,e,,FASCIA BLU
+blue-scarf,it,dp,,la,,Fascia Blu
+blue-scarf,de,rs,,e,,BLAUER SCHAL
+blue-scarf,es,rs,,e,,PAÑUELO AZUL
+blue-shard,en,rs,,e,,BLUE SHARD
+blue-shard,fr,rs,,e,,TESSON BLEU
+blue-shard,it,rs,,e,,COCCIO BLU
+blue-shard,it,dp,,la,,Coccio Blu
+blue-shard,de,rs,,e,,INDIGOSTÜCK
+blue-shard,es,rs,,e,,PARTE AZUL
+bluk-berry,en,rs,,e,,BLUK BERRY
+bluk-berry,fr,rs,,e,,BAIE REMU
+bluk-berry,it,rs,,e,,BACCAMORA
+bluk-berry,de,rs,,e,,MORBBEERE
+bluk-berry,es,rs,,e,,BAYA ORAM
+bottle-cap,ko,sm,,la,,은왕관
+bridge-mail-d,en,bw,,b2w2,,BridgeMail D
+bridge-mail-d,fr,bw,,oras,,Lettre PontY
+bridge-mail-d,it,bw,,la,,Mess. Libec.
+bridge-mail-d,es,bw,,b2w2,,C. Puente F
+bridge-mail-m,en,bw,,b2w2,,BridgeMail M
+bridge-mail-m,fr,bw,,oras,,Lettre PontI
+bridge-mail-m,it,bw,,la,,Mess. Merav.
+bridge-mail-m,es,bw,,b2w2,,C. Puente P
+bridge-mail-s,en,bw,,b2w2,,BridgeMail S
+bridge-mail-s,fr,bw,,oras,,Lettre PontS
+bridge-mail-s,it,bw,,la,,Mess. Frec.
+bridge-mail-s,es,bw,,b2w2,,C. Puente S
+bridge-mail-t,en,bw,,b2w2,,BridgeMail T
+bridge-mail-t,fr,bw,,oras,,Lettre PontF
+bridge-mail-t,it,bw,,la,,Mess. Prop.
+bridge-mail-t,es,bw,,b2w2,,C. Puente A
+bridge-mail-v,en,bw,,b2w2,,BridgeMail V
+bridge-mail-v,fr,bw,,oras,,Lettre PontH
+bridge-mail-v,it,bw,,la,,Mess. Vill.
+bridge-mail-v,es,bw,,b2w2,,C. Puente V
+bright-powder,en,gs,,e,,BRIGHTPOWDER
+bright-powder,en,dp,,b2w2,,BrightPowder
+bright-powder,fr,gs,,e,,POUDRECLAIRE
+bright-powder,fr,dp,,b2w2,,Poudreclaire
+bright-powder,it,gs,,e,,LUMINPOLVERE
+bright-powder,de,gs,,e,,BLENDPUDER
+bright-powder,es,gs,,e,,POLVO BRILLO
+bug-gem,fr,bw,,b2w2,,Joyau Insect
+bug-gem,it,bw,,b2w2,,Bijoucoleot.
+bug-gem,es,bw,,b2w2,,G. Bicho
+burn-heal,en,rb,,e,,BURN HEAL
+burn-heal,fr,rb,,e,,ANTI-BRULE
+burn-heal,it,rb,,e,,ANTISCOTTAT.
+burn-heal,it,dp,,b2w2,,Antiscottat.
+burn-heal,de,rb,,e,,FEUERHEILER
+burn-heal,es,rb,,e,,ANTIQUEMAR
+burn-heal,ko,gs,,gs,,화상 치료제
+calcium,en,rb,,e,,CALCIUM
+calcium,fr,rb,,e,,CALCIUM
+calcium,it,rb,,e,,CALCIO
+calcium,de,rb,,e,,KALZIUM
+calcium,es,rb,,e,,CALCIO
+carbos,en,rb,,e,,CARBOS
+carbos,fr,rb,,e,,CARBONE
+carbos,it,rb,,e,,CARBURANTE
+carbos,de,rb,,e,,CARBON
+carbos,es,rb,,e,,CARBURANTE
+card-key--goldenrod-radio-tower,en,gs,,c,,CARD KEY
+card-key--goldenrod-radio-tower,fr,gs,,c,,CARTE MAGN.
+card-key--goldenrod-radio-tower,fr,hgss,,b2w2,,Carte Magn.
+card-key--goldenrod-radio-tower,it,gs,,c,,APRIPORTA
+card-key--goldenrod-radio-tower,de,gs,,c,,TÜRÖFFNER
+card-key--goldenrod-radio-tower,de,hgss,,usum,,Türöffner
+card-key--goldenrod-radio-tower,es,gs,,c,,LL.MAGNÉTICA
+card-key--goldenrod-radio-tower,es,hgss,,b2w2,,Ll.Magnética
+card-key--silph-co,en,rb,,e,,CARD KEY
+card-key--silph-co,fr,rb,,e,,CARTE MAGN.
+card-key--silph-co,it,rb,,e,,APRIPORTA
+card-key--silph-co,de,rb,,e,,TÜRÖFFNER
+card-key--silph-co,es,rb,,e,,LL.MAGNÉTICA
+charcoal,en,gs,,e,,CHARCOAL
+charcoal,fr,gs,,e,,CHARBON
+charcoal,it,gs,,e,,CARBONELLA
+charcoal,de,gs,,e,,HOLZKOHLE
+charcoal,es,gs,,e,,CARBÓN
+cheri-berry,en,rs,,e,,CHERI BERRY
+cheri-berry,fr,rs,,e,,BAIE CERIZ
+cheri-berry,it,rs,,e,,BACCALIEGIA
+cheri-berry,de,rs,,e,,AMRENABEERE
+cheri-berry,es,rs,,e,,BAYA ZREZA
+chesto-berry,en,rs,,e,,CHESTO BERRY
+chesto-berry,fr,rs,,e,,BAIE MARON
+chesto-berry,it,rs,,e,,BACCASTAGNA
+chesto-berry,de,rs,,e,,MARONBEERE
+chesto-berry,es,rs,,e,,BAYA ATANIA
+choice-band,en,rs,,e,,CHOICE BAND
+choice-band,fr,rs,,e,,BAND. CHOIX
+choice-band,fr,dp,,b2w2,,Band. Choix
+choice-band,it,rs,,e,,BENDASCELTA
+choice-band,de,rs,,e,,WAHLBAND
+choice-band,es,rs,,e,,CIN. ELEGIDA
+choice-band,es,dp,,b2w2,,Cin. Elegida
+choice-band,es,xy,,lgpe,,Cinta Elegida
+choice-scarf,fr,dp,,b2w2,,Mouch. Choix
+choice-scarf,es,dp,,b2w2,,Pañ. Elegido
+choice-scarf,es,xy,,lgpe,,Pañuelo Elegido
+choice-specs,fr,dp,,b2w2,,Lunet. Choix
+choice-specs,de,dp,,lgpe,,Wahlglas
+choice-specs,es,dp,,lgpe,,Gafas Elegid
+claw-fossil,en,rs,,e,,CLAW FOSSIL
+claw-fossil,fr,rs,,e,,FOSS. GRIFFE
+claw-fossil,fr,dp,,b2w2,,Foss. Griffe
+claw-fossil,it,rs,,e,,FOSSILUNGHIA
+claw-fossil,de,rs,,e,,KLAUENFOSSIL
+claw-fossil,es,rs,,e,,FÓSIL GARRA
+cleanse-tag,en,gs,,e,,CLEANSE TAG
+cleanse-tag,fr,gs,,e,,RUNE PURIF.
+cleanse-tag,fr,dp,,b2w2,,Rune Purif.
+cleanse-tag,it,gs,,e,,VELOPURO
+cleanse-tag,de,gs,,e,,SCHUTZBAND
+cleanse-tag,de,dp,,la,,Schutzband
+cleanse-tag,es,gs,,e,,AMULETO
+cleanse-tag,ko,gs,,gs,,순결의 부적
+clear-bell,en,c,,c,,CLEAR BELL
+clear-bell,fr,c,,c,,GLAS TRANSP.
+clear-bell,fr,hgss,,b2w2,,Glas Transp.
+clear-bell,it,c,,c,,CAMP.CHIARA
+clear-bell,it,hgss,,b2w2,,Camp. Chiara
+clear-bell,it,xy,,la,,Campana Chiara
+clear-bell,de,c,,c,,KLARGLOCKE
+clear-bell,es,c,,c,,CAMP. CLARA
+clear-bell,es,hgss,,b2w2,,Camp. Clara
+clear-bell,es,xy,,lgpe,,Campana Clara
+clever-feather,en,bw,,lgpe,,Clever Wing
+clever-feather,fr,bw,,lgpe,,Aile Mental
+clever-feather,es,bw,,b2w2,,P. Mente
+clever-feather,ko,bw,,la,,정신력날개
+coin-case,en,rb,,e,,COIN CASE
+coin-case,fr,rb,,c,,BOITE JETON
+coin-case,fr,rs,,e,,BOITE JETONS
+coin-case,it,rb,,e,,SALVADANAIO
+coin-case,de,rb,,e,,MÜNZKORB
+coin-case,es,rb,,e,,MONEDERO
+coin-case,ko,gs,,gs,,동전 케이스
+colress-machine,en,b2w2,,b2w2,,Colress MCHN
+comet-shard,fr,bw,,b2w2,,Morc. Comète
+comet-shard,it,bw,,la,,Pezzo Cometa
+comet-shard,es,bw,,b2w2,,Frag. Cometa
+contest-pass,en,rs,,e,,CONTEST PASS
+contest-pass,fr,rs,,e,,PASSECONCOUR
+contest-pass,fr,dp,,b2w2,,Passeconcour
+contest-pass,it,rs,,e,,TESSERA GARE
+contest-pass,de,rs,,e,,WETTB.-KARTE
+contest-pass,de,dp,,xy,,Wettb.-Karte
+contest-pass,es,rs,,e,,PASE CONCUR.
+contest-pass,es,dp,,b2w2,,Pase Concur.
+contest-pass,es,xy,,la,,Pase Concurso
+cornn-berry,en,rs,,e,,CORNN BERRY
+cornn-berry,fr,rs,,e,,BAIE SIAM
+cornn-berry,it,rs,,e,,BACCAVENA
+cornn-berry,de,rs,,e,,SAIMBEERE
+cornn-berry,es,rs,,e,,BAYA MAIS
+coupon-1,de,dp,,ss,,Kupon 1
+coupon-2,de,dp,,ss,,Kupon 2
+coupon-3,de,dp,,ss,,Kupon 3
+courage-candy-l,zh-simp,lgpe,,lgpe,,心灵糖果L
+courage-candy-l,zh-trad,lgpe,,lgpe,,心靈糖果L
+courage-candy-xl,zh-simp,lgpe,,lgpe,,心灵糖果XL
+courage-candy-xl,zh-trad,lgpe,,lgpe,,心靈糖果XL
+cover-fossil,fr,bw,,b2w2,,Foss. Plaque
+dark-gem,fr,bw,,b2w2,,Joyau Ténèbr
+dark-gem,es,bw,,b2w2,,G. Siniestra
+dark-gem,es,xy,,la,,Gema Siniestra
+data-card-01,it,hgss,,b2w2,,Sch. Dati 01
+data-card-01,it,xy,,la,,Scheda Dati 01
+data-card-01,es,hgss,,b2w2,,T. Datos 01
+data-card-01,zh-simp,lgpe,,lgpe,,数据卡01
+data-card-01,zh-trad,lgpe,,lgpe,,資料卡01
+data-card-02,it,hgss,,b2w2,,Sch. Dati 02
+data-card-02,it,xy,,la,,Scheda Dati 02
+data-card-02,es,hgss,,b2w2,,T. Datos 02
+data-card-02,zh-simp,lgpe,,lgpe,,数据卡02
+data-card-02,zh-trad,lgpe,,lgpe,,資料卡02
+data-card-03,it,hgss,,b2w2,,Sch. Dati 03
+data-card-03,it,xy,,la,,Scheda Dati 03
+data-card-03,es,hgss,,b2w2,,T. Datos 03
+data-card-03,zh-simp,lgpe,,lgpe,,数据卡03
+data-card-03,zh-trad,lgpe,,lgpe,,資料卡03
+data-card-04,it,hgss,,b2w2,,Sch. Dati 04
+data-card-04,it,xy,,la,,Scheda Dati 04
+data-card-04,es,hgss,,b2w2,,T. Datos 04
+data-card-04,zh-simp,lgpe,,lgpe,,数据卡04
+data-card-04,zh-trad,lgpe,,lgpe,,資料卡04
+data-card-05,it,hgss,,b2w2,,Sch. Dati 05
+data-card-05,it,xy,,la,,Scheda Dati 05
+data-card-05,es,hgss,,b2w2,,T. Datos 05
+data-card-05,zh-simp,lgpe,,lgpe,,数据卡05
+data-card-05,zh-trad,lgpe,,lgpe,,資料卡05
+data-card-06,it,hgss,,b2w2,,Sch. Dati 06
+data-card-06,it,xy,,la,,Scheda Dati 06
+data-card-06,es,hgss,,b2w2,,T. Datos 06
+data-card-06,zh-simp,lgpe,,lgpe,,数据卡06
+data-card-06,zh-trad,lgpe,,lgpe,,資料卡06
+data-card-07,it,hgss,,b2w2,,Sch. Dati 07
+data-card-07,it,xy,,la,,Scheda Dati 07
+data-card-07,es,hgss,,b2w2,,T. Datos 07
+data-card-07,zh-simp,lgpe,,lgpe,,数据卡07
+data-card-07,zh-trad,lgpe,,lgpe,,資料卡07
+data-card-08,it,hgss,,b2w2,,Sch. Dati 08
+data-card-08,it,xy,,la,,Scheda Dati 08
+data-card-08,es,hgss,,b2w2,,T. Datos 08
+data-card-08,zh-simp,lgpe,,lgpe,,数据卡08
+data-card-08,zh-trad,lgpe,,lgpe,,資料卡08
+data-card-09,it,hgss,,b2w2,,Sch. Dati 09
+data-card-09,it,xy,,la,,Scheda Dati 09
+data-card-09,es,hgss,,b2w2,,T. Datos 09
+data-card-09,zh-simp,lgpe,,lgpe,,数据卡09
+data-card-09,zh-trad,lgpe,,lgpe,,資料卡09
+data-card-10,it,hgss,,b2w2,,Sch. Dati 10
+data-card-10,it,xy,,la,,Scheda Dati 10
+data-card-10,es,hgss,,b2w2,,T. Datos 10
+data-card-10,zh-simp,lgpe,,lgpe,,数据卡10
+data-card-10,zh-trad,lgpe,,lgpe,,資料卡10
+data-card-11,it,hgss,,b2w2,,Sch. Dati 11
+data-card-11,it,xy,,la,,Scheda Dati 11
+data-card-11,es,hgss,,b2w2,,T. Datos 11
+data-card-11,zh-simp,lgpe,,lgpe,,数据卡11
+data-card-11,zh-trad,lgpe,,lgpe,,資料卡11
+data-card-12,it,hgss,,b2w2,,Sch. Dati 12
+data-card-12,it,xy,,la,,Scheda Dati 12
+data-card-12,es,hgss,,b2w2,,T. Datos 12
+data-card-12,zh-simp,lgpe,,lgpe,,数据卡12
+data-card-12,zh-trad,lgpe,,lgpe,,資料卡12
+data-card-13,it,hgss,,b2w2,,Sch. Dati 13
+data-card-13,it,xy,,la,,Scheda Dati 13
+data-card-13,es,hgss,,b2w2,,T. Datos 13
+data-card-13,zh-simp,lgpe,,lgpe,,数据卡13
+data-card-13,zh-trad,lgpe,,lgpe,,資料卡13
+data-card-14,it,hgss,,b2w2,,Sch. Dati 14
+data-card-14,it,xy,,la,,Scheda Dati 14
+data-card-14,es,hgss,,b2w2,,T. Datos 14
+data-card-14,zh-simp,lgpe,,lgpe,,数据卡14
+data-card-14,zh-trad,lgpe,,lgpe,,資料卡14
+data-card-15,it,hgss,,b2w2,,Sch. Dati 15
+data-card-15,it,xy,,la,,Scheda Dati 15
+data-card-15,es,hgss,,b2w2,,T. Datos 15
+data-card-15,zh-simp,lgpe,,lgpe,,数据卡15
+data-card-15,zh-trad,lgpe,,lgpe,,資料卡15
+data-card-16,it,hgss,,b2w2,,Sch. Dati 16
+data-card-16,it,xy,,la,,Scheda Dati 16
+data-card-16,es,hgss,,b2w2,,T. Datos 16
+data-card-16,zh-simp,lgpe,,lgpe,,数据卡16
+data-card-16,zh-trad,lgpe,,lgpe,,資料卡16
+data-card-17,it,hgss,,b2w2,,Sch. Dati 17
+data-card-17,it,xy,,la,,Scheda Dati 17
+data-card-17,es,hgss,,b2w2,,T. Datos 17
+data-card-17,zh-simp,lgpe,,lgpe,,数据卡17
+data-card-17,zh-trad,lgpe,,lgpe,,資料卡17
+data-card-18,it,hgss,,b2w2,,Sch. Dati 18
+data-card-18,it,xy,,la,,Scheda Dati 18
+data-card-18,es,hgss,,b2w2,,T. Datos 18
+data-card-18,zh-simp,lgpe,,lgpe,,数据卡18
+data-card-18,zh-trad,lgpe,,lgpe,,資料卡18
+data-card-19,it,hgss,,b2w2,,Sch. Dati 19
+data-card-19,it,xy,,la,,Scheda Dati 19
+data-card-19,es,hgss,,b2w2,,T. Datos 19
+data-card-19,zh-simp,lgpe,,lgpe,,数据卡19
+data-card-19,zh-trad,lgpe,,lgpe,,資料卡19
+data-card-20,it,hgss,,b2w2,,Sch. Dati 20
+data-card-20,it,xy,,la,,Scheda Dati 20
+data-card-20,es,hgss,,b2w2,,T. Datos 20
+data-card-20,zh-simp,lgpe,,lgpe,,数据卡20
+data-card-20,zh-trad,lgpe,,lgpe,,資料卡20
+data-card-21,it,hgss,,b2w2,,Sch. Dati 21
+data-card-21,it,xy,,la,,Scheda Dati 21
+data-card-21,es,hgss,,b2w2,,T. Datos 21
+data-card-21,zh-simp,lgpe,,lgpe,,数据卡21
+data-card-21,zh-trad,lgpe,,lgpe,,資料卡21
+data-card-22,it,hgss,,b2w2,,Sch. Dati 22
+data-card-22,it,xy,,la,,Scheda Dati 22
+data-card-22,es,hgss,,b2w2,,T. Datos 22
+data-card-22,zh-simp,lgpe,,lgpe,,数据卡22
+data-card-22,zh-trad,lgpe,,lgpe,,資料卡22
+data-card-23,it,hgss,,b2w2,,Sch. Dati 23
+data-card-23,it,xy,,la,,Scheda Dati 23
+data-card-23,es,hgss,,b2w2,,T. Datos 23
+data-card-23,zh-simp,lgpe,,lgpe,,数据卡23
+data-card-23,zh-trad,lgpe,,lgpe,,資料卡23
+data-card-24,it,hgss,,b2w2,,Sch. Dati 24
+data-card-24,it,xy,,la,,Scheda Dati 24
+data-card-24,es,hgss,,b2w2,,T. Datos 24
+data-card-24,zh-simp,lgpe,,lgpe,,数据卡24
+data-card-24,zh-trad,lgpe,,lgpe,,資料卡24
+data-card-25,it,hgss,,b2w2,,Sch. Dati 25
+data-card-25,it,xy,,la,,Scheda Dati 25
+data-card-25,es,hgss,,b2w2,,T. Datos 25
+data-card-25,zh-simp,lgpe,,lgpe,,数据卡25
+data-card-25,zh-trad,lgpe,,lgpe,,資料卡25
+data-card-26,it,hgss,,b2w2,,Sch. Dati 26
+data-card-26,it,xy,,la,,Scheda Dati 26
+data-card-26,es,hgss,,b2w2,,T. Datos 26
+data-card-26,zh-simp,lgpe,,lgpe,,数据卡26
+data-card-26,zh-trad,lgpe,,lgpe,,資料卡26
+data-card-27,it,hgss,,b2w2,,Sch. Dati 27
+data-card-27,it,xy,,la,,Scheda Dati 27
+data-card-27,es,hgss,,b2w2,,T. Datos 27
+data-card-27,zh-simp,lgpe,,lgpe,,数据卡27
+data-card-27,zh-trad,lgpe,,lgpe,,資料卡27
+deep-sea-scale,en,rs,,e,,DEEPSEASCALE
+deep-sea-scale,en,dp,,b2w2,,DeepSeaScale
+deep-sea-scale,fr,rs,,e,,ECAILLEOCEAN
+deep-sea-scale,fr,dp,,hgss,,Ecailleocéan
+deep-sea-scale,fr,bw,,b2w2,,Écailleocéan
+deep-sea-scale,it,rs,,e,,SQUAMABISSI
+deep-sea-scale,de,rs,,e,,ABYSSPLATTE
+deep-sea-scale,de,dp,,la,,Abyssplatte
+deep-sea-scale,es,rs,,e,,ESCAMA MAR.
+deep-sea-scale,es,dp,,b2w2,,Escama Mar.
+deep-sea-tooth,en,rs,,e,,DEEPSEATOOTH
+deep-sea-tooth,en,dp,,b2w2,,DeepSeaTooth
+deep-sea-tooth,fr,rs,,e,,DENT OCEAN
+deep-sea-tooth,it,rs,,e,,DENTE ABISSI
+deep-sea-tooth,it,dp,,la,,Dente Abissi
+deep-sea-tooth,de,rs,,e,,ABYSSZAHN
+deep-sea-tooth,es,rs,,e,,DIENTE MAR.
+deep-sea-tooth,es,dp,,b2w2,,Diente Mar.
+destiny-knot,fr,dp,,hgss,,Noeud Destin
+devon-parts,en,rs,,e,,DEVON GOODS
+devon-parts,fr,rs,,e,,PACK DEVON
+devon-parts,it,rs,,e,,MERCE DEVON
+devon-parts,de,rs,,e,,DEVON-WAREN
+devon-parts,es,rs,,e,,PIEZAS DEVON
+devon-scope,en,rs,,e,,DEVON SCOPE
+devon-scope,fr,rs,,e,,DEVON SCOPE
+devon-scope,it,rs,,e,,DEVONSCOPIO
+devon-scope,de,rs,,e,,DEVON-SCOPE
+devon-scope,es,rs,,e,,DETEC. DEVON
+dire-hit,jp-kana,rb,,hgss,,クリティカッター
+dire-hit,en,rb,,e,,DIRE HIT
+dire-hit,fr,rb,,e,,MUSCLE +
+dire-hit,it,rb,,e,,SUPERCOLPO
+dire-hit,de,rb,,e,,ANGRIFFPLUS
+dire-hit,de,dp,,bdsp,,Angriffplus
+dire-hit,de,la,,la,,Treffervitamine
+dire-hit,es,rb,,e,,DIRECTO
+dire-hit,es,dp,,lgpe,,Directo
+dire-hit,es,la,,la,,Gragea Crítica
+dire-hit,ko,gs,,gs,,크리티컬 커터
+dire-hit-2,de,bw,,la,,Angriffplus2
+dire-hit-2,es,bw,,lgpe,,Directo 2
+dire-hit-3,de,bw,,la,,Angriffplus3
+dire-hit-3,es,bw,,lgpe,,Directo 3
+dive-ball,en,rs,,e,,DIVE BALL
+dive-ball,fr,rs,,e,,SCUBA BALL
+dive-ball,it,rs,,e,,SUB BALL
+dive-ball,de,rs,,e,,TAUCHBALL
+dive-ball,es,rs,,e,,BUCEO BALL
+dome-fossil,en,rb,,e,,DOME FOSSIL
+dome-fossil,fr,rb,,e,,FOSSILE DOME
+dome-fossil,it,rb,,e,,DOMOFOSSILE
+dome-fossil,de,rb,,e,,DOMFOSSIL
+dome-fossil,es,rb,,e,,FÓSIL DOMO
+dowsing-machine,en,rb,,e,,ITEMFINDER
+dowsing-machine,en,hgss,,b2w2,,Dowsing MCHN
+dowsing-machine,fr,rb,,e,,CHERCH’OBJET
+dowsing-machine,it,rb,,e,,DETECTOR
+dowsing-machine,it,hgss,,b2w2,,Ricerca Str.
+dowsing-machine,it,xy,,usum,,Ricerca Strum.
+dowsing-machine,it,lgpe,,la,,Ricerca strum.
+dowsing-machine,de,rb,,e,,DETEKTOR
+dowsing-machine,es,rb,,e,,BUSCAOBJETOS
+dowsing-machine,ko,gs,,gs,,다우징 머신
+dragon-fang,en,gs,,e,,DRAGON FANG
+dragon-fang,fr,gs,,e,,CROC DRAGON
+dragon-fang,it,gs,,e,,DENTEDIDRAGO
+dragon-fang,it,dp,,la,,Dentedidrago
+dragon-fang,de,gs,,e,,DRACHENZAHN
+dragon-fang,es,gs,,e,,COLMILLODRAG
+dragon-fang,es,dp,,b2w2,,Colmillodrag
+dragon-fang,ko,gs,,gs,,용의 이빨
+dragon-gem,es,bw,,b2w2,,G. Dragón
+dragon-scale,en,gs,,e,,DRAGON SCALE
+dragon-scale,fr,gs,,e,,ECAILLEDRACO
+dragon-scale,fr,dp,,hgss,,Ecailledraco
+dragon-scale,fr,bw,,b2w2,,Écailledraco
+dragon-scale,it,gs,,e,,SQUAMA DRAGO
+dragon-scale,it,dp,,la,,Squama Drago
+dragon-scale,de,gs,,e,,DRACHENHAUT
+dragon-scale,de,dp,,la,,Drachenhaut
+dragon-scale,es,gs,,e,,ESCAMADRAGÓN
+dragon-scale,es,dp,,oras,,Escamadragón
+dragon-scale,ko,gs,,gs,,용의 비늘
+dragon-skull,es,bw,,b2w2,,Crán. Dragón
+dropped-item--boy,it,b2w2,,b2w2,,Ogg. perso
+dropped-item--boy,es,b2w2,,b2w2,,Obj. Perdido
+dropped-item--girl,it,b2w2,,b2w2,,Ogg. perso
+dropped-item--girl,es,b2w2,,b2w2,,Obj. Perdido
+dubious-disc,es,dp,,b2w2,,Discoxtraño
+durin-berry,en,rs,,e,,DURIN BERRY
+durin-berry,fr,rs,,e,,BAIE DURIN
+durin-berry,it,rs,,e,,BACCADURIAN
+durin-berry,de,rs,,e,,DURINBEERE
+durin-berry,es,rs,,e,,BAYA RUDION
+dynamax-candy,it,ss,,la,,Caram. Dynamax
+electirizer,fr,dp,,hgss,,Electiriseur
+electirizer,fr,bw,,b2w2,,Électiriseur
+electric-gem,fr,bw,,b2w2,,Joyau Électr
+electric-gem,es,bw,,b2w2,,G. Eléctrica
+electric-gem,es,xy,,la,,Gema Eléctrica
+elevator-key,es,xy,,la,,Llave Ascensor
+elixir,en,rb,,c,,ELIXER
+elixir,en,rs,,e,,ELIXIR
+elixir,fr,rb,,e,,ELIXIR
+elixir,fr,dp,,hgss,,Elixir
+elixir,it,rb,,e,,ELISIR
+elixir,de,rb,,e,,ELIXIER
+elixir,es,rb,,e,,ELIXIR
+elixir,ko,gs,,gs,,PP 에이더
+elixir,zh-simp,lgpe,,lgpe,,PP多项小补剂
+elixir,zh-trad,lgpe,,lgpe,,PP多項小補劑
+energy-powder,en,gs,,e,,ENERGYPOWDER
+energy-powder,en,dp,,b2w2,,EnergyPowder
+energy-powder,fr,gs,,e,,POUDRENERGIE
+energy-powder,it,gs,,e,,POLVENERGIA
+energy-powder,de,gs,,e,,ENERGIESTAUB
+energy-powder,es,gs,,e,,POLVOENERGÍA
+energy-powder,es,dp,,b2w2,,Polvoenergía
+energy-powder,ko,gs,,gs,,힘의 가루
+energy-root,en,gs,,e,,ENERGY ROOT
+energy-root,fr,gs,,e,,RACINENERGIE
+energy-root,it,gs,,e,,RADICENERGIA
+energy-root,de,gs,,e,,KRAFTWURZEL
+energy-root,es,gs,,e,,RAÍZ ENERGÍA
+energy-root,ko,gs,,gs,,힘의 뿌리
+enigma-berry,en,rs,,e,,ENIGMA BERRY
+enigma-berry,fr,rs,,e,,BAIE ENIGMA
+enigma-berry,it,rs,,e,,BACCAENIGMA
+enigma-berry,de,rs,,e,,ENIGMABEERE
+enigma-berry,es,rs,,e,,BAYA ENIGMA
+eon-ticket,en,rs,,e,,EON TICKET
+eon-ticket,fr,rs,,e,,PASSE EON
+eon-ticket,it,rs,,e,,BIGL. EONE
+eon-ticket,de,rs,,e,,ÄON-TICKET
+eon-ticket,es,rs,,e,,TICKET EÓN
+escape-rope,en,rb,,e,,ESCAPE ROPE
+escape-rope,fr,rb,,e,,CORDE SORTIE
+escape-rope,it,rb,,e,,FUNE DI FUGA
+escape-rope,it,dp,,usum,,Fune di Fuga
+escape-rope,de,rb,,e,,FLUCHTSEIL
+escape-rope,es,rb,,e,,CUERDA HUIDA
+escape-rope,ko,gs,,gs,,동굴탈출 로프
+ether,en,rb,,e,,ETHER
+ether,fr,rb,,e,,HUILE
+ether,it,rb,,e,,ETERE
+ether,de,rb,,e,,ÄTHER
+ether,es,rb,,e,,ÉTER
+ether,ko,gs,,gs,,PP 에이드
+ether,zh-simp,lgpe,,lgpe,,PP单项小补剂
+ether,zh-trad,lgpe,,lgpe,,PP單項小補劑
+everstone,en,gs,,e,,EVERSTONE
+everstone,fr,gs,,e,,PIERRE STASE
+everstone,it,gs,,e,,PIETRASTANTE
+everstone,de,gs,,e,,EWIGSTEIN
+everstone,es,gs,,e,,PIEDRAETERNA
+everstone,es,dp,,b2w2,,Piedraeterna
+everstone,ko,gs,,gs,,변함없는 돌
+eviolite,es,bw,,la,,Mineral Evol
+exp-candy-l,it,ss,,la,,Caram. Esp. L
+exp-candy-m,it,ss,,la,,Caram. Esp. M
+exp-candy-s,it,ss,,la,,Caram. Esp. S
+exp-candy-xl,it,ss,,la,,Caram. Esp. XL
+exp-candy-xs,it,ss,,la,,Caram. Esp. XS
+exp-charm,es,ss,,la,,Amuleto Exp
+exp-share,en,rb,,y,,EXP.ALL
+exp-share,en,gs,,c,,EXP.SHARE
+exp-share,en,rs,,e,,EXP. SHARE
+exp-share,fr,rb,,e,,MULTI EXP
+exp-share,it,rb,,y,,DISTRIB ESP.
+exp-share,it,gs,,c,,CONDIV.ESP.
+exp-share,it,rs,,e,,CONDIV. ESP.
+exp-share,it,dp,,b2w2,,Condiv. Esp.
+exp-share,it,xy,,usum,,Condividi Esp.
+exp-share,it,lgpe,,la,,Condividi esp.
+exp-share,de,rb,,e,,EP-TEILER
+exp-share,es,rb,,e,,REPARTIR EXP
+exp-share,es,dp,,la,,Repartir Exp
+expert-belt,es,dp,,b2w2,,Cinta Xperto
+explorer-kit,de,dp,,lgpe,,Forschersack
+explorer-kit,es,dp,,b2w2,,Kit Explor.
+explorer-kit,es,xy,,la,,Kit Explorador
+fashion-case,it,dp,,la,,Scatola Chic
+fast-ball,en,gs,,c,,FAST BALL
+fast-ball,fr,gs,,c,,SPEED BALL
+fast-ball,it,gs,,c,,RAPID BALL
+fast-ball,de,gs,,c,,TURBOBALL
+fast-ball,es,gs,,c,,RAPID BALL
+favored-mail,it,bw,,b2w2,,Mess. TVB
+favored-mail,es,bw,,b2w2,,C. Favoritos
+fighting-gem,es,bw,,b2w2,,G. Lucha
+figy-berry,en,rs,,e,,FIGY BERRY
+figy-berry,fr,rs,,e,,BAIE FIGUY
+figy-berry,it,rs,,e,,BACCAFICO
+figy-berry,de,rs,,e,,GIEFEBEERE
+figy-berry,es,rs,,e,,BAYA HIGOG
+fire-gem,es,bw,,b2w2,,G. Fuego
+fire-stone,en,rb,,e,,FIRE STONE
+fire-stone,fr,rb,,e,,PIERRE FEU
+fire-stone,it,rb,,e,,PIETRAFOCAIA
+fire-stone,de,rb,,e,,FEUERSTEIN
+fire-stone,es,rb,,e,,PIEDRA FUEGO
+fire-stone,ko,gs,,gs,,불꽃의 돌
+fishing-rod,it,ss,,la,,Amo
+fishing-rod--alola,it,sm,,la,,Amo
+flame-plate,fr,dp,,b2w2,,Plaque Flam
+fluffy-tail,en,rs,,e,,FLUFFY TAIL
+fluffy-tail,fr,rs,,e,,QUEUE SKITTY
+fluffy-tail,it,rs,,e,,CODA SKITTY
+fluffy-tail,de,rs,,e,,ENECO-RUTE
+fluffy-tail,es,rs,,e,,COLA SKITTY
+flying-gem,es,bw,,b2w2,,G. Voladora
+flying-gem,es,xy,,la,,Gema Voladora
+focus-band,en,gs,,e,,FOCUS BAND
+focus-band,fr,gs,,c,,BANDEAU +
+focus-band,fr,rs,,e,,BANDEAU
+focus-band,it,gs,,e,,BANDANA
+focus-band,de,gs,,e,,FOKUS-BAND
+focus-band,de,dp,,lgpe,,Fokus-Band
+focus-band,es,gs,,c,,CINTA-FOCUS
+focus-band,es,rs,,e,,CINTA FOCUS
+focus-band,es,dp,,la,,Cinta Focus
+focus-band,ko,gs,,gs,,기합의 머리띠
+focus-sash,fr,dp,,b2w2,,Ceint. Force
+focus-sash,es,dp,,la,,Banda Focus
+fresh-water,en,rb,,e,,FRESH WATER
+fresh-water,fr,rb,,e,,EAU FRAICHE
+fresh-water,it,rb,,e,,ACQUA FRESCA
+fresh-water,it,dp,,ss,upd-111,Acqua Fresca
+fresh-water,de,rb,,e,,TAFELWASSER
+fresh-water,es,rb,,e,,AGUA FRESCA
+fresh-water,ko,gs,,gs,,맛있는 물
+friend-ball,en,gs,,c,,FRIEND BALL
+friend-ball,fr,gs,,c,,COPAIN BALL
+friend-ball,it,gs,,c,,FRIEND BALL
+friend-ball,de,gs,,c,,FREUNDESBALL
+friend-ball,es,gs,,c,,AMIGO BALL
+friend-ball,ko,gs,,gs,,프랜드볼
+full-heal,en,rb,,e,,FULL HEAL
+full-heal,fr,rb,,e,,TOTAL SOIN
+full-heal,it,rb,,e,,CURA TOTALE
+full-heal,it,dp,,usum,,Cura Totale
+full-heal,de,rb,,e,,HYPERHEILER
+full-heal,es,rb,,e,,CURA TOTAL
+full-incense,es,dp,,b2w2,,Incie. Lento
+full-restore,en,rb,,e,,FULL RESTORE
+full-restore,fr,rb,,e,,GUERISON
+full-restore,it,rb,,e,,RICARICA TOT
+full-restore,it,dp,,b2w2,,Ricarica Tot
+full-restore,it,xy,,usum,,Ricarica Totale
+full-restore,de,rb,,e,,TOP-GENESUNG
+full-restore,es,rb,,e,,RESTAU. TODO
+full-restore,es,dp,,b2w2,,Restau. Todo
+galactic-key,it,dp,,ss,,Galachiave
+galactic-key,es,dp,,b2w2,,Ll. Galaxia
+ganlon-berry,en,rs,,e,,GANLON BERRY
+ganlon-berry,fr,rs,,e,,BAIE LINGAN
+ganlon-berry,it,rs,,e,,BACCALONGAN
+ganlon-berry,de,rs,,e,,LINGANBEERE
+ganlon-berry,es,rs,,e,,BAYA GONLAN
+gb-sounds,es,hgss,,la,,Lector GB
+gb-sounds,zh-simp,lgpe,,lgpe,,GB播放器
+gb-sounds,zh-trad,lgpe,,lgpe,,GB播放器
+genius-feather,en,bw,,lgpe,,Genius Wing
+genius-feather,fr,bw,,lgpe,,Aile Esprit
+genius-feather,es,bw,,b2w2,,P. Intelecto
+genius-feather,ko,bw,,la,,지력날개
+ghost-gem,fr,bw,,b2w2,,Joyau Spectr
+ghost-gem,de,bw,,oras,,Geistjuwel
+ghost-gem,es,bw,,b2w2,,G. Fantasma
+go-goggles,en,rs,,e,,GO-GOGGLES
+go-goggles,fr,rs,,e,,LUNET. SABLE
+go-goggles,it,rs,,e,,OCCHIALONI
+go-goggles,de,rs,,e,,WÜSTENGLAS
+go-goggles,de,oras,,lgpe,,Wüstenglas
+go-goggles,es,rs,,e,,GAF. AISLAN.
+go-goggles,zh-simp,lgpe,,lgpe,,GOGO护目镜
+go-goggles,zh-trad,lgpe,,lgpe,,GOGO護目鏡
+gold-bottle-cap,ko,sm,,la,,금왕관
+gold-leaf,en,gs,,c,,GOLD LEAF
+gold-leaf,fr,gs,,c,,FEUILLE D’OR
+gold-leaf,it,gs,,c,,FOGLIADORO
+gold-leaf,de,gs,,c,,GOLDBLATT
+gold-leaf,es,gs,,c,,HOJA DORADA
+gold-leaf,ko,gs,,gs,,금빛 나뭇잎
+gold-teeth,en,rb,,e,,GOLD TEETH
+gold-teeth,fr,rb,,e,,DENT D’OR
+gold-teeth,it,rb,,e,,DENTI D’ORO
+gold-teeth,de,rb,,e,,GOLDZÄHNE
+gold-teeth,es,rb,,y,,DIENTE ORO
+gold-teeth,es,frlg,,e,,DIENTES ORO
+good-rod,en,rb,,e,,GOOD ROD
+good-rod,fr,rb,,e,,SUPER CANNE
+good-rod,it,rb,,e,,AMO BUONO
+good-rod,it,dp,,la,,Amo Buono
+good-rod,de,rb,,e,,PROFIANGEL
+good-rod,es,rb,,y,,CAñA BUENA
+good-rod,es,gs,,e,,CAÑA BUENA
+good-rod,ko,gs,,gs,,좋은 낚싯대
+grass-gem,de,bw,,oras,,Pflanzjuwel
+grass-gem,es,bw,,b2w2,,G. Planta
+great-ball,en,rb,,e,,GREAT BALL
+great-ball,fr,rb,,e,,SUPER BALL
+great-ball,it,rb,,e,,MEGA BALL
+great-ball,de,rb,,e,,SUPERBALL
+great-ball,es,rb,,c,,SÚPER BALL
+great-ball,es,rs,,e,,SUPERBALL
+great-ball,es,dp,,b2w2,,Superball
+great-ball,ko,gs,,la,,수퍼볼
+great-ball--legends,ko,la,,la,,수퍼볼
+great-ball--recipe,ko,la,,la,,수퍼볼
+green-apricorn,en,gs,,c,,GRN APRICORN
+green-apricorn,en,hgss,,b2w2,,Grn Apricorn
+green-apricorn,fr,gs,,c,,NOIGRUME VER
+green-apricorn,fr,hgss,,oras,,Noigrume Ver
+green-apricorn,it,gs,,c,,GHICOC.VERDE
+green-apricorn,it,hgss,,b2w2,,Ghic. Verde
+green-apricorn,it,xy,,la,,Ghicocca Verde
+green-apricorn,de,gs,,c,,APRIKOKO GRN
+green-apricorn,de,hgss,,lgpe,,Aprikoko Grn
+green-apricorn,es,gs,,c,,BONGURI VER
+green-apricorn,es,hgss,,b2w2,,Bonguri Ver
+green-apricorn,ko,gs,,gs,,초록 규토리
+green-scarf,en,rs,,e,,GREEN SCARF
+green-scarf,fr,rs,,e,,FOUL. VERT
+green-scarf,fr,dp,,b2w2,,Foul. Vert
+green-scarf,it,rs,,e,,FASCIA VERDE
+green-scarf,it,dp,,la,,Fascia Verde
+green-scarf,de,rs,,e,,GRÜNER SCHAL
+green-scarf,es,rs,,e,,PAÑ. VERDE
+green-scarf,es,dp,,b2w2,,Pañ. Verde
+green-shard,en,rs,,e,,GREEN SHARD
+green-shard,fr,rs,,e,,TESSON VERT
+green-shard,it,rs,,e,,COCCIO VERDE
+green-shard,it,dp,,la,,Coccio Verde
+green-shard,de,rs,,e,,GRÜNSTÜCK
+green-shard,es,rs,,e,,PARTE VERDE
+greet-mail,it,bw,,b2w2,,Mess. Inizio
+greet-mail,es,bw,,b2w2,,C. Inicial
+grepa-berry,en,rs,,e,,GREPA BERRY
+grepa-berry,fr,rs,,e,,BAIE RESIN
+grepa-berry,it,rs,,e,,BACCAUVA
+grepa-berry,de,rs,,e,,LABRUSBEERE
+grepa-berry,es,rs,,e,,BAYA UVAV
+grip-claw,it,dp,,la,,Presartigli
+ground-gem,es,bw,,b2w2,,G. Tierra
+grubby-hanky,fr,b2w2,,b2w2,,MouchoirSale
+grubby-hanky,it,b2w2,,la,,Pezza Sporca
+grubby-hanky,es,b2w2,,b2w2,,Pañ. Sucio
+guard-spec,en,rb,,e,,GUARD SPEC.
+guard-spec,fr,rb,,e,,DEFENSE SPEC
+guard-spec,fr,dp,,b2w2,,Défense Spéc
+guard-spec,fr,xy,,usum,,Défense Spéciale
+guard-spec,it,rb,,e,,SUPERGUARDIA
+guard-spec,de,rb,,e,,MEGABLOCK
+guard-spec,es,rb,,y,,PROTEC. ESP.
+guard-spec,es,gs,,c,,PROTEC. ESP
+guard-spec,es,rs,,e,,PROTEC. ESP.
+guard-spec,es,dp,,b2w2,,Protec. Esp.
+guard-spec,es,xy,,lgpe,,Protec. Especial
+guard-spec,ko,gs,,gs,,이펙트 가드
+guidebook,en,dp,,la,,Journal
+guidebook,fr,dp,,ss,,Journal
+guidebook,it,dp,,ss,,Agenda
+guidebook,de,dp,,ss,,Tagebuch
+guidebook,es,dp,,ss,,Diario
+hard-stone,en,gs,,e,,HARD STONE
+hard-stone,fr,gs,,e,,PIERRE DURE
+hard-stone,it,gs,,e,,PIETRADURA
+hard-stone,de,gs,,e,,GRANITSTEIN
+hard-stone,es,gs,,e,,PIEDRA DURA
+hard-stone,ko,gs,,gs,,딱딱한 돌
+heal-powder,en,gs,,e,,HEAL POWDER
+heal-powder,fr,gs,,e,,POUDRE SOIN
+heal-powder,it,gs,,e,,POLVOCURA
+heal-powder,de,gs,,e,,HEILPUDER
+heal-powder,es,gs,,e,,POL.CURACIÓN
+heal-powder,es,dp,,b2w2,,Pol.curación
+health-candy-l,zh-simp,lgpe,,lgpe,,元气糖果L
+health-candy-l,zh-trad,lgpe,,lgpe,,元氣糖果L
+health-candy-xl,zh-simp,lgpe,,lgpe,,元气糖果XL
+health-candy-xl,zh-trad,lgpe,,lgpe,,元氣糖果XL
+health-feather,en,bw,,lgpe,,Health Wing
+health-feather,fr,bw,,lgpe,,Aile Santé
+health-feather,es,bw,,b2w2,,P. Vigor
+health-feather,ko,bw,,la,,체력날개
+heart-scale,en,rs,,e,,HEART SCALE
+heart-scale,fr,rs,,e,,ECAILLECOEUR
+heart-scale,fr,dp,,hgss,,Ecaillecoeur
+heart-scale,fr,bw,,b2w2,,Écaillecœur
+heart-scale,it,rs,,e,,SQUAMA CUORE
+heart-scale,it,dp,,la,,Squama Cuore
+heart-scale,de,rs,,e,,HERZSCHUPPE
+heart-scale,es,rs,,e,,ESC. CORAZÓN
+heart-scale,es,dp,,b2w2,,Esc. Corazón
+heavy-ball,en,gs,,c,,HEAVY BALL
+heavy-ball,fr,gs,,c,,MASSE BALL
+heavy-ball,it,gs,,c,,PESO BALL
+heavy-ball,de,gs,,c,,SCHWERBALL
+heavy-ball,es,gs,,c,,PESO BALL
+helix-fossil,en,rb,,e,,HELIX FOSSIL
+helix-fossil,fr,rb,,e,,NAUTILE
+helix-fossil,it,rb,,e,,HELIXFOSSILE
+helix-fossil,de,rb,,e,,HELIXFOSSIL
+helix-fossil,es,rb,,e,,FÓSIL HELIX
+helix-fossil,es,dp,,b2w2,,Fósil Helix
+hm01,zh-simp,lgpe,,lgpe,,秘传学习器01
+hm01,zh-trad,lgpe,,lgpe,,秘傳學習器01
+hm02,zh-simp,lgpe,,lgpe,,秘传学习器02
+hm02,zh-trad,lgpe,,lgpe,,秘傳學習器02
+hm03,zh-simp,lgpe,,lgpe,,秘传学习器03
+hm03,zh-trad,lgpe,,lgpe,,秘傳學習器03
+hm04,zh-simp,lgpe,,lgpe,,秘传学习器04
+hm04,zh-trad,lgpe,,lgpe,,秘傳學習器04
+hm05,zh-simp,lgpe,,lgpe,,秘传学习器05
+hm05,zh-trad,lgpe,,lgpe,,秘傳學習器05
+hm06,zh-simp,lgpe,,lgpe,,秘传学习器06
+hm06,zh-trad,lgpe,,lgpe,,秘傳學習器06
+hm07,zh-simp,lgpe,,lgpe,,秘传学习器07
+hm07,zh-trad,lgpe,,lgpe,,秘傳學習器07
+hondew-berry,en,rs,,e,,HONDEW BERRY
+hondew-berry,fr,rs,,e,,BAIE LONME
+hondew-berry,it,rs,,e,,BACCAMELON
+hondew-berry,de,rs,,e,,HONMELBEERE
+hondew-berry,es,rs,,e,,BAYA MELUCE
+honor-of-kalos,es,xy,,la,,Emblema Kalos
+hp-up,en,rb,,e,,HP UP
+hp-up,fr,rb,,e,,PV PLUS
+hp-up,it,rb,,e,,PS-SU
+hp-up,it,dp,,la,,PS-Su
+hp-up,de,rb,,e,,KP-PLUS
+hp-up,es,rb,,e,,MÁS PS
+hp-up,ko,gs,,gs,,맥스 업
+hp-up,zh-simp,lgpe,,lgpe,,HP增强剂
+hp-up,zh-trad,lgpe,,lgpe,,HP增強劑
+hyper-potion,en,rb,,e,,HYPER POTION
+hyper-potion,fr,rb,,e,,HYPER POTION
+hyper-potion,it,rb,,e,,IPERPOZIONE
+hyper-potion,de,rb,,e,,HYPERTRANK
+hyper-potion,es,rb,,c,,HÍPER POCIÓN
+hyper-potion,es,rs,,e,,HIPERPOCIÓN
+hyper-potion,ko,gs,,gs,,고급 상처약
+iapapa-berry,en,rs,,e,,IAPAPA BERRY
+iapapa-berry,fr,rs,,e,,BAIE PAPAYA
+iapapa-berry,it,rs,,e,,BACCAPAIA
+iapapa-berry,de,rs,,e,,YAPABEERE
+iapapa-berry,es,rs,,e,,BAYA PABAYA
+ice-gem,it,bw,,b2w2,,Bijoughiac.
+ice-gem,es,bw,,b2w2,,G. Hielo
+ice-heal,en,rb,,e,,ICE HEAL
+ice-heal,fr,rb,,e,,ANTIGEL
+ice-heal,it,rb,,e,,ANTIGELO
+ice-heal,de,rb,,e,,EISHEILER
+ice-heal,es,rb,,e,,ANTIHIELO
+ice-heal,ko,gs,,gs,,얼음상태 치료제
+ilimas-normalium-z,jp-kana,usum,,usum,,イリマのノーマルＺ
+ilimas-normalium-z,jp-kanji,usum,,usum,,イリマのノーマルＺ
+ilimas-normalium-z,en,lgpe,,la,,Ilima Normalium Z
+ilimas-normalium-z,zh-simp,usum,,lgpe,,伊利马的一般Ｚ
+ilimas-normalium-z,zh-trad,usum,,usum,,伊利馬的一般Ｚ
+inquiry-mail,fr,bw,,b2w2,,Let. Demande
+inquiry-mail,it,bw,,b2w2,,Mess. Chiedi
+inquiry-mail,es,bw,,b2w2,,C. Pregunta
+insect-plate,fr,dp,,b2w2,,Plaquinsect
+iron,en,rb,,e,,IRON
+iron,fr,rb,,e,,FER
+iron,it,rb,,e,,FERRO
+iron,de,rb,,e,,EISEN
+iron,es,rb,,e,,HIERRO
+jade-orb,it,hgss,,la,,Sfera Verde
+kelpsy-berry,en,rs,,e,,KELPSY BERRY
+kelpsy-berry,fr,rs,,e,,BAIE ALGA
+kelpsy-berry,it,rs,,e,,BACCALGA
+kelpsy-berry,de,rs,,e,,SETANGBEERE
+kelpsy-berry,es,rs,,e,,BAYA ALGAMA
+key-to-room-1,en,rs,,e,,RM. 1 KEY
+key-to-room-1,fr,rs,,e,,CLE SALLE 1
+key-to-room-1,it,rs,,e,,CHIAVE CAB.1
+key-to-room-1,de,rs,,e,,K1-SCHLÜSSEL
+key-to-room-1,es,rs,,e,,LL. CABINA 1
+key-to-room-2,en,rs,,e,,RM. 2 KEY
+key-to-room-2,fr,rs,,e,,CLE SALLE 2
+key-to-room-2,it,rs,,e,,CHIAVE CAB.2
+key-to-room-2,de,rs,,e,,K2-SCHLÜSSEL
+key-to-room-2,es,rs,,e,,LL. CABINA 2
+key-to-room-4,en,rs,,e,,RM. 4 KEY
+key-to-room-4,fr,rs,,e,,CLE SALLE 4
+key-to-room-4,it,rs,,e,,CHIAVE CAB.4
+key-to-room-4,de,rs,,e,,K4-SCHLÜSSEL
+key-to-room-4,es,rs,,e,,LL. CABINA 4
+key-to-room-6,en,rs,,e,,RM. 6 KEY
+key-to-room-6,fr,rs,,e,,CLE SALLE 6
+key-to-room-6,it,rs,,e,,CHIAVE CAB.6
+key-to-room-6,de,rs,,e,,K6-SCHLÜSSEL
+key-to-room-6,es,rs,,e,,LL. CABINA 6
+kings-rock,en,gs,,e,,KING’S ROCK
+kings-rock,fr,gs,,e,,ROCHE ROYALE
+kings-rock,it,gs,,e,,ROCCIA DI RE
+kings-rock,it,dp,,b2w2,,Roccia Di Re
+kings-rock,it,xy,,la,,Roccia di Re
+kings-rock,de,gs,,e,,KING-STEIN
+kings-rock,es,gs,,e,,ROCA DEL REY
+kings-rock,ko,gs,,gs,,왕의 징표석
+lagging-tail,de,dp,,oras,,Schwerschwf.
+lansat-berry,en,rs,,e,,LANSAT BERRY
+lansat-berry,fr,rs,,e,,BAIE LANSAT
+lansat-berry,it,rs,,e,,BACCALANGSA
+lansat-berry,de,rs,,e,,LANSATBEERE
+lansat-berry,es,rs,,e,,BAYA ZONLAN
+lava-cookie,en,rs,,e,,LAVA COOKIE
+lava-cookie,fr,rs,,e,,LAVA COOKIE
+lava-cookie,it,rs,,e,,LAVOTTINO
+lava-cookie,de,rs,,e,,LAVAKEKS
+lava-cookie,es,rs,,e,,GALLETA LAVA
+lax-incense,en,rs,,e,,LAX INCENSE
+lax-incense,fr,rs,,e,,ENCENS DOUX
+lax-incense,it,rs,,e,,DISTRAROMA
+lax-incense,de,rs,,e,,LAXRAUCH
+lax-incense,es,rs,,e,,INCIE. SUAVE
+lax-incense,es,dp,,b2w2,,Incie. Suave
+leaf-stone,en,rb,,e,,LEAF STONE
+leaf-stone,fr,rb,,e,,PIERREPLANTE
+leaf-stone,fr,dp,,b2w2,,Pierreplante
+leaf-stone,it,rb,,e,,PIETRAFOGLIA
+leaf-stone,de,rb,,e,,BLATTSTEIN
+leaf-stone,es,rb,,e,,PIEDRA HOJA
+leaf-stone,ko,gs,,gs,,잎사귀 돌
+leek,en,gs,,e,,STICK
+leek,en,dp,,lgpe,,Stick
+leek,fr,gs,,e,,BATON
+leek,fr,dp,,lgpe,,Bâton
+leek,it,gs,,e,,GAMBO
+leek,it,dp,,la,,Gambo
+leek,de,gs,,e,,LAUCHSTANGE
+leek,es,gs,,e,,PALO
+leek,es,dp,,lgpe,,Palo
+leftovers,en,gs,,e,,LEFTOVERS
+leftovers,fr,gs,,e,,RESTES
+leftovers,it,gs,,e,,AVANZI
+leftovers,de,gs,,e,,ÜBERRESTE
+leftovers,es,gs,,e,,RESTOS
+leftovers,ko,gs,,gs,,먹다 남은 음식
+lemonade,en,rb,,e,,LEMONADE
+lemonade,fr,rb,,e,,LIMONADE
+lemonade,it,rb,,e,,LEMONSUCCO
+lemonade,de,rb,,e,,LIMONADE
+lemonade,es,rb,,e,,LIMONADA
+lemonade,ko,gs,,gs,,후르츠 밀크
+leppa-berry,en,rs,,e,,LEPPA BERRY
+leppa-berry,fr,rs,,e,,BAIE MEPO
+leppa-berry,it,rs,,e,,BACCAMELA
+leppa-berry,de,rs,,e,,JONAGOBEERE
+leppa-berry,es,rs,,e,,BAYA ZANAMA
+letter,en,rs,,e,,LETTER
+letter,fr,rs,,e,,LETTRE
+letter,it,rs,,e,,LETTERA
+letter,de,rs,,e,,BRIEF
+letter,es,rs,,e,,CARTA
+level-ball,en,gs,,c,,LEVEL BALL
+level-ball,fr,gs,,c,,NIVEAU BALL
+level-ball,it,gs,,c,,LEVEL BALL
+level-ball,de,gs,,c,,LEVELBALL
+level-ball,es,gs,,c,,NIVEL BALL
+liberty-pass,fr,bw,,oras,,Pass Liberté
+liberty-pass,es,bw,,b2w2,,T. Libertad
+liechi-berry,en,rs,,e,,LIECHI BERRY
+liechi-berry,fr,rs,,e,,BAIE LICHII
+liechi-berry,it,rs,,e,,BACCALICI
+liechi-berry,de,rs,,e,,LYDZIBEERE
+liechi-berry,es,rs,,e,,BAYA LICHI
+lift-key,en,rb,,e,,LIFT KEY
+lift-key,fr,rb,,e,,CLE ASC.
+lift-key,it,rb,,e,,CHIAVE ASC.
+lift-key,de,rb,,e,,LIFTÖFFNER
+lift-key,es,rb,,e,,LL. ASCENSOR
+lift-key,es,lgpe,,la,,Llave Ascensor
+light-ball,en,gs,,e,,LIGHT BALL
+light-ball,fr,gs,,e,,BALLELUMIERE
+light-ball,fr,dp,,b2w2,,Ballelumière
+light-ball,it,gs,,e,,ELETTROPALLA
+light-ball,de,gs,,e,,KUGELBLITZ
+light-ball,es,gs,,e,,BOLALUMINOSA
+light-ball,es,dp,,oras,,Bolaluminosa
+light-clay,it,dp,,la,,Creta Luce
+like-mail,it,bw,,la,,Mess. Sugg.
+like-mail,es,bw,,b2w2,,C. Gustos
+lock-capsule,fr,hgss,,hgss,,Poké Ecrin
+lock-capsule,it,hgss,,b2w2,,Cap. Scrigno
+lock-capsule,it,xy,,la,,Capsula Scrigno
+lock-capsule,es,hgss,,b2w2,,Cáp. Candado
+lost-item,en,gs,,c,,LOST ITEM
+lost-item,fr,gs,,c,,OBJET PERDU
+lost-item,it,gs,,c,,STRUM.PERSO
+lost-item,it,hgss,,b2w2,,Strum. perso
+lost-item,de,gs,,c,,FUNDSACHE
+lost-item,es,gs,,c,,OBJ. PERDIDO
+lost-item,es,hgss,,b2w2,,Obj. Perdido
+love-ball,en,gs,,c,,LOVE BALL
+love-ball,fr,gs,,c,,LOVE BALL
+love-ball,it,gs,,c,,LOVE BALL
+love-ball,de,gs,,c,,SYMPABALL
+love-ball,es,gs,,c,,AMOR BALL
+luck-incense,es,dp,,b2w2,,Incie. Duplo
+lucky-egg,en,gs,,e,,LUCKY EGG
+lucky-egg,fr,gs,,e,,OEUF CHANCE
+lucky-egg,fr,dp,,hgss,,Oeuf Chance
+lucky-egg,it,gs,,e,,FORTUNUOVO
+lucky-egg,de,gs,,e,,GLÜCKS-EI
+lucky-egg,es,gs,,e,,HUEVO SUERTE
+lucky-egg,ko,gs,,gs,,행복의 알
+lucky-punch,en,gs,,e,,LUCKY PUNCH
+lucky-punch,fr,gs,,e,,POING CHANCE
+lucky-punch,it,gs,,e,,FORTUNPUGNO
+lucky-punch,de,gs,,e,,LUCKY PUNCH
+lucky-punch,es,gs,,e,,PUÑO SUERTE
+lucky-punch,ko,gs,,gs,,럭키 펀치
+lum-berry,en,rs,,e,,LUM BERRY
+lum-berry,fr,rs,,e,,BAIE PRINE
+lum-berry,it,rs,,e,,BACCAPRUGNA
+lum-berry,de,rs,,e,,PRUNUSBEERE
+lum-berry,es,rs,,e,,BAYA ZIUELA
+lunar-feather,en,dp,,ss,,Lunar Wing
+lunar-feather,fr,dp,,ss,,Lun’Aile
+lunar-feather,it,dp,,ss,,Alalunare
+lunar-feather,ko,dp,,la,,초승달날개
+lure-ball,en,gs,,c,,LURE BALL
+lure-ball,fr,gs,,c,,APPAT BALL
+lure-ball,it,gs,,c,,ESCA BALL
+lure-ball,de,gs,,c,,KÖDERBALL
+lure-ball,es,gs,,c,,CEBO BALL
+luxury-ball,en,rs,,e,,LUXURY BALL
+luxury-ball,fr,rs,,e,,LUXE BALL
+luxury-ball,it,rs,,e,,CHIC BALL
+luxury-ball,de,rs,,e,,LUXUSBALL
+luxury-ball,es,rs,,e,,LUJO BALL
+mach-bike,en,rs,,e,,MACH BIKE
+mach-bike,fr,rs,,e,,VELO COURSE
+mach-bike,it,rs,,e,,BICI CORSA
+mach-bike,de,rs,,e,,EILRAD
+mach-bike,es,rs,,e,,BICI CARRERA
+machine-part,en,gs,,c,,MACHINE PART
+machine-part,fr,gs,,c,,PARTIE MACH.
+machine-part,fr,hgss,,b2w2,,Partie Mach.
+machine-part,it,gs,,c,,PEZZO MACCH.
+machine-part,it,hgss,,la,,Pezzo macch.
+machine-part,de,gs,,c,,SPULE
+machine-part,es,gs,,c,,MAQUINARIA
+macho-brace,en,rs,,e,,MACHO BRACE
+macho-brace,fr,rs,,e,,BRAC. MACHO
+macho-brace,fr,dp,,b2w2,,Brac. Macho
+macho-brace,it,rs,,e,,CRESCICAPPA
+macho-brace,de,rs,,e,,MACHOBAND
+macho-brace,de,dp,,la,,Machoband
+macho-brace,es,rs,,e,,VESTIDURA
+magnet,en,gs,,e,,MAGNET
+magnet,fr,gs,,e,,AIMANT
+magnet,it,gs,,e,,CALAMITA
+magnet,de,gs,,e,,MAGNET
+magnet,es,gs,,e,,IMÁN
+mago-berry,en,rs,,e,,MAGO BERRY
+mago-berry,fr,rs,,e,,BAIE MAGO
+mago-berry,it,rs,,e,,BACCAMANGO
+mago-berry,de,rs,,e,,MAGOBEERE
+mago-berry,es,rs,,e,,BAYA ANGO
+magost-berry,en,rs,,e,,MAGOST BERRY
+magost-berry,fr,rs,,e,,BAIE MANGOU
+magost-berry,it,rs,,e,,BACCAGOSTAN
+magost-berry,de,rs,,e,,MAGOSTBEERE
+magost-berry,es,rs,,e,,BAYA AOSTAN
+master-ball,en,rb,,e,,MASTER BALL
+master-ball,fr,rb,,e,,MASTER BALL
+master-ball,it,rb,,e,,MASTER BALL
+master-ball,de,rb,,e,,MEISTERBALL
+master-ball,es,rb,,e,,MASTER BALL
+max-elixir,en,rb,,c,,MAX ELIXER
+max-elixir,en,rs,,e,,MAX ELIXIR
+max-elixir,fr,rb,,e,,MAX ELIXIR
+max-elixir,fr,dp,,hgss,,Max Elixir
+max-elixir,fr,bw,,usum,,Max Élixir
+max-elixir,fr,la,,la,,Maxi Soin PP
+max-elixir,it,rb,,e,,ELISIR MAX
+max-elixir,it,dp,,bdsp,,Elisir Max
+max-elixir,it,la,,la,,Tonico PP Max
+max-elixir,de,rb,,e,,TOP-ELIXIER
+max-elixir,de,la,,la,,Elixierpillen
+max-elixir,es,rb,,y,,ELIXIR MÁX.
+max-elixir,es,gs,,c,,ELIXIR MÁX
+max-elixir,es,rs,,e,,ELIXIR MÁX.
+max-elixir,es,dp,,b2w2,,Elixir Máx.
+max-elixir,es,la,,la,,Píldora Elixir
+max-elixir,ko,gs,,gs,,PP 맥스
+max-elixir,zh-simp,lgpe,,lgpe,,PP多项全补剂
+max-elixir,zh-trad,lgpe,,lgpe,,PP多項全補劑
+max-ether,en,rb,,e,,MAX ETHER
+max-ether,fr,rb,,e,,HUILE MAX
+max-ether,fr,la,,la,,Soin PP
+max-ether,it,rb,,e,,ETERE MAX
+max-ether,it,dp,,bdsp,,Etere Max
+max-ether,it,la,,la,,Tonico PP
+max-ether,de,rb,,e,,TOP-ÄTHER
+max-ether,de,la,,la,,Ätherpillen
+max-ether,es,rb,,y,,ÉTER MÁX.
+max-ether,es,gs,,c,,ÉTER MÁX
+max-ether,es,rs,,e,,ÉTER MÁX.
+max-ether,es,dp,,b2w2,,Éter Máx.
+max-ether,es,la,,la,,Píldora Éter
+max-ether,ko,gs,,gs,,PP 회복
+max-ether,zh-simp,lgpe,,lgpe,,PP单项全补剂
+max-ether,zh-trad,lgpe,,lgpe,,PP單項全補劑
+max-lure,it,lgpe,,la,,Profumo Max
+max-potion,en,rb,,e,,MAX POTION
+max-potion,fr,rb,,e,,POTION MAX
+max-potion,it,rb,,e,,POZIONE MAX
+max-potion,it,dp,,la,,Pozione Max
+max-potion,de,rb,,e,,TOP-TRANK
+max-potion,es,rb,,e,,MÁX. POCIÓN
+max-potion,es,dp,,b2w2,,Máx. Poción
+max-potion,ko,gs,,gs,,풀 회복약
+max-potion--recipe,it,la,,la,,Pozione Max
+max-repel,en,rb,,e,,MAX REPEL
+max-repel,fr,rb,,e,,MAX REPOUSSE
+max-repel,fr,dp,,usum,,Max Repousse
+max-repel,it,rb,,c,,REPELL.MAX
+max-repel,it,rs,,e,,REPELL. MAX
+max-repel,it,dp,,b2w2,,Repell. Max
+max-repel,it,xy,,la,,Repellente Max
+max-repel,de,rb,,e,,TOP-SCHUTZ
+max-repel,es,rb,,e,,MÁX. REPEL
+max-repel,es,dp,,b2w2,,Máx. Repel
+max-repel,ko,gs,,gs,,골드 스프레이
+max-revive,en,rb,,e,,MAX REVIVE
+max-revive,fr,rb,,e,,RAPPEL MAX
+max-revive,it,rb,,c,,REVITAL.MAX
+max-revive,it,rs,,e,,REVITAL. MAX
+max-revive,it,dp,,b2w2,,Revital. Max
+max-revive,it,xy,,la,,Revitalizz. Max
+max-revive,de,rb,,e,,TOP-BELEBER
+max-revive,es,rb,,e,,MÁX. REVIVIR
+max-revive,es,dp,,b2w2,,Máx. Revivir
+max-revive,ko,gs,,gs,,기력의 덩어리
+max-revive--recipe,it,la,,la,,Revitalizz. Max
+medal-box,fr,b2w2,,b2w2,,B. Médailles
+medal-box,it,b2w2,,la,,Box Premi
+medal-box,es,b2w2,,b2w2,,C. Insignias
+medal-box,es,xy,,la,,Caja Insignias
+mega-cuff,ko,oras,,la,,메가블레스
+mega-tiara,ko,oras,,la,,메가티아러
+member-card,it,dp,,la,,Scheda Soci
+member-card,de,dp,,oras,,Mitgl.Karte
+member-card,es,dp,,la,,Carné Socio
+mental-herb,en,rs,,e,,MENTAL HERB
+mental-herb,fr,rs,,e,,HERBE MENTAL
+mental-herb,it,rs,,e,,MENTALERBA
+mental-herb,de,rs,,e,,MENTALKRAUT
+mental-herb,es,rs,,e,,HIER. MENTAL
+mental-herb,es,dp,,b2w2,,Hier. Mental
+metal-coat,en,gs,,e,,METAL COAT
+metal-coat,fr,gs,,e,,PEAU METAL
+metal-coat,it,gs,,e,,METALCOPERTA
+metal-coat,it,dp,,la,,Metalcoperta
+metal-coat,de,gs,,e,,METALLMANTEL
+metal-coat,es,gs,,e,,REV.METÁLICO
+metal-coat,es,dp,,b2w2,,Rev.metálico
+metal-powder,en,gs,,e,,METAL POWDER
+metal-powder,fr,gs,,e,,POUDRE METAL
+metal-powder,it,gs,,e,,METALPOLVERE
+metal-powder,de,gs,,e,,METALLSTAUB
+metal-powder,es,gs,,e,,POL.METÁLICO
+metal-powder,es,dp,,b2w2,,Pol.metálico
+metal-powder,ko,gs,,gs,,금속 파우더
+meteorite--hoenn,en,rs,,e,,METEORITE
+meteorite--hoenn,fr,rs,,e,,METEORITE
+meteorite--hoenn,it,rs,,e,,METEORITE
+meteorite--hoenn,de,rs,,e,,METEORIT
+meteorite--hoenn,es,rs,,e,,METEORITO
+meteorite-shard,es,oras,,la,,Frag. Meteorito
+mighty-candy-l,zh-simp,lgpe,,lgpe,,力量糖果L
+mighty-candy-l,zh-trad,lgpe,,lgpe,,力量糖果L
+mighty-candy-xl,zh-simp,lgpe,,lgpe,,力量糖果XL
+mighty-candy-xl,zh-trad,lgpe,,lgpe,,力量糖果XL
+mimikium-z--bag,zh-simp,bdsp,,la,,谜拟丘Ｚ
+mimikium-z--held,zh-simp,bdsp,,la,,谜拟丘Ｚ
+mind-plate,fr,dp,,b2w2,,Plaquesprit
+miracle-seed,en,gs,,e,,MIRACLE SEED
+miracle-seed,fr,gs,,e,,GRAIN MIRACL
+miracle-seed,fr,dp,,b2w2,,Grain Miracl
+miracle-seed,fr,xy,,oras,,Grain Miracle
+miracle-seed,it,gs,,e,,MIRACOLSEME
+miracle-seed,de,gs,,e,,WUNDERSAAT
+miracle-seed,es,gs,,e,,SEM. MILAGRO
+miracle-seed,es,dp,,b2w2,,Sem. Milagro
+miracle-seed,ko,gs,,gs,,기적의 씨
+moomoo-milk,en,gs,,e,,MOOMOO MILK
+moomoo-milk,fr,gs,,e,,LAIT MEUMEU
+moomoo-milk,it,gs,,e,,LATTE MUMU
+moomoo-milk,de,gs,,e,,KUHMUH-MILCH
+moomoo-milk,es,gs,,e,,LECHE MU-MU
+moomoo-milk,ko,gs,,gs,,튼튼 밀크
+moon-ball,en,gs,,c,,MOON BALL
+moon-ball,fr,gs,,c,,LUNE BALL
+moon-ball,it,gs,,c,,LUNA BALL
+moon-ball,de,gs,,c,,MONDBALL
+moon-ball,es,gs,,c,,LUNA BALL
+moon-stone,en,rb,,e,,MOON STONE
+moon-stone,fr,rb,,e,,PIERRE LUNE
+moon-stone,it,rb,,e,,PIETRALUNARE
+moon-stone,de,rb,,e,,MONDSTEIN
+moon-stone,es,rb,,e,,PIEDRA LUNAR
+moon-stone,ko,gs,,gs,,달맞이 돌
+muscle-band,fr,dp,,b2w2,,Band. Muscle
+muscle-feather,en,bw,,lgpe,,Muscle Wing
+muscle-feather,fr,bw,,lgpe,,Aile Force
+muscle-feather,es,bw,,b2w2,,P. Músculo
+muscle-feather,ko,bw,,la,,근력날개
+mystery-egg,en,gs,,c,,MYSTERY EGG
+mystery-egg,fr,gs,,c,,OEUF MYSTERE
+mystery-egg,fr,hgss,,hgss,,Oeuf Mystère
+mystery-egg,it,gs,,c,,UOVO MISTERO
+mystery-egg,it,hgss,,la,,Uovo Mistero
+mystery-egg,de,gs,,c,,RÄTSEL-EI
+mystery-egg,es,gs,,c,,HUEVO MIST
+mystery-egg,es,hgss,,b2w2,,Huevo Mist
+mystery-egg,ko,gs,,gs,,이상한 알
+mystic-water,en,gs,,e,,MYSTIC WATER
+mystic-water,fr,gs,,e,,EAU MYSTIQUE
+mystic-water,it,gs,,e,,ACQUA MAGICA
+mystic-water,it,dp,,la,,Acqua Magica
+mystic-water,de,gs,,e,,ZAUBERWASSER
+mystic-water,es,gs,,e,,AGUA MÍSTICA
+mystic-water,ko,gs,,gs,,신비의 물방울
+nanab-berry,en,rs,,e,,NANAB BERRY
+nanab-berry,fr,rs,,e,,BAIE NANAB
+nanab-berry,it,rs,,e,,BACCABANA
+nanab-berry,de,rs,,e,,NANABBEERE
+nanab-berry,es,rs,,e,,BAYA LATANO
+nest-ball,en,rs,,e,,NEST BALL
+nest-ball,fr,rs,,e,,FAIBLO BALL
+nest-ball,it,rs,,e,,MINOR BALL
+nest-ball,de,rs,,e,,NESTBALL
+nest-ball,es,rs,,e,,NIDO BALL
+net-ball,en,rs,,e,,NET BALL
+net-ball,fr,rs,,e,,FILET BALL
+net-ball,it,rs,,e,,RETE BALL
+net-ball,de,rs,,e,,NETZBALL
+net-ball,es,rs,,e,,MALLA BALL
+net-ball,ko,dp,,la,,넷트볼
+never-melt-ice,en,gs,,e,,NEVERMELTICE
+never-melt-ice,en,dp,,b2w2,,NeverMeltIce
+never-melt-ice,fr,gs,,e,,GLACETERNEL
+never-melt-ice,fr,dp,,b2w2,,Glacéternel
+never-melt-ice,it,gs,,e,,GELOMAI
+never-melt-ice,de,gs,,e,,EWIGES EIS
+never-melt-ice,es,gs,,e,,ANTIDERRETIR
+never-melt-ice,ko,gs,,gs,,녹지않는 얼음
+nomel-berry,en,rs,,e,,NOMEL BERRY
+nomel-berry,fr,rs,,e,,BAIE TRONCI
+nomel-berry,it,rs,,e,,BACCALEMON
+nomel-berry,de,rs,,e,,TRONZIBEERE
+nomel-berry,es,rs,,e,,BAYA MONLI
+normal-gem,es,bw,,b2w2,,G. Normal
+nugget,en,rb,,e,,NUGGET
+nugget,fr,rb,,e,,PEPITE
+nugget,it,rb,,e,,PEPITA
+nugget,de,rb,,e,,NUGGET
+nugget,es,rb,,e,,PEPITA
+oaks-letter,es,dp,,b2w2,,Carta Pr Oak
+odd-incense,fr,dp,,b2w2,,Bizar.Encens
+odd-incense,es,dp,,b2w2,,Incie. Raro
+odd-keystone,es,dp,,b2w2,,P. Espíritu
+old-amber,en,rb,,e,,OLD AMBER
+old-amber,fr,rb,,e,,VIEIL AMBRE
+old-amber,it,rb,,e,,AMBRA ANTICA
+old-amber,it,dp,,usum,,Ambra Antica
+old-amber,de,rb,,e,,ALTBERNSTEIN
+old-amber,es,rb,,e,,ÁMBAR VIEJO
+old-charm,it,dp,,ss,,Arcamuleto
+old-gateau,it,dp,,la,,Dolce Gateau
+old-gateau--recipe,it,la,,la,,Dolce Gateau
+old-rod,en,rb,,e,,OLD ROD
+old-rod,fr,rb,,e,,CANNE
+old-rod,it,rb,,e,,AMO VECCHIO
+old-rod,it,dp,,la,,Amo Vecchio
+old-rod,de,rb,,e,,ANGEL
+old-rod,es,rb,,y,,CAñA VIEJA
+old-rod,es,gs,,e,,CAÑA VIEJA
+old-rod,ko,gs,,gs,,낡은 낚싯대
+oran-berry,en,rs,,e,,ORAN BERRY
+oran-berry,fr,rs,,e,,BAIE ORAN
+oran-berry,it,rs,,e,,BACCARANCIA
+oran-berry,de,rs,,e,,SINELBEERE
+oran-berry,es,rs,,e,,BAYA ARANJA
+pair-of-tickets,es,oras,,la,,Entrada para dos
+pal-pad,it,dp,,la,,Blocco Amici
+pal-pad,es,dp,,la,,Bloc amigos
+pamtre-berry,en,rs,,e,,PAMTRE BERRY
+pamtre-berry,fr,rs,,e,,BAIE PALMA
+pamtre-berry,it,rs,,e,,BACCAPALMA
+pamtre-berry,de,rs,,e,,PALLMBEERE
+pamtre-berry,es,rs,,e,,BAYA PLAMA
+paralyze-heal,en,rb,,e,,PARLYZ HEAL
+paralyze-heal,en,dp,,b2w2,,Parlyz Heal
+paralyze-heal,fr,rb,,e,,ANTI-PARA
+paralyze-heal,it,rb,,e,,ANTIPARALISI
+paralyze-heal,de,rb,,e,,PARA-HEILER
+paralyze-heal,es,rb,,y,,ANTIPARALIZ.
+paralyze-heal,es,gs,,e,,ANTIPARALIZ
+paralyze-heal,es,dp,,b2w2,,Antiparaliz
+paralyze-heal,ko,gs,,gs,,마비 치료제
+parcel--kanto,en,rb,,y,,OAK’s PARCEL
+parcel--kanto,en,frlg,,e,,OAK’S PARCEL
+parcel--kanto,fr,rb,,e,,COLIS CHEN
+parcel--kanto,it,rb,,e,,PACCO DI OAK
+parcel--kanto,de,rb,,y,,EICHS PAKET
+parcel--kanto,de,frlg,,e,,EICHs PAKET
+parcel--kanto,es,rb,,e,,CORREO-OAK
+pass,jp-kana,gs,,c,,ていきけん
+pass,en,gs,,c,,PASS
+pass,fr,gs,,c,,PASSE
+pass,it,gs,,c,,ABBONAMENTO
+pass,de,gs,,c,,FAHRSCHEIN
+pass,es,gs,,c,,PASE
+pass,ko,gs,,gs,,정기권
+pass-orb,de,bw,,la,,Transferorb
+pearl,en,gs,,e,,PEARL
+pearl,fr,gs,,e,,PERLE
+pearl,it,gs,,e,,PERLA
+pearl,de,gs,,e,,PERLE
+pearl,es,gs,,e,,PERLA
+pearl-string,es,bw,,la,,Sarta Perlas
+pecha-berry,en,rs,,e,,PECHA BERRY
+pecha-berry,fr,rs,,e,,BAIE PECHA
+pecha-berry,it,rs,,e,,BACCAPESCA
+pecha-berry,de,rs,,e,,PIRSIFBEERE
+pecha-berry,es,rs,,e,,BAYA MELOC
+persim-berry,en,rs,,e,,PERSIM BERRY
+persim-berry,fr,rs,,e,,BAIE KIKA
+persim-berry,it,rs,,e,,BACCAKI
+persim-berry,de,rs,,e,,PERSIMBEERE
+persim-berry,es,rs,,e,,BAYA CAQUIC
+petaya-berry,en,rs,,e,,PETAYA BERRY
+petaya-berry,fr,rs,,e,,BAIE PITAYE
+petaya-berry,it,rs,,e,,BACCAPITAYA
+petaya-berry,de,rs,,e,,TAHAYBEERE
+petaya-berry,es,rs,,e,,BAYA YAPATI
+pinap-berry,en,rs,,e,,PINAP BERRY
+pinap-berry,fr,rs,,e,,BAIE NANANA
+pinap-berry,it,rs,,e,,BACCANANAS
+pinap-berry,de,rs,,e,,SANANABEERE
+pinap-berry,es,rs,,e,,BAYA PINIA
+pink-apricorn,en,gs,,c,,PNK APRICORN
+pink-apricorn,en,hgss,,b2w2,,Pnk Apricorn
+pink-apricorn,fr,gs,,c,,NOIGRUME ROS
+pink-apricorn,fr,hgss,,oras,,Noigrume Ros
+pink-apricorn,it,gs,,c,,GHICOC.ROSA
+pink-apricorn,it,hgss,,b2w2,,Ghic. Rosa
+pink-apricorn,it,xy,,la,,Ghicocca Rosa
+pink-apricorn,de,gs,,c,,APRIKOKO PNK
+pink-apricorn,de,hgss,,lgpe,,Aprikoko Pnk
+pink-apricorn,es,gs,,c,,BONGURI ROS
+pink-apricorn,es,hgss,,b2w2,,Bonguri Ros
+pink-apricorn,ko,gs,,gs,,담홍 규토리
+pink-scarf,en,rs,,e,,PINK SCARF
+pink-scarf,fr,rs,,e,,FOUL. ROSE
+pink-scarf,fr,dp,,b2w2,,Foul. Rose
+pink-scarf,it,rs,,e,,FASCIA ROSA
+pink-scarf,it,dp,,la,,Fascia Rosa
+pink-scarf,de,rs,,e,,ROSA SCHAL
+pink-scarf,es,rs,,e,,PAÑUELO ROSA
+plasma-card,es,b2w2,,b2w2,,Tarj. Plasma
+plume-fossil,fr,bw,,b2w2,,Foss. Plume
+plume-fossil,ko,bw,,la,,날개화석
+poffin-case,fr,dp,,ss,,Boîte Poffin
+point-card,fr,dp,,ss,,Carte Points
+point-card,it,dp,,ss,,Scheda Punti
+point-card,es,dp,,b2w2,,Tarj. Puntos
+point-card,es,xy,,la,,Tarjeta Puntos
+poison-barb,en,gs,,e,,POISON BARB
+poison-barb,fr,gs,,e,,PIC VENIN
+poison-barb,it,gs,,e,,VELENACULEO
+poison-barb,de,gs,,e,,GIFTSTICH
+poison-barb,es,gs,,c,,FLECHA VEN
+poison-barb,es,rs,,e,,FLECHA VEN.
+poison-barb,es,dp,,b2w2,,Flecha Ven.
+poison-gem,es,bw,,b2w2,,G. Veneno
+poke-ball,en,rb,,e,,POKé BALL
+poke-ball,fr,rb,,e,,POKé BALL
+poke-ball,it,rb,,e,,POKé BALL
+poke-ball,de,rb,,e,,POKéBALL
+poke-ball,es,rb,,e,,POKé BALL
+poke-doll,en,rb,,e,,POKé DOLL
+poke-doll,fr,rb,,y,,POKéPOUPEE
+poke-doll,fr,gs,,c,,POKé POUPEE
+poke-doll,fr,rs,,e,,POKéPOUPEE
+poke-doll,fr,dp,,oras,,Poképoupée
+poke-doll,it,rb,,e,,POKé BAMBOLA
+poke-doll,it,dp,,la,,Poké Bambola
+poke-doll,de,rb,,e,,POKéPUPPE
+poke-doll,es,rb,,y,,POKé MUÑECA
+poke-doll,es,gs,,e,,POKé MUÑECO
+poke-doll,es,dp,,la,,Poké Muñeco
+poke-flute,en,rb,,e,,POKé FLUTE
+poke-flute,fr,rb,,e,,POKéFLUTE
+poke-flute,fr,xy,,usum,,Pokéflûte
+poke-flute,it,rb,,e,,POKé FLAUTO
+poke-flute,it,xy,,la,,Poké Flauto
+poke-flute,de,rb,,e,,POKéFLÖTE
+poke-flute,es,rb,,e,,POKé FLAUTA
+poke-flute,es,xy,,la,,Poké Flauta
+poke-radar,es,dp,,ss,,Pokéradar
+poke-toy,fr,bw,,oras,,Poképlumet
+pokeblock-kit,ko,oras,,la,,포켓몬스넥키트
+pokedex,en,rb,,y,,POKéDEX
+pokedex,fr,rb,,y,,POKéDEX
+pokedex,it,rb,,y,,POKéDEX
+pokedex,de,rb,,y,,POKéDEX
+pokedex,es,rb,,y,,POKéDEX
+pokemon-box-link--lets-go,en,lgpe,,lgpe,,Pokémon Box
+pokeshi-doll,es,la,,la,,Poké Muñeca
+pokeshi-doll--recipe,es,la,,la,,Poké Muñeca
+pomeg-berry,en,rs,,e,,POMEG BERRY
+pomeg-berry,fr,rs,,e,,BAIE GRENA
+pomeg-berry,it,rs,,e,,BACCAGRANA
+pomeg-berry,de,rs,,e,,GRANABEERE
+pomeg-berry,es,rs,,e,,BAYA GRANA
+potion,en,rb,,e,,POTION
+potion,fr,rb,,e,,POTION
+potion,it,rb,,e,,POZIONE
+potion,de,rb,,e,,TRANK
+potion,es,rb,,e,,POCIÓN
+power-anklet,fr,dp,,b2w2,,Chaîne Pouv.
+power-band,fr,dp,,b2w2,,Band. Pouv.
+power-belt,fr,dp,,b2w2,,Ceint. Pouv.
+power-bracer,fr,dp,,b2w2,,Poign. Pouv.
+power-bracer,fr,xy,,lgpe,,Poignée Pouvoir
+power-herb,fr,dp,,b2w2,,Herbe Pouv.
+power-lens,fr,dp,,b2w2,,Lent. Pouv.
+power-plant-pass,it,xy,,la,,Pass Centrale
+power-plant-pass,es,xy,,la,,Pase Central
+power-weight,fr,dp,,b2w2,,Poids Pouv.
+pp-max,en,rs,,e,,PP MAX
+pp-max,fr,rs,,e,,PP MAX
+pp-max,it,rs,,e,,PP-MAX
+pp-max,it,dp,,la,,PP-Max
+pp-max,de,rs,,e,,AP-TOP
+pp-max,es,rs,,e,,MÁX. PP
+pp-max,es,dp,,b2w2,,Máx. PP
+pp-max,zh-simp,lgpe,,lgpe,,PP极限提升剂
+pp-max,zh-trad,lgpe,,lgpe,,PP極限提升劑
+pp-up,en,rb,,e,,PP UP
+pp-up,fr,rb,,e,,PP PLUS
+pp-up,it,rb,,e,,PP-SU
+pp-up,it,dp,,la,,PP-Su
+pp-up,de,rb,,e,,AP-PLUS
+pp-up,es,rb,,y,,MÁS  PP
+pp-up,es,gs,,e,,MÁS PP
+pp-up,ko,gs,,gs,,포인트 업
+pp-up,zh-simp,lgpe,,lgpe,,PP提升剂
+pp-up,zh-trad,lgpe,,lgpe,,PP提升劑
+premier-ball,en,rs,,e,,PREMIER BALL
+premier-ball,fr,rs,,e,,HONOR BALL
+premier-ball,it,rs,,e,,PREMIER BALL
+premier-ball,de,rs,,e,,PREMIERBALL
+premier-ball,es,rs,,e,,HONOR BALL
+premier-ball,ko,dp,,la,,프레미어볼
+pretty-feather,en,bw,,lgpe,,Pretty Wing
+pretty-feather,fr,bw,,lgpe,,Jolie Aile
+pretty-feather,es,bw,,b2w2,,P. Bella
+pretty-feather,ko,bw,,la,,고운날개
+prism-scale,it,bw,,la,,Squama Bella
+professors-mask,it,sm,,la,,Maschera Prof.
+protein,en,rb,,e,,PROTEIN
+protein,fr,rb,,e,,PROTEINE
+protein,it,rb,,e,,PROTEINA
+protein,de,rb,,e,,PROTEIN
+protein,es,rb,,c,,PROTEÍNAS
+protein,es,rs,,e,,PROTEÍNA
+psychic-gem,es,bw,,b2w2,,G. Psíquica
+psychic-gem,es,xy,,la,,Gema Psíquica
+pure-incense,es,dp,,b2w2,,Incie. Puro
+qualot-berry,en,rs,,e,,QUALOT BERRY
+qualot-berry,fr,rs,,e,,BAIE QUALOT
+qualot-berry,it,rs,,e,,BACCALOQUAT
+qualot-berry,de,rs,,e,,QUALOTBEERE
+qualot-berry,es,rs,,e,,BAYA ISPERO
+quick-candy-l,zh-simp,lgpe,,lgpe,,敏捷糖果L
+quick-candy-l,zh-trad,lgpe,,lgpe,,敏捷糖果L
+quick-candy-xl,zh-simp,lgpe,,lgpe,,敏捷糖果XL
+quick-candy-xl,zh-trad,lgpe,,lgpe,,敏捷糖果XL
+quick-claw,en,gs,,e,,QUICK CLAW
+quick-claw,fr,gs,,e,,VIVE GRIFFE
+quick-claw,it,gs,,e,,RAPIDARTIGLI
+quick-claw,it,dp,,la,,Rapidartigli
+quick-claw,de,gs,,e,,FLINKKLAUE
+quick-claw,es,gs,,e,,GARRA RÁPIDA
+quick-claw,ko,gs,,gs,,선제공격 손톱
+rabuta-berry,en,rs,,e,,RABUTA BERRY
+rabuta-berry,fr,rs,,e,,BAIE RABUTA
+rabuta-berry,it,rs,,e,,BACCAMBUTAN
+rabuta-berry,de,rs,,e,,RABUTABEERE
+rabuta-berry,es,rs,,e,,BAYA RAUTAN
+rage-candy-bar,en,gs,,c,,RAGECANDYBAR
+rage-candy-bar,en,hgss,,b2w2,,RageCandyBar
+rage-candy-bar,fr,gs,,c,,BONBON RAGE
+rage-candy-bar,it,gs,,c,,IRAMELLA
+rage-candy-bar,de,gs,,c,,WUTKEKS
+rage-candy-bar,es,gs,,c,,CARAM. FURIA
+rage-candy-bar,es,hgss,,b2w2,,Caram. Furia
+rage-candy-bar,ko,gs,,gs,,분노의 호두과자
+rainbow-wing,en,gs,,c,,RAINBOW WING
+rainbow-wing,fr,gs,,c,,ARCENCI’AILE
+rainbow-wing,fr,hgss,,oras,,Arcenci’Aile
+rainbow-wing,it,gs,,c,,ALA D’IRIDE
+rainbow-wing,de,gs,,c,,BUNTSCHWINGE
+rainbow-wing,es,gs,,c,,ALA ARCOIRIS
+rainbow-wing,ko,gs,,gs,,무지개빛 날개
+rare-bone,it,dp,,la,,Osso Raro
+rare-candy,en,rb,,e,,RARE CANDY
+rare-candy,fr,rb,,e,,SUPER BONBON
+rare-candy,it,rb,,e,,CARAM. RARA
+rare-candy,it,dp,,b2w2,,Caram. Rara
+rare-candy,it,xy,,usum,,Caramella Rara
+rare-candy,de,rb,,e,,SONDERBONBON
+rare-candy,es,rb,,e,,CARAMELORARO
+rare-candy,es,dp,,b2w2,,Carameloraro
+rare-candy,ko,gs,,gs,,이상한 사탕
+rawst-berry,en,rs,,e,,RAWST BERRY
+rawst-berry,fr,rs,,e,,BAIE FRAIVE
+rawst-berry,it,rs,,e,,BACCAFRAGO
+rawst-berry,de,rs,,e,,FRAGIABEERE
+rawst-berry,es,rs,,e,,BAYA SAFRE
+razor-claw,fr,dp,,b2w2,,Grif. Rasoir
+razor-claw,it,dp,,la,,Affilartigli
+razor-claw,es,dp,,b2w2,,Garrafilada
+razor-fang,es,dp,,b2w2,,Colmillagudo
+razz-berry,en,rs,,e,,RAZZ BERRY
+razz-berry,fr,rs,,e,,BAIE FRAMBY
+razz-berry,it,rs,,e,,BACCALAMPON
+razz-berry,de,rs,,e,,HIMMIHBEERE
+razz-berry,es,rs,,e,,BAYA FRAMBU
+reaper-cloth,es,dp,,b2w2,,Telaterrible
+red-apricorn,en,gs,,c,,RED APRICORN
+red-apricorn,fr,gs,,c,,NOIGRUME RGE
+red-apricorn,fr,hgss,,oras,,Noigrume Rge
+red-apricorn,it,gs,,c,,GHICOC.ROSSA
+red-apricorn,it,hgss,,b2w2,,Ghic. Rossa
+red-apricorn,it,xy,,la,,Ghicocca Rossa
+red-apricorn,de,gs,,c,,APRIKOKO ROT
+red-apricorn,es,gs,,c,,BONGURI ROJ
+red-apricorn,es,hgss,,b2w2,,Bonguri Roj
+red-apricorn,ko,gs,,gs,,빨간 규토리
+red-chain,it,dp,,ss,,Rossocatena
+red-chain,ko,dp,,ss,,빨강쇠사슬
+red-flute,en,rs,,e,,RED FLUTE
+red-flute,fr,rs,,e,,FLUTE ROUGE
+red-flute,it,rs,,e,,FLAUTO ROSSO
+red-flute,it,dp,,la,,Flauto Rosso
+red-flute,de,rs,,e,,ROTE FLÖTE
+red-flute,es,rs,,e,,FLAUTA ROJA
+red-orb,en,rs,,e,,RED ORB
+red-orb,fr,rs,,e,,ORBE ROUGE
+red-orb,fr,hgss,,xy,,Orbe Rouge
+red-orb,it,rs,,e,,SFERA ROSSA
+red-orb,it,hgss,,xy,,Sfera Rossa
+red-orb,de,rs,,e,,ROTE KUGEL
+red-orb,de,hgss,,xy,,Rote Kugel
+red-orb,es,rs,,e,,ESFERA ROJA
+red-orb,es,hgss,,xy,,Esfera Roja
+red-scale,en,gs,,c,,RED SCALE
+red-scale,fr,gs,,c,,ECAILLEROUGE
+red-scale,fr,hgss,,hgss,,Ecaillerouge
+red-scale,fr,bw,,lgpe,,Écaillerouge
+red-scale,it,gs,,c,,SQUAMA ROSSA
+red-scale,it,hgss,,la,,Squama Rossa
+red-scale,de,gs,,c,,ROTE HAUT
+red-scale,de,hgss,,la,,Rote Haut
+red-scale,es,gs,,c,,ESCAMA ROJA
+red-scale,ko,gs,,gs,,빨간 비늘
+red-scarf,en,rs,,e,,RED SCARF
+red-scarf,fr,rs,,e,,FOUL. ROUGE
+red-scarf,fr,dp,,b2w2,,Foul. Rouge
+red-scarf,it,rs,,e,,FASCIA ROSSA
+red-scarf,it,dp,,la,,Fascia Rossa
+red-scarf,de,rs,,e,,ROTER SCHAL
+red-scarf,es,rs,,e,,PAÑUELO ROJO
+red-shard,en,rs,,e,,RED SHARD
+red-shard,fr,rs,,e,,TESSON ROUGE
+red-shard,it,rs,,e,,COCCIO ROSSO
+red-shard,it,dp,,la,,Coccio Rosso
+red-shard,de,rs,,e,,PURPURSTÜCK
+red-shard,es,rs,,e,,PARTE ROJA
+relic-band,es,bw,,la,,Brazal
+relic-copper,es,bw,,la,,Real Cobre
+relic-crown,es,bw,,b2w2,,Cor. Antigua
+relic-gold,es,bw,,la,,Real Oro
+relic-silver,es,bw,,la,,Real Plata
+relic-statue,es,bw,,b2w2,,Efi. Antigua
+relic-vase,es,bw,,la,,Ánfora
+repeat-ball,en,rs,,e,,REPEAT BALL
+repeat-ball,fr,rs,,e,,BIS BALL
+repeat-ball,it,rs,,e,,BIS BALL
+repeat-ball,de,rs,,e,,WIEDERBALL
+repeat-ball,es,rs,,e,,ACOPIO BALL
+repeat-ball,ko,dp,,la,,리피드볼
+repel,en,rb,,e,,REPEL
+repel,fr,rb,,e,,REPOUSSE
+repel,it,rb,,e,,REPELLENTE
+repel,de,rb,,e,,SCHUTZ
+repel,es,rb,,e,,REPELENTE
+reply-mail,fr,bw,,b2w2,,Let. Réponse
+reply-mail,it,bw,,la,,Mess. Risp.
+reply-mail,es,bw,,b2w2,,C. Respuesta
+resist-feather,en,bw,,lgpe,,Resist Wing
+resist-feather,fr,bw,,lgpe,,Aile Armure
+resist-feather,es,bw,,b2w2,,P. Aguante
+resist-feather,ko,bw,,la,,저항력날개
+revival-herb,en,gs,,e,,REVIVAL HERB
+revival-herb,fr,gs,,e,,HERBE RAPPEL
+revival-herb,it,gs,,e,,VITALERBA
+revival-herb,de,gs,,e,,VITALKRAUT
+revival-herb,es,gs,,c,,HIERBA-REV
+revival-herb,es,rs,,e,,HIERBA REV.
+revival-herb,es,dp,,b2w2,,Hierba Rev.
+revive,en,rb,,e,,REVIVE
+revive,fr,rb,,e,,RAPPEL
+revive,it,rb,,e,,REVITALIZ.
+revive,it,dp,,b2w2,,Revitaliz.
+revive,de,rb,,e,,BELEBER
+revive,es,rb,,e,,REVIVIR
+revive,ko,gs,,gs,,기력의 조각
+ring-target,fr,bw,,b2w2,,Pt de Mire
+rock-gem,de,bw,,oras,,Gesteinjuwel
+rock-gem,es,bw,,b2w2,,G. Roca
+rock-incense,es,dp,,b2w2,,Incie. Roca
+rock-memory,ko,sm,,la,,락메모리
+rocky-helmet,es,bw,,b2w2,,Cas. Dentado
+root-fossil,en,rs,,e,,ROOT FOSSIL
+root-fossil,fr,rs,,e,,FOSS. RACINE
+root-fossil,fr,dp,,b2w2,,Foss. Racine
+root-fossil,it,rs,,e,,RADIFOSSILE
+root-fossil,de,rs,,e,,WURZELFOSSIL
+root-fossil,es,rs,,e,,FÓSIL RAÍZ
+rose-incense,es,dp,,b2w2,,Inc. Floral
+roto-hp-restore,zh-simp,lgpe,,lgpe,,HP回复碰碰
+roto-hp-restore,zh-trad,lgpe,,lgpe,,HP回復碰碰
+roto-pp-restore,zh-simp,lgpe,,lgpe,,PP回复碰碰
+roto-pp-restore,zh-trad,lgpe,,lgpe,,PP回復碰碰
+rsvp-mail,it,bw,,b2w2,,Mess. Invito
+rsvp-mail,es,bw,,b2w2,,C. Invitar
+rule-book,it,dp,,la,,Libro Regole
+sacred-ash,en,gs,,e,,SACRED ASH
+sacred-ash,fr,gs,,e,,CENDRESACREE
+sacred-ash,fr,dp,,b2w2,,Cendresacrée
+sacred-ash,it,gs,,e,,CENEREMAGICA
+sacred-ash,it,dp,,la,,Ceneremagica
+sacred-ash,de,gs,,e,,ZAUBERASCHE
+sacred-ash,es,gs,,e,,CEN. SAGRADA
+sacred-ash,es,dp,,b2w2,,Cen. Sagrada
+sacred-ash,ko,gs,,gs,,성스러운 분말
+safari-ball,en,rb,,e,,SAFARI BALL
+safari-ball,fr,rb,,e,,SAFARI BALL
+safari-ball,it,rb,,e,,SAFARI BALL
+safari-ball,de,rb,,e,,SAFARIBALL
+safari-ball,es,rb,,e,,SAFARI BALL
+salac-berry,en,rs,,e,,SALAC BERRY
+salac-berry,fr,rs,,e,,BAIE SAILAK
+salac-berry,it,rs,,e,,BACCASALAK
+salac-berry,de,rs,,e,,SALKABEERE
+salac-berry,es,rs,,e,,BAYA ASLAC
+scanner,en,rs,,e,,SCANNER
+scanner,fr,rs,,e,,SCANNER
+scanner,it,rs,,e,,SCANNER
+scanner,de,rs,,e,,SCANNER
+scanner,es,rs,,e,,ESCÁNER
+scope-lens,en,gs,,e,,SCOPE LENS
+scope-lens,fr,gs,,e,,LENTILSCOPE
+scope-lens,it,gs,,e,,MIRINO
+scope-lens,de,gs,,e,,SCOPE-LINSE
+scope-lens,es,gs,,e,,PERISCOPIO
+scope-lens,ko,gs,,gs,,초점 렌즈
+sea-incense,en,rs,,e,,SEA INCENSE
+sea-incense,fr,rs,,e,,ENCENS MER
+sea-incense,it,rs,,e,,MAREAROMA
+sea-incense,de,rs,,e,,SEERAUCH
+sea-incense,es,rs,,e,,INCIE. MAR.
+sea-incense,es,dp,,b2w2,,Incie. Mar.
+secret-key--cinnabar-island-gym,en,rb,,e,,SECRET KEY
+secret-key--cinnabar-island-gym,fr,rb,,e,,CLE SECRETE
+secret-key--cinnabar-island-gym,it,rb,,e,,CHIAVE SEGR.
+secret-key--cinnabar-island-gym,de,rb,,e,,?-ÖFFNER
+secret-key--cinnabar-island-gym,es,rb,,e,,LL. SECRETA
+secret-key--rotoms-room,it,p,,b2w2,,Chiave Segr.
+secret-key--rotoms-room,it,xy,,usum,,Chiave Segreta
+secret-key--rotoms-room,de,p,,usum,,?-Öffner
+secret-key--rotoms-room,es,p,,b2w2,,Ll. Secreta
+secret-medicine,en,gs,,c,,SECRETPOTION
+secret-medicine,en,dp,,b2w2,,SecretPotion
+secret-medicine,en,xy,,ss,,Secret Potion
+secret-medicine,fr,gs,,c,,POTIONSECRET
+secret-medicine,fr,dp,,b2w2,,Potionsecret
+secret-medicine,fr,xy,,ss,,Potion Secrète
+secret-medicine,it,gs,,c,,POZ.SEGRETA
+secret-medicine,it,dp,,b2w2,,Poz. Segreta
+secret-medicine,it,xy,,ss,,Pozione Segreta
+secret-medicine,de,gs,,c,,GEHEIMTRANK
+secret-medicine,de,dp,,ss,,Geheimtrank
+secret-medicine,es,gs,,c,,POC. SECRETA
+secret-medicine,es,dp,,b2w2,,Poc. Secreta
+secret-medicine,es,xy,,ss,,Poción Secreta
+secret-medicine,ko,gs,,gs,,비전 신약
+sharp-beak,en,gs,,e,,SHARP BEAK
+sharp-beak,fr,gs,,e,,BEC POINTU
+sharp-beak,it,gs,,e,,BECCAFFILATO
+sharp-beak,de,gs,,e,,HACKATTACK
+sharp-beak,de,dp,,lgpe,,Hackattack
+sharp-beak,es,gs,,e,,PICO AFILADO
+sharp-beak,ko,gs,,gs,,예리한 부리
+shell-bell,en,rs,,e,,SHELL BELL
+shell-bell,fr,rs,,e,,GRELOT COQUE
+shell-bell,it,rs,,e,,CONCHINELLA
+shell-bell,de,rs,,e,,SEEGESANG
+shell-bell,de,dp,,lgpe,,Seegesang
+shell-bell,es,rs,,e,,CAMP. CONCHA
+shell-bell,es,dp,,b2w2,,Camp. Concha
+shell-bell,es,xy,,lgpe,,Campana Concha
+shiny-charm,fr,b2w2,,b2w2,,CharmeChroma
+shiny-stone,fr,dp,,hgss,,Pierre Eclat
+shoal-salt,en,rs,,e,,SHOAL SALT
+shoal-salt,fr,rs,,e,,SEL TREFONDS
+shoal-salt,it,rs,,e,,SALE ONDOSO
+shoal-salt,it,dp,,la,,Sale Ondoso
+shoal-salt,de,rs,,e,,KÜSTENSALZ
+shoal-salt,es,rs,,e,,SAL CARDUMEN
+shoal-shell,en,rs,,e,,SHOAL SHELL
+shoal-shell,fr,rs,,e,,CO. TREFONDS
+shoal-shell,fr,dp,,b2w2,,Co. Tréfonds
+shoal-shell,it,rs,,e,,GUSCIONDOSO
+shoal-shell,de,rs,,e,,KÜSTENSCHALE
+shoal-shell,es,rs,,e,,C. CARDUMEN
+shoal-shell,es,dp,,b2w2,,C. Cardumen
+silk-scarf,en,rs,,e,,SILK SCARF
+silk-scarf,fr,rs,,e,,MOUCH. SOIE
+silk-scarf,fr,dp,,b2w2,,Mouch. Soie
+silk-scarf,it,rs,,e,,SCIARPA SETA
+silk-scarf,it,dp,,la,,Sciarpa Seta
+silk-scarf,de,rs,,e,,SEIDENSCHAL
+silk-scarf,es,rs,,e,,PAÑUELO SEDA
+silk-scarf,es,dp,,lgpe,,Pañuelo Seda
+silph-scope,en,rb,,e,,SILPH SCOPE
+silph-scope,fr,rb,,e,,SCOPE SYLPHE
+silph-scope,it,rb,,e,,SPETTROSONDA
+silph-scope,de,rb,,e,,SILPH SCOPE
+silph-scope,es,rb,,e,,SCOPE SILPH
+silver-leaf,en,gs,,c,,SILVER LEAF
+silver-leaf,fr,gs,,c,,FEUILLE ARG.
+silver-leaf,it,gs,,c,,FOGLIARGENTO
+silver-leaf,de,gs,,c,,SILBERBLATT
+silver-leaf,es,gs,,c,,HOJA PLATA
+silver-leaf,ko,gs,,gs,,은빛 나뭇잎
+silver-powder,en,gs,,e,,SILVERPOWDER
+silver-powder,en,dp,,b2w2,,SilverPowder
+silver-powder,fr,gs,,e,,POUDRE ARG.
+silver-powder,fr,dp,,b2w2,,Poudre Arg.
+silver-powder,it,gs,,e,,ARGENPOLVERE
+silver-powder,de,gs,,e,,SILBERSTAUB
+silver-powder,es,gs,,e,,POLVO PLATA
+silver-powder,ko,gs,,gs,,은빛 가루
+silver-wing,en,gs,,c,,SILVER WING
+silver-wing,fr,gs,,c,,AILE ARGENT
+silver-wing,it,gs,,c,,ALADARGENTO
+silver-wing,de,gs,,c,,SILBERFLÜGEL
+silver-wing,es,gs,,c,,ALA PLATEADA
+silver-wing,ko,gs,,gs,,은빛 날개
+sitrus-berry,en,rs,,e,,SITRUS BERRY
+sitrus-berry,fr,rs,,e,,BAIE SITRUS
+sitrus-berry,it,rs,,e,,BACCACEDRO
+sitrus-berry,de,rs,,e,,TSITRUBEERE
+sitrus-berry,es,rs,,e,,BAYA ZIDRA
+skull-fossil,fr,dp,,b2w2,,Foss. Crâne
+slowpoke-tail,en,gs,,c,,SLOWPOKETAIL
+slowpoke-tail,en,hgss,,b2w2,,SlowpokeTail
+slowpoke-tail,fr,gs,,c,,QUEUERAMOLOS
+slowpoke-tail,fr,hgss,,oras,,Queueramolos
+slowpoke-tail,it,gs,,c,,CODASLOWPOKE
+slowpoke-tail,it,hgss,,oras,,Codaslowpoke
+slowpoke-tail,de,gs,,c,,FLEGMONRUTE
+slowpoke-tail,de,hgss,,hgss,,FLEGMON-Rute
+slowpoke-tail,es,gs,,c,,COLASLOWPOKE
+slowpoke-tail,es,hgss,,oras,,Colaslowpoke
+slowpoke-tail,ko,gs,,gs,,맛있는 꼬리
+smart-candy-l,zh-simp,lgpe,,lgpe,,知识糖果L
+smart-candy-l,zh-trad,lgpe,,lgpe,,知識糖果L
+smart-candy-xl,zh-simp,lgpe,,lgpe,,知识糖果XL
+smart-candy-xl,zh-trad,lgpe,,lgpe,,知識糖果XL
+smoke-ball,en,gs,,e,,SMOKE BALL
+smoke-ball,fr,gs,,e,,BOULE FUMEE
+smoke-ball,it,gs,,e,,PALLA FUMO
+smoke-ball,it,dp,,la,,Palla Fumo
+smoke-ball,de,gs,,e,,RAUCHBALL
+smoke-ball,es,gs,,e,,BOLA HUMO
+smoke-ball,es,dp,,lgpe,,Bola Humo
+soda-pop,en,rb,,e,,SODA POP
+soda-pop,fr,rb,,e,,SODA COOL
+soda-pop,it,rb,,e,,GASSOSA
+soda-pop,de,rb,,e,,SPRUDEL
+soda-pop,es,rb,,e,,REFRESCO
+soda-pop,ko,gs,,gs,,미네랄 사이다
+soft-sand,en,gs,,e,,SOFT SAND
+soft-sand,fr,gs,,e,,SABLE DOUX
+soft-sand,it,gs,,e,,SABBIA SOFF.
+soft-sand,it,dp,,b2w2,,Sabbia Soff.
+soft-sand,it,xy,,la,,Sabbia Soffice
+soft-sand,de,gs,,e,,PUDERSAND
+soft-sand,es,gs,,e,,ARENA FINA
+soft-sand,ko,gs,,gs,,부드러운 모래
+soot-sack,en,rs,,e,,SOOT SACK
+soot-sack,fr,rs,,e,,SAC A SUIE
+soot-sack,it,rs,,e,,SACCO CENERE
+soot-sack,de,rs,,e,,ASCHETASCHE
+soot-sack,es,rs,,e,,SACO HOLLÍN
+soothe-bell,en,rs,,e,,SOOTHE BELL
+soothe-bell,fr,rs,,e,,GRELOT ZEN
+soothe-bell,it,rs,,e,,CALMANELLA
+soothe-bell,de,rs,,e,,SANFTGLOCKE
+soothe-bell,es,rs,,e,,CAMP. ALIVIO
+soothe-bell,es,dp,,b2w2,,Camp. Alivio
+soothe-bell,es,xy,,lgpe,,Campana Alivio
+soul-dew,en,rs,,e,,SOUL DEW
+soul-dew,fr,rs,,e,,ROSEE AME
+soul-dew,fr,dp,,hgss,,Rosée Ame
+soul-dew,it,rs,,e,,CUORUGIADA
+soul-dew,de,rs,,e,,SEELENTAU
+soul-dew,es,rs,,e,,ROCÍO BONDAD
+spell-tag,en,gs,,e,,SPELL TAG
+spell-tag,fr,gs,,e,,RUNE SORT
+spell-tag,it,gs,,e,,SPETTROTARGA
+spell-tag,de,gs,,e,,BANNSTICKER
+spell-tag,es,gs,,e,,HECHIZO
+spell-tag,ko,gs,,gs,,저주의 부적
+spell-tag,zh-simp,sm,,ss,,诅咒之符
+spelon-berry,en,rs,,e,,SPELON BERRY
+spelon-berry,fr,rs,,e,,BAIE KIWAN
+spelon-berry,it,rs,,e,,BACCAMELOS
+spelon-berry,de,rs,,e,,KIWANBEERE
+spelon-berry,es,rs,,e,,BAYA WIKANO
+spooky-plate,fr,dp,,oras,,Plaque Fantô
+sport-ball,jp-kana,gs,,c,,パークボール
+sport-ball,en,gs,,c,,PARK BALL
+sport-ball,fr,gs,,c,,PARC BALL
+sport-ball,it,gs,,c,,PARK BALL
+sport-ball,de,gs,,c,,PARKBALL
+sport-ball,es,gs,,c,,PARQUE BALL
+sport-ball,ko,gs,,gs,,파크볼
+sport-ball,ko,hgss,,la,,콤페볼
+sprayduck,de,dp,,ss,,Entonkanne
+squirt-bottle,en,gs,,c,,SQUIRTBOTTLE
+squirt-bottle,en,hgss,,b2w2,,SquirtBottle
+squirt-bottle,fr,gs,,c,,CARAPUCE A O
+squirt-bottle,fr,hgss,,hgss,,CARAPUCE à O
+squirt-bottle,it,gs,,c,,ANNAFFIATOIO
+squirt-bottle,de,gs,,c,,SCHIGGYKANNE
+squirt-bottle,es,gs,,c,,REGADERA
+squirt-bottle,es,hgss,,la,,Regadera
+squirt-bottle,ko,gs,,gs,,꼬부기 물뿌리개
+ss-ticket--ss-anne,en,rb,,y,,S.S.TICKET
+ss-ticket--ss-anne,en,frlg,,frlg,,S.S. TICKET
+ss-ticket--ss-anne,fr,rb,,frlg,,PASSE BATEAU
+ss-ticket--ss-anne,it,rb,,frlg,,BIGL. NAVE
+ss-ticket--ss-anne,it,dp,,p,,Bigl. Nave
+ss-ticket--ss-anne,de,rb,,frlg,,BOOTSTICKET
+ss-ticket--ss-anne,es,rb,,frlg,,TICKET BARCO
+ss-ticket--ss-anne,es,dp,,p,,Ticket Barco
+ss-ticket--ss-aqua,en,gs,,c,,S.S.TICKET
+ss-ticket--ss-aqua,fr,gs,,c,,PASSE BATEAU
+ss-ticket--ss-aqua,it,gs,,c,,BIGL.NAVE
+ss-ticket--ss-aqua,it,hgss,,b2w2,,Bigl. Nave
+ss-ticket--ss-aqua,it,xy,,usum,,Biglietto Nave
+ss-ticket--ss-aqua,de,gs,,c,,BOOTSTICKET
+ss-ticket--ss-aqua,es,gs,,c,,TICKET BARCO
+ss-ticket--ss-aqua,es,hgss,,ss,,Ticket Barco
+ss-ticket--ss-aqua,ko,gs,,gs,,승선 티켓
+ss-ticket--ss-tidal,en,rs,,e,,S.S. TICKET
+ss-ticket--ss-tidal,fr,rs,,e,,PASSE BATEAU
+ss-ticket--ss-tidal,it,rs,,e,,BIGL. NAVE
+ss-ticket--ss-tidal,it,oras,,usum,,Biglietto Nave
+ss-ticket--ss-tidal,de,rs,,e,,BOOTSTICKET
+ss-ticket--ss-tidal,es,rs,,e,,TICKET BARCO
+ss-ticket--ss-tidal,es,oras,,ss,,Ticket Barco
+stable-mulch,es,dp,,b2w2,,Ab. Fijador
+star-piece,en,gs,,e,,STAR PIECE
+star-piece,fr,gs,,e,,MORC. ETOILE
+star-piece,fr,dp,,hgss,,Morc. Etoile
+star-piece,fr,bw,,b2w2,,Morc. Étoile
+star-piece,it,gs,,e,,PEZZO STELLA
+star-piece,it,dp,,la,,Pezzo Stella
+star-piece,de,gs,,e,,STERNENSTÜCK
+star-piece,es,gs,,e,,TR. ESTRELLA
+star-piece,es,dp,,b2w2,,Tr. Estrella
+star-piece,ko,gs,,gs,,별의 조각
+star-piece--recipe,it,la,,la,,Pezzo Stella
+stardust,en,gs,,e,,STARDUST
+stardust,fr,gs,,e,,POUSS.ETOILE
+stardust,fr,dp,,hgss,,Pouss.Etoile
+stardust,fr,bw,,b2w2,,Pouss.Étoile
+stardust,it,gs,,e,,POLVOSTELLA
+stardust,de,gs,,e,,STERNENSTAUB
+stardust,es,gs,,e,,POLVOESTELAR
+stardust,es,dp,,oras,,Polvoestelar
+stardust,ko,gs,,gs,,별의 모래
+starf-berry,en,rs,,e,,STARF BERRY
+starf-berry,fr,rs,,e,,BAIE FRISTA
+starf-berry,it,rs,,e,,BACCAMBOLA
+starf-berry,de,rs,,e,,KRAMBOBEERE
+starf-berry,es,rs,,e,,BAYA ARABOL
+steel-gem,es,bw,,b2w2,,G. Acero
+sticker-bag,en,dp,,la,,Seal Bag
+sticker-bag,es,dp,,la,,Bolsa Sellos
+sticker-case,en,dp,,la,,Seal Case
+sticker-case,fr,dp,,ss,,Boîte Sceaux
+sticker-case,de,dp,,oras,,Stick.Koffer
+sticker-case,es,dp,,ss,,Caja Sellos
+storage-key--galactic-warehouse,fr,dp,,ss,,Clé Stockage
+storage-key--galactic-warehouse,it,dp,,ss,,Depochiave
+storage-key--galactic-warehouse,de,dp,,xy,,L-Schlüssel
+storage-key--galactic-warehouse,es,dp,,b2w2,,Ll. Almacén
+storage-key--galactic-warehouse,es,xy,,la,,Llave Almacén
+storage-key--sea-mauville,en,rs,,e,,STORAGE KEY
+storage-key--sea-mauville,fr,rs,,e,,CLE STOCKAGE
+storage-key--sea-mauville,fr,oras,,ss,,Clé Stockage
+storage-key--sea-mauville,it,rs,,e,,CHIAVE STIVA
+storage-key--sea-mauville,de,rs,,e,,L.-SCHLÜSSEL
+storage-key--sea-mauville,es,rs,,e,,LL. ALMACÉN
+storage-key--sea-mauville,es,oras,,la,,Llave Almacén
+suite-key,fr,dp,,ss,,Clé Chambre
+suite-key,it,dp,,ss,,Chiave Suite
+suite-key,de,dp,,ss,,B-Schlüssel
+suite-key,es,dp,,sv,upd-202,Llave Suite
+sun-stone,en,gs,,e,,SUN STONE
+sun-stone,fr,gs,,e,,PIERRESOLEIL
+sun-stone,fr,dp,,b2w2,,Pierresoleil
+sun-stone,it,gs,,e,,PIETRASOLARE
+sun-stone,de,gs,,e,,SONNENSTEIN
+sun-stone,es,gs,,e,,PIEDRA SOLAR
+sun-stone,ko,gs,,gs,,태양의 돌
+super-potion,en,rb,,e,,SUPER POTION
+super-potion,fr,rb,,e,,SUPER POTION
+super-potion,it,rb,,e,,SUPERPOZIONE
+super-potion,de,rb,,e,,SUPERTRANK
+super-potion,es,rb,,c,,SÚPER POCIÓN
+super-potion,es,rs,,e,,SUPERPOCIÓN
+super-potion,ko,gs,,gs,,좋은 상처약
+super-repel,en,rb,,e,,SUPER REPEL
+super-repel,fr,rb,,e,,SUPEREPOUSSE
+super-repel,fr,dp,,oras,,Superepousse
+super-repel,it,rb,,e,,SUPERREPELL.
+super-repel,it,dp,,b2w2,,Superrepell.
+super-repel,de,rb,,e,,SUPERSCHUTZ
+super-repel,es,rb,,c,,SÚPER REPEL
+super-repel,es,rs,,e,,SUPERREPEL
+super-repel,es,dp,,b2w2,,Superrepel
+super-repel,ko,gs,,gs,,실버 스프레이
+super-rod,en,rb,,e,,SUPER ROD
+super-rod,fr,rb,,e,,MEGA CANNE
+super-rod,it,rb,,e,,SUPER AMO
+super-rod,it,dp,,la,,Super Amo
+super-rod,de,rb,,e,,SUPERANGEL
+super-rod,es,rb,,c,,SÚPER CAÑA
+super-rod,es,rs,,e,,SUPERCAÑA
+super-rod,ko,gs,,gs,,대단한 낚싯대
+sweet-heart,es,bw,,b2w2,,Cor. Dulce
+swift-feather,en,bw,,lgpe,,Swift Wing
+swift-feather,fr,bw,,lgpe,,Aile Sprint
+swift-feather,es,bw,,b2w2,,P. Ímpetu
+swift-feather,ko,bw,,la,,순발력날개
+tamato-berry,en,rs,,e,,TAMATO BERRY
+tamato-berry,fr,rs,,e,,BAIE TAMATO
+tamato-berry,it,rs,,e,,BACCAMODORO
+tamato-berry,de,rs,,e,,TAMOTBEERE
+tamato-berry,es,rs,,e,,BAYA TAMATE
+tea,en,frlg,,e,,TEA
+tea,fr,frlg,,e,,THE
+tea,it,frlg,,e,,TÈ
+tea,de,frlg,,e,,TEE
+tea,es,frlg,,e,,TÉ
+thanks-mail,it,bw,,b2w2,,Mess. Grazie
+thanks-mail,es,bw,,b2w2,,C. Gracias
+thick-club,en,gs,,e,,THICK CLUB
+thick-club,fr,gs,,e,,MASSE OS
+thick-club,it,gs,,e,,OSSOSPESSO
+thick-club,it,dp,,la,,Ossospesso
+thick-club,de,gs,,e,,KAMPFKNOCHEN
+thick-club,es,gs,,e,,HUESO GRUESO
+thick-club,ko,gs,,gs,,굵은 뼈
+thunder-stone,en,rb,,e,,THUNDERSTONE
+thunder-stone,en,dp,,b2w2,,Thunderstone
+thunder-stone,fr,rb,,e,,PIERREFOUDRE
+thunder-stone,fr,dp,,b2w2,,Pierrefoudre
+thunder-stone,it,rb,,e,,PIETRATUONO
+thunder-stone,de,rb,,e,,DONNERSTEIN
+thunder-stone,es,rb,,e,,PIEDRATRUENO
+thunder-stone,es,dp,,b2w2,,Piedratrueno
+thunder-stone,ko,gs,,gs,,천둥의 돌
+tidal-bell,it,hgss,,b2w2,,Camp. Onda
+tidal-bell,it,xy,,la,,Campana Onda
+tidal-bell,es,hgss,,b2w2,,Camp. Oleaje
+tidal-bell,es,xy,,lgpe,,Campana Oleaje
+timer-ball,en,rs,,e,,TIMER BALL
+timer-ball,fr,rs,,e,,CHRONO BALL
+timer-ball,it,rs,,e,,TIMER BALL
+timer-ball,de,rs,,e,,TIMERBALL
+timer-ball,es,rs,,e,,TURNO BALL
+timer-ball,ko,dp,,la,,타이마볼
+tiny-mushroom,en,gs,,e,,TINYMUSHROOM
+tiny-mushroom,en,dp,,b2w2,,TinyMushroom
+tiny-mushroom,fr,gs,,e,,PETIT CHAMPI
+tiny-mushroom,it,gs,,e,,MINIFUNGO
+tiny-mushroom,de,gs,,e,,MINIPILZ
+tiny-mushroom,es,gs,,e,,MINI SETA
+tiny-mushroom,es,dp,,oras,,Mini Seta
+tiny-mushroom,ko,gs,,gs,,작은 버섯
+tm-case,en,frlg,,e,,TM CASE
+tm-case,fr,frlg,,e,,BOITE CT
+tm-case,it,frlg,,e,,PORTA-MT
+tm-case,de,frlg,,e,,VM/TM-BOX
+tm-case,es,frlg,,e,,TUBO MT-MO
+tm00,es,ss,base,ss,base,DT00
+tm001,jp-kana,rb,,bdsp,,わざマシン０１
+tm001,jp-kanji,bw,,la,,わざマシン０１
+tm001,en,rb,,la,,TM01
+tm001,fr,rb,,la,,CT01
+tm001,it,rb,,la,,MT01
+tm001,de,rb,,la,,TM01
+tm001,es,rb,,la,,MT01
+tm001,ko,gs,,la,,기술머신01
+tm001,zh-simp,sm,,usum,,招式学习器０１
+tm001,zh-simp,lgpe,,lgpe,,招式学习器01
+tm001,zh-simp,ss,,la,,招式学习器０１
+tm001,zh-trad,sm,,usum,,招式學習器０１
+tm001,zh-trad,lgpe,,lgpe,,招式學習器01
+tm001,zh-trad,ss,,la,,招式學習器０１
+tm002,jp-kana,rb,,bdsp,,わざマシン０２
+tm002,jp-kanji,bw,,la,,わざマシン０２
+tm002,en,rb,,la,,TM02
+tm002,fr,rb,,la,,CT02
+tm002,it,rb,,la,,MT02
+tm002,de,rb,,la,,TM02
+tm002,es,rb,,la,,MT02
+tm002,ko,gs,,la,,기술머신02
+tm002,zh-simp,sm,,usum,,招式学习器０２
+tm002,zh-simp,lgpe,,lgpe,,招式学习器02
+tm002,zh-simp,ss,,la,,招式学习器０２
+tm002,zh-trad,sm,,usum,,招式學習器０２
+tm002,zh-trad,lgpe,,lgpe,,招式學習器02
+tm002,zh-trad,ss,,la,,招式學習器０２
+tm003,jp-kana,rb,,bdsp,,わざマシン０３
+tm003,jp-kanji,bw,,la,,わざマシン０３
+tm003,en,rb,,la,,TM03
+tm003,fr,rb,,la,,CT03
+tm003,it,rb,,la,,MT03
+tm003,de,rb,,la,,TM03
+tm003,es,rb,,la,,MT03
+tm003,ko,gs,,la,,기술머신03
+tm003,zh-simp,sm,,usum,,招式学习器０３
+tm003,zh-simp,lgpe,,lgpe,,招式学习器03
+tm003,zh-simp,ss,,la,,招式学习器０３
+tm003,zh-trad,sm,,usum,,招式學習器０３
+tm003,zh-trad,lgpe,,lgpe,,招式學習器03
+tm003,zh-trad,ss,,la,,招式學習器０３
+tm004,jp-kana,rb,,bdsp,,わざマシン０４
+tm004,jp-kanji,bw,,la,,わざマシン０４
+tm004,en,rb,,la,,TM04
+tm004,fr,rb,,la,,CT04
+tm004,it,rb,,la,,MT04
+tm004,de,rb,,la,,TM04
+tm004,es,rb,,la,,MT04
+tm004,ko,gs,,la,,기술머신04
+tm004,zh-simp,sm,,usum,,招式学习器０４
+tm004,zh-simp,lgpe,,lgpe,,招式学习器04
+tm004,zh-simp,ss,,la,,招式学习器０４
+tm004,zh-trad,sm,,usum,,招式學習器０４
+tm004,zh-trad,lgpe,,lgpe,,招式學習器04
+tm004,zh-trad,ss,,la,,招式學習器０４
+tm005,jp-kana,rb,,bdsp,,わざマシン０５
+tm005,jp-kanji,bw,,la,,わざマシン０５
+tm005,en,rb,,la,,TM05
+tm005,fr,rb,,la,,CT05
+tm005,it,rb,,la,,MT05
+tm005,de,rb,,la,,TM05
+tm005,es,rb,,la,,MT05
+tm005,ko,gs,,la,,기술머신05
+tm005,zh-simp,sm,,usum,,招式学习器０５
+tm005,zh-simp,lgpe,,lgpe,,招式学习器05
+tm005,zh-simp,ss,,la,,招式学习器０５
+tm005,zh-trad,sm,,usum,,招式學習器０５
+tm005,zh-trad,lgpe,,lgpe,,招式學習器05
+tm005,zh-trad,ss,,la,,招式學習器０５
+tm006,jp-kana,rb,,bdsp,,わざマシン０６
+tm006,jp-kanji,bw,,la,,わざマシン０６
+tm006,en,rb,,la,,TM06
+tm006,fr,rb,,la,,CT06
+tm006,it,rb,,la,,MT06
+tm006,de,rb,,la,,TM06
+tm006,es,rb,,la,,MT06
+tm006,ko,gs,,la,,기술머신06
+tm006,zh-simp,sm,,usum,,招式学习器０６
+tm006,zh-simp,lgpe,,lgpe,,招式学习器06
+tm006,zh-simp,ss,,la,,招式学习器０６
+tm006,zh-trad,sm,,usum,,招式學習器０６
+tm006,zh-trad,lgpe,,lgpe,,招式學習器06
+tm006,zh-trad,ss,,la,,招式學習器０６
+tm007,jp-kana,rb,,bdsp,,わざマシン０７
+tm007,jp-kanji,bw,,la,,わざマシン０７
+tm007,en,rb,,la,,TM07
+tm007,fr,rb,,la,,CT07
+tm007,it,rb,,la,,MT07
+tm007,de,rb,,la,,TM07
+tm007,es,rb,,la,,MT07
+tm007,ko,gs,,la,,기술머신07
+tm007,zh-simp,sm,,usum,,招式学习器０７
+tm007,zh-simp,lgpe,,lgpe,,招式学习器07
+tm007,zh-simp,ss,,la,,招式学习器０７
+tm007,zh-trad,sm,,usum,,招式學習器０７
+tm007,zh-trad,lgpe,,lgpe,,招式學習器07
+tm007,zh-trad,ss,,la,,招式學習器０７
+tm008,jp-kana,rb,,bdsp,,わざマシン０８
+tm008,jp-kanji,bw,,la,,わざマシン０８
+tm008,en,rb,,la,,TM08
+tm008,fr,rb,,la,,CT08
+tm008,it,rb,,la,,MT08
+tm008,de,rb,,la,,TM08
+tm008,es,rb,,la,,MT08
+tm008,ko,gs,,la,,기술머신08
+tm008,zh-simp,sm,,usum,,招式学习器０８
+tm008,zh-simp,lgpe,,lgpe,,招式学习器08
+tm008,zh-simp,ss,,la,,招式学习器０８
+tm008,zh-trad,sm,,usum,,招式學習器０８
+tm008,zh-trad,lgpe,,lgpe,,招式學習器08
+tm008,zh-trad,ss,,la,,招式學習器０８
+tm009,jp-kana,rb,,bdsp,,わざマシン０９
+tm009,jp-kanji,bw,,la,,わざマシン０９
+tm009,en,rb,,la,,TM09
+tm009,fr,rb,,la,,CT09
+tm009,it,rb,,la,,MT09
+tm009,de,rb,,la,,TM09
+tm009,es,rb,,la,,MT09
+tm009,ko,gs,,la,,기술머신09
+tm009,zh-simp,sm,,usum,,招式学习器０９
+tm009,zh-simp,lgpe,,lgpe,,招式学习器09
+tm009,zh-simp,ss,,la,,招式学习器０９
+tm009,zh-trad,sm,,usum,,招式學習器０９
+tm009,zh-trad,lgpe,,lgpe,,招式學習器09
+tm009,zh-trad,ss,,la,,招式學習器０９
+tm010,jp-kana,rb,,bdsp,,わざマシン１０
+tm010,jp-kanji,bw,,la,,わざマシン１０
+tm010,en,rb,,la,,TM10
+tm010,fr,rb,,la,,CT10
+tm010,it,rb,,la,,MT10
+tm010,de,rb,,la,,TM10
+tm010,es,rb,,la,,MT10
+tm010,ko,gs,,la,,기술머신10
+tm010,zh-simp,sm,,usum,,招式学习器１０
+tm010,zh-simp,lgpe,,lgpe,,招式学习器10
+tm010,zh-simp,ss,,la,,招式学习器１０
+tm010,zh-trad,sm,,usum,,招式學習器１０
+tm010,zh-trad,lgpe,,lgpe,,招式學習器10
+tm010,zh-trad,ss,,la,,招式學習器１０
+tm011,jp-kana,rb,,bdsp,,わざマシン１１
+tm011,jp-kanji,bw,,la,,わざマシン１１
+tm011,en,rb,,la,,TM11
+tm011,fr,rb,,la,,CT11
+tm011,it,rb,,la,,MT11
+tm011,de,rb,,la,,TM11
+tm011,es,rb,,la,,MT11
+tm011,ko,gs,,la,,기술머신11
+tm011,zh-simp,sm,,usum,,招式学习器１１
+tm011,zh-simp,lgpe,,lgpe,,招式学习器11
+tm011,zh-simp,ss,,la,,招式学习器１１
+tm011,zh-trad,sm,,usum,,招式學習器１１
+tm011,zh-trad,lgpe,,lgpe,,招式學習器11
+tm011,zh-trad,ss,,la,,招式學習器１１
+tm012,jp-kana,rb,,bdsp,,わざマシン１２
+tm012,jp-kanji,bw,,la,,わざマシン１２
+tm012,en,rb,,la,,TM12
+tm012,fr,rb,,la,,CT12
+tm012,it,rb,,la,,MT12
+tm012,de,rb,,la,,TM12
+tm012,es,rb,,la,,MT12
+tm012,ko,gs,,la,,기술머신12
+tm012,zh-simp,sm,,usum,,招式学习器１２
+tm012,zh-simp,lgpe,,lgpe,,招式学习器12
+tm012,zh-simp,ss,,la,,招式学习器１２
+tm012,zh-trad,sm,,usum,,招式學習器１２
+tm012,zh-trad,lgpe,,lgpe,,招式學習器12
+tm012,zh-trad,ss,,la,,招式學習器１２
+tm013,jp-kana,rb,,bdsp,,わざマシン１３
+tm013,jp-kanji,bw,,la,,わざマシン１３
+tm013,en,rb,,la,,TM13
+tm013,fr,rb,,la,,CT13
+tm013,it,rb,,la,,MT13
+tm013,de,rb,,la,,TM13
+tm013,es,rb,,la,,MT13
+tm013,ko,gs,,la,,기술머신13
+tm013,zh-simp,sm,,usum,,招式学习器１３
+tm013,zh-simp,lgpe,,lgpe,,招式学习器13
+tm013,zh-simp,ss,,la,,招式学习器１３
+tm013,zh-trad,sm,,usum,,招式學習器１３
+tm013,zh-trad,lgpe,,lgpe,,招式學習器13
+tm013,zh-trad,ss,,la,,招式學習器１３
+tm014,jp-kana,rb,,bdsp,,わざマシン１４
+tm014,jp-kanji,bw,,la,,わざマシン１４
+tm014,en,rb,,la,,TM14
+tm014,fr,rb,,la,,CT14
+tm014,it,rb,,la,,MT14
+tm014,de,rb,,la,,TM14
+tm014,es,rb,,la,,MT14
+tm014,ko,gs,,la,,기술머신14
+tm014,zh-simp,sm,,usum,,招式学习器１４
+tm014,zh-simp,lgpe,,lgpe,,招式学习器14
+tm014,zh-simp,ss,,la,,招式学习器１４
+tm014,zh-trad,sm,,usum,,招式學習器１４
+tm014,zh-trad,lgpe,,lgpe,,招式學習器14
+tm014,zh-trad,ss,,la,,招式學習器１４
+tm015,jp-kana,rb,,bdsp,,わざマシン１５
+tm015,jp-kanji,bw,,la,,わざマシン１５
+tm015,en,rb,,la,,TM15
+tm015,fr,rb,,la,,CT15
+tm015,it,rb,,la,,MT15
+tm015,de,rb,,la,,TM15
+tm015,es,rb,,la,,MT15
+tm015,ko,gs,,la,,기술머신15
+tm015,zh-simp,sm,,usum,,招式学习器１５
+tm015,zh-simp,lgpe,,lgpe,,招式学习器15
+tm015,zh-simp,ss,,la,,招式学习器１５
+tm015,zh-trad,sm,,usum,,招式學習器１５
+tm015,zh-trad,lgpe,,lgpe,,招式學習器15
+tm015,zh-trad,ss,,la,,招式學習器１５
+tm016,jp-kana,rb,,bdsp,,わざマシン１６
+tm016,jp-kanji,bw,,la,,わざマシン１６
+tm016,en,rb,,la,,TM16
+tm016,fr,rb,,la,,CT16
+tm016,it,rb,,la,,MT16
+tm016,de,rb,,la,,TM16
+tm016,es,rb,,la,,MT16
+tm016,ko,gs,,la,,기술머신16
+tm016,zh-simp,sm,,usum,,招式学习器１６
+tm016,zh-simp,lgpe,,lgpe,,招式学习器16
+tm016,zh-simp,ss,,la,,招式学习器１６
+tm016,zh-trad,sm,,usum,,招式學習器１６
+tm016,zh-trad,lgpe,,lgpe,,招式學習器16
+tm016,zh-trad,ss,,la,,招式學習器１６
+tm017,jp-kana,rb,,bdsp,,わざマシン１７
+tm017,jp-kanji,bw,,la,,わざマシン１７
+tm017,en,rb,,la,,TM17
+tm017,fr,rb,,la,,CT17
+tm017,it,rb,,la,,MT17
+tm017,de,rb,,la,,TM17
+tm017,es,rb,,la,,MT17
+tm017,ko,gs,,la,,기술머신17
+tm017,zh-simp,sm,,usum,,招式学习器１７
+tm017,zh-simp,lgpe,,lgpe,,招式学习器17
+tm017,zh-simp,ss,,la,,招式学习器１７
+tm017,zh-trad,sm,,usum,,招式學習器１７
+tm017,zh-trad,lgpe,,lgpe,,招式學習器17
+tm017,zh-trad,ss,,la,,招式學習器１７
+tm018,jp-kana,rb,,bdsp,,わざマシン１８
+tm018,jp-kanji,bw,,la,,わざマシン１８
+tm018,en,rb,,la,,TM18
+tm018,fr,rb,,la,,CT18
+tm018,it,rb,,la,,MT18
+tm018,de,rb,,la,,TM18
+tm018,es,rb,,la,,MT18
+tm018,ko,gs,,la,,기술머신18
+tm018,zh-simp,sm,,usum,,招式学习器１８
+tm018,zh-simp,lgpe,,lgpe,,招式学习器18
+tm018,zh-simp,ss,,la,,招式学习器１８
+tm018,zh-trad,sm,,usum,,招式學習器１８
+tm018,zh-trad,lgpe,,lgpe,,招式學習器18
+tm018,zh-trad,ss,,la,,招式學習器１８
+tm019,jp-kana,rb,,bdsp,,わざマシン１９
+tm019,jp-kanji,bw,,la,,わざマシン１９
+tm019,en,rb,,la,,TM19
+tm019,fr,rb,,la,,CT19
+tm019,it,rb,,la,,MT19
+tm019,de,rb,,la,,TM19
+tm019,es,rb,,la,,MT19
+tm019,ko,gs,,la,,기술머신19
+tm019,zh-simp,sm,,usum,,招式学习器１９
+tm019,zh-simp,lgpe,,lgpe,,招式学习器19
+tm019,zh-simp,ss,,la,,招式学习器１９
+tm019,zh-trad,sm,,usum,,招式學習器１９
+tm019,zh-trad,lgpe,,lgpe,,招式學習器19
+tm019,zh-trad,ss,,la,,招式學習器１９
+tm020,jp-kana,rb,,bdsp,,わざマシン２０
+tm020,jp-kanji,bw,,la,,わざマシン２０
+tm020,en,rb,,la,,TM20
+tm020,fr,rb,,la,,CT20
+tm020,it,rb,,la,,MT20
+tm020,de,rb,,la,,TM20
+tm020,es,rb,,la,,MT20
+tm020,ko,gs,,la,,기술머신20
+tm020,zh-simp,sm,,usum,,招式学习器２０
+tm020,zh-simp,lgpe,,lgpe,,招式学习器20
+tm020,zh-simp,ss,,la,,招式学习器２０
+tm020,zh-trad,sm,,usum,,招式學習器２０
+tm020,zh-trad,lgpe,,lgpe,,招式學習器20
+tm020,zh-trad,ss,,la,,招式學習器２０
+tm021,jp-kana,rb,,bdsp,,わざマシン２１
+tm021,jp-kanji,bw,,la,,わざマシン２１
+tm021,en,rb,,la,,TM21
+tm021,fr,rb,,la,,CT21
+tm021,it,rb,,la,,MT21
+tm021,de,rb,,la,,TM21
+tm021,es,rb,,la,,MT21
+tm021,ko,gs,,la,,기술머신21
+tm021,zh-simp,sm,,usum,,招式学习器２１
+tm021,zh-simp,lgpe,,lgpe,,招式学习器21
+tm021,zh-simp,ss,,la,,招式学习器２１
+tm021,zh-trad,sm,,usum,,招式學習器２１
+tm021,zh-trad,lgpe,,lgpe,,招式學習器21
+tm021,zh-trad,ss,,la,,招式學習器２１
+tm022,jp-kana,rb,,bdsp,,わざマシン２２
+tm022,jp-kanji,bw,,la,,わざマシン２２
+tm022,en,rb,,la,,TM22
+tm022,fr,rb,,la,,CT22
+tm022,it,rb,,la,,MT22
+tm022,de,rb,,la,,TM22
+tm022,es,rb,,la,,MT22
+tm022,ko,gs,,la,,기술머신22
+tm022,zh-simp,sm,,usum,,招式学习器２２
+tm022,zh-simp,lgpe,,lgpe,,招式学习器22
+tm022,zh-simp,ss,,la,,招式学习器２２
+tm022,zh-trad,sm,,usum,,招式學習器２２
+tm022,zh-trad,lgpe,,lgpe,,招式學習器22
+tm022,zh-trad,ss,,la,,招式學習器２２
+tm023,jp-kana,rb,,bdsp,,わざマシン２３
+tm023,jp-kanji,bw,,la,,わざマシン２３
+tm023,en,rb,,la,,TM23
+tm023,fr,rb,,la,,CT23
+tm023,it,rb,,la,,MT23
+tm023,de,rb,,la,,TM23
+tm023,es,rb,,la,,MT23
+tm023,ko,gs,,la,,기술머신23
+tm023,zh-simp,sm,,usum,,招式学习器２３
+tm023,zh-simp,lgpe,,lgpe,,招式学习器23
+tm023,zh-simp,ss,,la,,招式学习器２３
+tm023,zh-trad,sm,,usum,,招式學習器２３
+tm023,zh-trad,lgpe,,lgpe,,招式學習器23
+tm023,zh-trad,ss,,la,,招式學習器２３
+tm024,jp-kana,rb,,bdsp,,わざマシン２４
+tm024,jp-kanji,bw,,la,,わざマシン２４
+tm024,en,rb,,la,,TM24
+tm024,fr,rb,,la,,CT24
+tm024,it,rb,,la,,MT24
+tm024,de,rb,,la,,TM24
+tm024,es,rb,,la,,MT24
+tm024,ko,gs,,la,,기술머신24
+tm024,zh-simp,sm,,usum,,招式学习器２４
+tm024,zh-simp,lgpe,,lgpe,,招式学习器24
+tm024,zh-simp,ss,,la,,招式学习器２４
+tm024,zh-trad,sm,,usum,,招式學習器２４
+tm024,zh-trad,lgpe,,lgpe,,招式學習器24
+tm024,zh-trad,ss,,la,,招式學習器２４
+tm025,jp-kana,rb,,bdsp,,わざマシン２５
+tm025,jp-kanji,bw,,la,,わざマシン２５
+tm025,en,rb,,la,,TM25
+tm025,fr,rb,,la,,CT25
+tm025,it,rb,,la,,MT25
+tm025,de,rb,,la,,TM25
+tm025,es,rb,,la,,MT25
+tm025,ko,gs,,la,,기술머신25
+tm025,zh-simp,sm,,usum,,招式学习器２５
+tm025,zh-simp,lgpe,,lgpe,,招式学习器25
+tm025,zh-simp,ss,,la,,招式学习器２５
+tm025,zh-trad,sm,,usum,,招式學習器２５
+tm025,zh-trad,lgpe,,lgpe,,招式學習器25
+tm025,zh-trad,ss,,la,,招式學習器２５
+tm026,jp-kana,rb,,bdsp,,わざマシン２６
+tm026,jp-kanji,bw,,la,,わざマシン２６
+tm026,en,rb,,la,,TM26
+tm026,fr,rb,,la,,CT26
+tm026,it,rb,,la,,MT26
+tm026,de,rb,,la,,TM26
+tm026,es,rb,,la,,MT26
+tm026,ko,gs,,la,,기술머신26
+tm026,zh-simp,sm,,usum,,招式学习器２６
+tm026,zh-simp,lgpe,,lgpe,,招式学习器26
+tm026,zh-simp,ss,,la,,招式学习器２６
+tm026,zh-trad,sm,,usum,,招式學習器２６
+tm026,zh-trad,lgpe,,lgpe,,招式學習器26
+tm026,zh-trad,ss,,la,,招式學習器２６
+tm027,jp-kana,rb,,bdsp,,わざマシン２７
+tm027,jp-kanji,bw,,la,,わざマシン２７
+tm027,en,rb,,la,,TM27
+tm027,fr,rb,,la,,CT27
+tm027,it,rb,,la,,MT27
+tm027,de,rb,,la,,TM27
+tm027,es,rb,,la,,MT27
+tm027,ko,gs,,la,,기술머신27
+tm027,zh-simp,sm,,usum,,招式学习器２７
+tm027,zh-simp,lgpe,,lgpe,,招式学习器27
+tm027,zh-simp,ss,,la,,招式学习器２７
+tm027,zh-trad,sm,,usum,,招式學習器２７
+tm027,zh-trad,lgpe,,lgpe,,招式學習器27
+tm027,zh-trad,ss,,la,,招式學習器２７
+tm028,jp-kana,rb,,bdsp,,わざマシン２８
+tm028,jp-kanji,bw,,la,,わざマシン２８
+tm028,en,rb,,la,,TM28
+tm028,fr,rb,,la,,CT28
+tm028,it,rb,,la,,MT28
+tm028,de,rb,,la,,TM28
+tm028,es,rb,,la,,MT28
+tm028,ko,gs,,la,,기술머신28
+tm028,zh-simp,sm,,usum,,招式学习器２８
+tm028,zh-simp,lgpe,,lgpe,,招式学习器28
+tm028,zh-simp,ss,,la,,招式学习器２８
+tm028,zh-trad,sm,,usum,,招式學習器２８
+tm028,zh-trad,lgpe,,lgpe,,招式學習器28
+tm028,zh-trad,ss,,la,,招式學習器２８
+tm029,jp-kana,rb,,bdsp,,わざマシン２９
+tm029,jp-kanji,bw,,la,,わざマシン２９
+tm029,en,rb,,la,,TM29
+tm029,fr,rb,,la,,CT29
+tm029,it,rb,,la,,MT29
+tm029,de,rb,,la,,TM29
+tm029,es,rb,,la,,MT29
+tm029,ko,gs,,la,,기술머신29
+tm029,zh-simp,sm,,usum,,招式学习器２９
+tm029,zh-simp,lgpe,,lgpe,,招式学习器29
+tm029,zh-simp,ss,,la,,招式学习器２９
+tm029,zh-trad,sm,,usum,,招式學習器２９
+tm029,zh-trad,lgpe,,lgpe,,招式學習器29
+tm029,zh-trad,ss,,la,,招式學習器２９
+tm030,jp-kana,rb,,bdsp,,わざマシン３０
+tm030,jp-kanji,bw,,la,,わざマシン３０
+tm030,en,rb,,la,,TM30
+tm030,fr,rb,,la,,CT30
+tm030,it,rb,,la,,MT30
+tm030,de,rb,,la,,TM30
+tm030,es,rb,,la,,MT30
+tm030,ko,gs,,la,,기술머신30
+tm030,zh-simp,sm,,usum,,招式学习器３０
+tm030,zh-simp,lgpe,,lgpe,,招式学习器30
+tm030,zh-simp,ss,,la,,招式学习器３０
+tm030,zh-trad,sm,,usum,,招式學習器３０
+tm030,zh-trad,lgpe,,lgpe,,招式學習器30
+tm030,zh-trad,ss,,la,,招式學習器３０
+tm031,jp-kana,rb,,bdsp,,わざマシン３１
+tm031,jp-kanji,bw,,la,,わざマシン３１
+tm031,en,rb,,la,,TM31
+tm031,fr,rb,,la,,CT31
+tm031,it,rb,,la,,MT31
+tm031,de,rb,,la,,TM31
+tm031,es,rb,,la,,MT31
+tm031,ko,gs,,la,,기술머신31
+tm031,zh-simp,sm,,usum,,招式学习器３１
+tm031,zh-simp,lgpe,,lgpe,,招式学习器31
+tm031,zh-simp,ss,,la,,招式学习器３１
+tm031,zh-trad,sm,,usum,,招式學習器３１
+tm031,zh-trad,lgpe,,lgpe,,招式學習器31
+tm031,zh-trad,ss,,la,,招式學習器３１
+tm032,jp-kana,rb,,bdsp,,わざマシン３２
+tm032,jp-kanji,bw,,la,,わざマシン３２
+tm032,en,rb,,la,,TM32
+tm032,fr,rb,,la,,CT32
+tm032,it,rb,,la,,MT32
+tm032,de,rb,,la,,TM32
+tm032,es,rb,,la,,MT32
+tm032,ko,gs,,la,,기술머신32
+tm032,zh-simp,sm,,usum,,招式学习器３２
+tm032,zh-simp,lgpe,,lgpe,,招式学习器32
+tm032,zh-simp,ss,,la,,招式学习器３２
+tm032,zh-trad,sm,,usum,,招式學習器３２
+tm032,zh-trad,lgpe,,lgpe,,招式學習器32
+tm032,zh-trad,ss,,la,,招式學習器３２
+tm033,jp-kana,rb,,bdsp,,わざマシン３３
+tm033,jp-kanji,bw,,la,,わざマシン３３
+tm033,en,rb,,la,,TM33
+tm033,fr,rb,,la,,CT33
+tm033,it,rb,,la,,MT33
+tm033,de,rb,,la,,TM33
+tm033,es,rb,,la,,MT33
+tm033,ko,gs,,la,,기술머신33
+tm033,zh-simp,sm,,usum,,招式学习器３３
+tm033,zh-simp,lgpe,,lgpe,,招式学习器33
+tm033,zh-simp,ss,,la,,招式学习器３３
+tm033,zh-trad,sm,,usum,,招式學習器３３
+tm033,zh-trad,lgpe,,lgpe,,招式學習器33
+tm033,zh-trad,ss,,la,,招式學習器３３
+tm034,jp-kana,rb,,bdsp,,わざマシン３４
+tm034,jp-kanji,bw,,la,,わざマシン３４
+tm034,en,rb,,la,,TM34
+tm034,fr,rb,,la,,CT34
+tm034,it,rb,,la,,MT34
+tm034,de,rb,,la,,TM34
+tm034,es,rb,,la,,MT34
+tm034,ko,gs,,la,,기술머신34
+tm034,zh-simp,sm,,usum,,招式学习器３４
+tm034,zh-simp,lgpe,,lgpe,,招式学习器34
+tm034,zh-simp,ss,,la,,招式学习器３４
+tm034,zh-trad,sm,,usum,,招式學習器３４
+tm034,zh-trad,lgpe,,lgpe,,招式學習器34
+tm034,zh-trad,ss,,la,,招式學習器３４
+tm035,jp-kana,rb,,bdsp,,わざマシン３５
+tm035,jp-kanji,bw,,la,,わざマシン３５
+tm035,en,rb,,la,,TM35
+tm035,fr,rb,,la,,CT35
+tm035,it,rb,,la,,MT35
+tm035,de,rb,,la,,TM35
+tm035,es,rb,,la,,MT35
+tm035,ko,gs,,la,,기술머신35
+tm035,zh-simp,sm,,usum,,招式学习器３５
+tm035,zh-simp,lgpe,,lgpe,,招式学习器35
+tm035,zh-simp,ss,,la,,招式学习器３５
+tm035,zh-trad,sm,,usum,,招式學習器３５
+tm035,zh-trad,lgpe,,lgpe,,招式學習器35
+tm035,zh-trad,ss,,la,,招式學習器３５
+tm036,jp-kana,rb,,bdsp,,わざマシン３６
+tm036,jp-kanji,bw,,la,,わざマシン３６
+tm036,en,rb,,la,,TM36
+tm036,fr,rb,,la,,CT36
+tm036,it,rb,,la,,MT36
+tm036,de,rb,,la,,TM36
+tm036,es,rb,,la,,MT36
+tm036,ko,gs,,la,,기술머신36
+tm036,zh-simp,sm,,usum,,招式学习器３６
+tm036,zh-simp,lgpe,,lgpe,,招式学习器36
+tm036,zh-simp,ss,,la,,招式学习器３６
+tm036,zh-trad,sm,,usum,,招式學習器３６
+tm036,zh-trad,lgpe,,lgpe,,招式學習器36
+tm036,zh-trad,ss,,la,,招式學習器３６
+tm037,jp-kana,rb,,bdsp,,わざマシン３７
+tm037,jp-kanji,bw,,la,,わざマシン３７
+tm037,en,rb,,la,,TM37
+tm037,fr,rb,,la,,CT37
+tm037,it,rb,,la,,MT37
+tm037,de,rb,,la,,TM37
+tm037,es,rb,,la,,MT37
+tm037,ko,gs,,la,,기술머신37
+tm037,zh-simp,sm,,usum,,招式学习器３７
+tm037,zh-simp,lgpe,,lgpe,,招式学习器37
+tm037,zh-simp,ss,,la,,招式学习器３７
+tm037,zh-trad,sm,,usum,,招式學習器３７
+tm037,zh-trad,lgpe,,lgpe,,招式學習器37
+tm037,zh-trad,ss,,la,,招式學習器３７
+tm038,jp-kana,rb,,bdsp,,わざマシン３８
+tm038,jp-kanji,bw,,la,,わざマシン３８
+tm038,en,rb,,la,,TM38
+tm038,fr,rb,,la,,CT38
+tm038,it,rb,,la,,MT38
+tm038,de,rb,,la,,TM38
+tm038,es,rb,,la,,MT38
+tm038,ko,gs,,la,,기술머신38
+tm038,zh-simp,sm,,usum,,招式学习器３８
+tm038,zh-simp,lgpe,,lgpe,,招式学习器38
+tm038,zh-simp,ss,,la,,招式学习器３８
+tm038,zh-trad,sm,,usum,,招式學習器３８
+tm038,zh-trad,lgpe,,lgpe,,招式學習器38
+tm038,zh-trad,ss,,la,,招式學習器３８
+tm039,jp-kana,rb,,bdsp,,わざマシン３９
+tm039,jp-kanji,bw,,la,,わざマシン３９
+tm039,en,rb,,la,,TM39
+tm039,fr,rb,,la,,CT39
+tm039,it,rb,,la,,MT39
+tm039,de,rb,,la,,TM39
+tm039,es,rb,,la,,MT39
+tm039,ko,gs,,la,,기술머신39
+tm039,zh-simp,sm,,usum,,招式学习器３９
+tm039,zh-simp,lgpe,,lgpe,,招式学习器39
+tm039,zh-simp,ss,,la,,招式学习器３９
+tm039,zh-trad,sm,,usum,,招式學習器３９
+tm039,zh-trad,lgpe,,lgpe,,招式學習器39
+tm039,zh-trad,ss,,la,,招式學習器３９
+tm040,jp-kana,rb,,bdsp,,わざマシン４０
+tm040,jp-kanji,bw,,la,,わざマシン４０
+tm040,en,rb,,la,,TM40
+tm040,fr,rb,,la,,CT40
+tm040,it,rb,,la,,MT40
+tm040,de,rb,,la,,TM40
+tm040,es,rb,,la,,MT40
+tm040,ko,gs,,la,,기술머신40
+tm040,zh-simp,sm,,usum,,招式学习器４０
+tm040,zh-simp,lgpe,,lgpe,,招式学习器40
+tm040,zh-simp,ss,,la,,招式学习器４０
+tm040,zh-trad,sm,,usum,,招式學習器４０
+tm040,zh-trad,lgpe,,lgpe,,招式學習器40
+tm040,zh-trad,ss,,la,,招式學習器４０
+tm041,jp-kana,rb,,bdsp,,わざマシン４１
+tm041,jp-kanji,bw,,la,,わざマシン４１
+tm041,en,rb,,la,,TM41
+tm041,fr,rb,,la,,CT41
+tm041,it,rb,,la,,MT41
+tm041,de,rb,,la,,TM41
+tm041,es,rb,,la,,MT41
+tm041,ko,gs,,la,,기술머신41
+tm041,zh-simp,sm,,usum,,招式学习器４１
+tm041,zh-simp,lgpe,,lgpe,,招式学习器41
+tm041,zh-simp,ss,,la,,招式学习器４１
+tm041,zh-trad,sm,,usum,,招式學習器４１
+tm041,zh-trad,lgpe,,lgpe,,招式學習器41
+tm041,zh-trad,ss,,la,,招式學習器４１
+tm042,jp-kana,rb,,bdsp,,わざマシン４２
+tm042,jp-kanji,bw,,la,,わざマシン４２
+tm042,en,rb,,la,,TM42
+tm042,fr,rb,,la,,CT42
+tm042,it,rb,,la,,MT42
+tm042,de,rb,,la,,TM42
+tm042,es,rb,,la,,MT42
+tm042,ko,gs,,la,,기술머신42
+tm042,zh-simp,sm,,usum,,招式学习器４２
+tm042,zh-simp,lgpe,,lgpe,,招式学习器42
+tm042,zh-simp,ss,,la,,招式学习器４２
+tm042,zh-trad,sm,,usum,,招式學習器４２
+tm042,zh-trad,lgpe,,lgpe,,招式學習器42
+tm042,zh-trad,ss,,la,,招式學習器４２
+tm043,jp-kana,rb,,bdsp,,わざマシン４３
+tm043,jp-kanji,bw,,la,,わざマシン４３
+tm043,en,rb,,la,,TM43
+tm043,fr,rb,,la,,CT43
+tm043,it,rb,,la,,MT43
+tm043,de,rb,,la,,TM43
+tm043,es,rb,,la,,MT43
+tm043,ko,gs,,la,,기술머신43
+tm043,zh-simp,sm,,usum,,招式学习器４３
+tm043,zh-simp,lgpe,,lgpe,,招式学习器43
+tm043,zh-simp,ss,,la,,招式学习器４３
+tm043,zh-trad,sm,,usum,,招式學習器４３
+tm043,zh-trad,lgpe,,lgpe,,招式學習器43
+tm043,zh-trad,ss,,la,,招式學習器４３
+tm044,jp-kana,rb,,bdsp,,わざマシン４４
+tm044,jp-kanji,bw,,la,,わざマシン４４
+tm044,en,rb,,la,,TM44
+tm044,fr,rb,,la,,CT44
+tm044,it,rb,,la,,MT44
+tm044,de,rb,,la,,TM44
+tm044,es,rb,,la,,MT44
+tm044,ko,gs,,la,,기술머신44
+tm044,zh-simp,sm,,usum,,招式学习器４４
+tm044,zh-simp,lgpe,,lgpe,,招式学习器44
+tm044,zh-simp,ss,,la,,招式学习器４４
+tm044,zh-trad,sm,,usum,,招式學習器４４
+tm044,zh-trad,lgpe,,lgpe,,招式學習器44
+tm044,zh-trad,ss,,la,,招式學習器４４
+tm045,jp-kana,rb,,bdsp,,わざマシン４５
+tm045,jp-kanji,bw,,la,,わざマシン４５
+tm045,en,rb,,la,,TM45
+tm045,fr,rb,,la,,CT45
+tm045,it,rb,,la,,MT45
+tm045,de,rb,,la,,TM45
+tm045,es,rb,,la,,MT45
+tm045,ko,gs,,la,,기술머신45
+tm045,zh-simp,sm,,usum,,招式学习器４５
+tm045,zh-simp,lgpe,,lgpe,,招式学习器45
+tm045,zh-simp,ss,,la,,招式学习器４５
+tm045,zh-trad,sm,,usum,,招式學習器４５
+tm045,zh-trad,lgpe,,lgpe,,招式學習器45
+tm045,zh-trad,ss,,la,,招式學習器４５
+tm046,jp-kana,rb,,bdsp,,わざマシン４６
+tm046,jp-kanji,bw,,la,,わざマシン４６
+tm046,en,rb,,la,,TM46
+tm046,fr,rb,,la,,CT46
+tm046,it,rb,,la,,MT46
+tm046,de,rb,,la,,TM46
+tm046,es,rb,,la,,MT46
+tm046,ko,gs,,la,,기술머신46
+tm046,zh-simp,sm,,usum,,招式学习器４６
+tm046,zh-simp,lgpe,,lgpe,,招式学习器46
+tm046,zh-simp,ss,,la,,招式学习器４６
+tm046,zh-trad,sm,,usum,,招式學習器４６
+tm046,zh-trad,lgpe,,lgpe,,招式學習器46
+tm046,zh-trad,ss,,la,,招式學習器４６
+tm047,jp-kana,rb,,bdsp,,わざマシン４７
+tm047,jp-kanji,bw,,la,,わざマシン４７
+tm047,en,rb,,la,,TM47
+tm047,fr,rb,,la,,CT47
+tm047,it,rb,,la,,MT47
+tm047,de,rb,,la,,TM47
+tm047,es,rb,,la,,MT47
+tm047,ko,gs,,la,,기술머신47
+tm047,zh-simp,sm,,usum,,招式学习器４７
+tm047,zh-simp,lgpe,,lgpe,,招式学习器47
+tm047,zh-simp,ss,,la,,招式学习器４７
+tm047,zh-trad,sm,,usum,,招式學習器４７
+tm047,zh-trad,lgpe,,lgpe,,招式學習器47
+tm047,zh-trad,ss,,la,,招式學習器４７
+tm048,jp-kana,rb,,bdsp,,わざマシン４８
+tm048,jp-kanji,bw,,la,,わざマシン４８
+tm048,en,rb,,la,,TM48
+tm048,fr,rb,,la,,CT48
+tm048,it,rb,,la,,MT48
+tm048,de,rb,,la,,TM48
+tm048,es,rb,,la,,MT48
+tm048,ko,gs,,la,,기술머신48
+tm048,zh-simp,sm,,usum,,招式学习器４８
+tm048,zh-simp,lgpe,,lgpe,,招式学习器48
+tm048,zh-simp,ss,,la,,招式学习器４８
+tm048,zh-trad,sm,,usum,,招式學習器４８
+tm048,zh-trad,lgpe,,lgpe,,招式學習器48
+tm048,zh-trad,ss,,la,,招式學習器４８
+tm049,jp-kana,rb,,bdsp,,わざマシン４９
+tm049,jp-kanji,bw,,la,,わざマシン４９
+tm049,en,rb,,la,,TM49
+tm049,fr,rb,,la,,CT49
+tm049,it,rb,,la,,MT49
+tm049,de,rb,,la,,TM49
+tm049,es,rb,,la,,MT49
+tm049,ko,gs,,la,,기술머신49
+tm049,zh-simp,sm,,usum,,招式学习器４９
+tm049,zh-simp,lgpe,,lgpe,,招式学习器49
+tm049,zh-simp,ss,,la,,招式学习器４９
+tm049,zh-trad,sm,,usum,,招式學習器４９
+tm049,zh-trad,lgpe,,lgpe,,招式學習器49
+tm049,zh-trad,ss,,la,,招式學習器４９
+tm050,jp-kana,rb,,bdsp,,わざマシン５０
+tm050,jp-kanji,bw,,la,,わざマシン５０
+tm050,en,rb,,la,,TM50
+tm050,fr,rb,,la,,CT50
+tm050,it,rb,,la,,MT50
+tm050,de,rb,,la,,TM50
+tm050,es,rb,,la,,MT50
+tm050,ko,gs,,la,,기술머신50
+tm050,zh-simp,sm,,usum,,招式学习器５０
+tm050,zh-simp,lgpe,,lgpe,,招式学习器50
+tm050,zh-simp,ss,,la,,招式学习器５０
+tm050,zh-trad,sm,,usum,,招式學習器５０
+tm050,zh-trad,lgpe,,lgpe,,招式學習器50
+tm050,zh-trad,ss,,la,,招式學習器５０
+tm051,jp-kana,dp,,bdsp,,わざマシン５１
+tm051,jp-kanji,bw,,la,,わざマシン５１
+tm051,en,dp,,la,,TM51
+tm051,fr,dp,,la,,CT51
+tm051,it,dp,,la,,MT51
+tm051,de,dp,,la,,TM51
+tm051,es,dp,,la,,MT51
+tm051,ko,dp,,la,,기술머신51
+tm051,zh-simp,sm,,usum,,招式学习器５１
+tm051,zh-simp,lgpe,,lgpe,,招式学习器51
+tm051,zh-simp,ss,,la,,招式学习器５１
+tm051,zh-trad,sm,,usum,,招式學習器５１
+tm051,zh-trad,lgpe,,lgpe,,招式學習器51
+tm051,zh-trad,ss,,la,,招式學習器５１
+tm052,jp-kana,dp,,bdsp,,わざマシン５２
+tm052,jp-kanji,bw,,la,,わざマシン５２
+tm052,en,dp,,la,,TM52
+tm052,fr,dp,,la,,CT52
+tm052,it,dp,,la,,MT52
+tm052,de,dp,,la,,TM52
+tm052,es,dp,,la,,MT52
+tm052,ko,dp,,la,,기술머신52
+tm052,zh-simp,sm,,usum,,招式学习器５２
+tm052,zh-simp,lgpe,,lgpe,,招式学习器52
+tm052,zh-simp,ss,,la,,招式学习器５２
+tm052,zh-trad,sm,,usum,,招式學習器５２
+tm052,zh-trad,lgpe,,lgpe,,招式學習器52
+tm052,zh-trad,ss,,la,,招式學習器５２
+tm053,jp-kana,dp,,bdsp,,わざマシン５３
+tm053,jp-kanji,bw,,la,,わざマシン５３
+tm053,en,dp,,la,,TM53
+tm053,fr,dp,,la,,CT53
+tm053,it,dp,,la,,MT53
+tm053,de,dp,,la,,TM53
+tm053,es,dp,,la,,MT53
+tm053,ko,dp,,la,,기술머신53
+tm053,zh-simp,sm,,usum,,招式学习器５３
+tm053,zh-simp,lgpe,,lgpe,,招式学习器53
+tm053,zh-simp,ss,,la,,招式学习器５３
+tm053,zh-trad,sm,,usum,,招式學習器５３
+tm053,zh-trad,lgpe,,lgpe,,招式學習器53
+tm053,zh-trad,ss,,la,,招式學習器５３
+tm054,jp-kana,dp,,bdsp,,わざマシン５４
+tm054,jp-kanji,bw,,la,,わざマシン５４
+tm054,en,dp,,la,,TM54
+tm054,fr,dp,,la,,CT54
+tm054,it,dp,,la,,MT54
+tm054,de,dp,,la,,TM54
+tm054,es,dp,,la,,MT54
+tm054,ko,dp,,la,,기술머신54
+tm054,zh-simp,sm,,usum,,招式学习器５４
+tm054,zh-simp,lgpe,,lgpe,,招式学习器54
+tm054,zh-simp,ss,,la,,招式学习器５４
+tm054,zh-trad,sm,,usum,,招式學習器５４
+tm054,zh-trad,lgpe,,lgpe,,招式學習器54
+tm054,zh-trad,ss,,la,,招式學習器５４
+tm055,jp-kana,dp,,bdsp,,わざマシン５５
+tm055,jp-kanji,bw,,la,,わざマシン５５
+tm055,en,dp,,la,,TM55
+tm055,fr,dp,,la,,CT55
+tm055,it,dp,,la,,MT55
+tm055,de,dp,,la,,TM55
+tm055,es,dp,,la,,MT55
+tm055,ko,dp,,la,,기술머신55
+tm055,zh-simp,sm,,usum,,招式学习器５５
+tm055,zh-simp,lgpe,,lgpe,,招式学习器55
+tm055,zh-simp,ss,,la,,招式学习器５５
+tm055,zh-trad,sm,,usum,,招式學習器５５
+tm055,zh-trad,lgpe,,lgpe,,招式學習器55
+tm055,zh-trad,ss,,la,,招式學習器５５
+tm056,jp-kana,dp,,bdsp,,わざマシン５６
+tm056,jp-kanji,bw,,la,,わざマシン５６
+tm056,en,dp,,la,,TM56
+tm056,fr,dp,,la,,CT56
+tm056,it,dp,,la,,MT56
+tm056,de,dp,,la,,TM56
+tm056,es,dp,,la,,MT56
+tm056,ko,dp,,la,,기술머신56
+tm056,zh-simp,sm,,usum,,招式学习器５６
+tm056,zh-simp,lgpe,,lgpe,,招式学习器56
+tm056,zh-simp,ss,,la,,招式学习器５６
+tm056,zh-trad,sm,,usum,,招式學習器５６
+tm056,zh-trad,lgpe,,lgpe,,招式學習器56
+tm056,zh-trad,ss,,la,,招式學習器５６
+tm057,jp-kana,dp,,bdsp,,わざマシン５７
+tm057,jp-kanji,bw,,la,,わざマシン５７
+tm057,en,dp,,la,,TM57
+tm057,fr,dp,,la,,CT57
+tm057,it,dp,,la,,MT57
+tm057,de,dp,,la,,TM57
+tm057,es,dp,,la,,MT57
+tm057,ko,dp,,la,,기술머신57
+tm057,zh-simp,sm,,usum,,招式学习器５７
+tm057,zh-simp,lgpe,,lgpe,,招式学习器57
+tm057,zh-simp,ss,,la,,招式学习器５７
+tm057,zh-trad,sm,,usum,,招式學習器５７
+tm057,zh-trad,lgpe,,lgpe,,招式學習器57
+tm057,zh-trad,ss,,la,,招式學習器５７
+tm058,jp-kana,dp,,bdsp,,わざマシン５８
+tm058,jp-kanji,bw,,la,,わざマシン５８
+tm058,en,dp,,la,,TM58
+tm058,fr,dp,,la,,CT58
+tm058,it,dp,,la,,MT58
+tm058,de,dp,,la,,TM58
+tm058,es,dp,,la,,MT58
+tm058,ko,dp,,la,,기술머신58
+tm058,zh-simp,sm,,usum,,招式学习器５８
+tm058,zh-simp,lgpe,,lgpe,,招式学习器58
+tm058,zh-simp,ss,,la,,招式学习器５８
+tm058,zh-trad,sm,,usum,,招式學習器５８
+tm058,zh-trad,lgpe,,lgpe,,招式學習器58
+tm058,zh-trad,ss,,la,,招式學習器５８
+tm059,jp-kana,dp,,bdsp,,わざマシン５９
+tm059,jp-kanji,bw,,la,,わざマシン５９
+tm059,en,dp,,la,,TM59
+tm059,fr,dp,,la,,CT59
+tm059,it,dp,,la,,MT59
+tm059,de,dp,,la,,TM59
+tm059,es,dp,,la,,MT59
+tm059,ko,dp,,la,,기술머신59
+tm059,zh-simp,sm,,usum,,招式学习器５９
+tm059,zh-simp,lgpe,,lgpe,,招式学习器59
+tm059,zh-simp,ss,,la,,招式学习器５９
+tm059,zh-trad,sm,,usum,,招式學習器５９
+tm059,zh-trad,lgpe,,lgpe,,招式學習器59
+tm059,zh-trad,ss,,la,,招式學習器５９
+tm060,jp-kana,dp,,bdsp,,わざマシン６０
+tm060,jp-kanji,bw,,la,,わざマシン６０
+tm060,en,dp,,la,,TM60
+tm060,fr,dp,,la,,CT60
+tm060,it,dp,,la,,MT60
+tm060,de,dp,,la,,TM60
+tm060,es,dp,,la,,MT60
+tm060,ko,dp,,la,,기술머신60
+tm060,zh-simp,sm,,usum,,招式学习器６０
+tm060,zh-simp,lgpe,,lgpe,,招式学习器60
+tm060,zh-simp,ss,,la,,招式学习器６０
+tm060,zh-trad,sm,,usum,,招式學習器６０
+tm060,zh-trad,lgpe,,lgpe,,招式學習器60
+tm060,zh-trad,ss,,la,,招式學習器６０
+tm061,jp-kana,dp,,bdsp,,わざマシン６１
+tm061,jp-kanji,bw,,la,,わざマシン６１
+tm061,en,dp,,la,,TM61
+tm061,fr,dp,,la,,CT61
+tm061,it,dp,,la,,MT61
+tm061,de,dp,,la,,TM61
+tm061,es,dp,,la,,MT61
+tm061,ko,dp,,la,,기술머신61
+tm061,zh-simp,sm,,usum,,招式学习器６１
+tm061,zh-simp,lgpe,,lgpe,,招式学习器61
+tm061,zh-simp,ss,,la,,招式学习器６１
+tm061,zh-trad,sm,,usum,,招式學習器６１
+tm061,zh-trad,lgpe,,lgpe,,招式學習器61
+tm061,zh-trad,ss,,la,,招式學習器６１
+tm062,jp-kana,dp,,bdsp,,わざマシン６２
+tm062,jp-kanji,bw,,la,,わざマシン６２
+tm062,en,dp,,la,,TM62
+tm062,fr,dp,,la,,CT62
+tm062,it,dp,,la,,MT62
+tm062,de,dp,,la,,TM62
+tm062,es,dp,,la,,MT62
+tm062,ko,dp,,la,,기술머신62
+tm062,zh-simp,sm,,usum,,招式学习器６２
+tm062,zh-simp,lgpe,,lgpe,,招式学习器62
+tm062,zh-simp,ss,,la,,招式学习器６２
+tm062,zh-trad,sm,,usum,,招式學習器６２
+tm062,zh-trad,lgpe,,lgpe,,招式學習器62
+tm062,zh-trad,ss,,la,,招式學習器６２
+tm063,jp-kana,dp,,bdsp,,わざマシン６３
+tm063,jp-kanji,bw,,la,,わざマシン６３
+tm063,en,dp,,la,,TM63
+tm063,fr,dp,,la,,CT63
+tm063,it,dp,,la,,MT63
+tm063,de,dp,,la,,TM63
+tm063,es,dp,,la,,MT63
+tm063,ko,dp,,la,,기술머신63
+tm063,zh-simp,sm,,usum,,招式学习器６３
+tm063,zh-simp,lgpe,,lgpe,,招式学习器63
+tm063,zh-simp,ss,,la,,招式学习器６３
+tm063,zh-trad,sm,,usum,,招式學習器６３
+tm063,zh-trad,lgpe,,lgpe,,招式學習器63
+tm063,zh-trad,ss,,la,,招式學習器６３
+tm064,jp-kana,dp,,bdsp,,わざマシン６４
+tm064,jp-kanji,bw,,la,,わざマシン６４
+tm064,en,dp,,la,,TM64
+tm064,fr,dp,,la,,CT64
+tm064,it,dp,,la,,MT64
+tm064,de,dp,,la,,TM64
+tm064,es,dp,,la,,MT64
+tm064,ko,dp,,la,,기술머신64
+tm064,zh-simp,sm,,usum,,招式学习器６４
+tm064,zh-simp,lgpe,,lgpe,,招式学习器64
+tm064,zh-simp,ss,,la,,招式学习器６４
+tm064,zh-trad,sm,,usum,,招式學習器６４
+tm064,zh-trad,lgpe,,lgpe,,招式學習器64
+tm064,zh-trad,ss,,la,,招式學習器６４
+tm065,jp-kana,dp,,bdsp,,わざマシン６５
+tm065,jp-kanji,bw,,la,,わざマシン６５
+tm065,en,dp,,la,,TM65
+tm065,fr,dp,,la,,CT65
+tm065,it,dp,,la,,MT65
+tm065,de,dp,,la,,TM65
+tm065,es,dp,,la,,MT65
+tm065,ko,dp,,la,,기술머신65
+tm065,zh-simp,sm,,usum,,招式学习器６５
+tm065,zh-simp,lgpe,,lgpe,,招式学习器65
+tm065,zh-simp,ss,,la,,招式学习器６５
+tm065,zh-trad,sm,,usum,,招式學習器６５
+tm065,zh-trad,lgpe,,lgpe,,招式學習器65
+tm065,zh-trad,ss,,la,,招式學習器６５
+tm066,jp-kana,dp,,bdsp,,わざマシン６６
+tm066,jp-kanji,bw,,la,,わざマシン６６
+tm066,en,dp,,la,,TM66
+tm066,fr,dp,,la,,CT66
+tm066,it,dp,,la,,MT66
+tm066,de,dp,,la,,TM66
+tm066,es,dp,,la,,MT66
+tm066,ko,dp,,la,,기술머신66
+tm066,zh-simp,sm,,usum,,招式学习器６６
+tm066,zh-simp,lgpe,,lgpe,,招式学习器66
+tm066,zh-simp,ss,,la,,招式学习器６６
+tm066,zh-trad,sm,,usum,,招式學習器６６
+tm066,zh-trad,lgpe,,lgpe,,招式學習器66
+tm066,zh-trad,ss,,la,,招式學習器６６
+tm067,jp-kana,dp,,bdsp,,わざマシン６７
+tm067,jp-kanji,bw,,la,,わざマシン６７
+tm067,en,dp,,la,,TM67
+tm067,fr,dp,,la,,CT67
+tm067,it,dp,,la,,MT67
+tm067,de,dp,,la,,TM67
+tm067,es,dp,,la,,MT67
+tm067,ko,dp,,la,,기술머신67
+tm067,zh-simp,sm,,usum,,招式学习器６７
+tm067,zh-simp,lgpe,,lgpe,,招式学习器67
+tm067,zh-simp,ss,,la,,招式学习器６７
+tm067,zh-trad,sm,,usum,,招式學習器６７
+tm067,zh-trad,lgpe,,lgpe,,招式學習器67
+tm067,zh-trad,ss,,la,,招式學習器６７
+tm068,jp-kana,dp,,bdsp,,わざマシン６８
+tm068,jp-kanji,bw,,la,,わざマシン６８
+tm068,en,dp,,la,,TM68
+tm068,fr,dp,,la,,CT68
+tm068,it,dp,,la,,MT68
+tm068,de,dp,,la,,TM68
+tm068,es,dp,,la,,MT68
+tm068,ko,dp,,la,,기술머신68
+tm068,zh-simp,sm,,usum,,招式学习器６８
+tm068,zh-simp,lgpe,,lgpe,,招式学习器68
+tm068,zh-simp,ss,,la,,招式学习器６８
+tm068,zh-trad,sm,,usum,,招式學習器６８
+tm068,zh-trad,lgpe,,lgpe,,招式學習器68
+tm068,zh-trad,ss,,la,,招式學習器６８
+tm069,jp-kana,dp,,bdsp,,わざマシン６９
+tm069,jp-kanji,bw,,la,,わざマシン６９
+tm069,en,dp,,la,,TM69
+tm069,fr,dp,,la,,CT69
+tm069,it,dp,,la,,MT69
+tm069,de,dp,,la,,TM69
+tm069,es,dp,,la,,MT69
+tm069,ko,dp,,la,,기술머신69
+tm069,zh-simp,sm,,usum,,招式学习器６９
+tm069,zh-simp,lgpe,,lgpe,,招式学习器69
+tm069,zh-simp,ss,,la,,招式学习器６９
+tm069,zh-trad,sm,,usum,,招式學習器６９
+tm069,zh-trad,lgpe,,lgpe,,招式學習器69
+tm069,zh-trad,ss,,la,,招式學習器６９
+tm070,jp-kana,dp,,bdsp,,わざマシン７０
+tm070,jp-kanji,bw,,la,,わざマシン７０
+tm070,en,dp,,la,,TM70
+tm070,fr,dp,,la,,CT70
+tm070,it,dp,,la,,MT70
+tm070,de,dp,,la,,TM70
+tm070,es,dp,,la,,MT70
+tm070,ko,dp,,la,,기술머신70
+tm070,zh-simp,sm,,usum,,招式学习器７０
+tm070,zh-simp,lgpe,,lgpe,,招式学习器70
+tm070,zh-simp,ss,,la,,招式学习器７０
+tm070,zh-trad,sm,,usum,,招式學習器７０
+tm070,zh-trad,lgpe,,lgpe,,招式學習器70
+tm070,zh-trad,ss,,la,,招式學習器７０
+tm071,jp-kana,dp,,bdsp,,わざマシン７１
+tm071,jp-kanji,bw,,la,,わざマシン７１
+tm071,en,dp,,la,,TM71
+tm071,fr,dp,,la,,CT71
+tm071,it,dp,,la,,MT71
+tm071,de,dp,,la,,TM71
+tm071,es,dp,,la,,MT71
+tm071,ko,dp,,la,,기술머신71
+tm071,zh-simp,sm,,usum,,招式学习器７１
+tm071,zh-simp,lgpe,,lgpe,,招式学习器71
+tm071,zh-simp,ss,,la,,招式学习器７１
+tm071,zh-trad,sm,,usum,,招式學習器７１
+tm071,zh-trad,lgpe,,lgpe,,招式學習器71
+tm071,zh-trad,ss,,la,,招式學習器７１
+tm072,jp-kana,dp,,bdsp,,わざマシン７２
+tm072,jp-kanji,bw,,la,,わざマシン７２
+tm072,en,dp,,la,,TM72
+tm072,fr,dp,,la,,CT72
+tm072,it,dp,,la,,MT72
+tm072,de,dp,,la,,TM72
+tm072,es,dp,,la,,MT72
+tm072,ko,dp,,la,,기술머신72
+tm072,zh-simp,sm,,usum,,招式学习器７２
+tm072,zh-simp,lgpe,,lgpe,,招式学习器72
+tm072,zh-simp,ss,,la,,招式学习器７２
+tm072,zh-trad,sm,,usum,,招式學習器７２
+tm072,zh-trad,lgpe,,lgpe,,招式學習器72
+tm072,zh-trad,ss,,la,,招式學習器７２
+tm073,jp-kana,dp,,bdsp,,わざマシン７３
+tm073,jp-kanji,bw,,la,,わざマシン７３
+tm073,en,dp,,la,,TM73
+tm073,fr,dp,,la,,CT73
+tm073,it,dp,,la,,MT73
+tm073,de,dp,,la,,TM73
+tm073,es,dp,,la,,MT73
+tm073,ko,dp,,la,,기술머신73
+tm073,zh-simp,sm,,usum,,招式学习器７３
+tm073,zh-simp,lgpe,,lgpe,,招式学习器73
+tm073,zh-simp,ss,,la,,招式学习器７３
+tm073,zh-trad,sm,,usum,,招式學習器７３
+tm073,zh-trad,lgpe,,lgpe,,招式學習器73
+tm073,zh-trad,ss,,la,,招式學習器７３
+tm074,jp-kana,dp,,bdsp,,わざマシン７４
+tm074,jp-kanji,bw,,la,,わざマシン７４
+tm074,en,dp,,la,,TM74
+tm074,fr,dp,,la,,CT74
+tm074,it,dp,,la,,MT74
+tm074,de,dp,,la,,TM74
+tm074,es,dp,,la,,MT74
+tm074,ko,dp,,la,,기술머신74
+tm074,zh-simp,sm,,usum,,招式学习器７４
+tm074,zh-simp,lgpe,,lgpe,,招式学习器74
+tm074,zh-simp,ss,,la,,招式学习器７４
+tm074,zh-trad,sm,,usum,,招式學習器７４
+tm074,zh-trad,lgpe,,lgpe,,招式學習器74
+tm074,zh-trad,ss,,la,,招式學習器７４
+tm075,jp-kana,dp,,bdsp,,わざマシン７５
+tm075,jp-kanji,bw,,la,,わざマシン７５
+tm075,en,dp,,la,,TM75
+tm075,fr,dp,,la,,CT75
+tm075,it,dp,,la,,MT75
+tm075,de,dp,,la,,TM75
+tm075,es,dp,,la,,MT75
+tm075,ko,dp,,la,,기술머신75
+tm075,zh-simp,sm,,usum,,招式学习器７５
+tm075,zh-simp,lgpe,,lgpe,,招式学习器75
+tm075,zh-simp,ss,,la,,招式学习器７５
+tm075,zh-trad,sm,,usum,,招式學習器７５
+tm075,zh-trad,lgpe,,lgpe,,招式學習器75
+tm075,zh-trad,ss,,la,,招式學習器７５
+tm076,jp-kana,dp,,bdsp,,わざマシン７６
+tm076,jp-kanji,bw,,la,,わざマシン７６
+tm076,en,dp,,la,,TM76
+tm076,fr,dp,,la,,CT76
+tm076,it,dp,,la,,MT76
+tm076,de,dp,,la,,TM76
+tm076,es,dp,,la,,MT76
+tm076,ko,dp,,la,,기술머신76
+tm076,zh-simp,sm,,usum,,招式学习器７６
+tm076,zh-simp,lgpe,,lgpe,,招式学习器76
+tm076,zh-simp,ss,,la,,招式学习器７６
+tm076,zh-trad,sm,,usum,,招式學習器７６
+tm076,zh-trad,lgpe,,lgpe,,招式學習器76
+tm076,zh-trad,ss,,la,,招式學習器７６
+tm077,jp-kana,dp,,bdsp,,わざマシン７７
+tm077,jp-kanji,bw,,la,,わざマシン７７
+tm077,en,dp,,la,,TM77
+tm077,fr,dp,,la,,CT77
+tm077,it,dp,,la,,MT77
+tm077,de,dp,,la,,TM77
+tm077,es,dp,,la,,MT77
+tm077,ko,dp,,la,,기술머신77
+tm077,zh-simp,sm,,usum,,招式学习器７７
+tm077,zh-simp,lgpe,,lgpe,,招式学习器77
+tm077,zh-simp,ss,,la,,招式学习器７７
+tm077,zh-trad,sm,,usum,,招式學習器７７
+tm077,zh-trad,lgpe,,lgpe,,招式學習器77
+tm077,zh-trad,ss,,la,,招式學習器７７
+tm078,jp-kana,dp,,bdsp,,わざマシン７８
+tm078,jp-kanji,bw,,la,,わざマシン７８
+tm078,en,dp,,la,,TM78
+tm078,fr,dp,,la,,CT78
+tm078,it,dp,,la,,MT78
+tm078,de,dp,,la,,TM78
+tm078,es,dp,,la,,MT78
+tm078,ko,dp,,la,,기술머신78
+tm078,zh-simp,sm,,usum,,招式学习器７８
+tm078,zh-simp,lgpe,,lgpe,,招式学习器78
+tm078,zh-simp,ss,,la,,招式学习器７８
+tm078,zh-trad,sm,,usum,,招式學習器７８
+tm078,zh-trad,lgpe,,lgpe,,招式學習器78
+tm078,zh-trad,ss,,la,,招式學習器７８
+tm079,jp-kana,dp,,bdsp,,わざマシン７９
+tm079,jp-kanji,bw,,la,,わざマシン７９
+tm079,en,dp,,la,,TM79
+tm079,fr,dp,,la,,CT79
+tm079,it,dp,,la,,MT79
+tm079,de,dp,,la,,TM79
+tm079,es,dp,,la,,MT79
+tm079,ko,dp,,la,,기술머신79
+tm079,zh-simp,sm,,usum,,招式学习器７９
+tm079,zh-simp,lgpe,,lgpe,,招式学习器79
+tm079,zh-simp,ss,,la,,招式学习器７９
+tm079,zh-trad,sm,,usum,,招式學習器７９
+tm079,zh-trad,lgpe,,lgpe,,招式學習器79
+tm079,zh-trad,ss,,la,,招式學習器７９
+tm080,jp-kana,dp,,bdsp,,わざマシン８０
+tm080,jp-kanji,bw,,la,,わざマシン８０
+tm080,en,dp,,la,,TM80
+tm080,fr,dp,,la,,CT80
+tm080,it,dp,,la,,MT80
+tm080,de,dp,,la,,TM80
+tm080,es,dp,,la,,MT80
+tm080,ko,dp,,la,,기술머신80
+tm080,zh-simp,sm,,usum,,招式学习器８０
+tm080,zh-simp,lgpe,,lgpe,,招式学习器80
+tm080,zh-simp,ss,,la,,招式学习器８０
+tm080,zh-trad,sm,,usum,,招式學習器８０
+tm080,zh-trad,lgpe,,lgpe,,招式學習器80
+tm080,zh-trad,ss,,la,,招式學習器８０
+tm081,jp-kana,dp,,bdsp,,わざマシン８１
+tm081,jp-kanji,bw,,la,,わざマシン８１
+tm081,en,dp,,la,,TM81
+tm081,fr,dp,,la,,CT81
+tm081,it,dp,,la,,MT81
+tm081,de,dp,,la,,TM81
+tm081,es,dp,,la,,MT81
+tm081,ko,dp,,la,,기술머신81
+tm081,zh-simp,sm,,usum,,招式学习器８１
+tm081,zh-simp,lgpe,,lgpe,,招式学习器81
+tm081,zh-simp,ss,,la,,招式学习器８１
+tm081,zh-trad,sm,,usum,,招式學習器８１
+tm081,zh-trad,lgpe,,lgpe,,招式學習器81
+tm081,zh-trad,ss,,la,,招式學習器８１
+tm082,jp-kana,dp,,bdsp,,わざマシン８２
+tm082,jp-kanji,bw,,la,,わざマシン８２
+tm082,en,dp,,la,,TM82
+tm082,fr,dp,,la,,CT82
+tm082,it,dp,,la,,MT82
+tm082,de,dp,,la,,TM82
+tm082,es,dp,,la,,MT82
+tm082,ko,dp,,la,,기술머신82
+tm082,zh-simp,sm,,usum,,招式学习器８２
+tm082,zh-simp,lgpe,,lgpe,,招式学习器82
+tm082,zh-simp,ss,,la,,招式学习器８２
+tm082,zh-trad,sm,,usum,,招式學習器８２
+tm082,zh-trad,lgpe,,lgpe,,招式學習器82
+tm082,zh-trad,ss,,la,,招式學習器８２
+tm083,jp-kana,dp,,bdsp,,わざマシン８３
+tm083,jp-kanji,bw,,la,,わざマシン８３
+tm083,en,dp,,la,,TM83
+tm083,fr,dp,,la,,CT83
+tm083,it,dp,,la,,MT83
+tm083,de,dp,,la,,TM83
+tm083,es,dp,,la,,MT83
+tm083,ko,dp,,la,,기술머신83
+tm083,zh-simp,sm,,usum,,招式学习器８３
+tm083,zh-simp,lgpe,,lgpe,,招式学习器83
+tm083,zh-simp,ss,,la,,招式学习器８３
+tm083,zh-trad,sm,,usum,,招式學習器８３
+tm083,zh-trad,lgpe,,lgpe,,招式學習器83
+tm083,zh-trad,ss,,la,,招式學習器８３
+tm084,jp-kana,dp,,bdsp,,わざマシン８４
+tm084,jp-kanji,bw,,la,,わざマシン８４
+tm084,en,dp,,la,,TM84
+tm084,fr,dp,,la,,CT84
+tm084,it,dp,,la,,MT84
+tm084,de,dp,,la,,TM84
+tm084,es,dp,,la,,MT84
+tm084,ko,dp,,la,,기술머신84
+tm084,zh-simp,sm,,usum,,招式学习器８４
+tm084,zh-simp,lgpe,,lgpe,,招式学习器84
+tm084,zh-simp,ss,,la,,招式学习器８４
+tm084,zh-trad,sm,,usum,,招式學習器８４
+tm084,zh-trad,lgpe,,lgpe,,招式學習器84
+tm084,zh-trad,ss,,la,,招式學習器８４
+tm085,jp-kana,dp,,bdsp,,わざマシン８５
+tm085,jp-kanji,bw,,la,,わざマシン８５
+tm085,en,dp,,la,,TM85
+tm085,fr,dp,,la,,CT85
+tm085,it,dp,,la,,MT85
+tm085,de,dp,,la,,TM85
+tm085,es,dp,,la,,MT85
+tm085,ko,dp,,la,,기술머신85
+tm085,zh-simp,sm,,usum,,招式学习器８５
+tm085,zh-simp,lgpe,,lgpe,,招式学习器85
+tm085,zh-simp,ss,,la,,招式学习器８５
+tm085,zh-trad,sm,,usum,,招式學習器８５
+tm085,zh-trad,lgpe,,lgpe,,招式學習器85
+tm085,zh-trad,ss,,la,,招式學習器８５
+tm086,jp-kana,dp,,bdsp,,わざマシン８６
+tm086,jp-kanji,bw,,la,,わざマシン８６
+tm086,en,dp,,la,,TM86
+tm086,fr,dp,,la,,CT86
+tm086,it,dp,,la,,MT86
+tm086,de,dp,,la,,TM86
+tm086,es,dp,,la,,MT86
+tm086,ko,dp,,la,,기술머신86
+tm086,zh-simp,sm,,usum,,招式学习器８６
+tm086,zh-simp,lgpe,,lgpe,,招式学习器86
+tm086,zh-simp,ss,,la,,招式学习器８６
+tm086,zh-trad,sm,,usum,,招式學習器８６
+tm086,zh-trad,lgpe,,lgpe,,招式學習器86
+tm086,zh-trad,ss,,la,,招式學習器８６
+tm087,jp-kana,dp,,bdsp,,わざマシン８７
+tm087,jp-kanji,bw,,la,,わざマシン８７
+tm087,en,dp,,la,,TM87
+tm087,fr,dp,,la,,CT87
+tm087,it,dp,,la,,MT87
+tm087,de,dp,,la,,TM87
+tm087,es,dp,,la,,MT87
+tm087,ko,dp,,la,,기술머신87
+tm087,zh-simp,sm,,usum,,招式学习器８７
+tm087,zh-simp,lgpe,,lgpe,,招式学习器87
+tm087,zh-simp,ss,,la,,招式学习器８７
+tm087,zh-trad,sm,,usum,,招式學習器８７
+tm087,zh-trad,lgpe,,lgpe,,招式學習器87
+tm087,zh-trad,ss,,la,,招式學習器８７
+tm088,jp-kana,dp,,bdsp,,わざマシン８８
+tm088,jp-kanji,bw,,la,,わざマシン８８
+tm088,en,dp,,la,,TM88
+tm088,fr,dp,,la,,CT88
+tm088,it,dp,,la,,MT88
+tm088,de,dp,,la,,TM88
+tm088,es,dp,,la,,MT88
+tm088,ko,dp,,la,,기술머신88
+tm088,zh-simp,sm,,usum,,招式学习器８８
+tm088,zh-simp,lgpe,,lgpe,,招式学习器88
+tm088,zh-simp,ss,,la,,招式学习器８８
+tm088,zh-trad,sm,,usum,,招式學習器８８
+tm088,zh-trad,lgpe,,lgpe,,招式學習器88
+tm088,zh-trad,ss,,la,,招式學習器８８
+tm089,jp-kana,dp,,bdsp,,わざマシン８９
+tm089,jp-kanji,bw,,la,,わざマシン８９
+tm089,en,dp,,la,,TM89
+tm089,fr,dp,,la,,CT89
+tm089,it,dp,,la,,MT89
+tm089,de,dp,,la,,TM89
+tm089,es,dp,,la,,MT89
+tm089,ko,dp,,la,,기술머신89
+tm089,zh-simp,sm,,usum,,招式学习器８９
+tm089,zh-simp,lgpe,,lgpe,,招式学习器89
+tm089,zh-simp,ss,,la,,招式学习器８９
+tm089,zh-trad,sm,,usum,,招式學習器８９
+tm089,zh-trad,lgpe,,lgpe,,招式學習器89
+tm089,zh-trad,ss,,la,,招式學習器８９
+tm090,jp-kana,dp,,bdsp,,わざマシン９０
+tm090,jp-kanji,bw,,la,,わざマシン９０
+tm090,en,dp,,la,,TM90
+tm090,fr,dp,,la,,CT90
+tm090,it,dp,,la,,MT90
+tm090,de,dp,,la,,TM90
+tm090,es,dp,,la,,MT90
+tm090,ko,dp,,la,,기술머신90
+tm090,zh-simp,sm,,usum,,招式学习器９０
+tm090,zh-simp,lgpe,,lgpe,,招式学习器90
+tm090,zh-simp,ss,,la,,招式学习器９０
+tm090,zh-trad,sm,,usum,,招式學習器９０
+tm090,zh-trad,lgpe,,lgpe,,招式學習器90
+tm090,zh-trad,ss,,la,,招式學習器９０
+tm091,jp-kana,dp,,bdsp,,わざマシン９１
+tm091,jp-kanji,bw,,la,,わざマシン９１
+tm091,en,dp,,la,,TM91
+tm091,fr,dp,,la,,CT91
+tm091,it,dp,,la,,MT91
+tm091,de,dp,,la,,TM91
+tm091,es,dp,,la,,MT91
+tm091,ko,dp,,la,,기술머신91
+tm091,zh-simp,sm,,usum,,招式学习器９１
+tm091,zh-simp,lgpe,,lgpe,,招式学习器91
+tm091,zh-simp,ss,,la,,招式学习器９１
+tm091,zh-trad,sm,,usum,,招式學習器９１
+tm091,zh-trad,lgpe,,lgpe,,招式學習器91
+tm091,zh-trad,ss,,la,,招式學習器９１
+tm092,jp-kana,dp,,bdsp,,わざマシン９２
+tm092,jp-kanji,bw,,la,,わざマシン９２
+tm092,en,dp,,la,,TM92
+tm092,fr,dp,,la,,CT92
+tm092,it,dp,,la,,MT92
+tm092,de,dp,,la,,TM92
+tm092,es,dp,,la,,MT92
+tm092,ko,dp,,la,,기술머신92
+tm092,zh-simp,sm,,usum,,招式学习器９２
+tm092,zh-simp,lgpe,,lgpe,,招式学习器92
+tm092,zh-simp,ss,,la,,招式学习器９２
+tm092,zh-trad,sm,,usum,,招式學習器９２
+tm092,zh-trad,lgpe,,lgpe,,招式學習器92
+tm092,zh-trad,ss,,la,,招式學習器９２
+tm093,jp-kana,bw,,bdsp,,わざマシン９３
+tm093,jp-kanji,bw,,la,,わざマシン９３
+tm093,en,bw,,la,,TM93
+tm093,fr,bw,,la,,CT93
+tm093,it,bw,,la,,MT93
+tm093,de,bw,,la,,TM93
+tm093,es,bw,,la,,MT93
+tm093,ko,bw,,la,,기술머신93
+tm093,zh-simp,sm,,usum,,招式学习器９３
+tm093,zh-simp,lgpe,,lgpe,,招式学习器93
+tm093,zh-simp,ss,,la,,招式学习器９３
+tm093,zh-trad,sm,,usum,,招式學習器９３
+tm093,zh-trad,lgpe,,lgpe,,招式學習器93
+tm093,zh-trad,ss,,la,,招式學習器９３
+tm094,jp-kana,bw,,bdsp,,わざマシン９４
+tm094,jp-kanji,bw,,la,,わざマシン９４
+tm094,en,bw,,la,,TM94
+tm094,fr,bw,,la,,CT94
+tm094,it,bw,,la,,MT94
+tm094,de,bw,,la,,TM94
+tm094,es,bw,,la,,MT94
+tm094,ko,bw,,la,,기술머신94
+tm094,zh-simp,sm,,usum,,招式学习器９４
+tm094,zh-simp,lgpe,,lgpe,,招式学习器94
+tm094,zh-simp,ss,,la,,招式学习器９４
+tm094,zh-trad,sm,,usum,,招式學習器９４
+tm094,zh-trad,lgpe,,lgpe,,招式學習器94
+tm094,zh-trad,ss,,la,,招式學習器９４
+tm095,jp-kana,bw,,bdsp,,わざマシン９５
+tm095,jp-kanji,bw,,la,,わざマシン９５
+tm095,en,bw,,la,,TM95
+tm095,fr,bw,,la,,CT95
+tm095,it,bw,,la,,MT95
+tm095,de,bw,,la,,TM95
+tm095,es,bw,,la,,MT95
+tm095,ko,bw,,la,,기술머신95
+tm095,zh-simp,sm,,usum,,招式学习器９５
+tm095,zh-simp,lgpe,,lgpe,,招式学习器95
+tm095,zh-simp,ss,,la,,招式学习器９５
+tm095,zh-trad,sm,,usum,,招式學習器９５
+tm095,zh-trad,lgpe,,lgpe,,招式學習器95
+tm095,zh-trad,ss,,la,,招式學習器９５
+tm096,jp-kana,xy,,bdsp,,わざマシン９６
+tm096,jp-kanji,xy,,la,,わざマシン９６
+tm096,en,xy,,la,,TM96
+tm096,fr,xy,,la,,CT96
+tm096,it,xy,,la,,MT96
+tm096,de,xy,,la,,TM96
+tm096,es,xy,,la,,MT96
+tm096,ko,xy,,la,,기술머신96
+tm096,zh-simp,sm,,usum,,招式学习器９６
+tm096,zh-simp,lgpe,,lgpe,,招式学习器96
+tm096,zh-simp,ss,,la,,招式学习器９６
+tm096,zh-trad,sm,,usum,,招式學習器９６
+tm096,zh-trad,lgpe,,lgpe,,招式學習器96
+tm096,zh-trad,ss,,la,,招式學習器９６
+tm097,jp-kana,xy,,bdsp,,わざマシン９７
+tm097,jp-kanji,xy,,la,,わざマシン９７
+tm097,en,xy,,la,,TM97
+tm097,fr,xy,,la,,CT97
+tm097,it,xy,,la,,MT97
+tm097,de,xy,,la,,TM97
+tm097,es,xy,,la,,MT97
+tm097,ko,xy,,la,,기술머신97
+tm097,zh-simp,sm,,usum,,招式学习器９７
+tm097,zh-simp,lgpe,,lgpe,,招式学习器97
+tm097,zh-simp,ss,,la,,招式学习器９７
+tm097,zh-trad,sm,,usum,,招式學習器９７
+tm097,zh-trad,lgpe,,lgpe,,招式學習器97
+tm097,zh-trad,ss,,la,,招式學習器９７
+tm098,jp-kana,xy,,bdsp,,わざマシン９８
+tm098,jp-kanji,xy,,la,,わざマシン９８
+tm098,en,xy,,la,,TM98
+tm098,fr,xy,,la,,CT98
+tm098,it,xy,,la,,MT98
+tm098,de,xy,,la,,TM98
+tm098,es,xy,,la,,MT98
+tm098,ko,xy,,la,,기술머신98
+tm098,zh-simp,sm,,usum,,招式学习器９８
+tm098,zh-simp,lgpe,,lgpe,,招式学习器98
+tm098,zh-simp,ss,,la,,招式学习器９８
+tm098,zh-trad,sm,,usum,,招式學習器９８
+tm098,zh-trad,lgpe,,lgpe,,招式學習器98
+tm098,zh-trad,ss,,la,,招式學習器９８
+tm099,jp-kana,xy,,bdsp,,わざマシン９９
+tm099,jp-kanji,xy,,la,,わざマシン９９
+tm099,en,xy,,la,,TM99
+tm099,fr,xy,,la,,CT99
+tm099,it,xy,,la,,MT99
+tm099,de,xy,,la,,TM99
+tm099,es,xy,,la,,MT99
+tm099,ko,xy,,la,,기술머신99
+tm099,zh-simp,sm,,usum,,招式学习器９９
+tm099,zh-simp,lgpe,,lgpe,,招式学习器99
+tm099,zh-simp,ss,,la,,招式学习器９９
+tm099,zh-trad,sm,,usum,,招式學習器９９
+tm099,zh-trad,lgpe,,lgpe,,招式學習器99
+tm099,zh-trad,ss,,la,,招式學習器９９
+tm100,zh-simp,lgpe,,lgpe,,招式学习器100
+tm100,zh-trad,lgpe,,lgpe,,招式學習器100
+tmv-pass,zh-simp,lgpe,,lgpe,,TMV自由票
+tmv-pass,zh-trad,lgpe,,lgpe,,TMV自由票
+tough-candy-l,zh-simp,lgpe,,lgpe,,守护糖果L
+tough-candy-l,zh-trad,lgpe,,lgpe,,守護糖果L
+tough-candy-xl,zh-simp,lgpe,,lgpe,,守护糖果XL
+tough-candy-xl,zh-trad,lgpe,,lgpe,,守護糖果XL
+town-map,en,rb,,e,,TOWN MAP
+town-map,fr,rb,,e,,CARTE
+town-map,it,rb,,e,,MAPPA CITTÀ
+town-map,it,dp,,usum,,Mappa Città
+town-map,de,rb,,e,,KARTE
+town-map,es,rb,,y,,MAPA PUEBLO
+town-map,es,frlg,,e,,MAPA
+toxic-plate,fr,dp,,b2w2,,Plaque Toxic
+toxic-plate,fr,xy,,lgpe,,Plaque Toxik
+twisted-spoon,en,gs,,e,,TWISTEDSPOON
+twisted-spoon,en,dp,,b2w2,,TwistedSpoon
+twisted-spoon,fr,gs,,e,,CUILLERTORDU
+twisted-spoon,fr,dp,,b2w2,,Cuillertordu
+twisted-spoon,fr,xy,,lgpe,,Cuiller Tordue
+twisted-spoon,it,gs,,c,,CUCCH.TORTO
+twisted-spoon,it,rs,,e,,CUCCH. TORTO
+twisted-spoon,it,dp,,b2w2,,Cucch. Torto
+twisted-spoon,it,xy,,la,,Cucchiaio Torto
+twisted-spoon,de,gs,,e,,KRÜMMLÖFFEL
+twisted-spoon,es,gs,,e,,CUCHARA TOR
+twisted-spoon,es,dp,,b2w2,,Cuchara Tor
+twisted-spoon,ko,gs,,gs,,휘어진 스푼
+ultra-ball,en,rb,,e,,ULTRA BALL
+ultra-ball,fr,rb,,e,,HYPER BALL
+ultra-ball,it,rb,,e,,ULTRA BALL
+ultra-ball,de,rb,,e,,HYPERBALL
+ultra-ball,es,rb,,c,,ULTRA BALL
+ultra-ball,es,rs,,e,,ULTRABALL
+ultra-ball,es,dp,,b2w2,,Ultraball
+unown-report,en,hgss,,hgss,,UNOWN Report
+unown-report,fr,hgss,,hgss,,Carnet ZARBI
+unown-report,it,hgss,,la,,UnownBloc
+unown-report,es,hgss,,hgss,,Bloc UNOWN
+upgrade,en,gs,,e,,UP-GRADE
+upgrade,en,dp,,lgpe,,Up-Grade
+upgrade,fr,gs,,c,,EVOLUTOR
+upgrade,fr,rs,,e,,AMELIORATOR
+upgrade,it,gs,,e,,UPGRADE
+upgrade,de,gs,,e,,UP-GRADE
+upgrade,de,dp,,la,,Up-Grade
+upgrade,es,gs,,e,,MEJORA
+vs-seeker,en,frlg,,e,,VS SEEKER
+vs-seeker,fr,frlg,,e,,CHERCHE VS
+vs-seeker,fr,dp,,usum,,Cherche VS
+vs-seeker,it,frlg,,e,,CERCASFIDE
+vs-seeker,de,frlg,,e,,KAMPFFAHNDER
+vs-seeker,es,frlg,,e,,BUSCAPELEA
+wailmer-pail,en,rs,,e,,WAILMER PAIL
+wailmer-pail,fr,rs,,e,,SEAU WAILMER
+wailmer-pail,it,rs,,e,,VASO WAILMER
+wailmer-pail,de,rs,,e,,WAILMERKANNE
+wailmer-pail,es,rs,,e,,CUBO WAILMER
+water-gem,es,bw,,b2w2,,G. Agua
+water-stone,en,rb,,e,,WATER STONE
+water-stone,fr,rb,,e,,PIERRE EAU
+water-stone,it,rb,,e,,PIETRAIDRICA
+water-stone,de,rb,,e,,WASSERSTEIN
+water-stone,es,rb,,e,,PIEDRA AGUA
+water-stone,ko,gs,,gs,,물의 돌
+watmel-berry,en,rs,,e,,WATMEL BERRY
+watmel-berry,fr,rs,,e,,BAIE STEKPA
+watmel-berry,it,rs,,e,,BACCACOMERO
+watmel-berry,de,rs,,e,,WASMELBEERE
+watmel-berry,es,rs,,e,,BAYA SAMBIA
+wave-incense,es,dp,,b2w2,,Incie. Aqua
+wave-incense,es,xy,,lgpe,,Incienso Aqua
+wepear-berry,en,rs,,e,,WEPEAR BERRY
+wepear-berry,fr,rs,,e,,BAIE REPOI
+wepear-berry,it,rs,,e,,BACCAPERA
+wepear-berry,de,rs,,e,,NIRBEBEERE
+wepear-berry,es,rs,,e,,BAYA PERAGU
+white-apricorn,en,gs,,c,,WHT APRICORN
+white-apricorn,en,hgss,,b2w2,,Wht Apricorn
+white-apricorn,fr,gs,,c,,NOIGRUME BLC
+white-apricorn,fr,hgss,,oras,,Noigrume Blc
+white-apricorn,it,gs,,c,,GHICOC.BNCA
+white-apricorn,it,hgss,,b2w2,,Ghic. Bianca
+white-apricorn,it,xy,,la,,Ghicocca Bianca
+white-apricorn,de,gs,,c,,APRIKOKO WSS
+white-apricorn,de,hgss,,lgpe,,Aprikoko Wss
+white-apricorn,es,gs,,c,,BONGURI BLA
+white-apricorn,es,hgss,,b2w2,,Bonguri Bla
+white-apricorn,ko,gs,,gs,,하얀 규토리
+white-flute,en,rs,,e,,WHITE FLUTE
+white-flute,fr,rs,,e,,FLUTEBLANCHE
+white-flute,fr,dp,,b2w2,,Flûteblanche
+white-flute,it,rs,,e,,FLAUTO B.NCO
+white-flute,it,dp,,b2w2,,Flauto B.nco
+white-flute,it,xy,,la,,Flauto Bianco
+white-flute,de,rs,,e,,WEISSE FLÖTE
+white-flute,es,rs,,e,,FL. BLANCA
+white-flute,es,dp,,b2w2,,Fl. Blanca
+white-herb,en,rs,,e,,WHITE HERB
+white-herb,fr,rs,,e,,HERBEBLANCHE
+white-herb,fr,dp,,b2w2,,Herbeblanche
+white-herb,it,rs,,e,,ERBACHIARA
+white-herb,de,rs,,e,,SCHLOHKRAUT
+white-herb,es,rs,,e,,HIER. BLANCA
+white-herb,es,dp,,b2w2,,Hier. Blanca
+wiki-berry,en,rs,,e,,WIKI BERRY
+wiki-berry,fr,rs,,e,,BAIE WIKI
+wiki-berry,it,rs,,e,,BACCAKIWI
+wiki-berry,de,rs,,e,,WIKIBEERE
+wiki-berry,es,rs,,e,,BAYA WIKI
+wise-glasses,fr,dp,,b2w2,,Lunet. Sages
+wise-glasses,de,dp,,lgpe,,Schlauglas
+wise-glasses,es,dp,,b2w2,,Gafas Esp.
+works-key,fr,dp,,ss,,Clé Centrale
+works-key,it,dp,,ss,,Turbinchiave
+works-key,es,dp,,b2w2,,Ll. Central
+works-key,es,xy,,la,,Llave Central
+x-accuracy,en,rb,,e,,X ACCURACY
+x-accuracy,fr,rb,,e,,PRECISION +
+x-accuracy,it,rb,,e,,PRECISIONE X
+x-accuracy,de,rb,,e,,X-TREFFER
+x-accuracy,de,dp,,lgpe,,X-Treffer
+x-accuracy,es,rb,,e,,PRECISIÓN X
+x-accuracy-2,it,bw,,b2w2,,Precis. X-2
+x-accuracy-2,de,bw,,lgpe,,X-Treffer2
+x-accuracy-2,es,bw,,b2w2,,Prec. X 2
+x-accuracy-3,it,bw,,b2w2,,Precis. X-3
+x-accuracy-3,de,bw,,lgpe,,X-Treffer3
+x-accuracy-3,es,bw,,b2w2,,Prec. X 3
+x-accuracy-6,it,bw,,b2w2,,Precis. X-6
+x-accuracy-6,de,bw,,lgpe,,X-Treffer6
+x-accuracy-6,es,bw,,b2w2,,Prec. X 6
+x-attack,en,rb,,e,,X ATTACK
+x-attack,fr,rb,,e,,ATTAQUE +
+x-attack,it,rb,,e,,ATTACCO X
+x-attack,de,rb,,e,,X-ANGRIFF
+x-attack,es,rb,,e,,ATAQUE X
+x-attack-2,de,bw,,lgpe,,X-Angriff2
+x-attack-3,de,bw,,lgpe,,X-Angriff3
+x-attack-6,de,bw,,lgpe,,X-Angriff6
+x-defense,en,rb,,e,,X DEFEND
+x-defense,en,dp,,b2w2,,X Defend
+x-defense,fr,rb,,e,,DEFENSE +
+x-defense,it,rb,,e,,DIFESA X
+x-defense,de,rb,,e,,X-ABWEHR
+x-defense,de,dp,,lgpe,,X-Abwehr
+x-defense,es,rb,,e,,DEFENSA X
+x-defense,ko,gs,,gs,,디펜드 업
+x-defense-2,en,bw,,b2w2,,X Defend 2
+x-defense-2,de,bw,,lgpe,,X-Abwehr2
+x-defense-3,en,bw,,b2w2,,X Defend 3
+x-defense-3,de,bw,,lgpe,,X-Abwehr3
+x-defense-6,en,bw,,b2w2,,X Defend 6
+x-defense-6,de,bw,,lgpe,,X-Abwehr6
+x-sp-atk,en,rb,,e,,X SPECIAL
+x-sp-atk,en,dp,,b2w2,,X Special
+x-sp-atk,fr,rb,,e,,SPECIAL +
+x-sp-atk,fr,dp,,usum,,Spécial +
+x-sp-atk,it,rb,,e,,SPECIAL X
+x-sp-atk,it,dp,,oras,,Special X
+x-sp-atk,it,sm,,la,,Att. Speciale X
+x-sp-atk,de,rb,,e,,X-SPEZIAL
+x-sp-atk,de,dp,,lgpe,,X-Spezial
+x-sp-atk,es,rb,,e,,ESPECIAL X
+x-sp-atk,es,dp,,lgpe,,Especial X
+x-sp-atk,es,ss,,la,,At. Especial X
+x-sp-atk,ko,gs,,gs,,스페셜 업
+x-sp-atk-2,en,bw,,b2w2,,X Special 2
+x-sp-atk-2,it,bw,,oras,,Special X-2
+x-sp-atk-2,it,sm,,la,,Att. Sp. X-2
+x-sp-atk-2,de,bw,,lgpe,,X-Spezial2
+x-sp-atk-2,es,bw,,lgpe,,Especial X 2
+x-sp-atk-2,es,ss,,la,,At. Esp. X 2
+x-sp-atk-3,en,bw,,b2w2,,X Special 3
+x-sp-atk-3,it,bw,,oras,,Special X-3
+x-sp-atk-3,it,sm,,la,,Att. Sp. X-3
+x-sp-atk-3,de,bw,,lgpe,,X-Spezial3
+x-sp-atk-3,es,bw,,lgpe,,Especial X 3
+x-sp-atk-3,es,ss,,la,,At. Esp. X 3
+x-sp-atk-6,en,bw,,b2w2,,X Special 6
+x-sp-atk-6,it,bw,,oras,,Special X-6
+x-sp-atk-6,it,sm,,la,,Att. Sp. X-6
+x-sp-atk-6,de,bw,,lgpe,,X-Spezial6
+x-sp-atk-6,es,bw,,lgpe,,Especial X 6
+x-sp-atk-6,es,ss,,la,,At. Esp. X 6
+x-sp-def,it,dp,,b2w2,,Dif. Sp. X
+x-sp-def,it,xy,,la,,Dif. Speciale X
+x-sp-def,de,dp,,oras,,X-SpezialVer
+x-sp-def,de,sm,,lgpe,,X-Spezial-Vert.
+x-sp-def,es,dp,,b2w2,,Def. Esp. X
+x-sp-def,es,xy,,la,,Def. Especial X
+x-sp-def-2,it,bw,,b2w2,,Dif. Sp. X-2
+x-sp-def-2,it,xy,,la,,Dif. Spec. X-2
+x-sp-def-2,de,bw,,oras,,X-Sp. Ver.2
+x-sp-def-2,de,sm,,lgpe,,X-Sp.-Vert.2
+x-sp-def-2,es,bw,,b2w2,,D. Esp. X 2
+x-sp-def-2,es,xy,,la,,Def. Esp. X 2
+x-sp-def-3,it,bw,,b2w2,,Dif. Sp. X-3
+x-sp-def-3,it,xy,,la,,Dif. Spec. X-3
+x-sp-def-3,de,bw,,oras,,X-Sp. Ver.3
+x-sp-def-3,de,sm,,lgpe,,X-Sp.-Vert.3
+x-sp-def-3,es,bw,,b2w2,,D. Esp. X 3
+x-sp-def-3,es,xy,,la,,Def. Esp. X 3
+x-sp-def-6,it,bw,,b2w2,,Dif. Sp. X-6
+x-sp-def-6,it,xy,,la,,Dif. Spec. X-6
+x-sp-def-6,de,bw,,oras,,X-Sp. Ver.6
+x-sp-def-6,de,sm,,lgpe,,X-Sp.-Vert.6
+x-sp-def-6,es,bw,,b2w2,,D. Esp. X 6
+x-sp-def-6,es,xy,,la,,Def. Esp. X 6
+x-speed,en,rb,,e,,X SPEED
+x-speed,fr,rb,,e,,VITESSE +
+x-speed,it,rb,,e,,VELOCITÀ X
+x-speed,de,rb,,e,,X-TEMPO
+x-speed,de,dp,,lgpe,,X-Tempo
+x-speed,es,rb,,e,,VELOCIDAD X
+x-speed,ko,gs,,gs,,스피드 업
+x-speed-2,de,bw,,lgpe,,X-Tempo2
+x-speed-2,es,bw,,b2w2,,Veloc. X 2
+x-speed-3,de,bw,,lgpe,,X-Tempo3
+x-speed-3,es,bw,,b2w2,,Veloc. X 3
+x-speed-6,de,bw,,lgpe,,X-Tempo6
+x-speed-6,es,bw,,b2w2,,Veloc. X 6
+yellow-apricorn,en,gs,,c,,YLW APRICORN
+yellow-apricorn,en,hgss,,b2w2,,Ylw Apricorn
+yellow-apricorn,fr,gs,,c,,NOIGRUME JNE
+yellow-apricorn,fr,hgss,,oras,,Noigrume Jne
+yellow-apricorn,it,gs,,c,,GHICOC.GIAL.
+yellow-apricorn,it,hgss,,b2w2,,Ghic. Gialla
+yellow-apricorn,it,xy,,la,,Ghicocca Gialla
+yellow-apricorn,de,gs,,c,,APRIKOKO GLB
+yellow-apricorn,de,hgss,,lgpe,,Aprikoko Glb
+yellow-apricorn,es,gs,,c,,BONGURI AMA
+yellow-apricorn,es,hgss,,b2w2,,Bonguri Ama
+yellow-apricorn,ko,gs,,gs,,노랑 규토리
+yellow-flute,en,rs,,e,,YELLOW FLUTE
+yellow-flute,fr,rs,,e,,FLUTE JAUNE
+yellow-flute,it,rs,,e,,FLAUTO GIAL.
+yellow-flute,it,dp,,b2w2,,Flauto Gial.
+yellow-flute,it,xy,,la,,Flauto Giallo
+yellow-flute,de,rs,,e,,GELBE FLÖTE
+yellow-flute,es,rs,,e,,FL. AMARILLA
+yellow-flute,es,dp,,b2w2,,Fl. Amarilla
+yellow-scarf,en,rs,,e,,YELLOW SCARF
+yellow-scarf,fr,rs,,e,,FOUL. JAUNE
+yellow-scarf,fr,dp,,b2w2,,Foul. Jaune
+yellow-scarf,it,rs,,e,,FASCIA GIAL.
+yellow-scarf,it,dp,,b2w2,,Fascia Gial.
+yellow-scarf,it,xy,,la,,Fascia Gialla
+yellow-scarf,de,rs,,e,,GELBER SCHAL
+yellow-scarf,es,rs,,e,,P. AMARILLO
+yellow-scarf,es,dp,,b2w2,,P. Amarillo
+yellow-shard,en,rs,,e,,YELLOW SHARD
+yellow-shard,fr,rs,,e,,TESSON JAUNE
+yellow-shard,it,rs,,e,,COCCIO GIAL.
+yellow-shard,it,dp,,b2w2,,Coccio Gial.
+yellow-shard,it,xy,,la,,Coccio Giallo
+yellow-shard,de,rs,,e,,GELBSTÜCK
+yellow-shard,es,rs,,e,,P. AMARILLA
+yellow-shard,es,dp,,b2w2,,P. Amarilla
+zap-plate,ko,dp,,la,,우뢰플레이트
+zinc,en,rs,,e,,ZINC
+zinc,fr,rs,,e,,ZINC
+zinc,it,rs,,e,,ZINCO
+zinc,de,rs,,e,,ZINK
+zinc,es,rs,,e,,ZINC
+zoom-lens,fr,dp,,b2w2,,Lentil. Zoom

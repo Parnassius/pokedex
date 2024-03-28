@@ -1,0 +1,2192 @@
+move_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+absorb,en,rb,,e,,ABSORB
+absorb,fr,rb,,e,,VOL-VIE
+absorb,fr,dp,,lgpe,,Vol-Vie
+absorb,it,rb,,e,,ASSORBIMENTO
+absorb,de,rb,,e,,ABSORBER
+absorb,es,rb,,e,,ABSORBER
+acid,en,rb,,e,,ACID
+acid,fr,rb,,e,,ACIDE
+acid,it,rb,,e,,ACIDO
+acid,de,rb,,e,,SÄURE
+acid,es,rb,,e,,ÁCIDO
+acid-armor,en,rb,,e,,ACID ARMOR
+acid-armor,fr,rb,,e,,ACIDARMURE
+acid-armor,it,rb,,e,,SCUDO ACIDO
+acid-armor,de,rb,,e,,SÄUREPANZER
+acid-armor,es,rb,,e,,ARMAD. ÁCIDA
+acid-armor,es,dp,,b2w2,,Armad. Ácida
+aerial-ace,en,rs,,e,,AERIAL ACE
+aerial-ace,fr,rs,,e,,AEROPIQUE
+aerial-ace,it,rs,,e,,AEROASSALTO
+aerial-ace,de,rs,,e,,AERO-ASS
+aerial-ace,es,rs,,e,,GOLPE AÉREO
+aeroblast,en,gs,,e,,AEROBLAST
+aeroblast,fr,gs,,e,,AEROBLAST
+aeroblast,it,gs,,e,,AEROCOLPO
+aeroblast,de,gs,,e,,LUFTSTOSS
+aeroblast,es,gs,,e,,AEROCHORRO
+aeroblast,ko,gs,,gs,,에어로블레스트
+agility,en,rb,,e,,AGILITY
+agility,fr,rb,,e,,HATE
+agility,it,rb,,e,,AGILITÀ
+agility,de,rb,,e,,AGILITÄT
+agility,es,rb,,e,,AGILIDAD
+air-cutter,en,rs,,e,,AIR CUTTER
+air-cutter,fr,rs,,e,,TRANCH’AIR
+air-cutter,it,rs,,e,,AERASOIO
+air-cutter,de,rs,,e,,WINDSCHNITT
+air-cutter,es,rs,,e,,AIRE AFILADO
+air-cutter,ko,dp,,la,,에어컷터
+air-slash,zh-simp,sm,,ss,,空气斩
+ally-switch,es,bw,,lgpe,,Cambio Banda
+amnesia,en,rb,,e,,AMNESIA
+amnesia,fr,rb,,e,,AMNESIE
+amnesia,it,rb,,e,,AMNESIA
+amnesia,de,rb,,e,,AMNESIE
+amnesia,es,rb,,e,,AMNESIA
+anchor-shot,ko,sm,,la,,앵커숏
+ancient-power,en,gs,,e,,ANCIENTPOWER
+ancient-power,en,dp,,b2w2,,AncientPower
+ancient-power,fr,gs,,e,,POUV.ANTIQUE
+ancient-power,fr,dp,,b2w2,,Pouv.Antique
+ancient-power,it,gs,,e,,FORZANTICA
+ancient-power,de,gs,,e,,ANTIK-KRAFT
+ancient-power,es,gs,,e,,PODER PASADO
+ancient-power,ko,gs,,gs,,원시의 힘
+aqua-tail,fr,dp,,lgpe,,Hydroqueue
+arm-thrust,en,rs,,e,,ARM THRUST
+arm-thrust,fr,rs,,e,,COGNE
+arm-thrust,it,rs,,e,,SBERLETESE
+arm-thrust,de,rs,,e,,ARMSTOSS
+arm-thrust,es,rs,,e,,EMPUJÓN
+aromatherapy,en,rs,,e,,AROMATHERAPY
+aromatherapy,fr,rs,,e,,AROMATHERAPI
+aromatherapy,fr,dp,,b2w2,,Aromathérapi
+aromatherapy,it,rs,,e,,AROMATERAPIA
+aromatherapy,de,rs,,e,,AROMAKUR
+aromatherapy,es,rs,,e,,AROMATERAPIA
+assist,en,rs,,e,,ASSIST
+assist,fr,rs,,e,,ASSISTANCE
+assist,it,rs,,e,,ASSISTENTE
+assist,de,rs,,e,,ZUSCHUSS
+assist,es,rs,,e,,AYUDA
+astonish,en,rs,,e,,ASTONISH
+astonish,fr,rs,,e,,ETONNEMENT
+astonish,fr,dp,,hgss,,Etonnement
+astonish,it,rs,,e,,SGOMENTO
+astonish,de,rs,,e,,ERSTAUNER
+astonish,es,rs,,e,,IMPRESIONAR
+attack-order,fr,dp,,oras,,Appel Attak
+attract,en,gs,,e,,ATTRACT
+attract,fr,gs,,e,,ATTRACTION
+attract,it,gs,,e,,ATTRAZIONE
+attract,de,gs,,e,,ANZIEHUNG
+attract,es,gs,,e,,ATRACCIÓN
+aura-sphere,it,dp,,la,,Forzasfera
+aurora-beam,en,rb,,e,,AURORA BEAM
+aurora-beam,fr,rb,,e,,ONDE BOREALE
+aurora-beam,it,rb,,e,,RAGGIAURORA
+aurora-beam,de,rb,,e,,AURORASTRAHL
+aurora-beam,es,rb,,e,,RAYO AURORA
+aurora-beam,ko,gs,,gs,,오로라 빔
+barrage,en,rb,,e,,BARRAGE
+barrage,fr,rb,,e,,PILONNAGE
+barrage,it,rb,,e,,ATT. PIOGGIA
+barrage,it,dp,,b2w2,,Att. Pioggia
+barrage,it,xy,,la,,Attacco Pioggia
+barrage,de,rb,,e,,STAKKATO
+barrage,es,rb,,e,,PRESA
+barrage,es,dp,,lgpe,,Presa
+barrage,ko,gs,,gs,,알던지기
+barrier,en,rb,,e,,BARRIER
+barrier,fr,rb,,e,,BOUCLIER
+barrier,it,rb,,e,,BARRIERA
+barrier,de,rb,,e,,BARRIERE
+barrier,es,rb,,e,,BARRERA
+baton-pass,en,gs,,e,,BATON PASS
+baton-pass,fr,gs,,e,,RELAIS
+baton-pass,it,gs,,e,,STAFFETTA
+baton-pass,de,gs,,e,,STAFFETTE
+baton-pass,de,dp,,oras,,Staffette
+baton-pass,es,gs,,e,,RELEVO
+baton-pass,ko,gs,,gs,,바톤 터치
+baton-pass,ko,dp,,la,,바톤터치
+beat-up,en,gs,,e,,BEAT UP
+beat-up,fr,gs,,e,,BASTON
+beat-up,it,gs,,e,,PICCHIADURO
+beat-up,de,gs,,e,,PRÜGLER
+beat-up,es,gs,,e,,PALIZA
+belly-drum,en,gs,,e,,BELLY DRUM
+belly-drum,fr,gs,,e,,COGNOBIDON
+belly-drum,it,gs,,e,,PANCIAMBURO
+belly-drum,de,gs,,e,,BAUCHTROMMEL
+belly-drum,es,gs,,e,,TAMBOR
+bide,en,rb,,e,,BIDE
+bide,fr,rb,,e,,PATIENCE
+bide,it,rb,,e,,PAZIENZA
+bide,de,rb,,e,,GEDULD
+bide,es,rb,,e,,VENGANZA
+bind,en,rb,,e,,BIND
+bind,fr,rb,,e,,ETREINTE
+bind,fr,dp,,hgss,,Etreinte
+bind,it,rb,,e,,LEGATUTTO
+bind,de,rb,,e,,KLAMMERGRIFF
+bind,es,rb,,e,,ATADURA
+bite,en,rb,,e,,BITE
+bite,fr,rb,,e,,MORSURE
+bite,it,rb,,e,,MORSO
+bite,de,rb,,e,,BISS
+bite,es,rb,,e,,MORDISCO
+blast-burn,en,rs,,e,,BLAST BURN
+blast-burn,fr,rs,,e,,RAFALE FEU
+blast-burn,it,rs,,e,,INCENDIO
+blast-burn,de,rs,,e,,LOHEKANONADE
+blast-burn,es,rs,,e,,ANILLO ÍGNEO
+blast-burn,ko,dp,,la,,블러스트번
+blaze-kick,en,rs,,e,,BLAZE KICK
+blaze-kick,fr,rs,,e,,PIED BRULEUR
+blaze-kick,it,rs,,e,,CALCIARDENTE
+blaze-kick,de,rs,,e,,FEUERFEGER
+blaze-kick,es,rs,,e,,PATADA ÍGNEA
+blaze-kick,ko,dp,,la,,브레이즈킥
+blizzard,en,rb,,e,,BLIZZARD
+blizzard,fr,rb,,e,,BLIZZARD
+blizzard,it,rb,,e,,BORA
+blizzard,de,rb,,e,,BLIZZARD
+blizzard,es,rb,,e,,VENTISCA
+block,en,rs,,e,,BLOCK
+block,fr,rs,,e,,BARRAGE
+block,it,rs,,e,,BLOCCO
+block,de,rs,,e,,RÜCKENTZUG
+block,es,rs,,e,,BLOQUEO
+body-slam,en,rb,,e,,BODY SLAM
+body-slam,fr,rb,,e,,PLAQUAGE
+body-slam,it,rb,,c,,BODY SLAM
+body-slam,it,rs,,e,,CORPOSCONTRO
+body-slam,de,rb,,e,,BODYSLAM
+body-slam,es,rb,,e,,GOLPE CUERPO
+bolt-strike,fr,bw,,b2w2,,ChargeFoudre
+bolt-strike,es,bw,,b2w2,,At. Fulgor
+bone-club,en,rb,,e,,BONE CLUB
+bone-club,fr,rb,,e,,MASSD’OS
+bone-club,it,rb,,e,,OSSOCLAVA
+bone-club,de,rb,,e,,KNOCHENKEULE
+bone-club,es,rb,,e,,HUESO PALO
+bone-rush,en,gs,,e,,BONE RUSH
+bone-rush,fr,gs,,e,,CHARGE-OS
+bone-rush,fr,dp,,lgpe,,Charge-Os
+bone-rush,it,gs,,e,,OSSORAFFICA
+bone-rush,de,gs,,e,,KNOCHENHATZ
+bone-rush,es,gs,,e,,ATAQUE ÓSEO
+bone-rush,ko,gs,,la,,본러쉬
+bonemerang,en,rb,,e,,BONEMERANG
+bonemerang,fr,rb,,e,,OSMERANG
+bonemerang,it,rb,,e,,OSSOMERANG
+bonemerang,de,rb,,e,,KNOCHMERANG
+bonemerang,es,rb,,e,,HUESOMERANG
+bounce,en,rs,,e,,BOUNCE
+bounce,fr,rs,,e,,REBOND
+bounce,it,rs,,e,,RIMBALZO
+bounce,de,rs,,e,,SPRUNGFEDER
+bounce,es,rs,,e,,BOTE
+bounce,ko,dp,,la,,뛰어오르다
+brick-break,en,rs,,e,,BRICK BREAK
+brick-break,fr,rs,,e,,CASSE-BRIQUE
+brick-break,it,rs,,e,,BRECCIA
+brick-break,de,rs,,e,,DURCHBRUCH
+brick-break,es,rs,,e,,DEMOLICIÓN
+brick-break,ko,dp,,la,,깨트리다
+bubble,en,rb,,e,,BUBBLE
+bubble,fr,rb,,e,,ECUME
+bubble,fr,dp,,hgss,,Ecume
+bubble,it,rb,,e,,BOLLA
+bubble,de,rb,,e,,BLUBBER
+bubble,es,rb,,e,,BURBUJA
+bubble-beam,en,rb,,e,,BUBBLEBEAM
+bubble-beam,en,dp,,b2w2,,BubbleBeam
+bubble-beam,fr,rb,,e,,BULLES D’O
+bubble-beam,it,rb,,e,,BOLLARAGGIO
+bubble-beam,de,rb,,e,,BLUBBSTRAHL
+bubble-beam,es,rb,,e,,RAYO BURBUJA
+bug-bite,ko,dp,,la,,벌레먹음
+bulk-up,en,rs,,e,,BULK UP
+bulk-up,fr,rs,,e,,GONFLETTE
+bulk-up,it,rs,,e,,GRANFISICO
+bulk-up,de,rs,,e,,PROTZER
+bulk-up,es,rs,,e,,CORPULENCIA
+bullet-seed,en,rs,,e,,BULLET SEED
+bullet-seed,fr,rs,,e,,BALLE GRAINE
+bullet-seed,it,rs,,e,,SEMITRAGLIA
+bullet-seed,de,rs,,e,,KUGELSAAT
+bullet-seed,es,rs,,e,,RECURRENTE
+bullet-seed,es,dp,,lgpe,,Recurrente
+bullet-seed,ko,dp,,la,,기관총
+calm-mind,en,rs,,e,,CALM MIND
+calm-mind,fr,rs,,e,,PLENITUDE
+calm-mind,it,rs,,e,,CALMAMENTE
+calm-mind,de,rs,,e,,GEDANKENGUT
+calm-mind,es,rs,,e,,PAZ MENTAL
+camouflage,en,rs,,e,,CAMOUFLAGE
+camouflage,fr,rs,,e,,CAMOUFLAGE
+camouflage,it,rs,,e,,CAMUFFAMENTO
+camouflage,de,rs,,e,,TARNUNG
+camouflage,es,rs,,e,,CAMUFLAJE
+charge,en,rs,,e,,CHARGE
+charge,fr,rs,,e,,CHARGEUR
+charge,it,rs,,e,,SOTTOCARICA
+charge,de,rs,,e,,LADEVORGANG
+charge,es,rs,,e,,CARGA
+charm,en,gs,,e,,CHARM
+charm,fr,gs,,e,,CHARME
+charm,it,gs,,e,,FASCINO
+charm,de,gs,,e,,CHARME
+charm,es,gs,,e,,ENCANTO
+clamp,en,rb,,e,,CLAMP
+clamp,fr,rb,,e,,CLAQUOIR
+clamp,it,rb,,e,,TENAGLIA
+clamp,de,rb,,e,,SCHNAPPER
+clamp,es,rb,,e,,TENAZA
+clear-smog,es,bw,,b2w2,,Nieblaclara
+comet-punch,en,rb,,e,,COMET PUNCH
+comet-punch,fr,rb,,e,,POING COMETE
+comet-punch,it,rb,,e,,COMETAPUGNO
+comet-punch,de,rb,,e,,KOMETENHIEB
+comet-punch,es,rb,,y,,PUñO COMETA
+comet-punch,es,gs,,e,,PUÑO COMETA
+confuse-ray,en,rb,,e,,CONFUSE RAY
+confuse-ray,fr,rb,,e,,ONDE FOLIE
+confuse-ray,it,rb,,e,,STORDIRAGGIO
+confuse-ray,de,rb,,e,,KONFUSTRAHL
+confuse-ray,de,dp,,lgpe,,Konfustrahl
+confuse-ray,es,rb,,e,,RAYO CONFUSO
+confusion,en,rb,,e,,CONFUSION
+confusion,fr,rb,,e,,CHOC MENTAL
+confusion,it,rb,,e,,CONFUSIONE
+confusion,de,rb,,e,,KONFUSION
+confusion,es,rb,,e,,CONFUSIÓN
+constrict,en,rb,,e,,CONSTRICT
+constrict,fr,rb,,e,,CONSTRICTION
+constrict,it,rb,,e,,LIMITAZIONE
+constrict,de,rb,,e,,UMKLAMMERUNG
+constrict,es,rb,,e,,RESTRICCIÓN
+conversion,en,rb,,e,,CONVERSION
+conversion,fr,rb,,e,,ADAPTATION
+conversion,fr,dp,,b2w2,,Adaptation
+conversion,it,rb,,e,,CONVERSIONE
+conversion,de,rb,,e,,UMWANDLUNG
+conversion,es,rb,,e,,CONVERSIÓN
+conversion,ko,gs,,gs,,텍스쳐
+conversion-2,en,gs,,c,,CONVERSION2
+conversion-2,en,rs,,e,,CONVERSION 2
+conversion-2,fr,gs,,c,,ADAPTATION2
+conversion-2,fr,rs,,e,,CONVERSION 2
+conversion-2,it,gs,,e,,CONVERSIONE2
+conversion-2,de,gs,,e,,UMWANDLUNG2
+conversion-2,de,dp,,la,,Umwandlung2
+conversion-2,es,gs,,e,,CONVERSIÓN2
+conversion-2,ko,gs,,gs,,텍스쳐2
+cosmic-power,en,rs,,e,,COSMIC POWER
+cosmic-power,fr,rs,,e,,FORCE COSMIK
+cosmic-power,fr,dp,,lgpe,,Force Cosmik
+cosmic-power,it,rs,,e,,COSMOFORZA
+cosmic-power,de,rs,,e,,KOSMIK-KRAFT
+cosmic-power,es,rs,,e,,MASA CÓSMICA
+cotton-spore,en,gs,,e,,COTTON SPORE
+cotton-spore,fr,gs,,e,,SPORE COTON
+cotton-spore,it,gs,,e,,COTTONSPORA
+cotton-spore,it,dp,,la,,Cottonspora
+cotton-spore,de,gs,,e,,BAUMWOLLSAAT
+cotton-spore,es,gs,,e,,ESPORAGODÓN
+counter,en,rb,,e,,COUNTER
+counter,fr,rb,,e,,RIPOSTE
+counter,it,rb,,e,,CONTATORE
+counter,it,dp,,b2w2,,Contatore
+counter,de,rb,,e,,KONTER
+counter,es,rb,,e,,CONTADOR
+counter,es,dp,,b2w2,,Contador
+covet,en,rs,,e,,COVET
+covet,fr,rs,,e,,IMPLORE
+covet,it,rs,,e,,SUPPLICA
+covet,de,rs,,e,,BEZIRZER
+covet,es,rs,,e,,ANTOJO
+covet,ko,dp,,la,,탐내다
+crabhammer,en,rb,,e,,CRABHAMMER
+crabhammer,fr,rb,,e,,PINCE-MASSE
+crabhammer,it,rb,,e,,MARTELLATA
+crabhammer,de,rb,,e,,KRABBHAMMER
+crabhammer,es,rb,,e,,MARTILLAZO
+crabhammer,ko,gs,,la,,찝게햄머
+cross-chop,en,gs,,e,,CROSS CHOP
+cross-chop,fr,gs,,e,,COUP-CROIX
+cross-chop,fr,dp,,lgpe,,Coup-Croix
+cross-chop,it,gs,,e,,INCROCOLPO
+cross-chop,de,gs,,e,,KREUZHIEB
+cross-chop,es,gs,,e,,TAJO CRUZADO
+cross-poison,fr,dp,,lgpe,,Poison-Croix
+crunch,en,gs,,e,,CRUNCH
+crunch,fr,gs,,e,,MACHOUILLE
+crunch,it,gs,,e,,SGRANOCCHIO
+crunch,de,gs,,e,,KNIRSCHER
+crunch,es,gs,,e,,TRITURAR
+crush-claw,en,rs,,e,,CRUSH CLAW
+crush-claw,fr,rs,,e,,ECLATEGRIFFE
+crush-claw,fr,dp,,hgss,,Eclategriffe
+crush-claw,fr,bw,,b2w2,,Éclategriffe
+crush-claw,it,rs,,e,,TRITARTIGLI
+crush-claw,de,rs,,e,,ZERMALMKLAUE
+crush-claw,es,rs,,e,,GARRA BRUTAL
+crush-claw,ko,dp,,la,,브레이크크루
+curse,en,gs,,e,,CURSE
+curse,fr,gs,,e,,MALEDICTION
+curse,it,gs,,e,,MALEDIZIONE
+curse,de,gs,,e,,FLUCH
+curse,es,gs,,e,,MALDICIÓN
+curse,zh-simp,sm,,ss,,诅咒
+cut,en,rb,,e,,CUT
+cut,fr,rb,,e,,COUPE
+cut,it,rb,,e,,TAGLIO
+cut,de,rb,,e,,ZERSCHNEIDER
+cut,es,rb,,e,,CORTE
+cut,zh-simp,sm,,ss,,居合斩
+darkest-lariat,zh-simp,lgpe,,lgpe,,DD金勾臂
+darkest-lariat,zh-trad,lgpe,,lgpe,,DD金勾臂
+defend-order,fr,dp,,b2w2,,Appel Défens
+defense-curl,en,rb,,e,,DEFENSE CURL
+defense-curl,fr,rb,,e,,BOUL’ARMURE
+defense-curl,it,rb,,e,,RICCIOLSCUDO
+defense-curl,de,rb,,e,,EINIGLER
+defense-curl,es,rb,,e,,RIZO DEFENSA
+destiny-bond,en,gs,,e,,DESTINY BOND
+destiny-bond,fr,gs,,e,,PRLVT DESTIN
+destiny-bond,fr,dp,,b2w2,,Prlvt Destin
+destiny-bond,fr,xy,,lgpe,,Prélèvem. Destin
+destiny-bond,it,gs,,e,,DESTINOBBL.
+destiny-bond,it,dp,,b2w2,,Destinobbl.
+destiny-bond,de,gs,,e,,ABGANGSBUND
+destiny-bond,es,gs,,e,,MISMODESTINO
+destiny-bond,es,dp,,b2w2,,Mismodestino
+detect,en,gs,,e,,DETECT
+detect,fr,gs,,e,,DETECTION
+detect,it,gs,,e,,INDIVIDUA
+detect,de,gs,,e,,SCANNER
+detect,es,gs,,e,,DETECCIÓN
+detect,ko,gs,,gs,,선찰
+dig,en,rb,,e,,DIG
+dig,fr,rb,,e,,TUNNEL
+dig,it,rb,,e,,FOSSA
+dig,de,rb,,e,,SCHAUFLER
+dig,es,rb,,e,,EXCAVAR
+disable,en,rb,,e,,DISABLE
+disable,fr,rb,,e,,ENTRAVE
+disable,it,rb,,e,,INIBITORE
+disable,de,rb,,e,,AUSSETZER
+disable,es,rb,,e,,ANULACIÓN
+dive,en,rs,,e,,DIVE
+dive,fr,rs,,e,,PLONGEE
+dive,it,rs,,e,,SUB
+dive,de,rs,,e,,TAUCHER
+dive,es,rs,,e,,BUCEO
+dizzy-punch,en,rb,,e,,DIZZY PUNCH
+dizzy-punch,fr,rb,,e,,UPPERCUT
+dizzy-punch,it,rb,,e,,STORDIPUGNO
+dizzy-punch,de,rb,,e,,IRRSCHLAG
+dizzy-punch,es,rb,,y,,PUñO-MAREO
+dizzy-punch,es,gs,,c,,PUÑO-MAREO
+dizzy-punch,es,rs,,e,,PUÑO MAREO
+doom-desire,en,rs,,e,,DOOM DESIRE
+doom-desire,fr,rs,,e,,CARNAREKET
+doom-desire,fr,dp,,lgpe,,Carnareket
+doom-desire,it,rs,,e,,OBBLIDERIO
+doom-desire,it,dp,,la,,Obbliderio
+doom-desire,de,rs,,e,,KISMETWUNSCH
+doom-desire,es,rs,,e,,DESEO OCULTO
+double-edge,en,rb,,e,,DOUBLE-EDGE
+double-edge,fr,rb,,e,,DAMOCLES
+double-edge,it,rb,,e,,SDOPPIATORE
+double-edge,de,rb,,e,,RISIKOTACKLE
+double-edge,es,rb,,e,,DOBLE FILO
+double-kick,en,rb,,e,,DOUBLE KICK
+double-kick,fr,rb,,e,,DOUBLE PIED
+double-kick,it,rb,,e,,DOPPIOCALCIO
+double-kick,de,rb,,e,,DOPPELKICK
+double-kick,es,rb,,e,,DOBLE PATADA
+double-kick,ko,gs,,la,,두번치기
+double-slap,en,rb,,e,,DOUBLESLAP
+double-slap,en,dp,,b2w2,,DoubleSlap
+double-slap,fr,rb,,e,,TORGNOLES
+double-slap,it,rb,,e,,DOPPIASBERLA
+double-slap,de,rb,,e,,DUPLEXHIEB
+double-slap,es,rb,,e,,DOBLEBOFETÓN
+double-slap,es,dp,,b2w2,,Doblebofetón
+double-slap,ko,gs,,gs,,연속 뺨치기
+double-team,en,rb,,e,,DOUBLE TEAM
+double-team,fr,rb,,e,,REFLET
+double-team,it,rb,,e,,DOPPIOTEAM
+double-team,de,rb,,e,,DOPPELTEAM
+double-team,es,rb,,e,,DOBLE EQUIPO
+double-team,ko,gs,,gs,,그림자 분신
+draco-meteor,fr,dp,,oras,,Draco Météor
+draco-meteor,fr,sm,,lgpe,,Draco Météore
+dragon-ascent,fr,oras,,lgpe,,Draco Ascension
+dragon-breath,en,gs,,e,,DRAGONBREATH
+dragon-breath,en,dp,,b2w2,,DragonBreath
+dragon-breath,fr,gs,,e,,DRACOSOUFFLE
+dragon-breath,fr,dp,,lgpe,,Dracosouffle
+dragon-breath,it,gs,,e,,DRAGOSPIRO
+dragon-breath,de,gs,,e,,FEUERODEM
+dragon-breath,es,gs,,e,,DRAGOALIENTO
+dragon-breath,ko,gs,,gs,,용의 숨결
+dragon-claw,en,rs,,e,,DRAGON CLAW
+dragon-claw,fr,rs,,e,,DRACOGRIFFE
+dragon-claw,fr,dp,,lgpe,,Dracogriffe
+dragon-claw,it,rs,,e,,DRAGARTIGLI
+dragon-claw,de,rs,,e,,DRACHENKLAUE
+dragon-claw,es,rs,,e,,GARRA DRAGÓN
+dragon-claw,ko,dp,,la,,드래곤크루
+dragon-dance,en,rs,,e,,DRAGON DANCE
+dragon-dance,fr,rs,,e,,DANSE DRACO
+dragon-dance,it,rs,,e,,DRAGODANZA
+dragon-dance,de,rs,,e,,DRACHENTANZ
+dragon-dance,es,rs,,e,,DANZA DRAGÓN
+dragon-pulse,fr,dp,,lgpe,,Dracochoc
+dragon-rage,en,rb,,e,,DRAGON RAGE
+dragon-rage,fr,rb,,e,,DRACO-RAGE
+dragon-rage,it,rb,,e,,IRA DI DRAGO
+dragon-rage,de,rb,,e,,DRACHENWUT
+dragon-rage,es,rb,,e,,FURIA DRAGÓN
+dragon-rush,fr,dp,,lgpe,,Dracocharge
+drain-punch,fr,dp,,lgpe,,Vampipoing
+dream-eater,en,rb,,e,,DREAM EATER
+dream-eater,fr,rb,,e,,DEVOREVE
+dream-eater,it,rb,,e,,MANGIASOGNI
+dream-eater,de,rb,,e,,TRAUMFRESSER
+dream-eater,es,rb,,y,,COME SUEñOS
+dream-eater,es,gs,,e,,COME SUEÑOS
+dream-eater,es,dp,,lgpe,,Come Sueños
+drill-peck,en,rb,,e,,DRILL PECK
+drill-peck,fr,rb,,e,,BEC VRILLE
+drill-peck,it,rb,,e,,PERFORBECCO
+drill-peck,de,rb,,e,,BOHRSCHNABEL
+drill-peck,es,rb,,e,,PICO TALADRO
+dynamic-punch,en,gs,,e,,DYNAMICPUNCH
+dynamic-punch,en,dp,,b2w2,,DynamicPunch
+dynamic-punch,fr,gs,,e,,DYNAMOPOING
+dynamic-punch,fr,dp,,lgpe,,Dynamopoing
+dynamic-punch,it,gs,,e,,DINAMIPUGNO
+dynamic-punch,de,gs,,e,,WUCHTSCHLAG
+dynamic-punch,es,gs,,e,,PUÑODINÁMICO
+dynamic-punch,es,dp,,b2w2,,Puñodinámico
+dynamic-punch,ko,gs,,gs,,폭발 펀치
+earthquake,en,rb,,e,,EARTHQUAKE
+earthquake,fr,rb,,e,,SEISME
+earthquake,it,rb,,e,,TERREMOTO
+earthquake,de,rb,,e,,ERDBEBEN
+earthquake,es,rb,,e,,TERREMOTO
+egg-bomb,en,rb,,e,,EGG BOMB
+egg-bomb,fr,rb,,e,,BOMB’OEUF
+egg-bomb,fr,dp,,hgss,,Bomb’Oeuf
+egg-bomb,fr,bw,,lgpe,,Bomb’Œuf
+egg-bomb,it,rb,,e,,UOVOBOMBA
+egg-bomb,de,rb,,e,,EIERBOMBE
+egg-bomb,es,rb,,e,,BOMBA HUEVO
+ember,en,rb,,e,,EMBER
+ember,fr,rb,,e,,FLAMMECHE
+ember,it,rb,,e,,BRACIERE
+ember,de,rb,,e,,GLUT
+ember,es,rb,,e,,ASCUAS
+encore,en,gs,,e,,ENCORE
+encore,fr,gs,,e,,ENCORE
+encore,it,gs,,e,,RIPETI
+encore,de,gs,,e,,ZUGABE
+encore,es,gs,,e,,OTRA VEZ
+encore,ko,gs,,la,,앵콜
+endeavor,en,rs,,e,,ENDEAVOR
+endeavor,fr,rs,,e,,EFFORT
+endeavor,it,rs,,e,,RIMONTA
+endeavor,de,rs,,e,,NOTSITUATION
+endeavor,es,rs,,e,,ESFUERZO
+endure,en,gs,,e,,ENDURE
+endure,fr,gs,,e,,TENACITE
+endure,it,gs,,e,,RESISTENZA
+endure,de,gs,,e,,AUSDAUER
+endure,es,gs,,e,,AGUANTE
+energy-ball,fr,dp,,hgss,,Eco-Sphère
+entrainment,fr,bw,,lgpe,,Ten-danse
+eruption,en,rs,,e,,ERUPTION
+eruption,fr,rs,,e,,ERUPTION
+eruption,fr,dp,,hgss,,Eruption
+eruption,it,rs,,e,,ERUZIONE
+eruption,de,rs,,e,,ERUPTION
+eruption,es,rs,,e,,ESTALLIDO
+explosion,en,rb,,e,,EXPLOSION
+explosion,fr,rb,,e,,EXPLOSION
+explosion,it,rb,,e,,ESPLOSIONE
+explosion,de,rb,,e,,EXPLOSION
+explosion,es,rb,,e,,EXPLOSIÓN
+extrasensory,en,rs,,e,,EXTRASENSORY
+extrasensory,fr,rs,,e,,EXTRASENSEUR
+extrasensory,it,rs,,e,,EXTRASENSO
+extrasensory,de,rs,,e,,SONDERSENSOR
+extrasensory,es,rs,,e,,PARANORMAL
+extreme-speed,en,gs,,e,,EXTREMESPEED
+extreme-speed,en,dp,,b2w2,,ExtremeSpeed
+extreme-speed,fr,gs,,e,,VIT.EXTREME
+extreme-speed,fr,dp,,b2w2,,Vit.Extrême
+extreme-speed,it,gs,,e,,EXTRARAPIDO
+extreme-speed,de,gs,,e,,TURBOTEMPO
+extreme-speed,es,gs,,e,,VEL. EXTREMA
+extreme-speed,es,dp,,b2w2,,Vel. Extrema
+facade,en,rs,,e,,FACADE
+facade,fr,rs,,e,,FACADE
+facade,it,rs,,e,,FACCIATA
+facade,de,rs,,e,,FASSADE
+facade,es,rs,,e,,IMAGEN
+fake-out,en,rs,,e,,FAKE OUT
+fake-out,fr,rs,,e,,BLUFF
+fake-out,it,rs,,e,,BRUCIAPELO
+fake-out,de,rs,,e,,MOGELHIEB
+fake-out,es,rs,,e,,SORPRESA
+fake-out,ko,dp,,la,,속이다
+fake-tears,en,rs,,e,,FAKE TEARS
+fake-tears,fr,rs,,e,,CROCO LARME
+fake-tears,it,rs,,e,,FALSELACRIME
+fake-tears,de,rs,,e,,TRUGTRÄNE
+fake-tears,es,rs,,e,,LLANTO FALSO
+false-swipe,en,gs,,e,,FALSE SWIPE
+false-swipe,fr,gs,,e,,FAUX-CHAGE
+false-swipe,it,gs,,e,,FALSOFINALE
+false-swipe,de,gs,,e,,TRUGSCHLAG
+false-swipe,es,gs,,e,,FALSOTORTAZO
+false-swipe,es,dp,,lgpe,,Falsotortazo
+feather-dance,en,rs,,e,,FEATHERDANCE
+feather-dance,en,dp,,b2w2,,FeatherDance
+feather-dance,fr,rs,,e,,DANSE-PLUME
+feather-dance,fr,dp,,lgpe,,Danse-Plume
+feather-dance,it,rs,,e,,DANZADIPIUME
+feather-dance,de,rs,,e,,DAUNENREIGEN
+feather-dance,es,rs,,e,,DANZA PLUMA
+feint-attack,en,gs,,e,,FAINT ATTACK
+feint-attack,en,dp,,b2w2,,Faint Attack
+feint-attack,fr,gs,,e,,FEINTE
+feint-attack,it,gs,,e,,FINTA
+feint-attack,de,gs,,e,,FINTE
+feint-attack,es,gs,,e,,FINTA
+feint-attack,ko,gs,,gs,,속여 때리기
+fire-blast,en,rb,,e,,FIRE BLAST
+fire-blast,fr,rb,,e,,DEFLAGRATION
+fire-blast,it,rb,,e,,FUOCOBOMBA
+fire-blast,de,rb,,e,,FEUERSTURM
+fire-blast,es,rb,,e,,LLAMARADA
+fire-fang,es,dp,,b2w2,,Colm. Ígneo
+fire-punch,en,rb,,e,,FIRE PUNCH
+fire-punch,fr,rb,,e,,POING DE FEU
+fire-punch,fr,dp,,lgpe,,Poing de Feu
+fire-punch,it,rb,,e,,FUOCOPUGNO
+fire-punch,de,rb,,e,,FEUERSCHLAG
+fire-punch,es,rb,,y,,PUñO FUEGO
+fire-punch,es,gs,,e,,PUÑO FUEGO
+fire-spin,en,rb,,e,,FIRE SPIN
+fire-spin,fr,rb,,e,,DANSEFLAMME
+fire-spin,fr,dp,,b2w2,,Danseflamme
+fire-spin,fr,xy,,lgpe,,Danse Flamme
+fire-spin,it,rb,,e,,TURBOFUOCO
+fire-spin,de,rb,,e,,FEUERWIRBEL
+fire-spin,es,rb,,e,,GIRO FUEGO
+fissure,en,rb,,e,,FISSURE
+fissure,fr,rb,,e,,ABIME
+fissure,it,rb,,e,,ABISSO
+fissure,de,rb,,e,,GEOFISSUR
+fissure,es,rb,,e,,FISURA
+flail,en,gs,,e,,FLAIL
+flail,fr,gs,,e,,FLEAU
+flail,fr,dp,,lgpe,,Fléau
+flail,it,gs,,e,,FLAGELLO
+flail,de,gs,,e,,DRESCHFLEGEL
+flail,es,gs,,e,,AZOTE
+flame-wheel,en,gs,,e,,FLAME WHEEL
+flame-wheel,fr,gs,,e,,ROUE DE FEU
+flame-wheel,it,gs,,e,,RUOTAFUOCO
+flame-wheel,de,gs,,e,,FLAMMENRAD
+flame-wheel,es,gs,,e,,RUEDA FUEGO
+flame-wheel,ko,gs,,gs,,화염 자동차
+flame-wheel,ko,dp,,la,,화염자동차
+flamethrower,en,rb,,e,,FLAMETHROWER
+flamethrower,fr,rb,,e,,LANCE-FLAMME
+flamethrower,fr,dp,,b2w2,,Lance-Flamme
+flamethrower,it,rb,,e,,LANCIAFIAMME
+flamethrower,de,rb,,e,,FLAMMENWURF
+flamethrower,es,rb,,e,,LANZALLAMAS
+flash,en,rb,,e,,FLASH
+flash,fr,rb,,e,,FLASH
+flash,it,rb,,e,,FLASH
+flash,de,rb,,e,,BLITZ
+flash,es,rb,,e,,DESTELLO
+flash-cannon,es,dp,,b2w2,,Foco Respl.
+flatter,en,rs,,e,,FLATTER
+flatter,fr,rs,,e,,FLATTERIE
+flatter,it,rs,,e,,ADULAZIONE
+flatter,de,rs,,e,,SCHMEICHLER
+flatter,es,rs,,e,,CAMELO
+fly,en,rb,,e,,FLY
+fly,fr,rb,,e,,VOL
+fly,it,rb,,e,,VOLO
+fly,de,rb,,e,,FLIEGEN
+fly,es,rb,,e,,VUELO
+focus-energy,en,rb,,e,,FOCUS ENERGY
+focus-energy,fr,rb,,e,,PUISSANCE
+focus-energy,it,rb,,c,,ENERGY CONC.
+focus-energy,it,rs,,e,,FOCALENERGIA
+focus-energy,de,rb,,e,,ENERGIEFOKUS
+focus-energy,es,rb,,e,,FOCO ENERGÍA
+focus-punch,en,rs,,e,,FOCUS PUNCH
+focus-punch,fr,rs,,e,,MITRA-POING
+focus-punch,it,rs,,e,,CENTRIPUGNO
+focus-punch,de,rs,,e,,POWER-PUNCH
+focus-punch,es,rs,,e,,PUÑO CERTERO
+follow-me,en,rs,,e,,FOLLOW ME
+follow-me,fr,rs,,e,,PAR ICI
+follow-me,it,rs,,e,,SONOQUI
+follow-me,de,rs,,e,,SPOTLIGHT
+follow-me,es,rs,,e,,SEÑUELO
+foresight,en,gs,,e,,FORESIGHT
+foresight,fr,gs,,e,,CLAIRVOYANCE
+foresight,it,gs,,e,,PREVEGGENZA
+foresight,de,gs,,e,,GESICHTE
+foresight,de,dp,,lgpe,,Gesichte
+foresight,es,gs,,e,,PROFECÍA
+foresight,ko,gs,,gs,,꿰뚫어 보기
+forests-curse,zh-simp,sm,,ss,,森林诅咒
+foul-play,zh-simp,sm,,ss,,欺诈
+frenzy-plant,en,rs,,e,,FRENZY PLANT
+frenzy-plant,fr,rs,,e,,VEGE-ATTAK
+frenzy-plant,fr,dp,,lgpe,,Végé-Attak
+frenzy-plant,it,rs,,e,,RADICALBERO
+frenzy-plant,de,rs,,e,,FAUNA-STATUE
+frenzy-plant,de,dp,,oras,,Fauna-Statue
+frenzy-plant,es,rs,,e,,PLANTA FEROZ
+frost-breath,fr,bw,,b2w2,,SouffleGlacé
+frustration,en,gs,,e,,FRUSTRATION
+frustration,fr,gs,,e,,FRUSTRATION
+frustration,it,gs,,e,,FRUSTRAZIONE
+frustration,de,gs,,e,,FRUSTRATION
+frustration,es,gs,,e,,FRUSTRACIÓN
+fury-attack,en,rb,,e,,FURY ATTACK
+fury-attack,fr,rb,,e,,FURIE
+fury-attack,it,rb,,e,,FURIA
+fury-attack,de,rb,,e,,FURIENSCHLAG
+fury-attack,es,rb,,e,,ATAQUE FURIA
+fury-cutter,en,gs,,e,,FURY CUTTER
+fury-cutter,fr,gs,,e,,TAILLADE
+fury-cutter,it,gs,,e,,TAGLIOFURIA
+fury-cutter,de,gs,,e,,ZORNKLINGE
+fury-cutter,es,gs,,e,,CORTEFURIA
+fury-cutter,es,dp,,b2w2,,Cortefuria
+fury-cutter,ko,gs,,gs,,연속 자르기
+fury-swipes,en,rb,,e,,FURY SWIPES
+fury-swipes,fr,rb,,e,,COMBO-GRIFFE
+fury-swipes,it,rb,,e,,SFURIATE
+fury-swipes,de,rb,,e,,KRATZFURIE
+fury-swipes,es,rb,,e,,GOLPES FURIA
+future-sight,en,gs,,e,,FUTURE SIGHT
+future-sight,fr,gs,,e,,PRESCIENCE
+future-sight,it,gs,,e,,DIVINAZIONE
+future-sight,de,gs,,e,,SEHER
+future-sight,es,gs,,e,,PREMONICIÓN
+giga-drain,en,gs,,e,,GIGA DRAIN
+giga-drain,fr,gs,,e,,GIGA-SANGSUE
+giga-drain,it,gs,,e,,GIGASSORBIM.
+giga-drain,it,dp,,b2w2,,Gigassorbim.
+giga-drain,de,gs,,e,,GIGASAUGER
+giga-drain,es,gs,,c,,GIGA-DRENADO
+giga-drain,es,rs,,e,,GIGADRENADO
+giga-drain,ko,gs,,gs,,기가 드레인
+giga-impact,es,dp,,lgpe,,Giga Impacto
+glaciate,fr,bw,,b2w2,,ÈreGlaciaire
+glaciate,ko,bw,,la,,얼다세계
+glare,en,rb,,e,,GLARE
+glare,fr,rb,,e,,INTIMIDATION
+glare,fr,dp,,b2w2,,Intimidation
+glare,it,rb,,e,,BAGLIORE
+glare,it,dp,,b2w2,,Bagliore
+glare,de,rb,,e,,GIFTBLICK
+glare,de,dp,,lgpe,,Giftblick
+glare,es,rb,,e,,DESLUMBRAR
+glare,ko,gs,,gs,,뱀의미소
+grass-knot,fr,dp,,hgss,,Noeud Herbe
+grass-pledge,de,bw,,oras,,Pflanzsäulen
+grass-whistle,en,rs,,e,,GRASSWHISTLE
+grass-whistle,en,dp,,b2w2,,GrassWhistle
+grass-whistle,fr,rs,,e,,SIFFL’HERBE
+grass-whistle,it,rs,,e,,MELODERBA
+grass-whistle,de,rs,,e,,GRASFLÖTE
+grass-whistle,es,rs,,e,,SILBATO
+growl,en,rb,,e,,GROWL
+growl,fr,rb,,e,,RUGISSEMENT
+growl,it,rb,,e,,RUGGITO
+growl,de,rb,,e,,HEULER
+growl,es,rb,,y,,GRUñIDO
+growl,es,gs,,e,,GRUÑIDO
+growth,en,rb,,e,,GROWTH
+growth,fr,rb,,e,,CROISSANCE
+growth,it,rb,,e,,CRESCITA
+growth,de,rb,,e,,WACHSTUM
+growth,es,rb,,e,,DESARROLLO
+grudge,en,rs,,e,,GRUDGE
+grudge,fr,rs,,e,,RANCUNE
+grudge,it,rs,,e,,RANCORE
+grudge,de,rs,,e,,NACHSPIEL
+grudge,es,rs,,e,,RABIA
+guard-split,fr,bw,,b2w2,,PartageGarde
+guard-swap,es,dp,,b2w2,,Cambia Def.
+guard-swap,es,xy,,lgpe,,Cambia Defensa
+guard-swap,ko,dp,,la,,가드스웹
+guardian-of-alola,zh-simp,lgpe,,lgpe,,巨人卫士·阿罗拉
+guillotine,en,rb,,e,,GUILLOTINE
+guillotine,fr,rb,,e,,GUILLOTINE
+guillotine,it,rb,,e,,GHIGLIOTTINA
+guillotine,de,rb,,e,,GUILLOTINE
+guillotine,es,rb,,e,,GUILLOTINA
+guillotine,zh-simp,sm,,ss,,断头钳
+gunk-shot,es,dp,,lgpe,,Lanza Mugre
+gust,en,rb,,e,,GUST
+gust,fr,rb,,e,,TORNADE
+gust,it,rb,,e,,RAFFICA
+gust,de,rb,,e,,WINDSTOSS
+gust,es,rb,,e,,TORNADO
+hail,en,rs,,e,,HAIL
+hail,fr,rs,,e,,GRELE
+hail,it,rs,,e,,GRANDINE
+hail,de,rs,,e,,HAGELSTURM
+hail,es,rs,,e,,GRANIZO
+harden,en,rb,,e,,HARDEN
+harden,fr,rb,,e,,ARMURE
+harden,it,rb,,e,,RAFFORZATORE
+harden,de,rb,,e,,HÄRTNER
+harden,es,rb,,e,,FORTALEZA
+haze,en,rb,,e,,HAZE
+haze,fr,rb,,e,,BUEE NOIRE
+haze,it,rb,,e,,NUBE
+haze,de,rb,,e,,DUNKELNEBEL
+haze,es,rb,,e,,NIEBLA
+headbutt,en,rb,,e,,HEADBUTT
+headbutt,fr,rb,,e,,COUP D’BOULE
+headbutt,it,rb,,e,,BOTTINTESTA
+headbutt,de,rb,,e,,KOPFNUSS
+headbutt,es,rb,,e,,GOLPE CABEZA
+heal-bell,en,gs,,e,,HEAL BELL
+heal-bell,fr,gs,,e,,GLAS DE SOIN
+heal-bell,it,gs,,e,,RINTOCCASANA
+heal-bell,de,gs,,e,,VITALGLOCKE
+heal-bell,es,gs,,e,,CAMPANA CURA
+heal-bell,es,dp,,la,,Campana Cura
+heal-pulse,it,bw,,la,,Ondasana
+healing-wish,fr,dp,,hgss,,Voeu Soin
+heart-stamp,fr,bw,,b2w2,,Crèvecœur
+heart-swap,fr,dp,,hgss,,Permucoeur
+heart-swap,es,dp,,la,,Cambia Almas
+heart-swap,ko,dp,,la,,하트스웹
+heat-wave,en,rs,,e,,HEAT WAVE
+heat-wave,fr,rs,,e,,CANICULE
+heat-wave,it,rs,,e,,ONDACALDA
+heat-wave,de,rs,,e,,HITZEWELLE
+heat-wave,es,rs,,e,,ONDA ÍGNEA
+heavy-slam,es,bw,,b2w2,,Cuerpopesado
+helping-hand,en,rs,,e,,HELPING HAND
+helping-hand,fr,rs,,e,,COUP D’MAIN
+helping-hand,it,rs,,e,,ALTRUISMO
+helping-hand,de,rs,,e,,RECHTE HAND
+helping-hand,es,rs,,e,,REFUERZO
+hidden-power,en,gs,,e,,HIDDEN POWER
+hidden-power,fr,gs,,e,,PUIS. CACHEE
+hidden-power,fr,dp,,b2w2,,Puis. Cachée
+hidden-power,it,gs,,e,,INTROFORZA
+hidden-power,de,gs,,e,,KRAFTRESERVE
+hidden-power,es,gs,,e,,PODER OCULTO
+high-jump-kick,en,rb,,e,,HI JUMP KICK
+high-jump-kick,en,dp,,b2w2,,Hi Jump Kick
+high-jump-kick,fr,rb,,e,,PIED VOLTIGE
+high-jump-kick,it,rb,,e,,CALCINVOLO
+high-jump-kick,de,rb,,e,,TURMKICK
+high-jump-kick,es,rb,,y,,PATADA S.ALTA
+high-jump-kick,es,gs,,e,,PAT. S. ALTA
+high-jump-kick,es,dp,,b2w2,,Pat. S. Alta
+horn-attack,en,rb,,e,,HORN ATTACK
+horn-attack,fr,rb,,e,,KOUD’KORNE
+horn-attack,it,rb,,e,,INCORNATA
+horn-attack,de,rb,,e,,HORNATTACKE
+horn-attack,es,rb,,e,,CORNADA
+horn-drill,en,rb,,e,,HORN DRILL
+horn-drill,fr,rb,,e,,EMPAL’KORNE
+horn-drill,it,rb,,e,,PERFORCORNO
+horn-drill,de,rb,,e,,HORNBOHRER
+horn-drill,es,rb,,e,,PERFORADOR
+horn-leech,es,bw,,b2w2,,Astadrenaje
+horn-leech,ko,bw,,la,,우드호른
+howl,en,rs,,e,,HOWL
+howl,fr,rs,,e,,GRONDEMENT
+howl,it,rs,,e,,GRIDODILOTTA
+howl,de,rs,,e,,JAULER
+howl,es,rs,,e,,AULLIDO
+howl,ko,dp,,la,,멀리짖음
+hydro-cannon,en,rs,,e,,HYDRO CANNON
+hydro-cannon,fr,rs,,e,,HYDROBLAST
+hydro-cannon,it,rs,,e,,IDROCANNONE
+hydro-cannon,de,rs,,e,,AQUAHAUBITZE
+hydro-cannon,es,rs,,e,,HIDROCAÑÓN
+hydro-pump,en,rb,,e,,HYDRO PUMP
+hydro-pump,fr,rb,,e,,HYDROCANON
+hydro-pump,it,rb,,e,,IDROPOMPA
+hydro-pump,de,rb,,e,,HYDROPUMPE
+hydro-pump,es,rb,,c,,HIDRO BOMBA
+hydro-pump,es,rs,,e,,HIDROBOMBA
+hyper-beam,en,rb,,e,,HYPER BEAM
+hyper-beam,fr,rb,,e,,ULTRALASER
+hyper-beam,it,rb,,c,,IPER-RAGGIO
+hyper-beam,it,rs,,e,,IPER RAGGIO
+hyper-beam,de,rb,,e,,HYPERSTRAHL
+hyper-beam,es,rb,,c,,HÍPER RAYO
+hyper-beam,es,rs,,e,,HIPERRAYO
+hyper-fang,en,rb,,e,,HYPER FANG
+hyper-fang,fr,rb,,e,,CROC DE MORT
+hyper-fang,it,rb,,e,,IPERZANNA
+hyper-fang,de,rb,,e,,HYPERZAHN
+hyper-fang,es,rb,,e,,HIP.COLMILLO
+hyper-fang,es,dp,,b2w2,,Hip.Colmillo
+hyper-fang,zh-simp,sm,,ss,,必杀门牙
+hyper-voice,en,rs,,e,,HYPER VOICE
+hyper-voice,fr,rs,,e,,MEGAPHONE
+hyper-voice,it,rs,,e,,GRANVOCE
+hyper-voice,de,rs,,e,,SCHALLWELLE
+hyper-voice,es,rs,,e,,VOZARRÓN
+hyperspace-fury,ko,oras,,la,,다른차원러시
+hyperspace-hole,ko,xy,,la,,다른차원홀
+hypnosis,en,rb,,e,,HYPNOSIS
+hypnosis,fr,rb,,e,,HYPNOSE
+hypnosis,it,rb,,e,,IPNOSI
+hypnosis,de,rb,,e,,HYPNOSE
+hypnosis,es,rb,,e,,HIPNOSIS
+ice-ball,en,rs,,e,,ICE BALL
+ice-ball,fr,rs,,e,,BALL’GLACE
+ice-ball,it,rs,,e,,PALLA GELO
+ice-ball,de,rs,,e,,FROSTBEULE
+ice-ball,es,rs,,e,,BOLA HIELO
+ice-beam,en,rb,,e,,ICE BEAM
+ice-beam,fr,rb,,e,,LASER GLACE
+ice-beam,it,rb,,e,,GELORAGGIO
+ice-beam,de,rb,,e,,EISSTRAHL
+ice-beam,es,rb,,e,,RAYO HIELO
+ice-fang,es,dp,,b2w2,,Colm. Hielo
+ice-punch,en,rb,,e,,ICE PUNCH
+ice-punch,fr,rb,,e,,POINGLACE
+ice-punch,fr,dp,,b2w2,,Poinglace
+ice-punch,fr,xy,,lgpe,,Poing-Glace
+ice-punch,it,rb,,e,,GELOPUGNO
+ice-punch,de,rb,,e,,EISHIEB
+ice-punch,es,rb,,y,,PUñO HIELO
+ice-punch,es,gs,,e,,PUÑO HIELO
+ice-shard,fr,dp,,hgss,,Eclats Glace
+ice-shard,es,dp,,la,,Canto Helado
+icicle-spear,en,rs,,e,,ICICLE SPEAR
+icicle-spear,fr,rs,,e,,STALAGTITE
+icicle-spear,fr,dp,,lgpe,,Stalagtite
+icicle-spear,it,rs,,e,,GELOLANCIA
+icicle-spear,de,rs,,e,,EISSPEER
+icicle-spear,es,rs,,e,,CARÁMBANO
+icy-wind,en,gs,,e,,ICY WIND
+icy-wind,fr,gs,,e,,VENT GLACE
+icy-wind,it,gs,,e,,VENTOGELATO
+icy-wind,de,gs,,e,,EISSTURM
+icy-wind,es,gs,,e,,VIENTO HIELO
+icy-wind,ko,gs,,la,,얼다바람
+imprison,en,rs,,e,,IMPRISON
+imprison,fr,rs,,e,,POSSESSIF
+imprison,it,rs,,e,,ESCLUSIVA
+imprison,de,rs,,e,,BEGRENZER
+imprison,es,rs,,e,,CERCA
+imprison,es,dp,,lgpe,,Cerca
+incinerate,zh-simp,sm,,ss,,烧尽
+inferno,zh-simp,sm,,ss,,炼狱
+infestation,zh-simp,sm,,ss,,死缠烂打
+ingrain,en,rs,,e,,INGRAIN
+ingrain,fr,rs,,e,,RACINES
+ingrain,it,rs,,e,,RADICAMENTO
+ingrain,de,rs,,e,,VERWURZLER
+ingrain,es,rs,,e,,ARRAIGO
+ion-deluge,fr,xy,,lgpe,,DélugePlasmique
+iron-defense,en,rs,,e,,IRON DEFENSE
+iron-defense,fr,rs,,e,,MUR DE FER
+iron-defense,it,rs,,e,,FERROSCUDO
+iron-defense,de,rs,,e,,EISENABWEHR
+iron-defense,es,rs,,e,,DEF. FÉRREA
+iron-defense,es,dp,,b2w2,,Def. Férrea
+iron-head,es,dp,,b2w2,,Cabezahierro
+iron-tail,en,gs,,e,,IRON TAIL
+iron-tail,fr,gs,,e,,QUEUE DE FER
+iron-tail,it,gs,,e,,CODACCIAIO
+iron-tail,de,gs,,e,,EISENSCHWEIF
+iron-tail,es,gs,,e,,COLA FÉRREA
+jump-kick,en,rb,,e,,JUMP KICK
+jump-kick,fr,rb,,e,,PIED SAUTE
+jump-kick,it,rb,,c,,CALCIO-SALTO
+jump-kick,it,rs,,e,,CALCIOSALTO
+jump-kick,de,rb,,e,,SPRUNGKICK
+jump-kick,es,rb,,e,,PATADA SALTO
+karate-chop,en,rb,,e,,KARATE CHOP
+karate-chop,fr,rb,,e,,POING-KARATE
+karate-chop,fr,dp,,lgpe,,Poing-Karaté
+karate-chop,it,rb,,c,,COLPO-KARATE
+karate-chop,it,rs,,e,,COLPOKARATE
+karate-chop,de,rb,,e,,KARATESCHLAG
+karate-chop,es,rb,,e,,GOLPE KARATE
+karate-chop,es,dp,,b2w2,,Golpe Karate
+kinesis,en,rb,,e,,KINESIS
+kinesis,fr,rb,,e,,TELEKINESIE
+kinesis,it,rb,,e,,CINÈSI
+kinesis,de,rb,,e,,PSYKRAFT
+kinesis,es,rb,,e,,KINÉTICO
+knock-off,en,rs,,e,,KNOCK OFF
+knock-off,fr,rs,,e,,SABOTAGE
+knock-off,it,rs,,e,,PRIVAZIONE
+knock-off,de,rs,,e,,ABSCHLAG
+knock-off,es,rs,,e,,DESARME
+last-resort,fr,dp,,b2w2,,Dernierecour
+last-resort,ko,dp,,la,,뒀다쓰기
+lava-plume,fr,dp,,hgss,,Ebullilave
+leaf-blade,en,rs,,e,,LEAF BLADE
+leaf-blade,fr,rs,,e,,LAME-FEUILLE
+leaf-blade,fr,dp,,lgpe,,Lame-Feuille
+leaf-blade,it,rs,,e,,FENDIFOGLIA
+leaf-blade,de,rs,,e,,LAUBKLINGE
+leaf-blade,es,rs,,e,,HOJA AGUDA
+leaf-storm,fr,dp,,b2w2,,Tempêteverte
+leaf-tornado,es,bw,,b2w2,,Ciclón Hojas
+leech-life,en,rb,,e,,LEECH LIFE
+leech-life,fr,rb,,e,,VAMPIRISME
+leech-life,it,rb,,e,,SANGUISUGA
+leech-life,de,rb,,e,,BLUTSAUGER
+leech-life,es,rb,,c,,CHUPA VIDAS
+leech-life,es,rs,,e,,CHUPAVIDAS
+leech-life,zh-simp,sm,,ss,,吸血
+leech-seed,en,rb,,e,,LEECH SEED
+leech-seed,fr,rb,,e,,VAMPIGRAINE
+leech-seed,it,rb,,e,,PARASSISEME
+leech-seed,de,rb,,e,,EGELSAMEN
+leech-seed,es,rb,,e,,DRENADORAS
+leer,en,rb,,e,,LEER
+leer,fr,rb,,e,,GROZ’YEUX
+leer,it,rb,,e,,FULMISGUARDO
+leer,de,rb,,e,,SILBERBLICK
+leer,es,rb,,e,,MALICIOSO
+lick,en,rb,,e,,LICK
+lick,fr,rb,,e,,LECHOUILLE
+lick,it,rb,,e,,LECCATA
+lick,de,rb,,e,,SCHLECKER
+lick,es,rb,,e,,LENGÜETAZO
+light-screen,en,rb,,e,,LIGHT SCREEN
+light-screen,fr,rb,,e,,MUR LUMIERE
+light-screen,it,rb,,c,,SCHERMO-LUCE
+light-screen,it,rs,,e,,SCHERMOLUCE
+light-screen,de,rb,,e,,LICHTSCHILD
+light-screen,es,rb,,e,,PANTALLA LUZ
+light-screen,es,dp,,b2w2,,Pantalla Luz
+light-screen,ko,gs,,gs,,빛의 장막
+lock-on,en,gs,,e,,LOCK-ON
+lock-on,fr,gs,,e,,VERROUILLAGE
+lock-on,it,gs,,e,,LOCALIZZA
+lock-on,de,gs,,e,,ZIELSCHUSS
+lock-on,es,gs,,e,,FIJAR BLANCO
+lovely-kiss,en,rb,,e,,LOVELY KISS
+lovely-kiss,fr,rb,,e,,GROBISOU
+lovely-kiss,it,rb,,e,,DEMONBACIO
+lovely-kiss,de,rb,,e,,TODESKUSS
+lovely-kiss,es,rb,,e,,BESO AMOROSO
+low-kick,en,rb,,e,,LOW KICK
+low-kick,fr,rb,,e,,BALAYAGE
+low-kick,it,rb,,e,,COLPO BASSO
+low-kick,de,rb,,e,,FUSSKICK
+low-kick,es,rb,,e,,PATADA BAJA
+low-kick,ko,gs,,gs,,잡치기
+lunar-dance,fr,dp,,lgpe,,Danse-Lune
+luster-purge,en,rs,,e,,LUSTER PURGE
+luster-purge,fr,rs,,e,,LUMI-ECLAT
+luster-purge,fr,dp,,hgss,,Lumi-Eclat
+luster-purge,it,rs,,e,,ABBAGLIANTE
+luster-purge,de,rs,,e,,SCHEINWERFER
+luster-purge,es,rs,,e,,RESPLANDOR
+luster-purge,ko,dp,,la,,라스트버지
+mach-punch,en,gs,,e,,MACH PUNCH
+mach-punch,fr,gs,,e,,MACH PUNCH
+mach-punch,it,gs,,e,,PUGNORAPIDO
+mach-punch,de,gs,,e,,TEMPOHIEB
+mach-punch,es,gs,,c,,ULTRA PUÑO
+mach-punch,es,rs,,e,,ULTRAPUÑO
+magic-coat,en,rs,,e,,MAGIC COAT
+magic-coat,fr,rs,,e,,REFLET MAGIK
+magic-coat,it,rs,,e,,MAGIVELO
+magic-coat,de,rs,,e,,MAGIEMANTEL
+magic-coat,es,rs,,e,,CAPA MÁGICA
+magical-leaf,en,rs,,e,,MAGICAL LEAF
+magical-leaf,fr,rs,,e,,FEUILLEMAGIK
+magical-leaf,fr,dp,,b2w2,,Feuillemagik
+magical-leaf,it,rs,,e,,FOGLIAMAGICA
+magical-leaf,de,rs,,e,,ZAUBERBLATT
+magical-leaf,es,rs,,e,,HOJA MÁGICA
+magical-leaf,ko,dp,,la,,메지컬리프
+magnet-bomb,fr,dp,,lgpe,,Bombaimant
+magnitude,en,gs,,e,,MAGNITUDE
+magnitude,fr,gs,,e,,AMPLEUR
+magnitude,it,gs,,e,,MAGNITUDO
+magnitude,de,gs,,e,,INTENSITÄT
+magnitude,es,gs,,e,,MAGNITUD
+mean-look,en,gs,,e,,MEAN LOOK
+mean-look,fr,gs,,e,,REGARD NOIR
+mean-look,it,gs,,e,,MALOSGUARDO
+mean-look,de,gs,,e,,HORRORBLICK
+mean-look,es,gs,,e,,MAL DE OJO
+mean-look,ko,gs,,gs,,검은 눈빛
+meditate,en,rb,,e,,MEDITATE
+meditate,fr,rb,,e,,YOGA
+meditate,it,rb,,e,,MEDITAZIONE
+meditate,de,rb,,e,,MEDITATION
+meditate,es,rb,,e,,MEDITACIÓN
+mega-drain,en,rb,,e,,MEGA DRAIN
+mega-drain,fr,rb,,e,,MEGA-SANGSUE
+mega-drain,it,rb,,e,,MEGASSORBIM.
+mega-drain,it,dp,,b2w2,,Megassorbim.
+mega-drain,de,rb,,e,,MEGASAUGER
+mega-drain,es,rb,,c,,MEGA AGOTAR
+mega-drain,es,rs,,e,,MEGAAGOTAR
+mega-kick,en,rb,,e,,MEGA KICK
+mega-kick,fr,rb,,e,,ULTIMAWASHI
+mega-kick,it,rb,,e,,MEGACALCIO
+mega-kick,de,rb,,e,,MEGAKICK
+mega-kick,es,rb,,c,,MEGA PATADA
+mega-kick,es,rs,,e,,MEGAPATADA
+mega-punch,en,rb,,e,,MEGA PUNCH
+mega-punch,fr,rb,,e,,ULTIMAPOING
+mega-punch,it,rb,,e,,MEGAPUGNO
+mega-punch,de,rb,,e,,MEGAHIEB
+mega-punch,es,rb,,y,,MEGA PUñO
+mega-punch,es,gs,,c,,MEGA PUÑO
+mega-punch,es,rs,,e,,MEGAPUÑO
+megahorn,en,gs,,e,,MEGAHORN
+megahorn,fr,gs,,e,,MEGACORNE
+megahorn,it,gs,,e,,MEGACORNO
+megahorn,de,gs,,e,,VIELENDER
+megahorn,es,gs,,e,,MEGACUERNO
+megahorn,ko,gs,,la,,메가폰
+memento,en,rs,,e,,MEMENTO
+memento,fr,rs,,e,,SOUVENIR
+memento,it,rs,,e,,MEMENTO
+memento,de,rs,,e,,MEMENTO-MORI
+memento,es,rs,,e,,LEGADO
+metal-burst,es,dp,,b2w2,,Repr. Metal
+metal-claw,en,gs,,e,,METAL CLAW
+metal-claw,fr,gs,,e,,GRIFFE ACIER
+metal-claw,it,gs,,e,,FERRARTIGLI
+metal-claw,de,gs,,e,,METALLKLAUE
+metal-claw,es,gs,,c,,GARRA-METAL
+metal-claw,es,rs,,e,,GARRA METAL
+metal-claw,ko,gs,,la,,메탈크로우
+metal-sound,en,rs,,e,,METAL SOUND
+metal-sound,fr,rs,,e,,STRIDO-SON
+metal-sound,it,rs,,e,,FERROSTRIDO
+metal-sound,de,rs,,e,,METALLSOUND
+metal-sound,es,rs,,e,,ECO METÁLICO
+meteor-mash,en,rs,,e,,METEOR MASH
+meteor-mash,fr,rs,,e,,POING METEOR
+meteor-mash,fr,dp,,oras,,Poing Météor
+meteor-mash,it,rs,,e,,METEORPUGNO
+meteor-mash,de,rs,,e,,STERNENHIEB
+meteor-mash,es,rs,,e,,PUÑO METEORO
+metronome,en,rb,,e,,METRONOME
+metronome,fr,rb,,e,,METRONOME
+metronome,it,rb,,e,,METRONOMO
+metronome,de,rb,,e,,METRONOM
+metronome,es,rb,,e,,METRÓNOMO
+milk-drink,en,gs,,e,,MILK DRINK
+milk-drink,fr,gs,,e,,LAIT A BOIRE
+milk-drink,it,gs,,e,,BUONLATTE
+milk-drink,de,gs,,e,,MILCHGETRÄNK
+milk-drink,es,gs,,e,,BATIDO
+milk-drink,ko,gs,,gs,,우유 마시기
+mimic,en,rb,,e,,MIMIC
+mimic,fr,rb,,e,,COPIE
+mimic,it,rb,,e,,MIMICA
+mimic,de,rb,,e,,MIMIKRY
+mimic,es,rb,,e,,MIMÉTICO
+mind-reader,en,gs,,e,,MIND READER
+mind-reader,fr,gs,,e,,LIRE-ESPRIT
+mind-reader,it,gs,,e,,LEGGIMENTE
+mind-reader,de,gs,,e,,WILLENSLESER
+mind-reader,es,gs,,e,,TELÉPATA
+mind-reader,ko,gs,,gs,,마음의 눈
+minimize,en,rb,,e,,MINIMIZE
+minimize,fr,rb,,e,,LILLIPUT
+minimize,it,rb,,c,,MINIMIZZ.
+minimize,it,rs,,e,,MINIMIZZATO
+minimize,de,rb,,e,,KOMPRIMATOR
+minimize,es,rb,,e,,REDUCCIÓN
+miracle-eye,fr,dp,,hgss,,Oeil Miracle
+mirror-coat,en,gs,,e,,MIRROR COAT
+mirror-coat,fr,gs,,e,,VOILE MIROIR
+mirror-coat,it,gs,,e,,SPECCHIOVELO
+mirror-coat,de,gs,,e,,SPIEGELCAPE
+mirror-coat,es,gs,,e,,MANTO ESPEJO
+mirror-move,en,rb,,e,,MIRROR MOVE
+mirror-move,fr,rb,,e,,MIMIQUE
+mirror-move,it,rb,,e,,SPECULMOSSA
+mirror-move,de,rb,,e,,SPIEGELTRICK
+mirror-move,es,rb,,e,,MOV. ESPEJO
+mirror-move,es,dp,,lgpe,,Mov. Espejo
+mirror-shot,es,dp,,b2w2,,Disp. Espejo
+mirror-shot,ko,dp,,la,,미러숏
+mist,en,rb,,e,,MIST
+mist,fr,rb,,e,,BRUME
+mist,it,rb,,e,,NEBBIA
+mist,de,rb,,e,,WEISSNEBEL
+mist,es,rb,,e,,NEBLINA
+mist-ball,en,rs,,e,,MIST BALL
+mist-ball,fr,rs,,e,,BALL’BRUME
+mist-ball,it,rs,,e,,FOSCHISFERA
+mist-ball,de,rs,,e,,NEBELBALL
+mist-ball,es,rs,,e,,BOLA NEBLINA
+moonlight,en,gs,,e,,MOONLIGHT
+moonlight,fr,gs,,e,,RAYON LUNE
+moonlight,it,gs,,e,,LUCELUNARE
+moonlight,de,gs,,e,,MONDSCHEIN
+moonlight,es,gs,,e,,LUZ LUNAR
+moonlight,ko,gs,,la,,달의불빛
+morning-sun,en,gs,,e,,MORNING SUN
+morning-sun,fr,gs,,e,,AURORE
+morning-sun,it,gs,,e,,MATTINDORO
+morning-sun,de,gs,,e,,MORGENGRAUEN
+morning-sun,es,gs,,e,,SOL MATINAL
+mud-shot,en,rs,,e,,MUD SHOT
+mud-shot,fr,rs,,e,,TIR DE BOUE
+mud-shot,it,rs,,e,,COLPODIFANGO
+mud-shot,de,rs,,e,,LEHMSCHUSS
+mud-shot,es,rs,,e,,DISP. LODO
+mud-shot,es,dp,,b2w2,,Disp. Lodo
+mud-shot,ko,dp,,la,,머드숏
+mud-slap,en,gs,,e,,MUD-SLAP
+mud-slap,fr,gs,,e,,COUD’BOUE
+mud-slap,it,gs,,e,,FANGOSBERLA
+mud-slap,de,gs,,e,,LEHMSCHELLE
+mud-slap,es,gs,,c,,BOFETÓN-LODO
+mud-slap,es,rs,,e,,BOFETÓN LODO
+mud-slap,ko,gs,,gs,,진흙 뿌리기
+mud-sport,en,rs,,e,,MUD SPORT
+mud-sport,fr,rs,,e,,LANCE-BOUE
+mud-sport,it,rs,,e,,FANGATA
+mud-sport,de,rs,,e,,LEHMSUHLER
+mud-sport,es,rs,,e,,CHAPOTEOLODO
+mud-sport,es,dp,,b2w2,,Chapoteolodo
+muddy-water,en,rs,,e,,MUDDY WATER
+muddy-water,fr,rs,,e,,OCROUPI
+muddy-water,it,rs,,e,,FANGHIGLIA
+muddy-water,de,rs,,e,,LEHMBRÜHE
+muddy-water,es,rs,,e,,AGUA LODOSA
+nature-power,en,rs,,e,,NATURE POWER
+nature-power,fr,rs,,e,,FORCE-NATURE
+nature-power,fr,dp,,lgpe,,Force-Nature
+nature-power,it,rs,,e,,NATURFORZA
+nature-power,de,rs,,e,,NATUR-KRAFT
+nature-power,es,rs,,e,,ADAPTACIÓN
+needle-arm,en,rs,,e,,NEEDLE ARM
+needle-arm,fr,rs,,e,,POING DARD
+needle-arm,it,rs,,e,,PUGNOSPINE
+needle-arm,de,rs,,e,,NIETENRANKE
+needle-arm,es,rs,,e,,BRAZO PINCHO
+night-shade,en,rb,,e,,NIGHT SHADE
+night-shade,fr,rb,,e,,TENEBRES
+night-shade,fr,dp,,b2w2,,Ténèbres
+night-shade,it,rb,,e,,OMBRA NOTT.
+night-shade,it,dp,,b2w2,,Ombra Nott.
+night-shade,de,rb,,e,,NACHTNEBEL
+night-shade,es,rb,,e,,TINIEBLAS
+nightmare,en,gs,,e,,NIGHTMARE
+nightmare,fr,gs,,e,,CAUCHEMAR
+nightmare,it,gs,,e,,INCUBO
+nightmare,de,gs,,e,,NACHTMAHR
+nightmare,es,gs,,e,,PESADILLA
+oblivion-wing,fr,xy,,lgpe,,Mort-Ailes
+oblivion-wing,zh-simp,sm,,ss,,死亡之翼
+octazooka,en,gs,,e,,OCTAZOOKA
+octazooka,fr,gs,,e,,OCTAZOOKA
+octazooka,it,gs,,e,,OCTAZOOKA
+octazooka,de,gs,,e,,OCTAZOOKA
+octazooka,es,gs,,e,,PULPOCAÑÓN
+odor-sleuth,en,rs,,e,,ODOR SLEUTH
+odor-sleuth,fr,rs,,e,,FLAIR
+odor-sleuth,it,rs,,e,,SEGUGIO
+odor-sleuth,de,rs,,e,,SCHNÜFFLER
+odor-sleuth,es,rs,,e,,RASTREO
+ominous-wind,es,dp,,b2w2,,Vien. Aciago
+outrage,en,gs,,e,,OUTRAGE
+outrage,fr,gs,,e,,COLERE
+outrage,it,gs,,e,,OLTRAGGIO
+outrage,de,gs,,e,,WUTANFALL
+outrage,es,gs,,e,,ENFADO
+overheat,en,rs,,e,,OVERHEAT
+overheat,fr,rs,,e,,SURCHAUFFE
+overheat,it,rs,,e,,VAMPATA
+overheat,de,rs,,e,,HITZEKOLLER
+overheat,es,rs,,e,,SOFOCO
+pain-split,en,gs,,e,,PAIN SPLIT
+pain-split,fr,gs,,e,,BALANCE
+pain-split,it,gs,,e,,MALCOMUNE
+pain-split,de,gs,,e,,LEIDTEILER
+pain-split,es,gs,,e,,DIVIDE DOLOR
+pay-day,en,rb,,e,,PAY DAY
+pay-day,fr,rb,,e,,JACKPOT
+pay-day,it,rb,,c,,GIORNO-PAGA
+pay-day,it,rs,,e,,GIORNOPAGA
+pay-day,de,rb,,e,,ZAHLTAG
+pay-day,es,rb,,y,,DíA DE PAGO
+pay-day,es,gs,,e,,DÍA DE PAGO
+peck,en,rb,,e,,PECK
+peck,fr,rb,,e,,PICPIC
+peck,it,rb,,e,,BECCATA
+peck,de,rb,,e,,SCHNABEL
+peck,de,dp,,lgpe,,Schnabel
+peck,es,rb,,e,,PICOTAZO
+perish-song,en,gs,,e,,PERISH SONG
+perish-song,fr,gs,,e,,REQUIEM
+perish-song,it,gs,,e,,ULTIMOCANTO
+perish-song,de,gs,,e,,ABGESANG
+perish-song,es,gs,,e,,CANTO MORTAL
+perish-song,ko,gs,,gs,,멸망의 노래
+perish-song,zh-simp,sm,,ss,,灭亡之歌
+petal-dance,en,rb,,e,,PETAL DANCE
+petal-dance,fr,rb,,e,,DANSE-FLEUR
+petal-dance,fr,dp,,lgpe,,Danse-Fleur
+petal-dance,it,rb,,e,,PETALODANZA
+petal-dance,de,rb,,e,,BLÄTTERTANZ
+petal-dance,es,rb,,e,,DANZA PÉTALO
+pin-missile,en,rb,,e,,PIN MISSILE
+pin-missile,fr,rb,,e,,DARD-NUEE
+pin-missile,it,rb,,e,,MISSILSPILLO
+pin-missile,de,rb,,e,,NADELRAKETE
+pin-missile,es,rb,,e,,PIN MISIL
+poison-fang,en,rs,,e,,POISON FANG
+poison-fang,fr,rs,,e,,CROCHETVENIN
+poison-fang,fr,dp,,b2w2,,Crochetvenin
+poison-fang,it,rs,,e,,VELENODENTI
+poison-fang,de,rs,,e,,GIFTZAHN
+poison-fang,es,rs,,e,,COLMILLO VEN
+poison-fang,es,dp,,lgpe,,Colmillo Ven
+poison-fang,ko,dp,,la,,독엄니
+poison-gas,en,rb,,e,,POISON GAS
+poison-gas,fr,rb,,e,,GAZ TOXIK
+poison-gas,it,rb,,e,,VELENOGAS
+poison-gas,de,rb,,e,,GIFTWOLKE
+poison-gas,es,rb,,e,,GAS VENENOSO
+poison-powder,en,rb,,e,,POISONPOWDER
+poison-powder,en,dp,,b2w2,,PoisonPowder
+poison-powder,fr,rb,,e,,POUDRE TOXIK
+poison-powder,it,rb,,e,,VELENPOLVERE
+poison-powder,de,rb,,e,,GIFTPUDER
+poison-powder,es,rb,,e,,POLVO VENENO
+poison-sting,en,rb,,e,,POISON STING
+poison-sting,fr,rb,,e,,DARD-VENIN
+poison-sting,it,rb,,e,,VELENOSPINA
+poison-sting,de,rb,,e,,GIFTSTACHEL
+poison-sting,es,rb,,y,,PICOTAZO VEN.
+poison-sting,es,gs,,e,,PICOTAZO VEN
+poison-sting,es,dp,,lgpe,,Picotazo Ven
+poison-tail,en,rs,,e,,POISON TAIL
+poison-tail,fr,rs,,e,,QUEUE-POISON
+poison-tail,it,rs,,e,,VELENOCODA
+poison-tail,de,rs,,e,,GIFTSCHWEIF
+poison-tail,es,rs,,e,,COLA VENENO
+pound,en,rb,,e,,POUND
+pound,fr,rb,,e,,ECRAS’FACE
+pound,fr,dp,,hgss,,Ecras’Face
+pound,it,rb,,c,,LIBBRA
+pound,it,rs,,e,,BOTTA
+pound,de,rb,,e,,PFUND
+pound,de,dp,,lgpe,,Pfund
+pound,es,rb,,e,,DESTRUCTOR
+powder-snow,en,gs,,e,,POWDER SNOW
+powder-snow,fr,gs,,e,,POUDREUSE
+powder-snow,it,gs,,e,,POLNEVE
+powder-snow,de,gs,,e,,PULVERSCHNEE
+powder-snow,es,gs,,e,,NIEVE POLVO
+power-split,fr,bw,,b2w2,,PartageForce
+power-swap,es,dp,,b2w2,,Cambia Fue.
+power-swap,es,xy,,lgpe,,Cambia Fuerza
+power-swap,ko,dp,,la,,파워스웹
+present,en,gs,,e,,PRESENT
+present,fr,gs,,e,,CADEAU
+present,it,gs,,e,,REGALINO
+present,de,gs,,e,,GESCHENK
+present,es,gs,,e,,PRESENTE
+protect,en,gs,,e,,PROTECT
+protect,fr,gs,,e,,ABRI
+protect,it,gs,,e,,PROTEZIONE
+protect,de,gs,,e,,SCHUTZSCHILD
+protect,es,gs,,e,,PROTECCIÓN
+psybeam,en,rb,,e,,PSYBEAM
+psybeam,fr,rb,,e,,RAFALE PSY
+psybeam,it,rb,,e,,PSICORAGGIO
+psybeam,de,rb,,e,,PSYSTRAHL
+psybeam,es,rb,,c,,PSICO-RAYO
+psybeam,es,rs,,e,,PSICORRAYO
+psych-up,en,gs,,e,,PSYCH UP
+psych-up,fr,gs,,e,,BOOST
+psych-up,it,gs,,e,,PSICAMISÙ
+psych-up,de,gs,,e,,PSYCHO-PLUS
+psych-up,es,gs,,e,,MÁS PSIQUE
+psych-up,es,dp,,la,,Más Psique
+psychic,en,rb,,e,,PSYCHIC
+psychic,fr,rb,,e,,PSYKO
+psychic,it,rb,,e,,PSICHICO
+psychic,de,rb,,e,,PSYCHOKINESE
+psychic,es,rb,,e,,PSÍQUICO
+psycho-boost,en,rs,,e,,PSYCHO BOOST
+psycho-boost,fr,rs,,e,,PSYCHO BOOST
+psycho-boost,fr,dp,,lgpe,,Psycho Boost
+psycho-boost,it,rs,,e,,PSICOSLANCIO
+psycho-boost,de,rs,,e,,PSYSCHUB
+psycho-boost,es,rs,,e,,PSICOATAQUE
+psycho-cut,es,dp,,b2w2,,Psico-corte
+psycho-shift,fr,dp,,hgss,,Echange Psy
+psycho-shift,it,dp,,ss,base,Psicotrasfer
+psycho-shift,es,dp,,b2w2,,Psico-cambio
+psywave,en,rb,,e,,PSYWAVE
+psywave,fr,rb,,e,,VAGUE PSY
+psywave,it,rb,,c,,PSICO-ONDA
+psywave,it,rs,,e,,PSICONDA
+psywave,de,rb,,e,,PSYWELLE
+psywave,es,rb,,c,,PSICO-ONDA
+psywave,es,rs,,e,,PSICOONDA
+pursuit,en,gs,,e,,PURSUIT
+pursuit,fr,gs,,e,,POURSUITE
+pursuit,it,gs,,e,,INSEGUIMENTO
+pursuit,de,gs,,e,,VERFOLGUNG
+pursuit,es,gs,,e,,PERSECUCIÓN
+quick-attack,en,rb,,e,,QUICK ATTACK
+quick-attack,fr,rb,,e,,VIVE-ATTAQUE
+quick-attack,it,rb,,e,,ATT. RAPIDO
+quick-attack,it,dp,,b2w2,,Att. Rapido
+quick-attack,de,rb,,e,,RUCKZUCKHIEB
+quick-attack,es,rb,,y,,ATA. RÁPIDO
+quick-attack,es,gs,,e,,AT. RÁPIDO
+quick-attack,es,dp,,b2w2,,At. Rápido
+quick-guard,ko,bw,,la,,퍼스트가드
+rage,en,rb,,e,,RAGE
+rage,fr,rb,,e,,FRENESIE
+rage,it,rb,,e,,IRA
+rage,de,rb,,e,,RASEREI
+rage,es,rb,,e,,FURIA
+rage-powder,fr,bw,,b2w2,,PoudreFureur
+rain-dance,en,gs,,e,,RAIN DANCE
+rain-dance,fr,gs,,e,,DANSE PLUIE
+rain-dance,it,gs,,e,,PIOGGIADANZA
+rain-dance,de,gs,,e,,REGENTANZ
+rain-dance,es,gs,,e,,DANZA LLUVIA
+rapid-spin,en,gs,,e,,RAPID SPIN
+rapid-spin,fr,gs,,e,,TOUR RAPIDE
+rapid-spin,it,gs,,e,,RAPIGIRO
+rapid-spin,de,gs,,e,,TURBODREHER
+rapid-spin,es,gs,,e,,GIRO RÁPIDO
+razor-leaf,en,rb,,e,,RAZOR LEAF
+razor-leaf,fr,rb,,e,,TRANCH’HERBE
+razor-leaf,it,rb,,e,,FOGLIELAMA
+razor-leaf,de,rb,,e,,RASIERBLATT
+razor-leaf,es,rb,,e,,HOJA AFILADA
+razor-shell,fr,bw,,lgpe,,Coquilame
+razor-wind,en,rb,,e,,RAZOR WIND
+razor-wind,fr,rb,,e,,COUPE-VENT
+razor-wind,it,rb,,e,,VENTAGLIENTE
+razor-wind,de,rb,,e,,KLINGENSTURM
+razor-wind,es,rb,,e,,V. CORTANTE
+razor-wind,es,dp,,b2w2,,V. Cortante
+recover,en,rb,,e,,RECOVER
+recover,fr,rb,,e,,SOIN
+recover,it,rb,,e,,RIPRESA
+recover,de,rb,,e,,GENESUNG
+recover,es,rb,,e,,RECUPERACIÓN
+recover,ko,gs,,gs,,HP 회복
+recycle,en,rs,,e,,RECYCLE
+recycle,fr,rs,,e,,RECYCLAGE
+recycle,it,rs,,e,,RICICLO
+recycle,de,rs,,e,,AUFBEREITUNG
+recycle,es,rs,,e,,RECICLAJE
+reflect,en,rb,,e,,REFLECT
+reflect,fr,rb,,e,,PROTECTION
+reflect,it,rb,,e,,RIFLESSO
+reflect,de,rb,,e,,REFLEKTOR
+reflect,es,rb,,e,,REFLEJO
+reflect-type,fr,bw,,lgpe,,Copie Type
+refresh,en,rs,,e,,REFRESH
+refresh,fr,rs,,e,,REGENERATION
+refresh,it,rs,,e,,RINFRESCATA
+refresh,de,rs,,e,,HEILUNG
+refresh,es,rs,,e,,ALIVIO
+refresh,ko,dp,,la,,리프레쉬
+relic-song,fr,bw,,b2w2,,ChantAntique
+relic-song,es,bw,,b2w2,,Cantoarcaico
+rest,en,rb,,e,,REST
+rest,fr,rb,,e,,REPOS
+rest,it,rb,,e,,RIPOSO
+rest,de,rb,,e,,ERHOLUNG
+rest,es,rb,,e,,DESCANSO
+return,en,gs,,e,,RETURN
+return,fr,gs,,e,,RETOUR
+return,it,gs,,e,,RITORNO
+return,de,gs,,e,,RÜCKKEHR
+return,es,gs,,e,,RETROCESO
+return,es,dp,,b2w2,,Retroceso
+revenge,en,rs,,e,,REVENGE
+revenge,fr,rs,,e,,VENDETTA
+revenge,it,rs,,e,,VENDETTA
+revenge,de,rs,,e,,VERGELTUNG
+revenge,es,rs,,e,,DESQUITE
+reversal,en,gs,,e,,REVERSAL
+reversal,fr,gs,,e,,CONTRE
+reversal,it,gs,,e,,CONTROPIEDE
+reversal,de,gs,,e,,GEGENSCHLAG
+reversal,es,gs,,e,,INVERSIÓN
+reversal,zh-simp,sm,,ss,,起死回生
+roar,en,rb,,e,,ROAR
+roar,fr,rb,,e,,HURLEMENT
+roar,it,rb,,e,,BOATO
+roar,de,rb,,e,,BRÜLLER
+roar,es,rb,,e,,RUGIDO
+rock-blast,en,rs,,e,,ROCK BLAST
+rock-blast,fr,rs,,e,,BOULE ROC
+rock-blast,it,rs,,e,,CADUTAMASSI
+rock-blast,de,rs,,e,,FELSWURF
+rock-blast,es,rs,,e,,PEDRADA
+rock-blast,ko,dp,,la,,락블레스트
+rock-climb,ko,dp,,la,,락클라임
+rock-slide,en,rb,,e,,ROCK SLIDE
+rock-slide,fr,rb,,e,,EBOULEMENT
+rock-slide,fr,dp,,hgss,,Eboulement
+rock-slide,it,rb,,e,,FRANA
+rock-slide,de,rb,,e,,STEINHAGEL
+rock-slide,es,rb,,e,,AVALANCHA
+rock-smash,en,gs,,e,,ROCK SMASH
+rock-smash,fr,gs,,e,,ECLATE-ROC
+rock-smash,fr,dp,,hgss,,Eclate-Roc
+rock-smash,it,gs,,e,,SPACCAROCCIA
+rock-smash,de,gs,,e,,ZERTRÜMMERER
+rock-smash,es,gs,,e,,GOLPE ROCA
+rock-throw,en,rb,,e,,ROCK THROW
+rock-throw,fr,rb,,e,,JET-PIERRES
+rock-throw,it,rb,,e,,SASSATA
+rock-throw,de,rb,,e,,STEINWURF
+rock-throw,es,rb,,c,,LANZA ROCAS
+rock-throw,es,rs,,e,,LANZARROCAS
+rock-tomb,en,rs,,e,,ROCK TOMB
+rock-tomb,fr,rs,,e,,TOMBEROCHE
+rock-tomb,it,rs,,e,,ROCCIOTOMBA
+rock-tomb,de,rs,,e,,FELSGRAB
+rock-tomb,es,rs,,e,,TUMBA ROCAS
+role-play,en,rs,,e,,ROLE PLAY
+role-play,fr,rs,,e,,IMITATION
+role-play,it,rs,,e,,GIOCODIRUOLO
+role-play,de,rs,,e,,ROLLENTAUSCH
+role-play,de,dp,,lgpe,,Rollentausch
+role-play,es,rs,,e,,IMITACIÓN
+rolling-kick,en,rb,,e,,ROLLING KICK
+rolling-kick,fr,rb,,e,,MAWASHI GERI
+rolling-kick,it,rb,,c,,CALCIO-RULLO
+rolling-kick,it,rs,,e,,CALCIORULLO
+rolling-kick,de,rb,,e,,FEGEKICK
+rolling-kick,es,rb,,e,,PATADA GIRO
+rollout,en,gs,,e,,ROLLOUT
+rollout,fr,gs,,e,,ROULADE
+rollout,it,gs,,e,,ROTOLAMENTO
+rollout,de,gs,,e,,WALZER
+rollout,es,gs,,e,,DESENROLLAR
+rollout,es,dp,,lgpe,,Desenrollar
+sacred-fire,en,gs,,e,,SACRED FIRE
+sacred-fire,fr,gs,,e,,FEU SACRE
+sacred-fire,it,gs,,e,,MAGIFUOCO
+sacred-fire,de,gs,,e,,LÄUTERFEUER
+sacred-fire,es,gs,,e,,FUEGOSAGRADO
+sacred-fire,es,dp,,b2w2,,Fuegosagrado
+sacred-fire,ko,gs,,gs,,성스러운 불꽃
+sacred-sword,es,bw,,b2w2,,Espadasanta
+safeguard,en,gs,,e,,SAFEGUARD
+safeguard,fr,gs,,e,,RUNE PROTECT
+safeguard,it,gs,,e,,SALVAGUARDIA
+safeguard,de,gs,,e,,BODYGUARD
+safeguard,es,gs,,e,,VELO SAGRADO
+safeguard,ko,gs,,gs,,신비의 부적
+sand-attack,en,rb,,e,,SAND-ATTACK
+sand-attack,en,dp,,b2w2,,Sand-Attack
+sand-attack,fr,rb,,e,,JET DE SABLE
+sand-attack,it,rb,,e,,TURBOSABBIA
+sand-attack,de,rb,,e,,SANDWIRBEL
+sand-attack,es,rb,,y,,ATAQUE-ARENA
+sand-attack,es,gs,,e,,ATAQUE ARENA
+sand-tomb,en,rs,,e,,SAND TOMB
+sand-tomb,fr,rs,,e,,TOURBI-SABLE
+sand-tomb,it,rs,,e,,SABBIOTOMBA
+sand-tomb,de,rs,,e,,SANDGRAB
+sand-tomb,es,rs,,e,,BUCLE ARENA
+sand-tomb,zh-simp,sm,,ss,,流沙地狱
+sandstorm,en,gs,,e,,SANDSTORM
+sandstorm,fr,gs,,e,,TEMPETESABLE
+sandstorm,fr,dp,,b2w2,,Tempêtesable
+sandstorm,it,gs,,e,,TERREMPESTA
+sandstorm,de,gs,,e,,SANDSTURM
+sandstorm,es,gs,,e,,TORM. ARENA
+sandstorm,es,dp,,b2w2,,Torm. Arena
+sappy-seed,zh-simp,lgpe,,ss,,茁茁轰炸
+scary-face,en,gs,,e,,SCARY FACE
+scary-face,fr,gs,,e,,GRIMACE
+scary-face,it,gs,,e,,VISOTRUCE
+scary-face,de,gs,,e,,GRIMASSE
+scary-face,es,gs,,e,,CARA SUSTO
+scary-face,ko,gs,,gs,,겁나는 얼굴
+scary-face,zh-simp,sm,,ss,,鬼面
+scratch,en,rb,,e,,SCRATCH
+scratch,fr,rb,,e,,GRIFFE
+scratch,it,rb,,e,,GRAFFIO
+scratch,de,rb,,e,,KRATZER
+scratch,es,rb,,y,,ARAñAZO
+scratch,es,gs,,e,,ARAÑAZO
+screech,en,rb,,e,,SCREECH
+screech,fr,rb,,e,,GRINCEMENT
+screech,it,rb,,e,,STRIDIO
+screech,de,rb,,e,,KREIDESCHREI
+screech,es,rb,,e,,CHIRRIDO
+secret-power,en,rs,,e,,SECRET POWER
+secret-power,fr,rs,,e,,FORCE CACHEE
+secret-power,it,rs,,e,,FORZASEGRETA
+secret-power,de,rs,,e,,GEHEIMPOWER
+secret-power,es,rs,,e,,DAÑO SECRETO
+secret-sword,es,bw,,b2w2,,Sablemístico
+seed-flare,es,dp,,la,,Fogonazo
+seismic-toss,en,rb,,e,,SEISMIC TOSS
+seismic-toss,fr,rb,,e,,FRAPPE ATLAS
+seismic-toss,it,rb,,e,,MOV. SISMICO
+seismic-toss,it,dp,,b2w2,,Mov. Sismico
+seismic-toss,de,rb,,e,,GEOWURF
+seismic-toss,es,rb,,e,,MOV. SÍSMICO
+seismic-toss,es,dp,,lgpe,,Mov. Sísmico
+self-destruct,en,rb,,e,,SELFDESTRUCT
+self-destruct,en,dp,,b2w2,,Selfdestruct
+self-destruct,fr,rb,,e,,DESTRUCTION
+self-destruct,it,rb,,e,,AUTODISTRUZ.
+self-destruct,it,dp,,b2w2,,Autodistruz.
+self-destruct,de,rb,,e,,FINALE
+self-destruct,es,rb,,y,,AUTODESTRUC.
+self-destruct,es,gs,,e,,AUTODESTRUC
+self-destruct,es,dp,,b2w2,,Autodestruc
+self-destruct,zh-simp,sm,,ss,,自爆
+shadow-ball,en,gs,,e,,SHADOW BALL
+shadow-ball,fr,gs,,e,,BALL’OMBRE
+shadow-ball,it,gs,,e,,PALLA OMBRA
+shadow-ball,de,gs,,e,,SPUKBALL
+shadow-ball,es,gs,,e,,BOLA SOMBRA
+shadow-ball,ko,gs,,gs,,새도우볼
+shadow-bone,fr,sm,,lgpe,,Os’Ombre
+shadow-claw,ko,dp,,la,,섀도크루
+shadow-punch,en,rs,,e,,SHADOW PUNCH
+shadow-punch,fr,rs,,e,,POING OMBRE
+shadow-punch,it,rs,,e,,PUGNODOMBRA
+shadow-punch,de,rs,,e,,FINSTERFAUST
+shadow-punch,es,rs,,e,,PUÑO SOMBRA
+sharpen,en,rb,,e,,SHARPEN
+sharpen,fr,rb,,e,,AFFUTAGE
+sharpen,it,rb,,e,,AFFILATORE
+sharpen,de,rb,,e,,SCHÄRFER
+sharpen,es,rb,,e,,AFILAR
+sheer-cold,en,rs,,e,,SHEER COLD
+sheer-cold,fr,rs,,e,,GLACIATION
+sheer-cold,it,rs,,e,,PUROGELO
+sheer-cold,de,rs,,e,,EISESKÄLTE
+sheer-cold,es,rs,,e,,FRÍO POLAR
+shift-gear,fr,bw,,la,,Chgt Vitesse
+shift-gear,es,bw,,b2w2,,Cambiomarcha
+shift-gear,zh-simp,sm,,usum,,换挡
+shock-wave,en,rs,,e,,SHOCK WAVE
+shock-wave,fr,rs,,e,,ONDE DE CHOC
+shock-wave,it,rs,,e,,ONDASHOCK
+shock-wave,de,rs,,e,,SCHOCKWELLE
+shock-wave,es,rs,,e,,ONDA VOLTIO
+signal-beam,en,rs,,e,,SIGNAL BEAM
+signal-beam,fr,rs,,e,,RAYON SIGNAL
+signal-beam,it,rs,,e,,SEGNORAGGIO
+signal-beam,de,rs,,e,,AMPELLEUCHTE
+signal-beam,es,rs,,e,,DOBLE RAYO
+signal-beam,es,dp,,la,,Doble Rayo
+silver-wind,en,rs,,e,,SILVER WIND
+silver-wind,fr,rs,,e,,VENT ARGENTE
+silver-wind,it,rs,,e,,VENTARGENTEO
+silver-wind,de,rs,,e,,SILBERHAUCH
+silver-wind,es,rs,,e,,VIENTO PLATA
+sing,en,rb,,e,,SING
+sing,fr,rb,,e,,BERCEUSE
+sing,it,rb,,e,,CANTO
+sing,de,rb,,e,,GESANG
+sing,es,rb,,e,,CANTO
+sketch,en,gs,,e,,SKETCH
+sketch,fr,gs,,e,,GRIBOUILLE
+sketch,it,gs,,e,,SCHIZZO
+sketch,de,gs,,e,,NACHAHMER
+sketch,es,gs,,e,,ESQUEMA
+skill-swap,en,rs,,e,,SKILL SWAP
+skill-swap,fr,rs,,e,,ECHANGE
+skill-swap,fr,dp,,hgss,,Echange
+skill-swap,it,rs,,e,,BARATTO
+skill-swap,de,rs,,e,,WERTEWECHSEL
+skill-swap,de,dp,,lgpe,,Wertewechsel
+skill-swap,es,rs,,e,,INTERCAMBIO
+skill-swap,ko,dp,,la,,스킬스웹
+skull-bash,en,rb,,e,,SKULL BASH
+skull-bash,fr,rb,,e,,COUD’KRANE
+skull-bash,it,rb,,e,,CAPOCCIATA
+skull-bash,de,rb,,e,,SCHÄDELWUMME
+skull-bash,es,rb,,e,,CABEZAZO
+skull-bash,ko,gs,,la,,로케트박치기
+sky-attack,en,rb,,e,,SKY ATTACK
+sky-attack,fr,rb,,e,,PIQUE
+sky-attack,fr,dp,,b2w2,,Pique
+sky-attack,it,rb,,e,,AEROATTACCO
+sky-attack,de,rb,,e,,HIMMELSFEGER
+sky-attack,es,rb,,e,,ATAQUE AÉREO
+sky-uppercut,en,rs,,e,,SKY UPPERCUT
+sky-uppercut,fr,rs,,e,,STRATOPERCUT
+sky-uppercut,it,rs,,e,,STRAMONTANTE
+sky-uppercut,de,rs,,e,,HIMMELHIEB
+sky-uppercut,es,rs,,e,,GANCHO ALTO
+sky-uppercut,ko,dp,,la,,스카이업퍼
+slack-off,en,rs,,e,,SLACK OFF
+slack-off,fr,rs,,e,,PARESSE
+slack-off,it,rs,,e,,PIGRO
+slack-off,de,rs,,e,,TAGEDIEB
+slack-off,es,rs,,e,,RELAJO
+slack-off,ko,dp,,la,,태만함
+slam,en,rb,,e,,SLAM
+slam,fr,rb,,e,,SOUPLESSE
+slam,it,rb,,e,,SCHIANTO
+slam,de,rb,,e,,SLAM
+slam,es,rb,,e,,PORTAZO
+slam,es,dp,,b2w2,,Portazo
+slash,en,rb,,e,,SLASH
+slash,fr,rb,,e,,TRANCHE
+slash,it,rb,,e,,LACERAZIONE
+slash,de,rb,,e,,SCHLITZER
+slash,es,rb,,e,,CUCHILLADA
+sleep-powder,en,rb,,e,,SLEEP POWDER
+sleep-powder,fr,rb,,e,,POUDRE DODO
+sleep-powder,it,rb,,e,,SONNIFERO
+sleep-powder,de,rb,,e,,SCHLAFPUDER
+sleep-powder,es,rb,,e,,SOMNÍFERO
+sleep-talk,en,gs,,e,,SLEEP TALK
+sleep-talk,fr,gs,,e,,BLABLA DODO
+sleep-talk,it,gs,,e,,SONNOLALIA
+sleep-talk,de,gs,,e,,SCHLAFREDE
+sleep-talk,es,gs,,e,,SONÁMBULO
+sludge,en,rb,,e,,SLUDGE
+sludge,fr,rb,,e,,DETRITUS
+sludge,it,rb,,e,,FANGO
+sludge,de,rb,,e,,SCHLAMMBAD
+sludge,es,rb,,e,,RESIDUOS
+sludge-bomb,en,gs,,e,,SLUDGE BOMB
+sludge-bomb,fr,gs,,e,,BOMB-BEURK
+sludge-bomb,fr,dp,,lgpe,,Bomb-Beurk
+sludge-bomb,it,gs,,e,,FANGOBOMBA
+sludge-bomb,de,gs,,e,,MATSCHBOMBE
+sludge-bomb,es,gs,,e,,BOMBA LODO
+sludge-bomb,ko,gs,,gs,,오물 폭탄
+smart-strike,ko,sm,,la,,스마트호른
+smelling-salts,en,rs,,e,,SMELLINGSALT
+smelling-salts,en,dp,,b2w2,,SmellingSalt
+smelling-salts,fr,rs,,e,,STIMULANT
+smelling-salts,it,rs,,e,,MANIEREFORTI
+smelling-salts,de,rs,,e,,RIECHSALZ
+smelling-salts,es,rs,,e,,ESTÍMULO
+smog,en,rb,,e,,SMOG
+smog,fr,rb,,e,,PUREDPOIS
+smog,it,rb,,e,,SMOG
+smog,de,rb,,e,,SMOG
+smog,es,rb,,e,,POLUCIÓN
+smokescreen,en,rb,,e,,SMOKESCREEN
+smokescreen,en,dp,,b2w2,,SmokeScreen
+smokescreen,fr,rb,,e,,BROUILLARD
+smokescreen,it,rb,,e,,MURO DI FUMO
+smokescreen,de,rb,,e,,RAUCHWOLKE
+smokescreen,es,rb,,e,,PANTALLAHUMO
+smokescreen,es,dp,,b2w2,,Pantallahumo
+snatch,en,rs,,e,,SNATCH
+snatch,fr,rs,,e,,SAISIE
+snatch,it,rs,,e,,SCIPPO
+snatch,de,rs,,e,,ÜBERNAHME
+snatch,es,rs,,e,,ROBO
+snatch,ko,dp,,la,,가로챔
+snatch,zh-simp,sm,,ss,,抢夺
+snore,en,gs,,e,,SNORE
+snore,fr,gs,,e,,RONFLEMENT
+snore,it,gs,,e,,RUSSARE
+snore,de,gs,,e,,SCHNARCHER
+snore,es,gs,,e,,RONQUIDO
+soak,es,bw,,la,,Anegar
+soft-boiled,en,rb,,e,,SOFTBOILED
+soft-boiled,en,dp,,b2w2,,Softboiled
+soft-boiled,fr,rb,,e,,E-COQUE
+soft-boiled,it,rb,,e,,COVAUOVA
+soft-boiled,de,rb,,e,,WEICHEI
+soft-boiled,es,rb,,e,,AMORTIGUADOR
+soft-boiled,es,dp,,la,,Amortiguador
+solar-beam,en,rb,,e,,SOLARBEAM
+solar-beam,en,dp,,b2w2,,SolarBeam
+solar-beam,fr,rb,,e,,LANCE-SOLEIL
+solar-beam,it,rb,,e,,SOLARRAGGIO
+solar-beam,de,rb,,e,,SOLARSTRAHL
+solar-beam,es,rb,,e,,RAYO SOLAR
+sonic-boom,en,rb,,e,,SONICBOOM
+sonic-boom,en,dp,,b2w2,,SonicBoom
+sonic-boom,fr,rb,,e,,SONICBOOM
+sonic-boom,fr,dp,,lgpe,,Sonicboom
+sonic-boom,it,rb,,e,,SONICBOOM
+sonic-boom,de,rb,,e,,ULTRASCHALL
+sonic-boom,es,rb,,e,,BOMBA SÓNICA
+spark,en,gs,,e,,SPARK
+spark,fr,gs,,e,,ETINCELLE
+spark,fr,dp,,hgss,,Etincelle
+spark,it,gs,,e,,SCINTILLA
+spark,de,gs,,e,,FUNKENSPRUNG
+spark,es,gs,,e,,CHISPA
+speed-swap,es,sm,,lgpe,,Cambia Velocidad
+speed-swap,ko,sm,,la,,스피드스웹
+spider-web,en,gs,,e,,SPIDER WEB
+spider-web,fr,gs,,e,,TOILE
+spider-web,it,gs,,e,,RAGNATELA
+spider-web,de,gs,,e,,SPINNENNETZ
+spider-web,es,gs,,e,,TELARAÑA
+spike-cannon,en,rb,,e,,SPIKE CANNON
+spike-cannon,fr,rb,,e,,PICANON
+spike-cannon,it,rb,,e,,SPARALANCE
+spike-cannon,de,rb,,e,,DORNKANONE
+spike-cannon,es,rb,,y,,CLAVO CAñÓN
+spike-cannon,es,gs,,e,,CLAVO CAÑÓN
+spikes,en,gs,,e,,SPIKES
+spikes,fr,gs,,e,,PICOTS
+spikes,it,gs,,e,,PUNTE
+spikes,de,gs,,e,,STACHLER
+spikes,es,gs,,e,,PÚAS
+spikes,ko,gs,,gs,,압정 뿌리기
+spit-up,en,rs,,e,,SPIT UP
+spit-up,fr,rs,,e,,RELACHE
+spit-up,it,rs,,e,,SFOGHENERGIA
+spit-up,de,rs,,e,,ENTFESSLER
+spit-up,es,rs,,e,,ESCUPIR
+spite,en,gs,,e,,SPITE
+spite,fr,gs,,e,,DEPIT
+spite,it,gs,,e,,DISPETTO
+spite,de,gs,,e,,GROLL
+spite,es,gs,,e,,RENCOR
+splash,en,rb,,e,,SPLASH
+splash,fr,rb,,e,,TREMPETTE
+splash,it,rb,,e,,SPLASH
+splash,de,rb,,e,,PLATSCHER
+splash,es,rb,,e,,SALPICADURA
+spore,en,rb,,e,,SPORE
+spore,fr,rb,,e,,SPORE
+spore,it,rb,,e,,SPORA
+spore,de,rb,,e,,PILZSPORE
+spore,es,rb,,e,,ESPORA
+steamroller,es,bw,,b2w2,,Rodillo Púas
+steel-wing,en,gs,,e,,STEEL WING
+steel-wing,fr,gs,,e,,AILE D’ACIER
+steel-wing,fr,dp,,lgpe,,Aile d’Acier
+steel-wing,it,gs,,e,,ALACCIAIO
+steel-wing,de,gs,,e,,STAHLFLÜGEL
+steel-wing,es,gs,,e,,ALA DE ACERO
+steel-wing,ko,gs,,gs,,강철 날개
+stockpile,en,rs,,e,,STOCKPILE
+stockpile,fr,rs,,e,,STOCKAGE
+stockpile,it,rs,,e,,ACCUMULO
+stockpile,de,rs,,e,,HORTER
+stockpile,es,rs,,e,,RESERVA
+stomp,en,rb,,e,,STOMP
+stomp,fr,rb,,e,,ECRASEMENT
+stomp,fr,dp,,hgss,,Ecrasement
+stomp,it,rb,,e,,PESTONE
+stomp,de,rb,,e,,STAMPFER
+stomp,es,rb,,e,,PISOTÓN
+stored-power,fr,bw,,b2w2,,ForceAjoutée
+stored-power,es,bw,,b2w2,,Poderreserva
+strength,en,rb,,e,,STRENGTH
+strength,fr,rb,,e,,FORCE
+strength,it,rb,,e,,FORZA
+strength,de,rb,,e,,STÄRKE
+strength,es,rb,,e,,FUERZA
+strength-sap,fr,sm,,lgpe,,Vol-Force
+string-shot,en,rb,,e,,STRING SHOT
+string-shot,fr,rb,,e,,SECRETION
+string-shot,it,rb,,e,,MILLEBAVE
+string-shot,de,rb,,e,,FADENSCHUSS
+string-shot,es,rb,,e,,DISP. DEMORA
+string-shot,es,dp,,b2w2,,Disp. Demora
+struggle,en,rb,,e,,STRUGGLE
+struggle,fr,rb,,e,,LUTTE
+struggle,it,rb,,e,,SCONTRO
+struggle,de,rb,,e,,VERZWEIFLER
+struggle,es,rb,,e,,COMBATE
+struggle,es,dp,,oras,,Combate
+stun-spore,en,rb,,e,,STUN SPORE
+stun-spore,fr,rb,,e,,PARA-SPORE
+stun-spore,it,rb,,e,,PARALIZZANTE
+stun-spore,de,rb,,e,,STACHELSPORE
+stun-spore,es,rb,,e,,PARALIZADOR
+submission,en,rb,,e,,SUBMISSION
+submission,fr,rb,,e,,SACRIFICE
+submission,it,rb,,e,,SOTTOMISS.
+submission,it,dp,,b2w2,,Sottomiss.
+submission,de,rb,,e,,ÜBERROLLER
+submission,es,rb,,e,,SUMISIÓN
+submission,zh-simp,sm,,ss,,地狱翻滚
+substitute,en,rb,,e,,SUBSTITUTE
+substitute,fr,rb,,e,,CLONAGE
+substitute,it,rb,,e,,SOSTITUTO
+substitute,de,rb,,e,,DELEGATOR
+substitute,es,rb,,e,,SUSTITUTO
+sunny-day,en,gs,,e,,SUNNY DAY
+sunny-day,fr,gs,,e,,ZENITH
+sunny-day,it,gs,,e,,GIORNODISOLE
+sunny-day,de,gs,,e,,SONNENTAG
+sunny-day,es,gs,,e,,DÍA SOLEADO
+super-fang,en,rb,,e,,SUPER FANG
+super-fang,fr,rb,,e,,CROC FATAL
+super-fang,it,rb,,e,,SUPERZANNA
+super-fang,de,rb,,e,,SUPERZAHN
+super-fang,es,rb,,y,,SUPER DIENTE
+super-fang,es,gs,,c,,SÚPER DIENTE
+super-fang,es,rs,,e,,SUPERDIENTE
+superpower,en,rs,,e,,SUPERPOWER
+superpower,fr,rs,,e,,SURPUISSANCE
+superpower,it,rs,,e,,TROPPOFORTE
+superpower,de,rs,,e,,KRAFTKOLOSS
+superpower,es,rs,,e,,FUERZA BRUTA
+supersonic,en,rb,,e,,SUPERSONIC
+supersonic,fr,rb,,e,,ULTRASON
+supersonic,it,rb,,e,,SUPERSUONO
+supersonic,de,rb,,e,,SUPERSCHALL
+supersonic,es,rb,,e,,SUPERSÓNICO
+surf,en,rb,,e,,SURF
+surf,fr,rb,,e,,SURF
+surf,it,rb,,e,,SURF
+surf,de,rb,,e,,SURFER
+surf,es,rb,,e,,SURF
+swagger,en,gs,,e,,SWAGGER
+swagger,fr,gs,,e,,VANTARDISE
+swagger,it,gs,,e,,BULLO
+swagger,de,gs,,e,,ANGEBEREI
+swagger,es,gs,,e,,CONTONEO
+swallow,en,rs,,e,,SWALLOW
+swallow,fr,rs,,e,,AVALE
+swallow,it,rs,,e,,INTROENERGIA
+swallow,de,rs,,e,,VERZEHRER
+swallow,es,rs,,e,,TRAGAR
+sweet-kiss,en,gs,,e,,SWEET KISS
+sweet-kiss,fr,gs,,e,,DOUX BAISER
+sweet-kiss,it,gs,,e,,DOLCEBACIO
+sweet-kiss,de,gs,,e,,BITTERKUSS
+sweet-kiss,es,gs,,e,,BESO DULCE
+sweet-kiss,ko,gs,,gs,,천사의 키스
+sweet-scent,en,gs,,e,,SWEET SCENT
+sweet-scent,fr,gs,,e,,DOUX PARFUM
+sweet-scent,it,gs,,e,,PROFUMINO
+sweet-scent,de,gs,,e,,LOCKDUFT
+sweet-scent,es,gs,,e,,DULCE AROMA
+sweet-scent,ko,gs,,gs,,달콤한 향기
+swift,en,rb,,e,,SWIFT
+swift,fr,rb,,e,,METEORES
+swift,it,rb,,e,,COMETE
+swift,de,rb,,e,,STERNSCHAUER
+swift,es,rb,,e,,RAPIDEZ
+swift,es,dp,,la,,Rapidez
+swords-dance,en,rb,,e,,SWORDS DANCE
+swords-dance,fr,rb,,e,,DANSE-LAMES
+swords-dance,fr,dp,,lgpe,,Danse-Lames
+swords-dance,it,rb,,c,,DANZA-SPADA
+swords-dance,it,rs,,e,,DANZASPADA
+swords-dance,de,rb,,e,,SCHWERTTANZ
+swords-dance,es,rb,,c,,DANZA-ESPADA
+swords-dance,es,rs,,e,,DANZA ESPADA
+synthesis,en,gs,,e,,SYNTHESIS
+synthesis,fr,gs,,e,,SYNTHESE
+synthesis,it,gs,,e,,SINTESI
+synthesis,de,gs,,e,,SYNTHESE
+synthesis,es,gs,,e,,SÍNTESIS
+tackle,en,rb,,e,,TACKLE
+tackle,fr,rb,,e,,CHARGE
+tackle,it,rb,,e,,AZIONE
+tackle,de,rb,,e,,TACKLE
+tackle,es,rb,,e,,PLACAJE
+tail-glow,en,rs,,e,,TAIL GLOW
+tail-glow,fr,rs,,e,,LUMIQUEUE
+tail-glow,fr,dp,,lgpe,,Lumiqueue
+tail-glow,it,rs,,e,,CODADILUCE
+tail-glow,de,rs,,e,,SCHWEIFGLANZ
+tail-glow,es,rs,,e,,RÁFAGA
+tail-glow,es,dp,,la,,Ráfaga
+tail-whip,en,rb,,e,,TAIL WHIP
+tail-whip,fr,rb,,e,,MIMI-QUEUE
+tail-whip,it,rb,,c,,COLPO-CODA
+tail-whip,it,rs,,e,,COLPOCODA
+tail-whip,de,rb,,e,,RUTENSCHLAG
+tail-whip,es,rb,,e,,LÁTIGO
+take-down,en,rb,,e,,TAKE DOWN
+take-down,fr,rb,,e,,BELIER
+take-down,it,rb,,e,,RIDUTTORE
+take-down,de,rb,,e,,BODYCHECK
+take-down,es,rb,,e,,DERRIBO
+tar-shot,ko,ss,,la,,타르숏
+taunt,en,rs,,e,,TAUNT
+taunt,fr,rs,,e,,PROVOC
+taunt,it,rs,,e,,PROVOCAZIONE
+taunt,de,rs,,e,,VERHÖHNER
+taunt,es,rs,,e,,MOFA
+techno-blast,fr,bw,,oras,,TechnoBuster
+teeter-dance,en,rs,,e,,TEETER DANCE
+teeter-dance,fr,rs,,e,,DANSE-FOLLE
+teeter-dance,fr,dp,,lgpe,,Danse-Folle
+teeter-dance,it,rs,,e,,STRAMPADANZA
+teeter-dance,de,rs,,e,,TAUMELTANZ
+teeter-dance,es,rs,,e,,DANZA CAOS
+teleport,en,rb,,e,,TELEPORT
+teleport,fr,rb,,e,,TELEPORT
+teleport,it,rb,,e,,TELETRASPOR.
+teleport,it,dp,,b2w2,,Teletraspor.
+teleport,de,rb,,e,,TELEPORT
+teleport,es,rb,,y,,TELETRANSP.
+teleport,es,gs,,e,,TELETRANSP
+teleport,es,dp,,b2w2,,Teletransp
+thief,en,gs,,e,,THIEF
+thief,fr,gs,,e,,LARCIN
+thief,it,gs,,e,,FURTO
+thief,de,gs,,e,,RAUB
+thief,es,gs,,e,,LADRÓN
+thief,ko,gs,,gs,,도둑
+thrash,en,rb,,e,,THRASH
+thrash,fr,rb,,e,,MANIA
+thrash,it,rb,,e,,COLPO
+thrash,de,rb,,e,,FUCHTLER
+thrash,es,rb,,e,,GOLPE
+thrash,es,dp,,la,,Golpe
+throat-chop,zh-simp,sm,,ss,,地狱突刺
+thunder,en,rb,,e,,THUNDER
+thunder,fr,rb,,e,,FATAL-FOUDRE
+thunder,it,rb,,e,,TUONO
+thunder,de,rb,,e,,DONNER
+thunder,es,rb,,e,,TRUENO
+thunder-fang,fr,dp,,hgss,,Crocs Eclair
+thunder-fang,es,dp,,b2w2,,Colm. Rayo
+thunder-punch,en,rb,,e,,THUNDERPUNCH
+thunder-punch,en,dp,,b2w2,,ThunderPunch
+thunder-punch,fr,rb,,e,,POING-ECLAIR
+thunder-punch,fr,dp,,hgss,,Poing-Eclair
+thunder-punch,fr,bw,,lgpe,,Poing-Éclair
+thunder-punch,it,rb,,e,,TUONOPUGNO
+thunder-punch,de,rb,,e,,DONNERSCHLAG
+thunder-punch,es,rb,,y,,PUñO-TRUENO
+thunder-punch,es,gs,,c,,PUÑO-TRUENO
+thunder-punch,es,rs,,e,,PUÑO TRUENO
+thunder-shock,en,rb,,e,,THUNDERSHOCK
+thunder-shock,en,dp,,b2w2,,ThunderShock
+thunder-shock,fr,rb,,e,,ECLAIR
+thunder-shock,fr,dp,,hgss,,Eclair
+thunder-shock,it,rb,,e,,TUONOSHOCK
+thunder-shock,de,rb,,e,,DONNERSCHOCK
+thunder-shock,es,rb,,e,,IMPACTRUENO
+thunder-wave,en,rb,,e,,THUNDER WAVE
+thunder-wave,fr,rb,,e,,CAGE-ECLAIR
+thunder-wave,fr,dp,,hgss,,Cage-Eclair
+thunder-wave,fr,bw,,lgpe,,Cage-Éclair
+thunder-wave,it,rb,,e,,TUONONDA
+thunder-wave,de,rb,,e,,DONNERWELLE
+thunder-wave,es,rb,,e,,ONDA TRUENO
+thunderbolt,en,rb,,e,,THUNDERBOLT
+thunderbolt,fr,rb,,e,,TONNERRE
+thunderbolt,it,rb,,e,,FULMINE
+thunderbolt,de,rb,,e,,DONNERBLITZ
+thunderbolt,es,rb,,e,,RAYO
+tickle,en,rs,,e,,TICKLE
+tickle,fr,rs,,e,,CHATOUILLE
+tickle,it,rs,,e,,SOLLETICO
+tickle,de,rs,,e,,SPASSKANONE
+tickle,es,rs,,e,,COSQUILLAS
+torment,en,rs,,e,,TORMENT
+torment,fr,rs,,e,,TOURMENTE
+torment,it,rs,,e,,ATTACCALITE
+torment,de,rs,,e,,FOLTERKNECHT
+torment,es,rs,,e,,TORMENTO
+toxic,en,rb,,e,,TOXIC
+toxic,fr,rb,,e,,TOXIK
+toxic,it,rb,,e,,TOSSINA
+toxic,de,rb,,e,,TOXIN
+toxic,es,rb,,e,,TÓXICO
+transform,en,rb,,e,,TRANSFORM
+transform,fr,rb,,e,,MORPHING
+transform,it,rb,,e,,TRASFORMAZ.
+transform,it,dp,,b2w2,,Trasformaz.
+transform,de,rb,,y,,WANDLER
+transform,de,gs,,c,,VERWANDLER
+transform,de,rs,,e,,WANDLER
+transform,es,rb,,y,,TRANSFORM.
+transform,es,gs,,e,,TRANSFORM
+transform,es,dp,,b2w2,,Transform
+tri-attack,en,rb,,e,,TRI ATTACK
+tri-attack,fr,rb,,e,,TRIPLATTAQUE
+tri-attack,it,rb,,e,,TRIPLETTA
+tri-attack,de,rb,,e,,TRIPLETTE
+tri-attack,es,rb,,c,,TRI-ATAQUE
+tri-attack,es,rs,,e,,TRIATAQUE
+trick,en,rs,,e,,TRICK
+trick,fr,rs,,e,,TOURMAGIK
+trick,fr,dp,,lgpe,,Tourmagik
+trick,it,rs,,e,,RAGGIRO
+trick,de,rs,,e,,TRICKBETRUG
+trick,es,rs,,e,,TRUCO
+triple-kick,en,gs,,e,,TRIPLE KICK
+triple-kick,fr,gs,,e,,TRIPLE PIED
+triple-kick,it,gs,,e,,TRIPLOCALCIO
+triple-kick,de,gs,,e,,DREIFACHKICK
+triple-kick,es,gs,,e,,TRIPLEPATADA
+triple-kick,es,dp,,b2w2,,Triplepatada
+triple-kick,ko,gs,,gs,,트리플 킥
+twineedle,en,rb,,e,,TWINEEDLE
+twineedle,fr,rb,,e,,DOUBLE-DARD
+twineedle,fr,dp,,lgpe,,Double-Dard
+twineedle,it,rb,,e,,DOPPIO AGO
+twineedle,de,rb,,e,,DUONADEL
+twineedle,es,rb,,e,,DOBLEATAQUE
+twineedle,es,dp,,b2w2,,Dobleataque
+twister,en,gs,,e,,TWISTER
+twister,fr,gs,,e,,OURAGAN
+twister,it,gs,,e,,TORNADO
+twister,de,gs,,e,,WINDHOSE
+twister,es,gs,,e,,CICLÓN
+uproar,en,rs,,e,,UPROAR
+uproar,fr,rs,,e,,BROUHAHA
+uproar,it,rs,,e,,BARAONDA
+uproar,de,rs,,e,,AUFRUHR
+uproar,es,rs,,e,,ALBOROTO
+v-create,fr,bw,,b2w2,,CoupVictoire
+venoshock,es,bw,,b2w2,,Cargatóxica
+vine-whip,en,rb,,e,,VINE WHIP
+vine-whip,fr,rb,,e,,FOUET LIANES
+vine-whip,it,rb,,e,,FRUSTATA
+vine-whip,de,rb,,e,,RANKENHIEB
+vine-whip,es,rb,,e,,LÁTIGO CEPA
+vine-whip,ko,gs,,gs,,덩쿨채찍
+vise-grip,en,rb,,e,,VICEGRIP
+vise-grip,en,dp,,b2w2,,ViceGrip
+vise-grip,en,xy,,lgpe,,Vice Grip
+vise-grip,fr,rb,,e,,FORCE POIGNE
+vise-grip,it,rb,,e,,PRESA
+vise-grip,de,rb,,e,,KLAMMER
+vise-grip,es,rb,,e,,AGARRE
+vital-throw,en,gs,,e,,VITAL THROW
+vital-throw,fr,gs,,e,,CORPS PERDU
+vital-throw,it,gs,,e,,VITALTIRO
+vital-throw,de,gs,,e,,ÜBERWURF
+vital-throw,es,gs,,e,,TIRO VITAL
+vital-throw,es,dp,,la,,Tiro Vital
+vital-throw,ko,gs,,gs,,받아 던지기
+volt-switch,fr,bw,,b2w2,,ChangeÉclair
+volt-switch,fr,xy,,la,,Change Éclair
+volt-tackle,en,rs,,e,,VOLT TACKLE
+volt-tackle,fr,rs,,e,,ELECTACLE
+volt-tackle,fr,dp,,hgss,,Electacle
+volt-tackle,it,rs,,e,,LOCOMOVOLT
+volt-tackle,de,rs,,e,,VOLTTACKLE
+volt-tackle,es,rs,,e,,PLACAJE ELÉC
+water-gun,en,rb,,e,,WATER GUN
+water-gun,fr,rb,,e,,PISTOLET A O
+water-gun,it,rb,,e,,PISTOLACQUA
+water-gun,de,rb,,e,,AQUAKNARRE
+water-gun,es,rb,,e,,PISTOLA AGUA
+water-pulse,en,rs,,e,,WATER PULSE
+water-pulse,fr,rs,,e,,VIBRAQUA
+water-pulse,it,rs,,e,,IDROPULSAR
+water-pulse,de,rs,,e,,AQUAWELLE
+water-pulse,es,rs,,e,,HIDROPULSO
+water-sport,en,rs,,e,,WATER SPORT
+water-sport,fr,rs,,e,,TOURNIQUET
+water-sport,it,rs,,e,,DOCCIASCUDO
+water-sport,de,rs,,e,,NASSMACHER
+water-sport,es,rs,,e,,HIDROCHORRO
+water-spout,en,rs,,e,,WATER SPOUT
+water-spout,fr,rs,,e,,GICLEDO
+water-spout,it,rs,,e,,ZAMPILLO
+water-spout,de,rs,,e,,FONTRÄNEN
+water-spout,es,rs,,e,,SALPICAR
+water-spout,ko,dp,,b2w2,,바지락조개
+waterfall,en,rb,,e,,WATERFALL
+waterfall,fr,rb,,e,,CASCADE
+waterfall,it,rb,,e,,CASCATA
+waterfall,de,rb,,e,,KASKADE
+waterfall,es,rb,,e,,CASCADA
+weather-ball,en,rs,,e,,WEATHER BALL
+weather-ball,fr,rs,,e,,BALL’METEO
+weather-ball,it,rs,,e,,PALLA CLIMA
+weather-ball,de,rs,,e,,METEOROLOGE
+weather-ball,es,rs,,e,,METEOROBOLA
+whirlpool,en,gs,,e,,WHIRLPOOL
+whirlpool,fr,gs,,e,,SIPHON
+whirlpool,it,gs,,e,,MULINELLO
+whirlpool,de,gs,,e,,WHIRLPOOL
+whirlpool,es,gs,,e,,TORBELLINO
+whirlpool,ko,gs,,gs,,바다 회오리
+whirlwind,en,rb,,e,,WHIRLWIND
+whirlwind,fr,rb,,e,,CYCLONE
+whirlwind,it,rb,,e,,TURBINE
+whirlwind,de,rb,,e,,WIRBELWIND
+whirlwind,es,rb,,e,,REMOLINO
+wide-guard,es,bw,,la,,Vastaguardia
+will-o-wisp,en,rs,,e,,WILL-O-WISP
+will-o-wisp,fr,rs,,e,,FEU FOLLET
+will-o-wisp,it,rs,,e,,FUOCOFATUO
+will-o-wisp,de,rs,,e,,IRRLICHT
+will-o-wisp,es,rs,,e,,FUEGO FATUO
+will-o-wisp,zh-simp,sm,,ss,,鬼火
+wing-attack,en,rb,,e,,WING ATTACK
+wing-attack,fr,rb,,e,,CRU-AILE
+wing-attack,fr,dp,,lgpe,,Cru-Aile
+wing-attack,it,rb,,e,,ATT. D’ALA
+wing-attack,it,dp,,b2w2,,Att. d’Ala
+wing-attack,de,rb,,e,,FLÜGELSCHLAG
+wing-attack,es,rb,,c,,ATAQUE-ALA
+wing-attack,es,rs,,e,,ATAQUE ALA
+wish,en,rs,,e,,WISH
+wish,fr,rs,,e,,VOEU
+wish,fr,dp,,hgss,,Voeu
+wish,it,rs,,e,,DESIDERIO
+wish,de,rs,,e,,WUNSCHTRAUM
+wish,es,rs,,e,,DESEO
+withdraw,en,rb,,e,,WITHDRAW
+withdraw,fr,rb,,e,,REPLI
+withdraw,it,rb,,e,,RITIRATA
+withdraw,de,rb,,e,,PANZERSCHUTZ
+withdraw,es,rb,,e,,REFUGIO
+wrap,en,rb,,e,,WRAP
+wrap,fr,rb,,e,,LIGOTAGE
+wrap,it,rb,,e,,AVVOLGIBOTTA
+wrap,de,rb,,e,,WICKEL
+wrap,es,rb,,e,,REPETICIÓN
+wrap,es,dp,,b2w2,,Repetición
+x-scissor,fr,dp,,lgpe,,Plaie-Croix
+yawn,en,rs,,e,,YAWN
+yawn,fr,rs,,e,,BAILLEMENT
+yawn,it,rs,,e,,SBADIGLIO
+yawn,de,rs,,e,,GÄHNER
+yawn,es,rs,,e,,BOSTEZO
+zap-cannon,en,gs,,e,,ZAP CANNON
+zap-cannon,fr,gs,,e,,ELECANON
+zap-cannon,fr,dp,,hgss,,Elecanon
+zap-cannon,it,gs,,e,,FALCECANNONE
+zap-cannon,it,dp,,la,,Falcecannone
+zap-cannon,de,gs,,e,,BLITZKANONE
+zap-cannon,es,gs,,e,,ELECTROCAÑÓN

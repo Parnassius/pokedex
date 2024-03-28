@@ -1,0 +1,250 @@
+pokemon_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+raichu-alolan-form,en,sm,,lgpe,,Alola Form
+sandshrew-alolan-form,en,sm,,lgpe,,Alola Form
+sandslash-alolan-form,en,sm,,lgpe,,Alola Form
+vulpix-alolan-form,en,sm,,lgpe,,Alola Form
+ninetales-alolan-form,en,sm,,lgpe,,Alola Form
+diglett-alolan-form,en,sm,,lgpe,,Alola Form
+dugtrio-alolan-form,en,sm,,lgpe,,Alola Form
+meowth-alolan-form,en,sm,,lgpe,,Alola Form
+persian-alolan-form,en,sm,,lgpe,,Alola Form
+geodude-alolan-form,en,sm,,lgpe,,Alola Form
+graveler-alolan-form,en,sm,,lgpe,,Alola Form
+golem-alolan-form,en,sm,,lgpe,,Alola Form
+grimer-alolan-form,en,sm,,lgpe,,Alola Form
+muk-alolan-form,en,sm,,lgpe,,Alola Form
+exeggutor-alolan-form,en,sm,,lgpe,,Alola Form
+marowak-alolan-form,en,sm,,lgpe,,Alola Form
+unown-a,fr,dp,,b2w2,,Forme unique
+unown-a,de,dp,,oras,,Einform
+unown-a,es,dp,,usum,,Una forma
+unown-b,fr,dp,,b2w2,,Forme unique
+unown-b,de,dp,,oras,,Einform
+unown-b,es,dp,,usum,,Una forma
+unown-c,fr,dp,,b2w2,,Forme unique
+unown-c,de,dp,,oras,,Einform
+unown-c,es,dp,,usum,,Una forma
+unown-d,fr,dp,,b2w2,,Forme unique
+unown-d,de,dp,,oras,,Einform
+unown-d,es,dp,,usum,,Una forma
+unown-e,fr,dp,,b2w2,,Forme unique
+unown-e,de,dp,,oras,,Einform
+unown-e,es,dp,,usum,,Una forma
+unown-f,fr,dp,,b2w2,,Forme unique
+unown-f,de,dp,,oras,,Einform
+unown-f,es,dp,,usum,,Una forma
+unown-g,fr,dp,,b2w2,,Forme unique
+unown-g,de,dp,,oras,,Einform
+unown-g,es,dp,,usum,,Una forma
+unown-h,fr,dp,,b2w2,,Forme unique
+unown-h,de,dp,,oras,,Einform
+unown-h,es,dp,,usum,,Una forma
+unown-i,fr,dp,,b2w2,,Forme unique
+unown-i,de,dp,,oras,,Einform
+unown-i,es,dp,,usum,,Una forma
+unown-j,fr,dp,,b2w2,,Forme unique
+unown-j,de,dp,,oras,,Einform
+unown-j,es,dp,,usum,,Una forma
+unown-k,fr,dp,,b2w2,,Forme unique
+unown-k,de,dp,,oras,,Einform
+unown-k,es,dp,,usum,,Una forma
+unown-l,fr,dp,,b2w2,,Forme unique
+unown-l,de,dp,,oras,,Einform
+unown-l,es,dp,,usum,,Una forma
+unown-m,fr,dp,,b2w2,,Forme unique
+unown-m,de,dp,,oras,,Einform
+unown-m,es,dp,,usum,,Una forma
+unown-n,fr,dp,,b2w2,,Forme unique
+unown-n,de,dp,,oras,,Einform
+unown-n,es,dp,,usum,,Una forma
+unown-o,fr,dp,,b2w2,,Forme unique
+unown-o,de,dp,,oras,,Einform
+unown-o,es,dp,,usum,,Una forma
+unown-p,fr,dp,,b2w2,,Forme unique
+unown-p,de,dp,,oras,,Einform
+unown-p,es,dp,,usum,,Una forma
+unown-q,fr,dp,,b2w2,,Forme unique
+unown-q,de,dp,,oras,,Einform
+unown-q,es,dp,,usum,,Una forma
+unown-r,fr,dp,,b2w2,,Forme unique
+unown-r,de,dp,,oras,,Einform
+unown-r,es,dp,,usum,,Una forma
+unown-s,fr,dp,,b2w2,,Forme unique
+unown-s,de,dp,,oras,,Einform
+unown-s,es,dp,,usum,,Una forma
+unown-t,fr,dp,,b2w2,,Forme unique
+unown-t,de,dp,,oras,,Einform
+unown-t,es,dp,,usum,,Una forma
+unown-u,fr,dp,,b2w2,,Forme unique
+unown-u,de,dp,,oras,,Einform
+unown-u,es,dp,,usum,,Una forma
+unown-v,fr,dp,,b2w2,,Forme unique
+unown-v,de,dp,,oras,,Einform
+unown-v,es,dp,,usum,,Una forma
+unown-w,fr,dp,,b2w2,,Forme unique
+unown-w,de,dp,,oras,,Einform
+unown-w,es,dp,,usum,,Una forma
+unown-x,fr,dp,,b2w2,,Forme unique
+unown-x,de,dp,,oras,,Einform
+unown-x,es,dp,,usum,,Una forma
+unown-y,fr,dp,,b2w2,,Forme unique
+unown-y,de,dp,,oras,,Einform
+unown-y,es,dp,,usum,,Una forma
+unown-z,fr,dp,,b2w2,,Forme unique
+unown-z,de,dp,,oras,,Einform
+unown-z,es,dp,,usum,,Una forma
+unown-exclamation,fr,dp,,b2w2,,Forme unique
+unown-exclamation,de,dp,,oras,,Einform
+unown-exclamation,es,dp,,usum,,Una forma
+unown-question,fr,dp,,b2w2,,Forme unique
+unown-question,de,dp,,oras,,Einform
+unown-question,es,dp,,usum,,Una forma
+castform-normal,fr,hgss,,hgss,,Forme de MORPHEO
+castform-normal,it,hgss,,hgss,,Forma CASTFORM
+castform-normal,de,hgss,,hgss,,FORMEO
+castform-normal,es,hgss,,b2w2,,Normal
+deoxys-normal-forme,jp-kana,dp,,dp,,ノーマル
+deoxys-normal-forme,en,dp,,dp,,Normal
+deoxys-normal-forme,fr,dp,,dp,,Normale
+deoxys-normal-forme,it,dp,,dp,,Normale
+deoxys-normal-forme,de,dp,,dp,,Normal
+deoxys-normal-forme,es,dp,,dp,,Normal
+deoxys-normal-forme,ko,dp,,dp,,노말
+deoxys-attack-forme,jp-kana,dp,,dp,,アタック
+deoxys-attack-forme,en,dp,,dp,,Attack
+deoxys-attack-forme,fr,dp,,dp,,Attaque
+deoxys-attack-forme,it,dp,,dp,,Attacco
+deoxys-attack-forme,de,dp,,dp,,Angriff
+deoxys-attack-forme,es,dp,,dp,,Ataque
+deoxys-attack-forme,ko,dp,,dp,,어택
+deoxys-defense-forme,jp-kana,dp,,dp,,ディフェンス
+deoxys-defense-forme,en,dp,,dp,,Defense
+deoxys-defense-forme,fr,dp,,dp,,Défense
+deoxys-defense-forme,it,dp,,dp,,Difesa
+deoxys-defense-forme,de,dp,,dp,,Verteidigung
+deoxys-defense-forme,es,dp,,dp,,Defensa
+deoxys-defense-forme,ko,dp,,dp,,디펜스
+deoxys-speed-forme,jp-kana,dp,,dp,,スピード
+deoxys-speed-forme,en,dp,,dp,,Speed
+deoxys-speed-forme,fr,dp,,dp,,Vitesse
+deoxys-speed-forme,it,dp,,dp,,Velocità
+deoxys-speed-forme,de,dp,,dp,,Initiative
+deoxys-speed-forme,es,dp,,dp,,Velocidad
+deoxys-speed-forme,ko,dp,,dp,,스피드
+burmy-plant-cloak,en,dp,,p,,Plant cloak
+burmy-plant-cloak,de,dp,,hgss,,Pflanzenumh.
+burmy-plant-cloak,es,dp,,hgss,,T. planta
+burmy-sandy-cloak,en,dp,,p,,Sandy cloak
+burmy-sandy-cloak,es,dp,,hgss,,T. arena
+burmy-trash-cloak,en,dp,,p,,Trash cloak
+burmy-trash-cloak,de,dp,,hgss,,Lumpenumh.
+burmy-trash-cloak,es,dp,,hgss,,T. basura
+wormadam-plant-cloak,en,dp,,p,,Plant cloak
+wormadam-plant-cloak,de,dp,,hgss,,Pflanzenumh.
+wormadam-plant-cloak,es,dp,,hgss,,T. planta
+wormadam-sandy-cloak,en,dp,,p,,Sandy cloak
+wormadam-sandy-cloak,es,dp,,hgss,,T. arena
+wormadam-trash-cloak,en,dp,,p,,Trash cloak
+wormadam-trash-cloak,de,dp,,hgss,,Lumpenumh.
+wormadam-trash-cloak,es,dp,,hgss,,T. basura
+shellos-west-sea,en,dp,,p,,West sea
+shellos-west-sea,de,dp,,hgss,,Westl. Meer
+shellos-east-sea,en,dp,,p,,East sea
+shellos-east-sea,de,dp,,hgss,,Östl. Meer
+gastrodon-west-sea,en,dp,,p,,West sea
+gastrodon-west-sea,de,dp,,hgss,,Westl. Meer
+gastrodon-east-sea,en,dp,,p,,East sea
+gastrodon-east-sea,de,dp,,hgss,,Östl. Meer
+rotom,jp-kana,p,,p,,ロトム
+rotom,en,p,,hgss,,ROTOM
+rotom,fr,p,,p,,MOTISMA
+rotom,fr,hgss,,hgss,,Forme de MOTISMA
+rotom,it,p,,p,,ROTOM
+rotom,it,hgss,,hgss,,Forma ROTOM
+rotom,de,p,,hgss,,ROTOM
+rotom,es,p,,p,,ROTOM
+rotom,es,hgss,,hgss,,Forma de ROTOM
+rotom,ko,p,,p,,로토무
+rotom-heat,en,p,,hgss,,HEAT ROTOM
+rotom-heat,fr,p,,hgss,,MOTISMA CHALEUR
+rotom-heat,it,p,,hgss,,ROTOM CALORE
+rotom-heat,de,p,,hgss,,HITZE-ROTOM
+rotom-heat,es,p,,hgss,,ROTOM CALOR
+rotom-wash,en,p,,hgss,,WASH ROTOM
+rotom-wash,fr,p,,hgss,,MOTISMA LAVAGE
+rotom-wash,it,p,,hgss,,ROTOM LAVAGGIO
+rotom-wash,de,p,,hgss,,WASCH-ROTOM
+rotom-wash,es,p,,hgss,,ROTOM LAVADO
+rotom-frost,en,p,,hgss,,FROST ROTOM
+rotom-frost,fr,p,,hgss,,MOTISMA FROID
+rotom-frost,it,p,,hgss,,ROTOM GELO
+rotom-frost,de,p,,hgss,,FROST-ROTOM
+rotom-frost,es,p,,hgss,,ROTOM FRÍO
+rotom-fan,en,p,,hgss,,FAN ROTOM
+rotom-fan,fr,p,,hgss,,MOTISMA HELICE
+rotom-fan,it,p,,hgss,,ROTOM VORTICE
+rotom-fan,de,p,,hgss,,WIRBEL-ROTOM
+rotom-fan,es,p,,hgss,,ROTOM VENTILADOR
+rotom-mow,en,p,,hgss,,MOW ROTOM
+rotom-mow,fr,p,,hgss,,MOTISMA TONTE
+rotom-mow,it,p,,hgss,,ROTOM TAGLIO
+rotom-mow,de,p,,hgss,,SCHNEID-ROTOM
+rotom-mow,es,p,,hgss,,ROTOM CORTE
+arceus-normal-type,fr,bw,,usum,,Forme de Arceus
+arceus-normal-type,de,bw,,b2w2,,Form von Arceus
+arceus-fighting-type,fr,bw,,usum,,Forme de Arceus
+arceus-fighting-type,de,bw,,b2w2,,Form von Arceus
+arceus-flying-type,fr,bw,,usum,,Forme de Arceus
+arceus-flying-type,de,bw,,b2w2,,Form von Arceus
+arceus-poison-type,fr,bw,,usum,,Forme de Arceus
+arceus-poison-type,de,bw,,b2w2,,Form von Arceus
+arceus-ground-type,fr,bw,,usum,,Forme de Arceus
+arceus-ground-type,de,bw,,b2w2,,Form von Arceus
+arceus-rock-type,fr,bw,,usum,,Forme de Arceus
+arceus-rock-type,de,bw,,b2w2,,Form von Arceus
+arceus-bug-type,fr,bw,,usum,,Forme de Arceus
+arceus-bug-type,de,bw,,b2w2,,Form von Arceus
+arceus-ghost-type,fr,bw,,usum,,Forme de Arceus
+arceus-ghost-type,de,bw,,b2w2,,Form von Arceus
+arceus-steel-type,fr,bw,,usum,,Forme de Arceus
+arceus-steel-type,de,bw,,b2w2,,Form von Arceus
+arceus-fire-type,fr,bw,,usum,,Forme de Arceus
+arceus-fire-type,de,bw,,b2w2,,Form von Arceus
+arceus-water-type,fr,bw,,usum,,Forme de Arceus
+arceus-water-type,de,bw,,b2w2,,Form von Arceus
+arceus-grass-type,fr,bw,,usum,,Forme de Arceus
+arceus-grass-type,de,bw,,b2w2,,Form von Arceus
+arceus-electric-type,fr,bw,,usum,,Forme de Arceus
+arceus-electric-type,de,bw,,b2w2,,Form von Arceus
+arceus-psychic-type,fr,bw,,usum,,Forme de Arceus
+arceus-psychic-type,de,bw,,b2w2,,Form von Arceus
+arceus-ice-type,fr,bw,,usum,,Forme de Arceus
+arceus-ice-type,de,bw,,b2w2,,Form von Arceus
+arceus-dragon-type,fr,bw,,usum,,Forme de Arceus
+arceus-dragon-type,de,bw,,b2w2,,Form von Arceus
+arceus-dark-type,fr,bw,,usum,,Forme de Arceus
+arceus-dark-type,de,bw,,b2w2,,Form von Arceus
+arceus-fairy-type,fr,xy,,usum,,Forme de Arceus
+darmanitan-standard-mode,it,bw,,oras,,Forma Normalità
+darmanitan-zen-mode,it,bw,,b2w2,,Forma Zen
+kyurem,de,b2w2,,b2w2,,Form von Kyurem
+kyurem,es,xy,,usum,,Forma Kyurem
+genesect,jp-kana,bw,,bw,,インセクタのすがた
+genesect,jp-kanji,bw,,bw,,インセクタのすがた
+genesect,de,b2w2,,b2w2,,Form von Genesect
+genesect-douse-drive,jp-kana,bw,,bw,,インセクタのすがた
+genesect-douse-drive,jp-kanji,bw,,bw,,インセクタのすがた
+genesect-douse-drive,de,b2w2,,b2w2,,Form von Genesect
+genesect-shock-drive,jp-kana,bw,,bw,,インセクタのすがた
+genesect-shock-drive,jp-kanji,bw,,bw,,インセクタのすがた
+genesect-shock-drive,de,b2w2,,b2w2,,Form von Genesect
+genesect-burn-drive,jp-kana,bw,,bw,,インセクタのすがた
+genesect-burn-drive,jp-kanji,bw,,bw,,インセクタのすがた
+genesect-burn-drive,de,b2w2,,b2w2,,Form von Genesect
+genesect-chill-drive,jp-kana,bw,,bw,,インセクタのすがた
+genesect-chill-drive,jp-kanji,bw,,bw,,インセクタのすがた
+genesect-chill-drive,de,b2w2,,b2w2,,Form von Genesect
+necrozma-dusk-mane,jp-kana,usum,,ss,,たそがれのたてがみ
+necrozma-dusk-mane,jp-kanji,usum,,ss,,たそがれのたてがみ
+necrozma-dawn-wings,jp-kana,usum,,ss,,あかつきのつばさ
+necrozma-dawn-wings,jp-kanji,usum,,ss,,あかつきのつばさ

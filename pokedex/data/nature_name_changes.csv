@@ -1,0 +1,212 @@
+nature_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+hardy,en,rs,,e,,HARDY
+hardy,fr,rs,,e,,HARDI
+hardy,it,rs,,e,,ARDITA
+hardy,it,dp,,dp,,N. Ardita
+hardy,de,rs,,e,,ROBUST
+hardy,es,rs,,e,,FUERTE
+hardy,es,p,,oras,,fuerte
+lonely,en,rs,,e,,LONELY
+lonely,fr,rs,,e,,SOLO
+lonely,it,rs,,e,,SCHIVA
+lonely,it,dp,,dp,,N. Schiva
+lonely,de,rs,,e,,SOLO
+lonely,es,rs,,e,,HURAÑA
+lonely,es,p,,b2w2,,huraña
+lonely,es,xy,,xy,,Huraño
+lonely,es,oras,,oras,,huraña
+brave,en,rs,,e,,BRAVE
+brave,fr,rs,,e,,BRAVE
+brave,it,rs,,e,,AUDACE
+brave,it,dp,,dp,,N. Audace
+brave,de,rs,,e,,MUTIG
+brave,es,rs,,e,,AUDAZ
+brave,es,p,,oras,,audaz
+adamant,en,rs,,e,,ADAMANT
+adamant,fr,rs,,e,,RIGIDE
+adamant,it,rs,,e,,DECISA
+adamant,it,dp,,dp,,N. Decisa
+adamant,de,rs,,e,,HART
+adamant,es,rs,,e,,FIRME
+adamant,es,p,,oras,,firme
+naughty,en,rs,,e,,NAUGHTY
+naughty,fr,rs,,e,,MAUVAIS
+naughty,it,rs,,e,,BIRBONA
+naughty,it,dp,,dp,,N. Birbona
+naughty,de,rs,,e,,FRECH
+naughty,es,rs,,e,,PÍCARA
+naughty,es,p,,b2w2,,pícara
+naughty,es,xy,,xy,,Pícaro
+naughty,es,oras,,oras,,pícara
+bold,en,rs,,e,,BOLD
+bold,fr,rs,,e,,ASSURE
+bold,it,rs,,e,,SICURA
+bold,it,dp,,dp,,N. Sicura
+bold,de,rs,,e,,KÜHN
+bold,es,rs,,e,,OSADA
+bold,es,p,,b2w2,,osada
+bold,es,xy,,xy,,Osado
+bold,es,oras,,oras,,osada
+docile,en,rs,,e,,DOCILE
+docile,fr,rs,,e,,DOCILE
+docile,it,rs,,e,,DOCILE
+docile,it,dp,,dp,,N. Docile
+docile,de,rs,,e,,SANFT
+docile,es,rs,,e,,DÓCIL
+docile,es,p,,oras,,dócil
+relaxed,en,rs,,e,,RELAXED
+relaxed,fr,rs,,e,,RELAX
+relaxed,it,rs,,e,,PLACIDA
+relaxed,it,dp,,dp,,N. Placida
+relaxed,de,rs,,e,,LOCKER
+relaxed,es,rs,,e,,PLÁCIDA
+relaxed,es,p,,b2w2,,plácida
+relaxed,es,xy,,xy,,Plácido
+relaxed,es,oras,,oras,,plácida
+impish,en,rs,,e,,IMPISH
+impish,fr,rs,,e,,MALIN
+impish,it,rs,,e,,SCALTRA
+impish,it,dp,,dp,,N. Scaltra
+impish,de,rs,,e,,PFIFFIG
+impish,es,rs,,e,,AGITADA
+impish,es,p,,b2w2,,agitada
+impish,es,xy,,xy,,Agitado
+impish,es,oras,,oras,,agitada
+lax,en,rs,,e,,LAX
+lax,fr,rs,,e,,LACHE
+lax,it,rs,,e,,FIACCA
+lax,it,dp,,dp,,N. Fiacca
+lax,de,rs,,e,,LASCH
+lax,es,rs,,e,,FLOJA
+lax,es,p,,b2w2,,floja
+lax,es,xy,,xy,,Flojo
+lax,es,oras,,oras,,floja
+timid,en,rs,,e,,TIMID
+timid,fr,rs,,e,,TIMIDE
+timid,it,rs,,e,,TIMIDA
+timid,it,dp,,dp,,N. Timida
+timid,de,rs,,e,,SCHEU
+timid,es,rs,,e,,MIEDOSA
+timid,es,p,,b2w2,,miedosa
+timid,es,xy,,xy,,Miedoso
+timid,es,oras,,oras,,miedosa
+hasty,en,rs,,e,,HASTY
+hasty,fr,rs,,e,,PRESSE
+hasty,it,rs,,e,,LESTA
+hasty,it,dp,,dp,,N. Lesta
+hasty,de,rs,,e,,HASTIG
+hasty,es,rs,,e,,ACTIVA
+hasty,es,p,,b2w2,,activa
+hasty,es,xy,,xy,,Activo
+hasty,es,oras,,oras,,activa
+serious,en,rs,,e,,SERIOUS
+serious,fr,rs,,e,,SERIEUX
+serious,it,rs,,e,,SERIA
+serious,it,dp,,dp,,N. Seria
+serious,de,rs,,e,,ERNST
+serious,es,rs,,e,,SERIA
+serious,es,p,,b2w2,,seria
+serious,es,xy,,xy,,Serio
+serious,es,oras,,oras,,seria
+jolly,en,rs,,e,,JOLLY
+jolly,fr,rs,,e,,JOVIAL
+jolly,it,rs,,e,,ALLEGRA
+jolly,it,dp,,dp,,N. Allegra
+jolly,de,rs,,e,,FROH
+jolly,es,rs,,e,,ALEGRE
+jolly,es,p,,oras,,alegre
+naive,en,rs,,e,,NAIVE
+naive,fr,rs,,e,,NAIF
+naive,it,rs,,e,,INGENUA
+naive,it,dp,,dp,,N. Ingenua
+naive,de,rs,,e,,NAIV
+naive,es,rs,,e,,INGENUA
+naive,es,p,,b2w2,,ingenua
+naive,es,xy,,xy,,Ingenuo
+naive,es,oras,,oras,,ingenua
+modest,en,rs,,e,,MODEST
+modest,fr,rs,,e,,MODESTE
+modest,it,rs,,e,,MODESTA
+modest,it,dp,,dp,,N. Modesta
+modest,de,rs,,e,,MÄSSIG
+modest,es,rs,,e,,MODESTA
+modest,es,p,,b2w2,,modesta
+modest,es,xy,,xy,,Modesto
+modest,es,oras,,oras,,modesta
+mild,en,rs,,e,,MILD
+mild,fr,rs,,e,,DOUX
+mild,it,rs,,e,,MITE
+mild,it,dp,,dp,,N. Mite
+mild,de,rs,,e,,MILD
+mild,es,rs,,e,,AFABLE
+mild,es,p,,oras,,afable
+quiet,en,rs,,e,,QUIET
+quiet,fr,rs,,e,,DISCRET
+quiet,it,rs,,e,,QUIETA
+quiet,it,dp,,dp,,N. Quieta
+quiet,de,rs,,e,,RUHIG
+quiet,es,rs,,e,,MANSA
+quiet,es,p,,b2w2,,mansa
+quiet,es,xy,,xy,,Manso
+quiet,es,oras,,oras,,mansa
+bashful,en,rs,,e,,BASHFUL
+bashful,fr,rs,,e,,PUDIQUE
+bashful,it,rs,,e,,RITROSA
+bashful,it,dp,,dp,,N. Ritrosa
+bashful,de,rs,,e,,ZAGHAFT
+bashful,es,rs,,e,,TÍMIDA
+bashful,es,p,,b2w2,,tímida
+bashful,es,xy,,xy,,Tímido
+bashful,es,oras,,oras,,tímida
+rash,en,rs,,e,,RASH
+rash,fr,rs,,e,,FOUFOU
+rash,it,rs,,e,,ARDENTE
+rash,it,dp,,dp,,N. Ardente
+rash,de,rs,,e,,HITZIG
+rash,es,rs,,e,,ALOCADA
+rash,es,p,,b2w2,,alocada
+rash,es,xy,,xy,,Alocado
+rash,es,oras,,oras,,alocada
+calm,en,rs,,e,,CALM
+calm,fr,rs,,e,,CALME
+calm,it,rs,,e,,CALMA
+calm,it,dp,,dp,,N. Calma
+calm,de,rs,,e,,STILL
+calm,es,rs,,e,,SERENA
+calm,es,p,,b2w2,,serena
+calm,es,xy,,xy,,Sereno
+calm,es,oras,,oras,,serena
+gentle,en,rs,,e,,GENTLE
+gentle,fr,rs,,e,,GENTIL
+gentle,it,rs,,e,,GENTILE
+gentle,it,dp,,dp,,N. Gentile
+gentle,de,rs,,e,,ZART
+gentle,es,rs,,e,,AMABLE
+gentle,es,p,,oras,,amable
+sassy,en,rs,,e,,SASSY
+sassy,fr,rs,,e,,MALPOLI
+sassy,it,rs,,e,,VIVACE
+sassy,it,dp,,dp,,N. Vivace
+sassy,de,rs,,e,,FORSCH
+sassy,es,rs,,e,,GROSERA
+sassy,es,p,,b2w2,,grosera
+sassy,es,xy,,xy,,Grosero
+sassy,es,oras,,oras,,grosera
+careful,en,rs,,e,,CAREFUL
+careful,fr,rs,,e,,PRUDENT
+careful,it,rs,,e,,CAUTA
+careful,it,dp,,dp,,N. Cauta
+careful,de,rs,,e,,SACHT
+careful,es,rs,,e,,CAUTA
+careful,es,p,,b2w2,,cauta
+careful,es,xy,,xy,,Cauto
+careful,es,oras,,oras,,cauta
+quirky,en,rs,,e,,QUIRKY
+quirky,fr,rs,,e,,BIZARRE
+quirky,it,rs,,e,,FURBA
+quirky,it,dp,,dp,,N. Furba
+quirky,de,rs,,e,,KAUZIG
+quirky,es,rs,,e,,RARA
+quirky,es,p,,b2w2,,rara
+quirky,es,xy,,xy,,Raro
+quirky,es,oras,,oras,,rara
