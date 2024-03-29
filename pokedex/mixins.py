@@ -54,14 +54,6 @@ class GameCollectionTable(BaseCollectionTable):
         return self.game.game_group_identifier
 
 
-class GameGroupRevisionCollectionTable(GameGroupCollectionTable):
-    game_revision: Mapped[str] = mapped_column(primary_key=True)
-
-
-class GameRevisionCollectionTable(GameCollectionTable):
-    game_revision: Mapped[str] = mapped_column(primary_key=True)
-
-
 # Sequences (pokemon egg groups, pokemon types, ...)
 
 
@@ -110,29 +102,6 @@ class TranslationsTable(BaseCollectionTable):
     def language(cls) -> Mapped[tables.Language]:
         return relationship(viewonly=True)
 
-    @property
-    def game_group_enum(self) -> enums.GameGroup:
-        return enums.GameGroup.get_default()
-
-    def sort_key(
-        self,
-        language: enums.Language,
-        game_group: enums.GameGroup = enums.GameGroup.get_default(),
-    ) -> tuple[int, int]:
-        language_key = 0
-        if self.language_identifier == enums.Language.get_default():
-            language_key = 1
-        elif self.language_identifier == language:
-            language_key = 2
-
-        game_group_key = 0
-        entry_game_group = self.game_group_enum
-        game_group_key = entry_game_group.order
-        if entry_game_group > game_group:
-            game_group_key = -game_group_key
-
-        return (language_key, game_group_key)
-
 
 TranslationsTableT = TypeVar("TranslationsTableT", bound=TranslationsTable)
 
@@ -158,15 +127,6 @@ class TranslationChangesTable(TranslationsTable):
         return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_to)
 
 
-class GameGroupTranslationsTable(GameGroupCollectionTable, TranslationsTable):
-    pass
-
-
-GameGroupTranslationsTableT = TypeVar(
-    "GameGroupTranslationsTableT", bound=GameGroupTranslationsTable
-)
-
-
 class GameTranslationsTable(GameCollectionTable, TranslationsTable):
     pass
 
@@ -174,21 +134,6 @@ class GameTranslationsTable(GameCollectionTable, TranslationsTable):
 GameTranslationsTableT = TypeVar("GameTranslationsTableT", bound=GameTranslationsTable)
 
 
-class GameGroupRevisionTranslationsTable(
-    GameGroupRevisionCollectionTable, TranslationsTable
-):
-    pass
-
-
-GameGroupRevisionTranslationsTableT = TypeVar(
-    "GameGroupRevisionTranslationsTableT", bound=GameGroupRevisionTranslationsTable
-)
-
-
-class GameRevisionTranslationsTable(GameRevisionCollectionTable, TranslationsTable):
-    pass
-
-
-GameRevisionTranslationsTableT = TypeVar(
-    "GameRevisionTranslationsTableT", bound=GameRevisionTranslationsTable
-)
+class GameTranslationChangesTable(GameTranslationsTable):
+    game_revision_from: Mapped[str] = mapped_column(primary_key=True)
+    game_revision_to: Mapped[str] = mapped_column(primary_key=True)

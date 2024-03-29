@@ -76,65 +76,46 @@ class GameGroupOrGameMappingCollection(
         }
 
 
-class BaseTranslationsCollection(BaseCollection[mixins.TranslationsTableT]):
+class TranslationsCollection(BaseCollection[mixins.TranslationsTableT]):
+    def get(
+        self, *, language: enums.Language | str = enums.Language.get_default()
+    ) -> mixins.TranslationsTableT:
+        language = enums.Language(language)
+
+        return next(x for x in self if x.language_identifier == language)
+
+
+class GameTranslationsCollection(BaseCollection[mixins.GameTranslationsTableT]):
     def all(
         self,
         *,
         game_group: enums.GameGroup | str | None = None,
         language: enums.Language | str | None = None,
-    ) -> list[mixins.TranslationsTableT]:
+    ) -> list[mixins.GameTranslationsTableT]:
         game_group = enums.GameGroup(game_group) if game_group else None
         language = enums.Language(language) if language else None
 
         entries = []
         for entry in self:
-            if game_group and game_group != entry.game_group_enum:
+            if game_group and game_group != entry.game.game_group_identifier:
                 continue
             if language and language != entry.language_identifier:
                 continue
             entries.append(entry)
         return entries
 
-
-class TranslationsCollection(BaseTranslationsCollection[mixins.TranslationsTableT]):
-    def get(
-        self, *, language: enums.Language | str = enums.Language.get_default()
-    ) -> mixins.TranslationsTableT:
-        language_ = enums.Language(language)
-
-        return max(self, key=lambda x: x.sort_key(language_))
-
-
-class GameGroupTranslationsCollection(
-    BaseTranslationsCollection[mixins.GameGroupTranslationsTableT]
-):
     def get(
         self,
-        game_group: enums.GameGroup | str = enums.GameGroup.get_default(),
         *,
-        language: enums.Language | str = enums.Language.get_default(),
-    ) -> mixins.GameGroupTranslationsTableT:
-        game_group_ = enums.GameGroup(game_group)
-        language_ = enums.Language(language)
-
-        return max(self, key=lambda x: x.sort_key(language_, game_group_))
-
-
-class GameTranslationsCollection(
-    BaseTranslationsCollection[mixins.GameTranslationsTableT]
-):
-    def get(
-        self,
         game_group: enums.GameGroup | str = enums.GameGroup.get_default(),
-        *,
         language: enums.Language | str = enums.Language.get_default(),
     ) -> dict[enums.Game, mixins.GameTranslationsTableT]:
         game_group = enums.GameGroup(game_group)
         language = enums.Language(language)
 
-        sort_key = max(x.sort_key(language, game_group) for x in self)
         return {
             x.game.identifier: x
             for x in self
-            if x.sort_key(language, game_group) == sort_key
+            if game_group == x.game.game_group_identifier
+            and language == x.language_identifier
         }

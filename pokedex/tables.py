@@ -393,8 +393,8 @@ class PokemonFlavorText(mixins.GameTranslationsTable, Base):
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
 
 
-class PokemonFlavorTextRevision(mixins.GameRevisionTranslationsTable, Base):
-    __tablename__ = "pokemon_flavor_text_revision"
+class PokemonFlavorTextChange(mixins.GameTranslationChangesTable, Base):
+    __tablename__ = "pokemon_flavor_text_changes"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     flavor_text: Mapped[str]
