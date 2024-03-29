@@ -4,8 +4,9 @@ from typing import Any
 
 import pytest
 from sqlalchemy import ColumnElement, String, cast, func, select
+from sqlalchemy.orm import Session
 
-from pokedex import pokedex, tables
+from pokedex import tables
 from pokedex.enums import AbilitySlot, GameGroup
 
 ChangesDict = dict[  # type: ignore[misc]
@@ -1187,61 +1188,61 @@ types_changes: ChangesDict = {
     ],
 )
 def test_pokemon_attribute_changes(
+    session: Session,
     table: type[tables.Base],
     entry_column: ColumnElement[str],
     changes: ChangesDict,
 ) -> None:
-    with pokedex.session() as session:
-        stmt = (
-            select(
-                table.pokemon_identifier,  # type: ignore[attr-defined]
-                table.game_group_identifier,  # type: ignore[attr-defined]
-                entry_column.label("entry"),
-            )
-            .select_from(table)
-            .join(tables.GameGroup)
-            .group_by(
-                table.pokemon_identifier,  # type: ignore[attr-defined]
-                table.game_group_identifier,  # type: ignore[attr-defined]
-            )
-            .order_by(
-                table.pokemon_identifier,  # type: ignore[attr-defined]
-                tables.GameGroup.order,
-            )
+    stmt = (
+        select(
+            table.pokemon_identifier,  # type: ignore[attr-defined]
+            table.game_group_identifier,  # type: ignore[attr-defined]
+            entry_column.label("entry"),
         )
-        result = session.execute(stmt)
+        .select_from(table)
+        .join(tables.GameGroup)
+        .group_by(
+            table.pokemon_identifier,  # type: ignore[attr-defined]
+            table.game_group_identifier,  # type: ignore[attr-defined]
+        )
+        .order_by(
+            table.pokemon_identifier,  # type: ignore[attr-defined]
+            tables.GameGroup.order,
+        )
+    )
+    result = session.execute(stmt)
 
-        identifier = ""
-        entry: dict[Any, str]  # type: ignore[misc]
-        for row in result:
-            row_entry = dict(x.split(":") for x in row.entry.split(","))
-            if table is tables.PokemonAbility:
-                row_entry = {AbilitySlot[k]: v for k, v in row_entry.items()}
-            if row.pokemon_identifier != identifier:
-                identifier = row.pokemon_identifier
-                entry = row_entry
-            elif (
-                row.game_group_identifier == GameGroup.BW
-                and table is tables.PokemonAbility
-                and AbilitySlot.HIDDEN in row_entry
-            ):
-                entry[AbilitySlot.HIDDEN] = row_entry[AbilitySlot.HIDDEN]
-
-            change = changes.get(row.game_group_identifier, {}).get(identifier, None)
-            if row_entry == entry:
-                assert change is None, (
-                    identifier,
-                    row.game_group_identifier,
-                )
-            else:
-                assert change == (entry, row_entry), (
-                    identifier,
-                    row.game_group_identifier,
-                )
+    identifier = ""
+    entry: dict[Any, str]  # type: ignore[misc]
+    for row in result:
+        row_entry = dict(x.split(":") for x in row.entry.split(","))
+        if table is tables.PokemonAbility:
+            row_entry = {AbilitySlot[k]: v for k, v in row_entry.items()}
+        if row.pokemon_identifier != identifier:
+            identifier = row.pokemon_identifier
             entry = row_entry
+        elif (
+            row.game_group_identifier == GameGroup.BW
+            and table is tables.PokemonAbility
+            and AbilitySlot.HIDDEN in row_entry
+        ):
+            entry[AbilitySlot.HIDDEN] = row_entry[AbilitySlot.HIDDEN]
+
+        change = changes.get(row.game_group_identifier, {}).get(identifier, None)
+        if row_entry == entry:
+            assert change is None, (
+                identifier,
+                row.game_group_identifier,
+            )
+        else:
+            assert change == (entry, row_entry), (
+                identifier,
+                row.game_group_identifier,
+            )
+        entry = row_entry
 
 
-def test_pokemon_stat_changes() -> None:
+def test_pokemon_stat_changes(session: Session) -> None:
     base_stat_changes: ChangesDict = {
         GameGroup.XY: {
             "butterfree": (
@@ -1593,80 +1594,79 @@ def test_pokemon_stat_changes() -> None:
         },
     }
 
-    with pokedex.session() as session:
-        stmt = (
-            select(
-                tables.PokemonStat.pokemon_identifier,
-                tables.PokemonStat.game_group_identifier,
-                func.group_concat(
-                    tables.PokemonStat.stat_identifier
-                    + ":"
-                    + cast(tables.PokemonStat.base_value, String)
-                    + ";"
-                    + cast(tables.PokemonStat.ev_yield, String)
-                ).label("entry"),
-            )
-            .select_from(tables.PokemonStat)
-            .join(tables.GameGroup)
-            .group_by(
-                tables.PokemonStat.pokemon_identifier,
-                tables.PokemonStat.game_group_identifier,
-            )
-            .order_by(
-                tables.PokemonStat.pokemon_identifier,
-                tables.GameGroup.order,
-            )
+    stmt = (
+        select(
+            tables.PokemonStat.pokemon_identifier,
+            tables.PokemonStat.game_group_identifier,
+            func.group_concat(
+                tables.PokemonStat.stat_identifier
+                + ":"
+                + cast(tables.PokemonStat.base_value, String)
+                + ";"
+                + cast(tables.PokemonStat.ev_yield, String)
+            ).label("entry"),
         )
-        result = session.execute(stmt)
+        .select_from(tables.PokemonStat)
+        .join(tables.GameGroup)
+        .group_by(
+            tables.PokemonStat.pokemon_identifier,
+            tables.PokemonStat.game_group_identifier,
+        )
+        .order_by(
+            tables.PokemonStat.pokemon_identifier,
+            tables.GameGroup.order,
+        )
+    )
+    result = session.execute(stmt)
 
-        identifier = ""
-        for row in result:
-            row_entry = [x.split(":") for x in row.entry.split(",")]
-            row_base_stats = {k: v.split(";")[0] for k, v in row_entry}
-            row_evs_yield = {k: v.split(";")[1] for k, v in row_entry}
-            if row.pokemon_identifier != identifier:
-                identifier = row.pokemon_identifier
-                base_stats = row_base_stats
-                evs_yield = row_evs_yield
-            elif row.game_group_identifier == GameGroup.GS:
-                del base_stats["special"]
-                base_stats["sp-atk"] = row_base_stats["sp-atk"]
-                base_stats["sp-def"] = row_base_stats["sp-def"]
+    identifier = ""
+    for row in result:
+        row_entry = [x.split(":") for x in row.entry.split(",")]
+        row_base_stats = {k: v.split(";")[0] for k, v in row_entry}
+        row_evs_yield = {k: v.split(";")[1] for k, v in row_entry}
+        if row.pokemon_identifier != identifier:
+            identifier = row.pokemon_identifier
+            base_stats = row_base_stats
+            evs_yield = row_evs_yield
+        elif row.game_group_identifier == GameGroup.GS:
+            del base_stats["special"]
+            base_stats["sp-atk"] = row_base_stats["sp-atk"]
+            base_stats["sp-def"] = row_base_stats["sp-def"]
 
-            base_stat_change = base_stat_changes.get(row.game_group_identifier, {}).get(
+        base_stat_change = base_stat_changes.get(row.game_group_identifier, {}).get(
+            identifier, None
+        )
+        if row_base_stats == base_stats:
+            assert base_stat_change is None, (
+                identifier,
+                row.game_group_identifier,
+            )
+        else:
+            assert (
+                row_base_stats | base_stat_change[0],  # type: ignore[index]
+                base_stats | base_stat_change[1],  # type: ignore[index]
+            ) == (base_stats, row_base_stats), (
+                identifier,
+                row.game_group_identifier,
+            )
+
+        if row.game_group_identifier > GameGroup.RS:
+            ev_yield_change = ev_yield_changes.get(row.game_group_identifier, {}).get(
                 identifier, None
             )
-            if row_base_stats == base_stats:
-                assert base_stat_change is None, (
+            if row_evs_yield == evs_yield:
+                assert ev_yield_change is None, (
                     identifier,
                     row.game_group_identifier,
                 )
             else:
                 assert (
-                    row_base_stats | base_stat_change[0],  # type: ignore[index]
-                    base_stats | base_stat_change[1],  # type: ignore[index]
-                ) == (base_stats, row_base_stats), (
+                    row_evs_yield | ev_yield_change[0],  # type: ignore[index]
+                    evs_yield | ev_yield_change[1],  # type: ignore[index]
+                ) == (evs_yield, row_evs_yield), (
                     identifier,
                     row.game_group_identifier,
                 )
 
-            if row.game_group_identifier > GameGroup.RS:
-                ev_yield_change = ev_yield_changes.get(
-                    row.game_group_identifier, {}
-                ).get(identifier, None)
-                if row_evs_yield == evs_yield:
-                    assert ev_yield_change is None, (
-                        identifier,
-                        row.game_group_identifier,
-                    )
-                else:
-                    assert (
-                        row_evs_yield | ev_yield_change[0],  # type: ignore[index]
-                        evs_yield | ev_yield_change[1],  # type: ignore[index]
-                    ) == (evs_yield, row_evs_yield), (
-                        identifier,
-                        row.game_group_identifier,
-                    )
-
-            base_stats = row_base_stats
-            evs_yield = row_evs_yield
+        base_stats = row_base_stats
+        evs_yield = row_evs_yield
