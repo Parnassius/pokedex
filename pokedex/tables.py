@@ -63,9 +63,7 @@ class Ability(Base):
         viewonly=True
     )
 
-    pokemon: Mapped[collections.GameGroupSequenceCollection[PokemonAbility]] = (
-        relationship(viewonly=True)
-    )
+    pokemon: Mapped[list[PokemonAbility]] = relationship(viewonly=True)
 
 
 class AbilityName(mixins.TranslationsTable, Base):
@@ -112,9 +110,7 @@ class EggGroup(Base):
         viewonly=True
     )
 
-    pokemon: Mapped[collections.GameGroupSequenceCollection[PokemonEggGroup]] = (
-        relationship(viewonly=True)
-    )
+    pokemon: Mapped[list[PokemonEggGroup]] = relationship(viewonly=True)
 
 
 class EggGroupName(mixins.TranslationsTable, Base):
@@ -302,19 +298,16 @@ class Pokemon(Base):
     form_names: Mapped[collections.TranslationsCollection[PokemonFormName]] = (
         relationship(viewonly=True)
     )
-    abilities: Mapped[
-        collections.GameGroupMappingCollection[PokemonAbility, enums.AbilitySlot]
-    ] = relationship(viewonly=True)
-    egg_groups: Mapped[collections.GameGroupSequenceCollection[PokemonEggGroup]] = (
-        relationship(order_by="PokemonEggGroup.slot", viewonly=True)
+    abilities: Mapped[list[PokemonAbility]] = relationship(viewonly=True)
+    egg_groups: Mapped[list[PokemonEggGroup]] = relationship(
+        order_by="PokemonEggGroup.slot", viewonly=True
     )
     flavor_text: Mapped[collections.GameTranslationsCollection[PokemonFlavorText]] = (
         relationship(viewonly=True)
     )
-    stats: Mapped[collections.GameGroupMappingCollection[PokemonStat, str]] = (
-        relationship(viewonly=True)
-    )
-    types: Mapped[collections.GameGroupSequenceCollection[PokemonType]] = relationship(
+    stats: Mapped[list[PokemonStat]] = relationship(viewonly=True)
+    evs_yield: Mapped[list[PokemonEvYield]] = relationship(viewonly=True)
+    types: Mapped[list[PokemonType]] = relationship(
         order_by="PokemonType.slot", viewonly=True
     )
     wild_held_items_game_group: Mapped[
@@ -341,7 +334,7 @@ class Pokemon(Base):
     )
 
 
-class PokemonAbility(mixins.GameGroupSequenceTable, mixins.GameGroupMappingTable, Base):
+class PokemonAbility(Base):
     __tablename__ = "pokemon_abilities"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
@@ -354,18 +347,22 @@ class PokemonAbility(mixins.GameGroupSequenceTable, mixins.GameGroupMappingTable
     slot: Mapped[AbilitySlot] = relationship(viewonly=True)
     ability: Mapped[Ability] = relationship(viewonly=True)
 
-    @property
-    def mapping_key(self) -> enums.AbilitySlot:
-        return self.slot_identifier
 
-    __table_args__ = (
-        UniqueConstraint(
-            "game_group_identifier", "pokemon_identifier", "ability_identifier"
-        ),
+class PokemonAbilityChange(mixins.ChangesTable, Base):
+    __tablename__ = "pokemon_ability_changes"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    slot_identifier: Mapped[enums.AbilitySlot] = mapped_column(
+        ForeignKey("ability_slots.identifier"), primary_key=True
     )
+    ability_identifier: Mapped[str] = mapped_column(ForeignKey("abilities.identifier"))
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+    slot: Mapped[AbilitySlot] = relationship(viewonly=True)
+    ability: Mapped[Ability] = relationship(viewonly=True)
 
 
-class PokemonEggGroup(mixins.GameGroupSequenceTable, Base):
+class PokemonEggGroup(Base):
     __tablename__ = "pokemon_egg_groups"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
@@ -377,11 +374,40 @@ class PokemonEggGroup(mixins.GameGroupSequenceTable, Base):
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
     egg_group: Mapped[EggGroup] = relationship(viewonly=True)
 
-    __table_args__ = (
-        UniqueConstraint(
-            "game_group_identifier", "pokemon_identifier", "egg_group_identifier"
-        ),
+
+class PokemonEggGroupChange(mixins.ChangesTable, Base):
+    __tablename__ = "pokemon_egg_group_changes"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    slot: Mapped[intpk] = mapped_column(CheckConstraint("slot IN (1, 2)"))
+    egg_group_identifier: Mapped[str] = mapped_column(
+        ForeignKey("egg_groups.identifier")
     )
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+    egg_group: Mapped[EggGroup] = relationship(viewonly=True)
+
+
+class PokemonEvYield(Base):
+    __tablename__ = "pokemon_evs_yield"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
+    value: Mapped[int] = mapped_column(CheckConstraint("value BETWEEN 0 AND 3"))
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+    stat: Mapped[Stat] = relationship(viewonly=True)
+
+
+class PokemonEvYieldChange(mixins.ChangesTable, Base):
+    __tablename__ = "pokemon_ev_yield_changes"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
+    value: Mapped[int] = mapped_column(CheckConstraint("value BETWEEN 0 AND 3"))
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+    stat: Mapped[Stat] = relationship(viewonly=True)
 
 
 class PokemonFlavorText(mixins.GameTranslationsTable, Base):
@@ -469,25 +495,29 @@ class PokemonSpeciesNameChange(mixins.TranslationChangesTable, Base):
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
 
 
-class PokemonStat(mixins.GameGroupMappingTable, Base):
+class PokemonStat(Base):
     __tablename__ = "pokemon_stats"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
     stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
-    base_value: Mapped[int] = mapped_column(
-        CheckConstraint("base_value BETWEEN 1 AND 255")
-    )
-    ev_yield: Mapped[int] = mapped_column(CheckConstraint("ev_yield BETWEEN 0 AND 3"))
+    value: Mapped[int] = mapped_column(CheckConstraint("value BETWEEN 1 AND 255"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
     stat: Mapped[Stat] = relationship(viewonly=True)
 
-    @property
-    def mapping_key(self) -> str:
-        return self.stat_identifier
+
+class PokemonStatChange(mixins.ChangesTable, Base):
+    __tablename__ = "pokemon_stat_changes"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
+    value: Mapped[int] = mapped_column(CheckConstraint("value BETWEEN 1 AND 255"))
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+    stat: Mapped[Stat] = relationship(viewonly=True)
 
 
-class PokemonType(mixins.GameGroupSequenceTable, Base):
+class PokemonType(Base):
     __tablename__ = "pokemon_types"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
@@ -497,11 +527,16 @@ class PokemonType(mixins.GameGroupSequenceTable, Base):
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
     type: Mapped[Type] = relationship(viewonly=True)
 
-    __table_args__ = (
-        UniqueConstraint(
-            "game_group_identifier", "pokemon_identifier", "type_identifier"
-        ),
-    )
+
+class PokemonTypeChange(mixins.ChangesTable, Base):
+    __tablename__ = "pokemon_type_changes"
+
+    pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    slot: Mapped[intpk] = mapped_column(CheckConstraint("slot IN (1, 2)"))
+    type_identifier: Mapped[str] = mapped_column(ForeignKey("types.identifier"))
+
+    pokemon: Mapped[Pokemon] = relationship(viewonly=True)
+    type: Mapped[Type] = relationship(viewonly=True)
 
 
 class PokemonWildHeldItemGame(mixins.GameMappingTable, Base):
@@ -585,9 +620,7 @@ class Type(Base):
         viewonly=True
     )
 
-    pokemon: Mapped[collections.GameGroupSequenceCollection[PokemonType]] = (
-        relationship(viewonly=True)
-    )
+    pokemon: Mapped[list[PokemonType]] = relationship(viewonly=True)
 
 
 class TypeName(mixins.TranslationsTable, Base):

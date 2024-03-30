@@ -20,13 +20,6 @@ class BaseCollection(list[mixins.BaseCollectionTableT]):
         return [x for x in self if x.game_group_enum == game_group]
 
 
-class GameGroupSequenceCollection(BaseCollection[mixins.GameGroupSequenceTableT]):
-    def get(
-        self, game_group: enums.GameGroup | str | None = None
-    ) -> list[mixins.GameGroupSequenceTableT]:
-        return self._get(game_group)
-
-
 class GameGroupMappingCollection(
     BaseCollection[mixins.GameGroupMappingTableT],
     Generic[mixins.GameGroupMappingTableT, HashableT],

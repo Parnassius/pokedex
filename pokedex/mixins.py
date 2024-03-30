@@ -54,19 +54,28 @@ class GameCollectionTable(BaseCollectionTable):
         return self.game.game_group_identifier
 
 
-# Sequences (pokemon egg groups, pokemon types, ...)
+class ChangesTable:
+    game_group_identifier_from: Mapped[enums.GameGroup] = mapped_column(
+        ForeignKey("game_groups.identifier"), primary_key=True
+    )
+    game_revision_from: Mapped[str] = mapped_column(primary_key=True)
+    game_group_identifier_to: Mapped[enums.GameGroup] = mapped_column(
+        ForeignKey("game_groups.identifier"), primary_key=True
+    )
+    game_revision_to: Mapped[str] = mapped_column(primary_key=True)
+
+    @declared_attr
+    @classmethod
+    def game_group_from(cls) -> Mapped[tables.GameGroup]:
+        return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_from)
+
+    @declared_attr
+    @classmethod
+    def game_group_to(cls) -> Mapped[tables.GameGroup]:
+        return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_to)
 
 
-class GameGroupSequenceTable(GameGroupCollectionTable):
-    pass
-
-
-GameGroupSequenceTableT = TypeVar(
-    "GameGroupSequenceTableT", bound=GameGroupSequenceTable
-)
-
-
-# Mappings (pokemon abilities, pokemon stats, ...)
+# Mappings (held items)
 
 
 class BaseMappingTable(BaseCollectionTable):
@@ -106,25 +115,8 @@ class TranslationsTable(BaseCollectionTable):
 TranslationsTableT = TypeVar("TranslationsTableT", bound=TranslationsTable)
 
 
-class TranslationChangesTable(TranslationsTable):
-    game_group_identifier_from: Mapped[enums.GameGroup] = mapped_column(
-        ForeignKey("game_groups.identifier"), primary_key=True
-    )
-    game_revision_from: Mapped[str] = mapped_column(primary_key=True)
-    game_group_identifier_to: Mapped[enums.GameGroup] = mapped_column(
-        ForeignKey("game_groups.identifier"), primary_key=True
-    )
-    game_revision_to: Mapped[str] = mapped_column(primary_key=True)
-
-    @declared_attr
-    @classmethod
-    def game_group_from(cls) -> Mapped[tables.GameGroup]:
-        return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_from)
-
-    @declared_attr
-    @classmethod
-    def game_group_to(cls) -> Mapped[tables.GameGroup]:
-        return relationship(viewonly=True, foreign_keys=cls.game_group_identifier_to)
+class TranslationChangesTable(ChangesTable, TranslationsTable):
+    pass
 
 
 class GameTranslationsTable(GameCollectionTable, TranslationsTable):
