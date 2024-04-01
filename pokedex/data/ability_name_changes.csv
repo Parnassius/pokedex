@@ -1,4 +1,4 @@
-ability_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+ability_identifier,language,game_group_from,game_revision_from,game_group_to,game_revision_to,name
 aftermath,es,dp,,lgpe,,Resquicio
 aftermath,zh-simp,sm,,ss,,引爆
 air-lock,en,rs,,e,,AIR LOCK

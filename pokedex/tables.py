@@ -1,9 +1,9 @@
 from __future__ import annotations
 
 from collections.abc import Collection
-from typing import Annotated
+from typing import Annotated, ClassVar
 
-from sqlalchemy import CheckConstraint, ForeignKey, UniqueConstraint
+from sqlalchemy import CheckConstraint, Enum, ForeignKey, UniqueConstraint
 from sqlalchemy.ext.associationproxy import AssociationProxy, association_proxy
 from sqlalchemy.orm import (
     DeclarativeBase,
@@ -26,7 +26,11 @@ strpk = Annotated[str, mapped_column(primary_key=True)]
 
 
 class Base(DeclarativeBase):
-    pass
+    type_annotation_map: ClassVar = {
+        enums.OrderedEnum: Enum(
+            enums.OrderedEnum, values_callable=lambda x: [i.sql_value for i in x]
+        ),
+    }
 
 
 class Ability(Base):
@@ -35,7 +39,7 @@ class Ability(Base):
     identifier: Mapped[strpk]
 
     name_associations: Mapped[dict[enums.Language, AbilityName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -66,20 +70,13 @@ class AbilityNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base
     ability: Mapped[Ability] = relationship(viewonly=True)
 
 
-class AbilitySlot(Base):
-    __tablename__ = "ability_slots"
-
-    identifier: Mapped[enums.AbilitySlot] = mapped_column(primary_key=True)
-    order: Mapped[int] = mapped_column(index=True, unique=True)
-
-
 class EggGroup(Base):
     __tablename__ = "egg_groups"
 
     identifier: Mapped[strpk]
 
     name_associations: Mapped[dict[enums.Language, EggGroupName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -100,41 +97,13 @@ class EggGroupName(mixins.NamesTranslationsTable, Base):
     egg_group: Mapped[EggGroup] = relationship(viewonly=True)
 
 
-class Game(Base):
-    __tablename__ = "games"
-
-    identifier: Mapped[enums.Game] = mapped_column(primary_key=True)
-    game_group_identifier: Mapped[enums.GameGroup] = mapped_column(
-        ForeignKey("game_groups.identifier")
-    )
-    order: Mapped[int] = mapped_column(index=True, unique=True)
-
-    game_group: Mapped[GameGroup] = relationship(viewonly=True)
-
-
-class GameGroup(Base):
-    __tablename__ = "game_groups"
-
-    identifier: Mapped[enums.GameGroup] = mapped_column(primary_key=True)
-    order: Mapped[int] = mapped_column(index=True, unique=True)
-
-    games: Mapped[list[Game]] = relationship(order_by="Game.order", viewonly=True)
-
-
-class HeldItemSlot(Base):
-    __tablename__ = "held_item_slots"
-
-    identifier: Mapped[enums.HeldItemSlot] = mapped_column(primary_key=True)
-    order: Mapped[int] = mapped_column(index=True, unique=True)
-
-
 class Item(Base):
     __tablename__ = "items"
 
     identifier: Mapped[strpk]
 
     name_associations: Mapped[dict[enums.Language, ItemName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -168,20 +137,13 @@ class ItemNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     item: Mapped[Item] = relationship(viewonly=True)
 
 
-class Language(Base):
-    __tablename__ = "languages"
-
-    identifier: Mapped[enums.Language] = mapped_column(primary_key=True)
-    order: Mapped[int] = mapped_column(index=True, unique=True)
-
-
 class Move(Base):
     __tablename__ = "moves"
 
     identifier: Mapped[strpk]
 
     name_associations: Mapped[dict[enums.Language, MoveName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -211,7 +173,7 @@ class Nature(Base):
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
     name_associations: Mapped[dict[enums.Language, NatureName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -246,9 +208,7 @@ class Pokemon(Base):
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
 
     form_name_associations: Mapped[dict[enums.Language, PokemonFormName]] = (
-        relationship(
-            collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
-        )
+        relationship(collection_class=attribute_keyed_dict("language"), viewonly=True)
     )
     form_names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "form_name_associations", "name"
@@ -264,9 +224,7 @@ class Pokemon(Base):
     )
 
     ability_associations: Mapped[dict[enums.AbilitySlot, PokemonAbility]] = (
-        relationship(
-            collection_class=attribute_keyed_dict("slot_identifier"), viewonly=True
-        )
+        relationship(collection_class=attribute_keyed_dict("slot"), viewonly=True)
     )
     abilities: AssociationProxy[dict[enums.AbilitySlot, Ability]] = association_proxy(
         "ability_associations", "ability"
@@ -327,13 +285,10 @@ class PokemonAbility(Base):
     __tablename__ = "pokemon_abilities"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    slot_identifier: Mapped[enums.AbilitySlot] = mapped_column(
-        ForeignKey("ability_slots.identifier"), primary_key=True
-    )
+    slot: Mapped[enums.AbilitySlot] = mapped_column(primary_key=True)
     ability_identifier: Mapped[str] = mapped_column(ForeignKey("abilities.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
-    slot: Mapped[AbilitySlot] = relationship(viewonly=True)
     ability: Mapped[Ability] = relationship(viewonly=True)
 
 
@@ -341,13 +296,10 @@ class PokemonAbilityChange(mixins.ChangesTable, Base):
     __tablename__ = "pokemon_ability_changes"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    slot_identifier: Mapped[enums.AbilitySlot] = mapped_column(
-        ForeignKey("ability_slots.identifier"), primary_key=True
-    )
+    slot: Mapped[enums.AbilitySlot] = mapped_column(primary_key=True)
     ability_identifier: Mapped[str] = mapped_column(ForeignKey("abilities.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
-    slot: Mapped[AbilitySlot] = relationship(viewonly=True)
     ability: Mapped[Ability] = relationship(viewonly=True)
 
 
@@ -409,7 +361,7 @@ class PokemonFlavorText(mixins.GameCollectionTable, mixins.TranslationsTable, Ba
 
     @property
     def key_identifier(self) -> tuple[enums.Language, enums.Game]:
-        return self.language_identifier, self.game_identifier
+        return self.language, self.game
 
 
 class PokemonFlavorTextChange(
@@ -452,7 +404,7 @@ class PokemonSpecies(Base):
     )
 
     name_associations: Mapped[dict[enums.Language, PokemonSpeciesName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -529,36 +481,30 @@ class PokemonWildHeldItemGame(mixins.GameCollectionTable, Base):
     __tablename__ = "pokemon_wild_held_items_game"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    slot_identifier: Mapped[enums.HeldItemSlot] = mapped_column(
-        ForeignKey("held_item_slots.identifier"), primary_key=True
-    )
-    item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
+    slot: Mapped[enums.HeldItemSlot] = mapped_column(primary_key=True)
+    item_identifier: Mapped[str] = mapped_column(ForeignKey("items.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
-    slot: Mapped[HeldItemSlot] = relationship(viewonly=True)
     item: Mapped[Item] = relationship(viewonly=True)
 
     @property
     def key_identifier(self) -> tuple[enums.Game, enums.HeldItemSlot]:
-        return self.game_identifier, self.slot_identifier
+        return self.game, self.slot
 
 
 class PokemonWildHeldItemGameGroup(mixins.GameGroupCollectionTable, Base):
     __tablename__ = "pokemon_wild_held_items_game_group"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    slot_identifier: Mapped[enums.HeldItemSlot] = mapped_column(
-        ForeignKey("held_item_slots.identifier"), primary_key=True
-    )
-    item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
+    slot: Mapped[enums.HeldItemSlot] = mapped_column(primary_key=True)
+    item_identifier: Mapped[str] = mapped_column(ForeignKey("items.identifier"))
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
-    slot: Mapped[HeldItemSlot] = relationship(viewonly=True)
     item: Mapped[Item] = relationship(viewonly=True)
 
     @property
     def key_identifier(self) -> tuple[enums.GameGroup, enums.HeldItemSlot]:
-        return self.game_group_identifier, self.slot_identifier
+        return self.game_group, self.slot
 
 
 class Stat(Base):
@@ -568,7 +514,7 @@ class Stat(Base):
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
     name_associations: Mapped[dict[enums.Language, StatName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"
@@ -598,7 +544,7 @@ class Type(Base):
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
     name_associations: Mapped[dict[enums.Language, TypeName]] = relationship(
-        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+        collection_class=attribute_keyed_dict("language"), viewonly=True
     )
     names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
         "name_associations", "name"

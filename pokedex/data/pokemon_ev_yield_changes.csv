@@ -1,4 +1,4 @@
-pokemon_identifier,stat_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,value
+pokemon_identifier,stat_identifier,game_group_from,game_revision_from,game_group_to,game_revision_to,value
 yanma,speed,rs,,e,,2
 slowking,sp-def,rs,,usum,,3
 misdreavus,sp-atk,rs,,e,,1

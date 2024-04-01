@@ -1,4 +1,4 @@
-pokemon_identifier,slot_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,ability_identifier
+pokemon_identifier,slot,game_group_from,game_revision_from,game_group_to,game_revision_to,ability_identifier
 bulbasaur,1,rs,,hgss,,overgrow
 ivysaur,1,rs,,hgss,,overgrow
 venusaur,1,rs,,hgss,,overgrow

@@ -1,4 +1,4 @@
-game_identifier,pokemon_identifier,language_identifier,game_revision_from,game_revision_to,flavor_text
+game,pokemon_identifier,language,game_revision_from,game_revision_to,flavor_text
 ruby,paras,en,rev-0,rev-0,"PARAS has parasitic mushrooms growing
 on its back called tochukaso. They grow
 large by drawing nutrients from the BUGPOKéMON host. They are highly valued as

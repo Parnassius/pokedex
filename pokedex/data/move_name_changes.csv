@@ -1,4 +1,4 @@
-move_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+move_identifier,language,game_group_from,game_revision_from,game_group_to,game_revision_to,name
 absorb,en,rb,,e,,ABSORB
 absorb,fr,rb,,e,,VOL-VIE
 absorb,fr,dp,,lgpe,,Vol-Vie

@@ -14,11 +14,16 @@ class OrderedEnum(Enum):
 
     @property
     def order(self) -> int:
-        return list(self.__class__.__members__.values()).index(self)
+        return list(self.__class__).index(self)
+
+    @property
+    def sql_value(self) -> str:
+        max_length = len(str(next(reversed(self.__class__)).order))
+        return f"{self.order:0>{max_length}}_{self.name}"
 
 
 @unique
-class AbilitySlot(Enum):
+class AbilitySlot(OrderedEnum):
     SLOT_1 = "1"
     SLOT_2 = "2"
     HIDDEN = "h"
@@ -65,30 +70,42 @@ class Game(OrderedEnum):
     SCARLET = "scarlet"
     VIOLET = "violet"
 
+    @property
+    def game_group(self) -> GameGroup:
+        return next(x for x in GameGroup if self in x.games)
+
 
 @unique
 class GameGroup(OrderedEnum):
-    RB = "rb"
-    Y = "y"
-    GS = "gs"
-    C = "c"
-    RS = "rs"
-    FRLG = "frlg"
-    E = "e"
-    DP = "dp"
-    P = "p"
-    HGSS = "hgss"
-    BW = "bw"
-    B2W2 = "b2w2"
-    XY = "xy"
-    ORAS = "oras"
-    SM = "sm"
-    USUM = "usum"
-    LGPE = "lgpe"
-    SS = "ss"
-    BDSP = "bdsp"
-    LA = "la"
-    SV = "sv"
+    RB = "rb", [Game.RED, Game.BLUE, Game.BLUE_JP]
+    Y = "y", [Game.YELLOW]
+    GS = "gs", [Game.GOLD, Game.SILVER]
+    C = "c", [Game.CRYSTAL]
+    RS = "rs", [Game.RUBY, Game.SAPPHIRE]
+    FRLG = "frlg", [Game.FIRE_RED, Game.LEAF_GREEN]
+    E = "e", [Game.EMERALD]
+    DP = "dp", [Game.DIAMOND, Game.PEARL]
+    P = "p", [Game.PLATINUM]
+    HGSS = "hgss", [Game.HEART_GOLD, Game.SOUL_SILVER]
+    BW = "bw", [Game.BLACK, Game.WHITE]
+    B2W2 = "b2w2", [Game.BLACK_2, Game.WHITE_2]
+    XY = "xy", [Game.X, Game.Y]
+    ORAS = "oras", [Game.OMEGA_RUBY, Game.ALPHA_SAPPHIRE]
+    SM = "sm", [Game.SUN, Game.MOON]
+    USUM = "usum", [Game.ULTRA_SUN, Game.ULTRA_MOON]
+    LGPE = "lgpe", [Game.LETS_GO_PIKACHU, Game.LETS_GO_EEVEE]
+    SS = "ss", [Game.SWORD, Game.SHIELD]
+    BDSP = "bdsp", [Game.BRILLIANT_DIAMOND, Game.SHINING_PEARL]
+    LA = "la", [Game.LEGENDS_ARCEUS]
+    SV = "sv", [Game.SCARLET, Game.VIOLET]
+
+    games: list[Game]
+
+    def __new__(cls, value: str, games: list[Game], /) -> GameGroup:
+        obj = object.__new__(cls)
+        obj._value_ = value
+        obj.games = games
+        return obj
 
     @classmethod
     def get_default(cls) -> GameGroup:
@@ -96,14 +113,14 @@ class GameGroup(OrderedEnum):
 
 
 @unique
-class HeldItemSlot(Enum):
+class HeldItemSlot(OrderedEnum):
     COMMON = "common"
     RARE = "rare"
     RARER_DARK_GRASS = "rarer_dark_grass"
 
 
 @unique
-class Language(Enum):
+class Language(OrderedEnum):
     JAPANESE_KANA = "jp-kana"
     JAPANESE_KANJI = "jp-kanji"
     ENGLISH = "en"

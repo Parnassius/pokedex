@@ -1,4 +1,4 @@
-stat_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+stat_identifier,language,game_group_from,game_revision_from,game_group_to,game_revision_to,name
 hp,jp-kana,xy,,bdsp,,HP
 hp,jp-kanji,xy,,bdsp,,HP
 hp,zh-simp,sm,,bdsp,,HP

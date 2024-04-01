@@ -1,4 +1,4 @@
-pokemon_identifier,language_identifier,game_group_identifier_from,game_revision_from,game_group_identifier_to,game_revision_to,name
+pokemon_identifier,language,game_group_from,game_revision_from,game_group_to,game_revision_to,name
 raichu-alolan-form,en,sm,,lgpe,,Alola Form
 sandshrew-alolan-form,en,sm,,lgpe,,Alola Form
 sandslash-alolan-form,en,sm,,lgpe,,Alola Form

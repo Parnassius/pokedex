@@ -1,4 +1,4 @@
-pokemon_identifier,slot_identifier,ability_identifier
+pokemon_identifier,slot,ability_identifier
 bulbasaur,1,overgrow
 bulbasaur,h,chlorophyll
 ivysaur,1,overgrow

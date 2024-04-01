@@ -1,4 +1,4 @@
-game_group_identifier,pokemon_identifier,slot_identifier,item_identifier
+game_group,pokemon_identifier,slot,item_identifier
 rb,bulbasaur,common,bitter-berry
 rb,bulbasaur,rare,bitter-berry
 rb,ivysaur,common,bitter-berry

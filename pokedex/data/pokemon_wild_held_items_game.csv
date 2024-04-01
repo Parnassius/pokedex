@@ -1,4 +1,4 @@
-game_identifier,pokemon_identifier,slot_identifier,item_identifier
+game,pokemon_identifier,slot,item_identifier
 diamond,electabuzz,common,electirizer
 diamond,magmar,rare,magmarizer
 diamond,elekid,common,electirizer
