@@ -1,53 +1,28 @@
 from __future__ import annotations
 
-import re
-import unicodedata
-from collections.abc import Callable
+from collections.abc import Collection
 from typing import Annotated
 
 from sqlalchemy import CheckConstraint, ForeignKey, UniqueConstraint
-from sqlalchemy.engine.default import DefaultExecutionContext
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
-
-from pokedex import collections, enums, mixins
-
-NORMALIZED_VALUE_RE = (
-    r"["
-    r"a-z0-9"
-    r"\u3040-\u309F"  # hiragana
-    r"\u30A0-\u30FF"  # katakana
-    r"\u4E00-\u9FFF"  # cjk unified ideographs
-    r"\uAC00-\uD7AF"  # hangul syllables
-    r"]*"
+from sqlalchemy.ext.associationproxy import AssociationProxy, association_proxy
+from sqlalchemy.orm import (
+    DeclarativeBase,
+    Mapped,
+    attribute_keyed_dict,
+    mapped_column,
+    relationship,
 )
-OTHER_NORMALIZED_CHARACTERS = {
-    "œ": "oe",
-}
 
-
-def normalize_value(text: str) -> str:
-    text = unicodedata.normalize("NFKD", text)
-    text = "".join(c for c in text if not unicodedata.combining(c))
-    text = unicodedata.normalize("NFC", text)
-    text = text.replace("♀", "f").replace("♂", "m")
-    text = "".join(c for c in text if unicodedata.category(c)[0] in ("L", "N"))
-    text = text.casefold()
-    return "".join(OTHER_NORMALIZED_CHARACTERS.get(c, c) for c in text)
-
-
-def _normalized_value(field: str) -> Callable[[DefaultExecutionContext], str]:
-    def inner(context: DefaultExecutionContext) -> str:
-        text = context.get_current_parameters()[field]  # type: ignore[no-untyped-call]
-        assert isinstance(text, str)
-        text = normalize_value(text)
-        assert re.fullmatch(NORMALIZED_VALUE_RE, text), text
-        return text
-
-    return inner
-
+from pokedex import enums, mixins
 
 intpk = Annotated[int, mapped_column(primary_key=True)]
 strpk = Annotated[str, mapped_column(primary_key=True)]
+
+
+# Note: some annotations ignore UP037 (quotes in type annotation) because sqlalchemy
+# doesn't handle forward references in `Mapped` if the annotation contains a nested
+# generic (for example `dict[tuple[enums.Language, enums.Game], "PokemonFlavorText"]`).
+# https://github.com/sqlalchemy/sqlalchemy/blob/b304ef2808ba30ce9f7f250830a670be7f3058f5/lib/sqlalchemy/orm/util.py#L2282-L2307
 
 
 class Base(DeclarativeBase):
@@ -59,36 +34,33 @@ class Ability(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.TranslationsCollection[AbilityName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, AbilityName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
-    pokemon: Mapped[list[PokemonAbility]] = relationship(viewonly=True)
+    pokemon: Mapped[list[Pokemon]] = relationship(
+        secondary="pokemon_abilities", viewonly=True
+    )
 
 
-class AbilityName(mixins.TranslationsTable, Base):
+class AbilityName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "ability_names"
 
     ability_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("abilities.identifier")
     )
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     ability: Mapped[Ability] = relationship(viewonly=True)
 
 
-class AbilityNameChange(mixins.TranslationChangesTable, Base):
+class AbilityNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "ability_name_changes"
 
     ability_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("abilities.identifier")
-    )
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
     )
 
     ability: Mapped[Ability] = relationship(viewonly=True)
@@ -106,22 +78,23 @@ class EggGroup(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.TranslationsCollection[EggGroupName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, EggGroupName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
-    pokemon: Mapped[list[PokemonEggGroup]] = relationship(viewonly=True)
+    pokemon: Mapped[list[Pokemon]] = relationship(
+        secondary="pokemon_egg_groups", viewonly=True
+    )
 
 
-class EggGroupName(mixins.TranslationsTable, Base):
+class EggGroupName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "egg_group_names"
 
     egg_group_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("egg_groups.identifier")
-    )
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
     )
 
     egg_group: Mapped[EggGroup] = relationship(viewonly=True)
@@ -160,50 +133,37 @@ class Item(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.TranslationsCollection[ItemName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, ItemName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
-    pokemon_wild_held_game_group: Mapped[
-        collections.GameGroupMappingCollection[
-            PokemonWildHeldItemGameGroup, enums.HeldItemSlot
-        ]
-    ] = relationship(viewonly=True)
-    pokemon_wild_held_game: Mapped[
-        collections.GameMappingCollection[PokemonWildHeldItemGame, enums.HeldItemSlot]
-    ] = relationship(viewonly=True)
+    pokemon_wild_held_game_group: Mapped[list[Pokemon]] = relationship(
+        secondary="pokemon_wild_held_items_game", viewonly=True
+    )
+    pokemon_wild_held_game: Mapped[list[Pokemon]] = relationship(
+        secondary="pokemon_wild_held_items_game", viewonly=True
+    )
 
     @property
-    def pokemon_wild_held(
-        self,
-    ) -> collections.GameGroupOrGameMappingCollection[
-        PokemonWildHeldItemGameGroup, PokemonWildHeldItemGame, enums.HeldItemSlot
-    ]:
-        return collections.GameGroupOrGameMappingCollection(
-            self.pokemon_wild_held_game_group, self.pokemon_wild_held_game
-        )
+    def pokemon_wild_held(self) -> Collection[Pokemon]:
+        return {*self.pokemon_wild_held_game_group, *self.pokemon_wild_held_game}
 
 
-class ItemName(mixins.TranslationsTable, Base):
+class ItemName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "item_names"
 
     item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     item: Mapped[Item] = relationship(viewonly=True)
 
 
-class ItemNameChange(mixins.TranslationChangesTable, Base):
+class ItemNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "item_name_changes"
 
     item_identifier: Mapped[strpk] = mapped_column(ForeignKey("items.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     item: Mapped[Item] = relationship(viewonly=True)
 
@@ -220,31 +180,26 @@ class Move(Base):
 
     identifier: Mapped[strpk]
 
-    names: Mapped[collections.TranslationsCollection[MoveName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, MoveName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
 
-class MoveName(mixins.TranslationsTable, Base):
+class MoveName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "move_names"
 
     move_identifier: Mapped[strpk] = mapped_column(ForeignKey("moves.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     move: Mapped[Move] = relationship(viewonly=True)
 
 
-class MoveNameChange(mixins.TranslationChangesTable, Base):
+class MoveNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "move_name_changes"
 
     move_identifier: Mapped[strpk] = mapped_column(ForeignKey("moves.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     move: Mapped[Move] = relationship(viewonly=True)
 
@@ -255,31 +210,26 @@ class Nature(Base):
     identifier: Mapped[strpk]
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
-    names: Mapped[collections.TranslationsCollection[NatureName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, NatureName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
 
-class NatureName(mixins.TranslationsTable, Base):
+class NatureName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "nature_names"
 
     nature_identifier: Mapped[strpk] = mapped_column(ForeignKey("natures.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     nature: Mapped[Nature] = relationship(viewonly=True)
 
 
-class NatureNameChange(mixins.TranslationChangesTable, Base):
+class NatureNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "nature_name_changes"
 
     nature_identifier: Mapped[strpk] = mapped_column(ForeignKey("natures.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     nature: Mapped[Nature] = relationship(viewonly=True)
 
@@ -295,39 +245,78 @@ class Pokemon(Base):
 
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
 
-    form_names: Mapped[collections.TranslationsCollection[PokemonFormName]] = (
-        relationship(viewonly=True)
-    )
-    abilities: Mapped[list[PokemonAbility]] = relationship(viewonly=True)
-    egg_groups: Mapped[list[PokemonEggGroup]] = relationship(
-        order_by="PokemonEggGroup.slot", viewonly=True
-    )
-    flavor_text: Mapped[collections.GameTranslationsCollection[PokemonFlavorText]] = (
-        relationship(viewonly=True)
-    )
-    stats: Mapped[list[PokemonStat]] = relationship(viewonly=True)
-    evs_yield: Mapped[list[PokemonEvYield]] = relationship(viewonly=True)
-    types: Mapped[list[PokemonType]] = relationship(
-        order_by="PokemonType.slot", viewonly=True
-    )
-    wild_held_items_game_group: Mapped[
-        collections.GameGroupMappingCollection[
-            PokemonWildHeldItemGameGroup, enums.HeldItemSlot
-        ]
-    ] = relationship(viewonly=True)
-    wild_held_items_game: Mapped[
-        collections.GameMappingCollection[PokemonWildHeldItemGame, enums.HeldItemSlot]
-    ] = relationship(viewonly=True)
-
-    @property
-    def wild_held_items(
-        self,
-    ) -> collections.GameGroupOrGameMappingCollection[
-        PokemonWildHeldItemGameGroup, PokemonWildHeldItemGame, enums.HeldItemSlot
-    ]:
-        return collections.GameGroupOrGameMappingCollection(
-            self.wild_held_items_game_group, self.wild_held_items_game
+    form_name_associations: Mapped[dict[enums.Language, PokemonFormName]] = (
+        relationship(
+            collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
         )
+    )
+    form_names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "form_name_associations", "name"
+    )
+
+    flavor_text_associations: Mapped[
+        dict[tuple[enums.Language, enums.Game], "PokemonFlavorText"]  # noqa: UP037
+    ] = relationship(
+        collection_class=attribute_keyed_dict("key_identifier"), viewonly=True
+    )
+    flavor_text: AssociationProxy[dict[tuple[enums.Language, enums.Game], str]] = (
+        association_proxy("flavor_text_associations", "flavor_text")
+    )
+
+    ability_associations: Mapped[dict[enums.AbilitySlot, PokemonAbility]] = (
+        relationship(
+            collection_class=attribute_keyed_dict("slot_identifier"), viewonly=True
+        )
+    )
+    abilities: AssociationProxy[dict[enums.AbilitySlot, Ability]] = association_proxy(
+        "ability_associations", "ability"
+    )
+
+    egg_groups: Mapped[list[EggGroup]] = relationship(
+        secondary="pokemon_egg_groups", order_by="PokemonEggGroup.slot", viewonly=True
+    )
+
+    ev_yield_associations: Mapped[dict[Stat, PokemonEvYield]] = relationship(
+        collection_class=attribute_keyed_dict("stat"), viewonly=True
+    )
+    evs_yield: AssociationProxy[dict[Stat, int]] = association_proxy(
+        "ev_yield_associations", "value"
+    )
+
+    stat_associations: Mapped[dict[Stat, PokemonStat]] = relationship(
+        collection_class=attribute_keyed_dict("stat"), viewonly=True
+    )
+    stats: AssociationProxy[dict[Stat, int]] = association_proxy(
+        "stat_associations", "value"
+    )
+
+    types: Mapped[list[Type]] = relationship(
+        secondary="pokemon_types", order_by="PokemonType.slot", viewonly=True
+    )
+
+    wild_held_item_game_group_associations: Mapped[
+        dict[
+            tuple[enums.GameGroup, enums.HeldItemSlot],
+            "PokemonWildHeldItemGameGroup",  # noqa: UP037
+        ]
+    ] = relationship(
+        collection_class=attribute_keyed_dict("key_identifier"), viewonly=True
+    )
+    wild_held_items_game_group: AssociationProxy[
+        dict[tuple[enums.GameGroup, enums.HeldItemSlot], Item]
+    ] = association_proxy("wild_held_item_game_group_associations", "item")
+
+    wild_held_item_game_associations: Mapped[
+        dict[
+            tuple[enums.Game, enums.HeldItemSlot],
+            "PokemonWildHeldItemGame",  # noqa: UP037
+        ]
+    ] = relationship(
+        collection_class=attribute_keyed_dict("key_identifier"), viewonly=True
+    )
+    wild_held_items_game: AssociationProxy[
+        dict[tuple[enums.Game, enums.HeldItemSlot], Item]
+    ] = association_proxy("wild_held_item_game_associations", "item")
 
     __table_args__ = (
         UniqueConstraint("pokemon_species_identifier", "form_order", name="order"),
@@ -410,7 +399,7 @@ class PokemonEvYieldChange(mixins.ChangesTable, Base):
     stat: Mapped[Stat] = relationship(viewonly=True)
 
 
-class PokemonFlavorText(mixins.GameTranslationsTable, Base):
+class PokemonFlavorText(mixins.GameCollectionTable, mixins.TranslationsTable, Base):
     __tablename__ = "pokemon_flavor_text"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
@@ -418,36 +407,36 @@ class PokemonFlavorText(mixins.GameTranslationsTable, Base):
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
 
+    @property
+    def key_identifier(self) -> tuple[enums.Language, enums.Game]:
+        return self.language_identifier, self.game_identifier
 
-class PokemonFlavorTextChange(mixins.GameTranslationChangesTable, Base):
+
+class PokemonFlavorTextChange(
+    mixins.GameCollectionTable, mixins.TranslationsTable, Base
+):
     __tablename__ = "pokemon_flavor_text_changes"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
+    game_revision_from: Mapped[strpk]
+    game_revision_to: Mapped[strpk]
     flavor_text: Mapped[str]
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
 
 
-class PokemonFormName(mixins.TranslationsTable, Base):
+class PokemonFormName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "pokemon_form_names"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
 
 
-class PokemonFormNameChange(mixins.TranslationChangesTable, Base):
+class PokemonFormNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "pokemon_form_name_changes"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     pokemon: Mapped[Pokemon] = relationship(viewonly=True)
 
@@ -462,34 +451,31 @@ class PokemonSpecies(Base):
         order_by="Pokemon.form_order", viewonly=True
     )
 
-    names: Mapped[collections.TranslationsCollection[PokemonSpeciesName]] = (
-        relationship(viewonly=True)
+    name_associations: Mapped[dict[enums.Language, PokemonSpeciesName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
 
-class PokemonSpeciesName(mixins.TranslationsTable, Base):
+class PokemonSpeciesName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "pokemon_species_names"
 
     pokemon_species_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("pokemon_species.identifier")
     )
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
 
 
-class PokemonSpeciesNameChange(mixins.TranslationChangesTable, Base):
+class PokemonSpeciesNameChange(
+    mixins.ChangesTable, mixins.NamesTranslationsTable, Base
+):
     __tablename__ = "pokemon_species_name_changes"
 
     pokemon_species_identifier: Mapped[strpk] = mapped_column(
         ForeignKey("pokemon_species.identifier")
-    )
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
     )
 
     pokemon_species: Mapped[PokemonSpecies] = relationship(viewonly=True)
@@ -539,7 +525,7 @@ class PokemonTypeChange(mixins.ChangesTable, Base):
     type: Mapped[Type] = relationship(viewonly=True)
 
 
-class PokemonWildHeldItemGame(mixins.GameMappingTable, Base):
+class PokemonWildHeldItemGame(mixins.GameCollectionTable, Base):
     __tablename__ = "pokemon_wild_held_items_game"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
@@ -553,11 +539,11 @@ class PokemonWildHeldItemGame(mixins.GameMappingTable, Base):
     item: Mapped[Item] = relationship(viewonly=True)
 
     @property
-    def mapping_key(self) -> enums.HeldItemSlot:
-        return self.slot_identifier
+    def key_identifier(self) -> tuple[enums.Game, enums.HeldItemSlot]:
+        return self.game_identifier, self.slot_identifier
 
 
-class PokemonWildHeldItemGameGroup(mixins.GameGroupMappingTable, Base):
+class PokemonWildHeldItemGameGroup(mixins.GameGroupCollectionTable, Base):
     __tablename__ = "pokemon_wild_held_items_game_group"
 
     pokemon_identifier: Mapped[strpk] = mapped_column(ForeignKey("pokemon.identifier"))
@@ -571,8 +557,8 @@ class PokemonWildHeldItemGameGroup(mixins.GameGroupMappingTable, Base):
     item: Mapped[Item] = relationship(viewonly=True)
 
     @property
-    def mapping_key(self) -> enums.HeldItemSlot:
-        return self.slot_identifier
+    def key_identifier(self) -> tuple[enums.GameGroup, enums.HeldItemSlot]:
+        return self.game_group_identifier, self.slot_identifier
 
 
 class Stat(Base):
@@ -581,31 +567,26 @@ class Stat(Base):
     identifier: Mapped[strpk]
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
-    names: Mapped[collections.TranslationsCollection[StatName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, StatName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
 
-class StatName(mixins.TranslationsTable, Base):
+class StatName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "stat_names"
 
     stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     stat: Mapped[Stat] = relationship(viewonly=True)
 
 
-class StatNameChange(mixins.TranslationChangesTable, Base):
+class StatNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "stat_name_changes"
 
     stat_identifier: Mapped[strpk] = mapped_column(ForeignKey("stats.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     stat: Mapped[Stat] = relationship(viewonly=True)
 
@@ -616,32 +597,29 @@ class Type(Base):
     identifier: Mapped[strpk]
     order: Mapped[int] = mapped_column(index=True, unique=True)
 
-    names: Mapped[collections.TranslationsCollection[TypeName]] = relationship(
-        viewonly=True
+    name_associations: Mapped[dict[enums.Language, TypeName]] = relationship(
+        collection_class=attribute_keyed_dict("language_identifier"), viewonly=True
+    )
+    names: AssociationProxy[dict[enums.Language, str]] = association_proxy(
+        "name_associations", "name"
     )
 
-    pokemon: Mapped[list[PokemonType]] = relationship(viewonly=True)
+    pokemon: Mapped[list[Pokemon]] = relationship(
+        secondary="pokemon_types", viewonly=True
+    )
 
 
-class TypeName(mixins.TranslationsTable, Base):
+class TypeName(mixins.NamesTranslationsTable, Base):
     __tablename__ = "type_names"
 
     type_identifier: Mapped[strpk] = mapped_column(ForeignKey("types.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     type: Mapped[Type] = relationship(viewonly=True)
 
 
-class TypeNameChange(mixins.TranslationChangesTable, Base):
+class TypeNameChange(mixins.ChangesTable, mixins.NamesTranslationsTable, Base):
     __tablename__ = "type_name_changes"
 
     type_identifier: Mapped[strpk] = mapped_column(ForeignKey("types.identifier"))
-    name: Mapped[str]
-    normalized_name: Mapped[str] = mapped_column(
-        index=True, default=_normalized_value("name")
-    )
 
     type: Mapped[Type] = relationship(viewonly=True)
