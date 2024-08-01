@@ -22,13 +22,13 @@ asyncio = [
 lint = [
     "pokedex[test]",
     "black==24.4.2",
-    "mypy==1.10.1",
-    "ruff==0.5.0",
+    "mypy==1.11.1",
+    "ruff==0.5.5",
 ]
 test = [
     "pokedex[asyncio]",
-    "pytest==8.2.2",
-    "pytest-asyncio==0.23.7",
+    "pytest==8.3.2",
+    "pytest-asyncio==0.23.8",
 ]
 
 [tool.hatch.envs.default.scripts]
