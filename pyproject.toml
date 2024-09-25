@@ -52,12 +52,13 @@ features = ["test"]
 
 [tool.hatch.envs.test.overrides]
 matrix.sqlalchemy.dependencies = [
-    {value="sqlalchemy==2.0.0", if=["2.0.0"]},
+    {value="sqlalchemy==2.0.0 ; python_version<'3.13'", if=["min"]},
+    {value="sqlalchemy==2.0.31 ; python_version>='3.13'", if=["min"]},
 ]
 
 [[tool.hatch.envs.test.matrix]]
-python = ["3.9", "3.10", "3.11", "3.12", "pypy3.9", "pypy3.10"]
-sqlalchemy = ["2.0.0", "latest"]
+python = ["3.9", "3.10", "3.11", "3.12", "3.13", "pypy3.9", "pypy3.10"]
+sqlalchemy = ["min", "latest"]
 
 [tool.hatch.version]
 path = "pokedex/__about__.py"
