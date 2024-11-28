@@ -15,8 +15,8 @@ jobs:
           python-version: "3.9"
           cache: "pip"
           cache-dependency-path: "pyproject.toml"
-      - name: Check formatting with black
-        run: hatch run black --check
+      - name: Check formatting
+        run: hatch run ruff-format --check
       - name: Type check with mypy
         run: hatch run mypy
       - name: Lint with ruff

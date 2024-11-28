@@ -21,7 +21,6 @@ asyncio = [
 ]
 lint = [
     "pokedex[test]",
-    "black==24.10.0",
     "mypy==1.13.0",
     "ruff==0.7.2",
 ]
@@ -32,9 +31,9 @@ test = [
 ]
 
 [tool.hatch.envs.default.scripts]
-ruff-fix = "hatch run lint:ruff check pokedex tests --fix-only --exit-zero {args}"
-black = "hatch run lint:black pokedex tests {args}"
-format = ["ruff-fix", "black"]
+ruff-fix = "hatch run lint:ruff check pokedex tests --fix-only {args}"
+ruff-format = "hatch run lint:ruff format pokedex tests {args}"
+format = ["ruff-fix", "ruff-format"]
 
 mypy = "hatch run lint:mypy pokedex tests {args}"
 ruff = "hatch run lint:ruff check pokedex tests {args}"
