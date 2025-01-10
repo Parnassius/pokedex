@@ -1,0 +1,2 @@
+sqlalchemy==2.0.0 ; python_version < '3.13'
+sqlalchemy==2.0.31 ; python_version >= '3.13'
