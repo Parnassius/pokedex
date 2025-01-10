@@ -31,12 +31,12 @@ test = [
 ]
 
 [tool.hatch.envs.default.scripts]
-ruff-fix = "hatch run lint:ruff check pokedex tests --fix-only {args}"
-ruff-format = "hatch run lint:ruff format pokedex tests {args}"
+ruff-fix = "hatch run lint:ruff check src tests --fix-only {args}"
+ruff-format = "hatch run lint:ruff format src tests {args}"
 format = ["ruff-fix", "ruff-format"]
 
-mypy = "hatch run lint:mypy pokedex tests {args}"
-ruff = "hatch run lint:ruff check pokedex tests {args}"
+mypy = "hatch run lint:mypy src tests {args}"
+ruff = "hatch run lint:ruff check src tests {args}"
 pytest = "hatch run test:pytest {args}"
 pytest-ci = "hatch run +py={args} test:pytest"
 all = ["format", "mypy", "ruff", "pytest"]
@@ -60,7 +60,7 @@ python = ["3.9", "3.10", "3.11", "3.12", "3.13", "pypy3.9", "pypy3.10"]
 sqlalchemy = ["min", "latest"]
 
 [tool.hatch.version]
-path = "pokedex/__about__.py"
+path = "src/pokedex/__about__.py"
 
 
 [tool.mypy]
