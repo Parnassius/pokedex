@@ -5,6 +5,7 @@
     ],
     additionalBranchPrefix: "{{datasource}}-",
     commitMessagePrefix: "[{{datasource}}]",
+    ignorePaths: ["requirements-min.txt"],
     customManagers: [
         {
             customType: "regex",
