@@ -18,10 +18,10 @@ asyncio = [
 [dependency-groups]
 dev = [
     "pokedex[asyncio]",
-    "mypy==1.14.1",
+    "mypy==1.15.0",
     "pytest==8.3.4",
     "pytest-asyncio==0.25.3",
-    "ruff==0.9.4",
+    "ruff==0.9.9",
 ]
 
 [build-system]
