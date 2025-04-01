@@ -8,6 +8,13 @@
     additionalBranchPrefix: "{{datasource}}-",
     commitMessagePrefix: "[{{datasource}}]",
     ignorePaths: ["requirements-min.txt"],
+    packageRules: [
+        {
+            matchDatasources: "github-releases",
+            matchDepTypes: "uses-with",
+            enabled: false,
+        },
+    ],
     customManagers: [
         {
             customType: "regex",
