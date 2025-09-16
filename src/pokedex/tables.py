@@ -1,7 +1,6 @@
 from __future__ import annotations
 
-from collections.abc import Collection
-from typing import Annotated, ClassVar
+from typing import TYPE_CHECKING, Annotated, ClassVar
 
 from sqlalchemy import CheckConstraint, Enum, ForeignKey, UniqueConstraint
 from sqlalchemy.ext.associationproxy import AssociationProxy, association_proxy
@@ -14,6 +13,9 @@ from sqlalchemy.orm import (
 )
 
 from pokedex import enums, mixins
+
+if TYPE_CHECKING:
+    from collections.abc import Collection
 
 intpk = Annotated[int, mapped_column(primary_key=True)]
 strpk = Annotated[str, mapped_column(primary_key=True)]
@@ -215,7 +217,7 @@ class Pokemon(Base):
     )
 
     flavor_text_associations: Mapped[
-        dict[tuple[enums.Language, enums.Game], "PokemonFlavorText"]  # noqa: UP037
+        dict[tuple[enums.Language, enums.Game], "PokemonFlavorText"]
     ] = relationship(
         collection_class=attribute_keyed_dict("key_identifier"), viewonly=True
     )
@@ -253,10 +255,7 @@ class Pokemon(Base):
     )
 
     wild_held_item_game_group_associations: Mapped[
-        dict[
-            tuple[enums.GameGroup, enums.HeldItemSlot],
-            "PokemonWildHeldItemGameGroup",  # noqa: UP037
-        ]
+        dict[tuple[enums.GameGroup, enums.HeldItemSlot], "PokemonWildHeldItemGameGroup"]
     ] = relationship(
         collection_class=attribute_keyed_dict("key_identifier"), viewonly=True
     )
@@ -265,10 +264,7 @@ class Pokemon(Base):
     ] = association_proxy("wild_held_item_game_group_associations", "item")
 
     wild_held_item_game_associations: Mapped[
-        dict[
-            tuple[enums.Game, enums.HeldItemSlot],
-            "PokemonWildHeldItemGame",  # noqa: UP037
-        ]
+        dict[tuple[enums.Game, enums.HeldItemSlot], "PokemonWildHeldItemGame"]
     ] = relationship(
         collection_class=attribute_keyed_dict("key_identifier"), viewonly=True
     )

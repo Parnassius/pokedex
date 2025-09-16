@@ -2,12 +2,17 @@ from __future__ import annotations
 
 import re
 import unicodedata
-from collections.abc import Callable
+from typing import TYPE_CHECKING
 
-from sqlalchemy.engine.default import DefaultExecutionContext
 from sqlalchemy.orm import Mapped, mapped_column
 
-from pokedex import enums
+from pokedex import enums  # noqa: TC001
+
+if TYPE_CHECKING:
+    from collections.abc import Callable
+
+    from sqlalchemy.engine.default import DefaultExecutionContext
+
 
 NORMALIZED_VALUE_RE = (
     r"["

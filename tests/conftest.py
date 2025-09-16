@@ -1,14 +1,18 @@
 from __future__ import annotations
 
 import os
-from collections.abc import AsyncIterator, Iterator
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 import pytest
-from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy.orm import Session
 
 from pokedex import pokedex
+
+if TYPE_CHECKING:
+    from collections.abc import AsyncIterator, Iterator
+
+    from sqlalchemy.ext.asyncio import AsyncSession
+    from sqlalchemy.orm import Session
 
 
 @pytest.fixture(scope="session", autouse=True)
