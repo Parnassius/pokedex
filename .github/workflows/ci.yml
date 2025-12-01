@@ -6,7 +6,7 @@ jobs:
   editorconfig:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Setup editorconfig-checker
         uses: editorconfig-checker/action-editorconfig-checker@v2
       - name: Run editorconfig-checker
@@ -15,7 +15,7 @@ jobs:
   lint:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Install uv
         uses: astral-sh/setup-uv@v7
         with:
@@ -47,7 +47,7 @@ jobs:
           - "pypy3.11"
       fail-fast: false
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Install uv
         uses: astral-sh/setup-uv@v7
         with:
