@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "github>Parnassius/renovate-config"
+  ],
+  "ignorePaths": [
+    "requirements-min.txt"
+  ]
+}
