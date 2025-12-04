@@ -47,7 +47,8 @@ show_error_codes = true
 warn_unreachable = true
 
 
-[tool.pytest.ini_options]
+[tool.pytest]
+strict = true
 asyncio_mode = "auto"
 
 
