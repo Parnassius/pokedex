@@ -1,0 +1,228 @@
+bug:
+  names:
+    jp_kana: むし
+    jp_kanji: むし
+    en: Bug
+    fr: Insecte
+    it: Coleottero
+    de: Käfer
+    es: Bicho
+    ko: 벌레
+    zh_simp: 虫
+    zh_trad: 蟲
+dark:
+  names:
+    jp_kana: あく
+    jp_kanji: あく
+    en: Dark
+    fr: Ténèbres
+    it: Buio
+    de: Unlicht
+    es: Siniestro
+    ko: 악
+    zh_simp: 恶
+    zh_trad: 惡
+dragon:
+  names:
+    jp_kana: ドラゴン
+    jp_kanji: ドラゴン
+    en: Dragon
+    fr: Dragon
+    it: Drago
+    de: Drache
+    es: Dragón
+    ko: 드래곤
+    zh_simp: 龙
+    zh_trad: 龍
+electric:
+  names:
+    jp_kana: でんき
+    jp_kanji: でんき
+    en: Electric
+    fr: Électrik
+    it: Elettro
+    de: Elektro
+    es: Eléctrico
+    ko: 전기
+    zh_simp: 电
+    zh_trad: 電
+fairy:
+  names:
+    jp_kana: フェアリー
+    jp_kanji: フェアリー
+    en: Fairy
+    fr: Fée
+    it: Folletto
+    de: Fee
+    es: Hada
+    ko: 페어리
+    zh_simp: 妖精
+    zh_trad: 妖精
+fighting:
+  names:
+    jp_kana: かくとう
+    jp_kanji: かくとう
+    en: Fighting
+    fr: Combat
+    it: Lotta
+    de: Kampf
+    es: Lucha
+    ko: 격투
+    zh_simp: 格斗
+    zh_trad: 格鬥
+fire:
+  names:
+    jp_kana: ほのお
+    jp_kanji: ほのお
+    en: Fire
+    fr: Feu
+    it: Fuoco
+    de: Feuer
+    es: Fuego
+    ko: 불꽃
+    zh_simp: 火
+    zh_trad: 火
+flying:
+  names:
+    jp_kana: ひこう
+    jp_kanji: ひこう
+    en: Flying
+    fr: Vol
+    it: Volante
+    de: Flug
+    es: Volador
+    ko: 비행
+    zh_simp: 飞行
+    zh_trad: 飛行
+ghost:
+  names:
+    jp_kana: ゴースト
+    jp_kanji: ゴースト
+    en: Ghost
+    fr: Spectre
+    it: Spettro
+    de: Geist
+    es: Fantasma
+    ko: 고스트
+    zh_simp: 幽灵
+    zh_trad: 幽靈
+grass:
+  names:
+    jp_kana: くさ
+    jp_kanji: くさ
+    en: Grass
+    fr: Plante
+    it: Erba
+    de: Pflanze
+    es: Planta
+    ko: 풀
+    zh_simp: 草
+    zh_trad: 草
+ground:
+  names:
+    jp_kana: じめん
+    jp_kanji: じめん
+    en: Ground
+    fr: Sol
+    it: Terra
+    de: Boden
+    es: Tierra
+    ko: 땅
+    zh_simp: 地面
+    zh_trad: 地面
+ice:
+  names:
+    jp_kana: こおり
+    jp_kanji: こおり
+    en: Ice
+    fr: Glace
+    it: Ghiaccio
+    de: Eis
+    es: Hielo
+    ko: 얼음
+    zh_simp: 冰
+    zh_trad: 冰
+normal:
+  names:
+    jp_kana: ノーマル
+    jp_kanji: ノーマル
+    en: Normal
+    fr: Normal
+    it: Normale
+    de: Normal
+    es: Normal
+    ko: 노말
+    zh_simp: 一般
+    zh_trad: 一般
+poison:
+  names:
+    jp_kana: どく
+    jp_kanji: どく
+    en: Poison
+    fr: Poison
+    it: Veleno
+    de: Gift
+    es: Veneno
+    ko: 독
+    zh_simp: 毒
+    zh_trad: 毒
+psychic:
+  names:
+    jp_kana: エスパー
+    jp_kanji: エスパー
+    en: Psychic
+    fr: Psy
+    it: Psico
+    de: Psycho
+    es: Psíquico
+    ko: 에스퍼
+    zh_simp: 超能力
+    zh_trad: 超能力
+rock:
+  names:
+    jp_kana: いわ
+    jp_kanji: いわ
+    en: Rock
+    fr: Roche
+    it: Roccia
+    de: Gestein
+    es: Roca
+    ko: 바위
+    zh_simp: 岩石
+    zh_trad: 岩石
+steel:
+  names:
+    jp_kana: はがね
+    jp_kanji: はがね
+    en: Steel
+    fr: Acier
+    it: Acciaio
+    de: Stahl
+    es: Acero
+    ko: 강철
+    zh_simp: 钢
+    zh_trad: 鋼
+stellar:
+  names:
+    jp_kana: ステラ
+    jp_kanji: ステラ
+    en: Stellar
+    fr: Stellaire
+    it: Astrale
+    de: Stellar
+    es: Astral
+    ko: 스텔라
+    zh_simp: 星晶
+    zh_trad: 星晶
+water:
+  names:
+    jp_kana: みず
+    jp_kanji: みず
+    en: Water
+    fr: Eau
+    it: Acqua
+    de: Wasser
+    es: Agua
+    ko: 물
+    zh_simp: 水
+    zh_trad: 水

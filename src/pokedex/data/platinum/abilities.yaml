@@ -1,0 +1,2091 @@
+adaptability:
+  names:
+    jp_kana: てきおうりょく
+    en: Adaptability
+    fr: Adaptabilité
+    it: Adattabilità
+    de: Anpassung
+    es: Adaptable
+    ko: 적응력
+  descriptions:
+    jp_kana: "タイプが　おなじ　わざの\nいりょくが　あがる。"
+    en: "Powers up moves of the\nsame type."
+    fr: "Augmente la puissance des\ncapacités de même type."
+    it: "Potenzia le mosse del\ntipo del Pokémon."
+    de: "Steigert Attacken\ndesselben Typs."
+    es: "Potencia los movimientos\ndel mismo tipo."
+    ko: "타입이 같은 기술의\n위력이 올라간다."
+aftermath:
+  names:
+    jp_kana: ゆうばく
+    en: Aftermath
+    fr: Boom Final
+    it: Scoppio
+    de: Finalschlag
+    es: Resquicio
+    ko: 유폭
+  descriptions:
+    jp_kana: "ひんしの　ときに　ふれた\nあいてに　ダメージ。"
+    en: "Damages the foe landing\nthe finishing hit."
+    fr: "Blesse l’ennemi qui \nporte le coup de grâce."
+    it: "Arreca danno al nemico\nche sferra il colpo finale."
+    de: "Schadet dem Gegn., der\nfinale Attacke landet."
+    es: "Daña al rival que le ha\ndado el golpe de gracia."
+    ko: "기절할 때 스친\n상대에게 데미지를 준다."
+air_lock:
+  names:
+    jp_kana: エアロック
+    en: Air Lock
+    fr: Air Lock
+    it: Riparo
+    de: Klimaschutz
+    es: Bucle Aire
+    ko: 에어록
+  descriptions:
+    jp_kana: "てんきの　えいきょうが\nなくなる。"
+    en: "Eliminates the effects of\nweather."
+    fr: "Annule les effets du\nclimat."
+    it: "Neutralizza gli effetti\nmeteo."
+    de: "Eliminiert die Wirkung\ndes Wetters."
+    es: "Anula los efectos del\ntiempo atmosférico."
+    ko: "날씨의 영향이\n없어진다."
+anger_point:
+  names:
+    jp_kana: いかりのつぼ
+    en: Anger Point
+    fr: Colérique
+    it: Grancollera
+    de: Kurzschluss
+    es: Irascible
+    ko: 분노의경혈
+  descriptions:
+    jp_kana: "きゅうしょに　うけると\nこうげきが　あがる。"
+    en: "Raises Attack upon taking\na critical hit."
+    fr: "Monte l’Attaque au max.\naprès un coup critique."
+    it: "Massimizza l’Attacco\ndopo un brutto colpo."
+    de: "Maximiert Angriff nach Ein-\nstecken e. Volltreffers."
+    es: "Potencia el Ataque tras\nrecibir un golpe crítico."
+    ko: "급소에 맞으면\n공격이 올라간다."
+anticipation:
+  names:
+    jp_kana: きけんよち
+    en: Anticipation
+    fr: Anticipation
+    it: Presagio
+    de: Vorahnung
+    es: Anticipación
+    ko: 위험예지
+  descriptions:
+    jp_kana: "あいての　もつ　きけんな\nわざを　さっちする。"
+    en: "Senses the foe’s\ndangerous moves."
+    fr: "Prévoit les capacités\nennemies dangereuses."
+    it: "Rivela se il nemico ha\nmosse pericolose."
+    de: "Ahnt gefährliche Attacken\ndes Gegners voraus."
+    es: "Prevé los movimientos\npeligrosos del adversario."
+    ko: "상대가 지닌 위험한\n기술을 감지한다."
+arena_trap:
+  names:
+    jp_kana: ありじごく
+    en: Arena Trap
+    fr: Piège
+    it: Trappoarena
+    de: Auswegslos
+    es: Trampa Arena
+    ko: 개미지옥
+  descriptions:
+    jp_kana: "せんとうで　あいてを\nにげられなくする。"
+    en: "Prevents the foe from\nfleeing."
+    fr: "Empêche l’ennemi de\ns’enfuir."
+    it: "Impedisce la fuga al\nnemico."
+    de: "Verhindert Flucht\ndes Gegners."
+    es: Evita que el rival huya.
+    ko: "배틀에서 상대를\n도망칠 수 없게 한다."
+bad_dreams:
+  names:
+    jp_kana: ナイトメア
+    en: Bad Dreams
+    fr: Mauvais Rêve
+    it: Sogniamari
+    de: Alptraum
+    es: Mal Sueño
+    ko: 나이트메어
+  descriptions:
+    jp_kana: "ねむっている　あいての\nＨＰを　へらす。"
+    en: "Reduces a sleeping foe’s\nHP."
+    fr: "Réduit les PV d’un ennemi\nendormi."
+    it: "Riduce i PS di un nemico\naddormentato."
+    de: "Senkt die KP eines\nschlafenden Gegners."
+    es: "Reduce los PS de un rival\nmientras duerme."
+    ko: "잠들어 있는 상대의\nHP를 줄인다."
+battle_armor:
+  names:
+    jp_kana: カブトアーマー
+    en: Battle Armor
+    fr: Armurbaston
+    it: Lottascudo
+    de: Kampfpanzer
+    es: Armad. Bat.
+    ko: 전투무장
+  descriptions:
+    jp_kana: "あいての　こうげきが\nきゅうしょに　あたらない。"
+    en: "The Pokémon is protected\nagainst critical hits."
+    fr: "Le Pokémon est protégé\ndes coups critiques."
+    it: "Evita che il Pokémon\nsubisca brutti colpi."
+    de: Wehrt Volltreffer ab.
+    es: Bloquea golpes críticos.
+    ko: "상대의 공격이\n급소에 맞지 않는다."
+blaze:
+  names:
+    jp_kana: もうか
+    en: Blaze
+    fr: Brasier
+    it: Aiutofuoco
+    de: Großbrand
+    es: Mar Llamas
+    ko: 맹화
+  descriptions:
+    jp_kana: "ピンチのとき　ほのおの\nいりょくが　あがる。"
+    en: "Powers up Fire-type\nmoves in a pinch."
+    fr: "Booste les capacités\nFeu en cas de besoin."
+    it: "In difficoltà potenzia\nle mosse di tipo Fuoco."
+    de: "Stärkt Feuer-Attacken\nin Not."
+    es: "Potencia los ataques de\ntipo Fuego en un apuro."
+    ko: "위급할 때 불꽃타입의\n위력이 올라간다."
+chlorophyll:
+  names:
+    jp_kana: ようりょくそ
+    en: Chlorophyll
+    fr: Chlorophyle
+    it: Clorofilla
+    de: Chlorophyll
+    es: Clorofila
+    ko: 엽록소
+  descriptions:
+    jp_kana: "はれのとき　すばやさが\nあがる。"
+    en: "Boosts the Pokémon’s\nSpeed in sunshine."
+    fr: "Augmente la Vitesse du\nPokémon s’il y a du soleil."
+    it: "Aumenta Velocità del\nPokémon se c’è il sole."
+    de: "Steigert Initiative bei\nSonnenschein."
+    es: "Sube la Velocidad cuando\nhay sol."
+    ko: "맑을 때 스피드가\n올라간다."
+clear_body:
+  names:
+    jp_kana: クリアボディ
+    en: Clear Body
+    fr: Corps Sain
+    it: Corpochiaro
+    de: Neutraltorso
+    es: Cuerpo Puro
+    ko: 클리어바디
+  descriptions:
+    jp_kana: "あいてに　のうりょくを\nさげられない。"
+    en: "Prevents the Pokémon’s\nstats from being lowered."
+    fr: "Peut empêcher les stats\ndu Pokémon de baisser."
+    it: "Può evitare la riduzione\ndelle statistiche."
+    de: "Verhindert Absenken\nder Statuswerte evtl."
+    es: "Puede evitar que bajen\nlas características."
+    ko: "상대가 능력을\n떨어뜨릴 수 없다."
+cloud_nine:
+  names:
+    jp_kana: ノーてんき
+    en: Cloud Nine
+    fr: Ciel Gris
+    it: Antimeteo
+    de: Wolke Sieben
+    es: Aclimatación
+    ko: 날씨부정
+  descriptions:
+    jp_kana: "てんきの　えいきょうが\nなくなる。"
+    en: "Eliminates the effects of\nweather."
+    fr: "Annule les effets du\nclimat."
+    it: "Neutralizza gli effetti\nmeteo."
+    de: Keine Wetter-Effekte.
+    es: "Anula los efectos del\ntiempo atmosférico."
+    ko: "날씨의 영향이\n없어진다."
+color_change:
+  names:
+    jp_kana: へんしょく
+    en: Color Change
+    fr: Déguisement
+    it: Cambiacolore
+    de: Farbwechsel
+    es: Cambio Color
+    ko: 변색
+  descriptions:
+    jp_kana: "うけた　わざの　タイプに\nへんかする。"
+    en: "Changes the Pokémon’s\ntype to the foe’s move."
+    fr: "Le Pokémon adopte le type\nde la capacité ennemie."
+    it: "Cambia il tipo del Pokémon\nin base all’attacco nemico."
+    de: "Typ des Anwenders wird zu\ndem der gegnerischen Att."
+    es: "Cambia el tipo al del\nmovimiento rival."
+    ko: "받은 기술의 타입으로\n변화한다."
+compound_eyes:
+  names:
+    jp_kana: ふくがん
+    en: Compoundeyes
+    fr: Oeil Composé
+    it: Insettocchi
+    de: Facettenauge
+    es: Ojocompuesto
+    ko: 복안
+  descriptions:
+    jp_kana: "わざの　めいちゅうりつが\nあがる。"
+    en: "The Pokémon’s accuracy is\nboosted."
+    fr: "Augmente la précision du\nPokémon."
+    it: "Aumenta la precisione\ndel Pokémon."
+    de: Steigert Genauigkeit.
+    es: Aumenta la precisión.
+    ko: "기술의 명중률이\n올라간다."
+cute_charm:
+  names:
+    jp_kana: メロメロボディ
+    en: Cute Charm
+    fr: Joli Sourire
+    it: Incantevole
+    de: Charmebolzen
+    es: Gran Encanto
+    ko: 헤롱헤롱바디
+  descriptions:
+    jp_kana: "ふれると　メロメロに\nすることがある。"
+    en: "Contact with the Pokémon\nmay cause infatuation."
+    fr: "Séduit parfois l’ennemi\nau contact."
+    it: "Al contatto, il nemico\npuò infatuarsi."
+    de: "Kann bei Kontakt\nbetörend wirken."
+    es: "Tocar al Pokémon puede\ncausar enamoramiento."
+    ko: "스치면 헤롱헤롱 상태가\n될 때가 있다."
+damp:
+  names:
+    jp_kana: しめりけ
+    en: Damp
+    fr: Moiteur
+    it: Umidità
+    de: Feuchtigkeit
+    es: Humedad
+    ko: 습기
+  descriptions:
+    jp_kana: "だれも　じばくが\nできなくなる。"
+    en: "Prevents combatants from\nself destructing."
+    fr: "Empêche les combattants\nde s’autodétruire."
+    it: "Impedisce a chi è in campo\ndi autodistruggersi."
+    de: "Verhindert Selbstzer-\nstörung der Kämpfenden."
+    es: Evita la autodestrucción.
+    ko: "누구도 자폭\n할 수 없게 된다."
+download:
+  names:
+    jp_kana: ダウンロード
+    en: Download
+    fr: Télécharge
+    it: Download
+    de: Download
+    es: Descarga
+    ko: 다운로드
+  descriptions:
+    jp_kana: "あいての　のうりょくを\nみて　つよさを　かえる。"
+    en: "Adjusts power according\nto the foe’s ability."
+    fr: "Ajuste la puissance selon\nl’ennemi."
+    it: "Regola la potenza in base\nal nemico."
+    de: "Passt Kraft entsprechend\nder gegn. Statuswerte an."
+    es: "Ajusta su fuerza según las\ncaracterísticas del rival."
+    ko: "상대의 능력을\n보고 능력치를 바꾼다."
+drizzle:
+  names:
+    jp_kana: あめふらし
+    en: Drizzle
+    fr: Crachin
+    it: Piovischio
+    de: Niesel
+    es: Llovizna
+    ko: 잔비
+  descriptions:
+    jp_kana: "せんとうに　でると\nあめを　ふらす。"
+    en: "The Pokémon makes it rain\nif it appears in battle."
+    fr: "Le Pokémon invoque la pluie\nquand il entre au combat."
+    it: "Se scende in campo, il\nPokémon attira la pioggia."
+    de: "Ruft im Kampf\nRegen herbei."
+    es: "Hace que llueva si el\nPokémon entra en combate."
+    ko: "배틀에 나가면\n비를 내린다."
+drought:
+  names:
+    jp_kana: ひでり
+    en: Drought
+    fr: Sécheresse
+    it: Siccità
+    de: Dürre
+    es: Sequía
+    ko: 가뭄
+  descriptions:
+    jp_kana: "せんとうに　でると\nにほんばれに　なる。"
+    en: "The Pokémon makes it\nsunny if it is in battle."
+    fr: "Invoque le soleil quand il\nest au combat."
+    it: "Il Pokémon fa uscire\nil sole nella lotta."
+    de: Erzeugt Sonne im Kampf.
+    es: "Hace que salga el sol si el\nPokémon entra en combate."
+    ko: "배틀에 나가면\n쾌청이 된다."
+dry_skin:
+  names:
+    jp_kana: かんそうはだ
+    en: Dry Skin
+    fr: Peau Sèche
+    it: Pellearsa
+    de: Trockenheit
+    es: Piel Seca
+    ko: 건조피부
+  descriptions:
+    jp_kana: "あついと　ＨＰが　へる。\nみずで　ＨＰを　かいふく。"
+    en: "Reduces HP if it is hot.\nWater restores HP."
+    fr: "Perd des PV à la chaleur.\nL’eau les restaure."
+    it: "Riduce PS se fa caldo.\nL’acqua ridà PS."
+    de: "Heißes Wetter reduziert\nKP. Wasser steigert KP."
+    es: "Pierde PS si hace calor.\nLos recupera con agua."
+    ko: "더우면 HP가 줄어든다.\n물로 HP를 회복한다."
+early_bird:
+  names:
+    jp_kana: はやおき
+    en: Early Bird
+    fr: Matinal
+    it: Sveglialampo
+    de: Frühwecker
+    es: Madrugar
+    ko: 일찍기상
+  descriptions:
+    jp_kana: おきるのが　はやくなる。
+    en: "The Pokémon awakens\nquickly from sleep."
+    fr: "Le Pokémon se réveille\nplus rapidement."
+    it: "Il Pokémon si risveglia\nrapidamente dal sonno."
+    de: Schnelles Aufwachen.
+    es: "El Pokémon se despierta\nrápidamente."
+    ko: "잠듦 상태에서\n빨리 깨어난다."
+effect_spore:
+  names:
+    jp_kana: ほうし
+    en: Effect Spore
+    fr: Pose Spore
+    it: Spargispora
+    de: Sporenwirt
+    es: Efec. Espora
+    ko: 포자
+  descriptions:
+    jp_kana: "ふれると　どく　まひ\nねむりに　することがある。"
+    en: "Contact may paralyze,\npoison, or cause sleep."
+    fr: "Peut paralyser, empoison-\nner, endormir au contact."
+    it: "Al contatto può causare\nVLN, PAR o DRM."
+    de: "Bei Kontakt evtl. Paraly.,\nVergiftg. oder Schlaf."
+    es: "Puede dormir, envenenar\no paralizar al contacto."
+    ko: "스치면 독, 마비, 잠듦\n상태가 될 때가 있다."
+filter:
+  names:
+    jp_kana: フィルター
+    en: Filter
+    fr: Filtre
+    it: Filtro
+    de: Filter
+    es: Filtro
+    ko: 필터
+  descriptions:
+    jp_kana: "こうかばつぐん　のとき\nいりょくを　よわめる。"
+    en: "Powers down super-\neffective moves."
+    fr: "Affaiblit les capacités\n“super efficaces”."
+    it: "Riduce la potenza delle\nmosse superefficaci."
+    de: "Senkt die Stärke sehr\neffektiver Attacken."
+    es: "Mitiga los movimientos\nsupereficaces."
+    ko: "효과가 굉장한 기술의\n위력을 약하게 한다."
+flame_body:
+  names:
+    jp_kana: ほのおのからだ
+    en: Flame Body
+    fr: Corps Ardent
+    it: Corpodifuoco
+    de: Flammkörper
+    es: Cuerpo Llama
+    ko: 불꽃몸
+  descriptions:
+    jp_kana: "ふれた　あいてを　やけど\nさせることがある。"
+    en: "Contact with the Pokémon\nmay burn the foe."
+    fr: "Peut brûler l’ennemi s’il y\na contact."
+    it: "Il contatto con il Pokémon\npuò scottare il nemico."
+    de: "Kann bei Kontakt zu\nVerbrennung führen."
+    es: "Puede quemar al mínimo\ncontacto."
+    ko: "접촉한 상대에게\n화상을 입힐 때가 있다."
+flash_fire:
+  names:
+    jp_kana: もらいび
+    en: Flash Fire
+    fr: Torche
+    it: Fuocardore
+    de: Feuerfänger
+    es: Absor. Fuego
+    ko: 타오르는불꽃
+  descriptions:
+    jp_kana: "ほのおを　うけると\nほのおわざが　つよくなる。"
+    en: "Powers up Fire-type moves\nif hit by a fire move."
+    fr: "Booste capacités Feu si\ntouché par attaques Feu."
+    it: "Potenzia le mosse fuoco se\ncolpiti da mosse fuoco."
+    de: "Verstärkt Feuer-A., wenn\nv. Feuer-A. getroffen."
+    es: "Potencia movs. tipo Fuego\ntras ataques tipo Fuego."
+    ko: "불꽃을 받으면\n불꽃 기술이 강해진다."
+flower_gift:
+  names:
+    jp_kana: フラワーギフト
+    en: Flower Gift
+    fr: Don Floral
+    it: Regalfiore
+    de: Pflanzengabe
+    es: Don Floral
+    ko: 플라워기프트
+  descriptions:
+    jp_kana: "はれのとき　じぶんと\nみかたが　つよくなる。"
+    en: "Powers up party Pokémon\nwhen it is sunny."
+    fr: "Pokémon de l’équipe plus\npuissants au soleil."
+    it: "Potenzia i Pokémon della\nsquadra se c’è il sole."
+    de: "Steigert Effektivität von\nTeam-Pokémon bei Sonne."
+    es: "Potencia los Pokémon del\nequipo si está soleado."
+    ko: "맑을 때 자신과\n같은 편이 강해진다."
+forecast:
+  names:
+    jp_kana: てんきや
+    en: Forecast
+    fr: Météo
+    it: Previsioni
+    de: Prognose
+    es: Predicción
+    ko: 기분파
+  descriptions:
+    jp_kana: "てんきで　ポワルンが\nへんかする。"
+    en: "CASTFORM transforms with\nthe weather."
+    fr: "MORPHEO change de forme\nselon le climat."
+    it: "L’aspetto di CASTFORM\ncambia in base al tempo."
+    de: "FORMEO verändert seine\nForm abhängig vom Wetter."
+    es: "Cambia con el tiempo\natmosférico."
+    ko: "날씨에 따라\n캐스퐁이 변화한다."
+forewarn:
+  names:
+    jp_kana: よちむ
+    en: Forewarn
+    fr: Prédiction
+    it: Premonizione
+    de: Vorwarnung
+    es: Alerta
+    ko: 예지몽
+  descriptions:
+    jp_kana: "あいての　もつ　わざを\nよみとることが　できる。"
+    en: "Determines what moves\nthe foe has."
+    fr: "Découvre la capacité\nennemie la plus puissante."
+    it: "Scopre la mossa più\npotente del nemico."
+    de: "Gibt Auskunft über die\nstärkste gegn. Attacke."
+    es: "Determina el movimiento\nmás potente del rival."
+    ko: "상대가 지닌 기술을\n꿰뚫어볼 수 있다."
+frisk:
+  names:
+    jp_kana: おみとおし
+    en: Frisk
+    fr: Fouille
+    it: Indagine
+    de: Schnüffler
+    es: Cacheo
+    ko: 통찰
+  descriptions:
+    jp_kana: "あいての　もちものを\nしることが　できる。"
+    en: "The Pokémon can check\nthe foe’s held item."
+    fr: "Permet de connaître\nl’objet tenu par l’ennemi."
+    it: "Il Pokémon può sapere che \nstrumento ha il nemico."
+    de: "Gibt Auskunft über\ngegnerische Items."
+    es: "El Pokémon puede ver el\nobjeto que lleva el rival."
+    ko: "상대가 지닌 물건을\n알 수 있다."
+gluttony:
+  names:
+    jp_kana: くいしんぼう
+    en: Gluttony
+    fr: Gloutonnerie
+    it: Voracità
+    de: Völlerei
+    es: Gula
+    ko: 먹보
+  descriptions:
+    jp_kana: "きのみを　いつもより\nはやく　つかう。"
+    en: "Encourages the early use\nof a held Berry."
+    fr: "Encourage l’utilisation\nd’une Baie tenue."
+    it: "Favorisce l’uso rapido\ndi una Bacca tenuta."
+    de: "Ermutigt zum frühzeitigen\nVerwenden einer Beere."
+    es: "Fomenta el uso rápido de\nla baya que porta."
+    ko: "나무열매를 여느 때보다\n빨리 사용한다."
+guts:
+  names:
+    jp_kana: こんじょう
+    en: Guts
+    fr: Cran
+    it: Dentistretti
+    de: Adrenalin
+    es: Agallas
+    ko: 근성
+  descriptions:
+    jp_kana: "じょうたい　いじょうで\nこうげきが　あがる。"
+    en: "Boosts Attack if there is\na status problem."
+    fr: "Augmente l’Attaque s’il y\na un problème de statut."
+    it: "Aumenta l’Attacco in caso\ndi problemi di stato."
+    de: "Steigert Angriff bei\nStatusproblemen."
+    es: "Sube el Ataque si sufre\nun problema de estado."
+    ko: "상태 이상이 되면\n공격이 올라간다."
+heatproof:
+  names:
+    jp_kana: たいねつ
+    en: Heatproof
+    fr: Ignifuge
+    it: Antifuoco
+    de: Hitzeschutz
+    es: Ignífugo
+    ko: 내열
+  descriptions:
+    jp_kana: "ほのお　わざの\nいりょくを　よわめる。"
+    en: "Weakens the power of\nFire-type moves."
+    fr: "Réduit la puissance des\ncapacités de type Feu."
+    it: "Indebolisce l’effetto del-\nle mosse di tipo Fuoco."
+    de: "Senkt die Kraft von\nFeuer-Attacken."
+    es: "Debilita la fuerza de los\nmovimientos de tipo Fuego."
+    ko: "불꽃 기술의\n위력을 약하게 한다."
+honey_gather:
+  names:
+    jp_kana: みつあつめ
+    en: Honey Gather
+    fr: Cherche Miel
+    it: Mielincetta
+    de: Honigmaul
+    es: Recogemiel
+    ko: 꿀모으기
+  descriptions:
+    jp_kana: "あまいミツを　あつめて\nくることが　ある。"
+    en: "The Pokémon may gather\nHoney from somewhere."
+    fr: "Le Pokémon peut parfois\ntrouver du Miel."
+    it: "Il Pokémon può raccoglie-\nre Miele."
+    de: "Pokémon kann Honig\nsammeln."
+    es: "El Pokémon recoge miel\nde donde puede."
+    ko: "달콤한꿀을 모아서\n올 때가 있다."
+huge_power:
+  names:
+    jp_kana: ちからもち
+    en: Huge Power
+    fr: Coloforce
+    it: Macroforza
+    de: Kraftkoloss
+    es: Potencia
+    ko: 천하장사
+  descriptions:
+    jp_kana: "ぶつり　こうげきの\nいりょくが　あがる。"
+    en: "Raises the Pokémon’s\nAttack stat."
+    fr: "Augmente l’Attaque du\nPokémon."
+    it: "Migliora l’Attacco\ndel Pokémon."
+    de: "Steigert den Angriffs-\nWert eines Pokémon."
+    es: Aumenta el Ataque.
+    ko: "물리 공격의\n위력이 올라간다."
+hustle:
+  names:
+    jp_kana: はりきり
+    en: Hustle
+    fr: Agitation
+    it: Tuttafretta
+    de: Übereifer
+    es: Entusiasmo
+    ko: 의욕
+  descriptions:
+    jp_kana: "こうげきは　たかいが\nはずれやすい。"
+    en: "Boosts the Attack stat,\nbut lowers accuracy."
+    fr: "Améliore l’Attaque mais\ndiminue la précision."
+    it: "Aumenta l’Attacco, ma\nriduce la precisione."
+    de: "Erhöht Angriffs-Wert,\nsenkt Genauigkeit."
+    es: "Aumenta el Ataque, pero\nreduce la precisión."
+    ko: "공격은 높지만\n빗나가기 쉽다."
+hydration:
+  names:
+    jp_kana: うるおいボディ
+    en: Hydration
+    fr: Hydratation
+    it: Idratazione
+    de: Hydration
+    es: Hidratación
+    ko: 촉촉바디
+  descriptions:
+    jp_kana: "じょうたい　いじょうが\nあめの　とき　なおる。"
+    en: "Heals status problems if\nit is raining."
+    fr: "Soigne les problèmes de\nstatut s’il pleut."
+    it: "Cura i problemi di stato\nse piove."
+    de: "Heilt Statusprobleme\nbei Regen."
+    es: "Cura los problemas de\nestado si está lloviendo."
+    ko: "비가 오면\n상태 이상이 회복된다."
+hyper_cutter:
+  names:
+    jp_kana: かいりきバサミ
+    en: Hyper Cutter
+    fr: Hyper Cutter
+    it: Ipertaglio
+    de: Scherenmacht
+    es: Corte Fuerte
+    ko: 괴력집게
+  descriptions:
+    jp_kana: "あいてに　こうげきを\nさげられない。"
+    en: "Prevents the Attack stat\nfrom being lowered."
+    fr: "Empêche la réduction de\nl’Attaque."
+    it: "Evita la riduzione\ndell’Attacco."
+    de: Verhindert Angriff-Reduz.
+    es: "Evita que disminuya\nel Ataque."
+    ko: "상대가 공격을\n떨어뜨리지 못한다."
+ice_body:
+  names:
+    jp_kana: アイスボディ
+    en: Ice Body
+    fr: Corps Gel
+    it: Corpogelo
+    de: Eishaut
+    es: Gélido
+    ko: 아이스바디
+  descriptions:
+    jp_kana: "てんきが　あられのとき\nＨＰを　かいふくする。"
+    en: "The Pokémon regains HP in\na hailstorm."
+    fr: "Récupère des PV lors des\ntempêtes de grêle."
+    it: "Il Pokémon recupera PS\nquando grandina."
+    de: "Das Pokémon regeneriert\nwährend Hagelsturm KP."
+    es: "El Pokémon recupera PS en\nlas tormentas de granizo."
+    ko: "날씨가 싸라기눈일 때\nHP를 회복한다."
+illuminate:
+  names:
+    jp_kana: はっこう
+    en: Illuminate
+    fr: Lumiatirance
+    it: Risplendi
+    de: Erleuchtung
+    es: Iluminación
+    ko: 발광
+  descriptions:
+    jp_kana: "やせいの　ポケモンに\nそうぐう　しやすくなる。"
+    en: "Raises the likelihood of\nmeeting wild Pokémon."
+    fr: "Augmente les rencontres\navec Pokémon sauvages."
+    it: "Più probabile incontrare\nPokémon selvatici."
+    de: "Mehr Pokémon-\nBegegnungen."
+    es: "Aumenta la probabilidad\nde encontrar Pokémon."
+    ko: "야생 포켓몬과\n만나기 쉬워진다."
+immunity:
+  names:
+    jp_kana: めんえき
+    en: Immunity
+    fr: Vaccin
+    it: Immunità
+    de: Immunität
+    es: Inmunidad
+    ko: 면역
+  descriptions:
+    jp_kana: "どく　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom getting poisoned."
+    fr: "Empêche le Pokémon d’être\nempoisonné."
+    it: "Impedisce al Pokémon di\nvenire avvelenato."
+    de: Verhindert Vergiftungen.
+    es: Evita el envenenamiento.
+    ko: "독 상태가\n되지 않는다."
+inner_focus:
+  names:
+    jp_kana: せいしんりょく
+    en: Inner Focus
+    fr: Attention
+    it: Fuocodentro
+    de: Konzentrator
+    es: Foco Interno
+    ko: 정신력
+  descriptions:
+    jp_kana: ひるまない。
+    en: "The Pokémon is protected\nfrom flinching."
+    fr: "Empêche le Pokémon\nd’avoir peur."
+    it: "Impedisce al Pokémon\ndi tentennare."
+    de: "Verhindert\nZurückschrecken."
+    es: Evita el retroceso.
+    ko: 풀죽지 않는다.
+insomnia:
+  names:
+    jp_kana: ふみん
+    en: Insomnia
+    fr: Insomnia
+    it: Insonnia
+    de: Insomnia
+    es: Insomnio
+    ko: 불면
+  descriptions:
+    jp_kana: "ねむり　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom falling asleep."
+    fr: "Empêche le Pokémon de\ns’endormir."
+    it: "Impedisce al Pokémon\ndi addormentarsi."
+    de: Verhindert Einschlafen.
+    es: Evita el quedarse dormido.
+    ko: "잠듦 상태가\n되지 않는다."
+intimidate:
+  names:
+    jp_kana: いかく
+    en: Intimidate
+    fr: Intimidation
+    it: Prepotenza
+    de: Bedroher
+    es: Intimidación
+    ko: 위협
+  descriptions:
+    jp_kana: "あいての　こうげきを\nさげる。"
+    en: "Lowers the foe’s Attack\nstat."
+    fr: Baisse l’Attaque ennemie.
+    it: "Riduce l’Attacco del\nnemico."
+    de: "Senkt Angriff des\nGegners."
+    es: Baja el Ataque del rival.
+    ko: "상대의 공격을\n떨어뜨린다."
+iron_fist:
+  names:
+    jp_kana: てつのこぶし
+    en: Iron Fist
+    fr: Poing de Fer
+    it: Ferropugno
+    de: Eisenfaust
+    es: Puño Férreo
+    ko: 철주먹
+  descriptions:
+    jp_kana: "パンチを　つかう　わざの\nいりょくが　あがる。"
+    en: "Boosts the power of\npunching moves."
+    fr: "Augmente la puissance des\ncapacités coups de poing."
+    it: "Potenzia le mosse\ntirapugni."
+    de: "Steigert die Effektivität\nvon Box-Attacken."
+    es: "Aumenta la fuerza de los\npuñetazos."
+    ko: "펀치를 사용하는 기술의\n위력이 올라간다."
+keen_eye:
+  names:
+    jp_kana: するどいめ
+    en: Keen Eye
+    fr: Regard Vif
+    it: Sguardofermo
+    de: Adlerauge
+    es: Vista Lince
+    ko: 날카로운눈
+  descriptions:
+    jp_kana: "あいてに　めいちゅうりつを\nさげられない。"
+    en: "Prevents the Pokémon\nfrom losing accuracy."
+    fr: "Empêche le Pokémon de\nperdre en précision."
+    it: "Evita che cali la precisio-\nne del Pokémon."
+    de: "Verhindert Verlust der\nGenauigkeit."
+    es: "Evita que disminuya\nla precisión."
+    ko: "상대가 명중률을\n떨어뜨리지 못한다."
+klutz:
+  names:
+    jp_kana: ぶきよう
+    en: Klutz
+    fr: Maladresse
+    it: Impaccio
+    de: Tollpatsch
+    es: Zoquete
+    ko: 서투름
+  descriptions:
+    jp_kana: "もっている　どうぐを\nつかうことが　できない。"
+    en: "The Pokémon can’t use\nany held items."
+    fr: "Le Pokémon ne peut\nutiliser aucun objet tenu."
+    it: "Il Pokémon non può usare\nlo strumento che tiene."
+    de: "Das Pokémon kann keine\ngetrag. Items verwenden."
+    es: "El Pokémon no puede\nusar ningún objeto."
+    ko: "지니고 있는 도구를\n쓸 수 없다."
+leaf_guard:
+  names:
+    jp_kana: リーフガード
+    en: Leaf Guard
+    fr: Feuil. Garde
+    it: Fogliamanto
+    de: Floraschild
+    es: Defensa Hoja
+    ko: 리프가드
+  descriptions:
+    jp_kana: "じょうたい　いじょうに\nはれのとき　ならない。"
+    en: "Prevents status problems\nin sunny weather."
+    fr: "Empêche les problèmes\nde statut au soleil."
+    it: "Evita problemi di stato\nquando c’è il sole."
+    de: "Heilt Statusprobleme\nbei Sonne."
+    es: "Evita los problemas de\nestado si hace sol."
+    ko: "맑을 때는\n상태 이상이 되지 않는다."
+levitate:
+  names:
+    jp_kana: ふゆう
+    en: Levitate
+    fr: Lévitation
+    it: Levitazione
+    de: Schwebe
+    es: Levitación
+    ko: 부유
+  descriptions:
+    jp_kana: "じめんタイプの　わざを\nうけない。"
+    en: "Gives full immunity to all\nGround-type moves."
+    fr: "Immunise contre toutes\nles capacités de type Sol."
+    it: "Protegge totalmente dagli\nattacchi di tipo Terra."
+    de: "Volle Immunität gegen\nalle Boden-Attacken."
+    es: "Es inmune frente a los\nataques de tipo Tierra."
+    ko: "땅타입의 기술을\n받지 않는다."
+lightning_rod:
+  names:
+    jp_kana: ひらいしん
+    en: Lightningrod
+    fr: Paratonnerre
+    it: Parafulmine
+    de: Blitzfänger
+    es: Pararrayos
+    ko: 피뢰침
+  descriptions:
+    jp_kana: "でんきタイプの　わざを\nすべて　うける。"
+    en: "The Pokémon draws in all\nElectric-type moves."
+    fr: "Le Pokémon attire les\ncapacités Electrik."
+    it: "Il Pokémon attira tutte\nle mosse di tipo Elettro."
+    de: "Zieht Elektro-Attacken\nan."
+    es: "Frena los ataques\nde tipo Eléctrico."
+    ko: "전기타입의 기술을\n모두 자신이 맞는다."
+limber:
+  names:
+    jp_kana: じゅうなん
+    en: Limber
+    fr: Echauffement
+    it: Scioltezza
+    de: Flexibilität
+    es: Flexibilidad
+    ko: 유연
+  descriptions:
+    jp_kana: "まひ　じょうたいに\nならない。"
+    en: "The Pokémon is protected\nfrom paralysis."
+    fr: "Protège le Pokémon de\nla paralysie."
+    it: "Il Pokémon è protetto\ncontro la paralisi."
+    de: Verhindert Paralyse.
+    es: Evita la parálisis.
+    ko: "마비 상태가\n되지 않는다."
+liquid_ooze:
+  names:
+    jp_kana: ヘドロえき
+    en: Liquid Ooze
+    fr: Suintement
+    it: Melma
+    de: Kloakensoße
+    es: Lodo Líquido
+    ko: 해감액
+  descriptions:
+    jp_kana: "すいとった　あいての\nＨＰを　へらす"
+    en: "Inflicts damage on foes\nusing any draining move."
+    fr: "Blesse l’ennemi qui draine\nl’énergie du Pokémon."
+    it: "Danni al nemico che usa\nmosse assorbi-energia."
+    de: "Schadet Gegnern, die\nSaug-Attacken einsetzen."
+    es: "Hiere a los enemigos que\nabsorben PS."
+    ko: "흡수한 상대의\nHP를 줄인다."
+magic_guard:
+  names:
+    jp_kana: マジックガード
+    en: Magic Guard
+    fr: Garde Magik
+    it: Magicscudo
+    de: Magieschild
+    es: Muro Mágico
+    ko: 매직가드
+  descriptions:
+    jp_kana: "こうげき　いがいでは\nダメージを　うけない。"
+    en: "The Pokémon only takes\ndamage from attacks."
+    fr: "Seule une attaque directe\npeut blesser le Pokémon."
+    it: "Il Pokémon subisce danni\nsolo da attacchi diretti."
+    de: "Das PKMN nimmt nur durch\ndirekte Attacken Schaden."
+    es: "Solo los ataques directos\ndañan al Pokémon."
+    ko: "공격 이외에는\n데미지를 입지 않는다."
+magma_armor:
+  names:
+    jp_kana: マグマのよろい
+    en: Magma Armor
+    fr: Armumagma
+    it: Magmascudo
+    de: Magmapanzer
+    es: Escudo Magma
+    ko: 마그마의무장
+  descriptions:
+    jp_kana: "こおり　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom becoming frozen."
+    fr: "Protège le Pokémon\ncontre le gel."
+    it: "Impedisce al Pokémon di\nrimanere congelato."
+    de: Verhindert Einfrieren.
+    es: Evita la congelación.
+    ko: "얼음 상태가\n되지 않는다."
+magnet_pull:
+  names:
+    jp_kana: じりょく
+    en: Magnet Pull
+    fr: Magnépiège
+    it: Magnetismo
+    de: Magnetfalle
+    es: Imán
+    ko: 자력
+  descriptions:
+    jp_kana: "はがねタイプの　ポケモンを\nにげられなくする。"
+    en: "Prevents Steel-type\nPokémon from escaping."
+    fr: "Empêche les Pokémon Acier\nde fuir."
+    it: "Impedisce la fuga ai\nPokémon di tipo Acciaio."
+    de: "Verhindert Flucht von\nStahl-Pokémon."
+    es: "Atrapa Pokémon de\ntipo Acero."
+    ko: "강철타입의 포켓몬을\n도망칠 수 없게 한다."
+marvel_scale:
+  names:
+    jp_kana: ふしぎなうろこ
+    en: Marvel Scale
+    fr: Ecaille Spé.
+    it: Pelledura
+    de: Notschutz
+    es: Escama Esp.
+    ko: 이상한비늘
+  descriptions:
+    jp_kana: "じょうたい　いじょうで\nぼうぎょが　あがる。"
+    en: "Boosts Defense if there is\na status problem."
+    fr: "Augmente la Défense s’il y\na un problème de statut."
+    it: "Aumenta la Difesa in caso\ndi problemi di stato."
+    de: "Steigert Verteidigung bei\nStatusproblemen."
+    es: "Sube la Defensa si sufre\nun problema de estado."
+    ko: "상태 이상이 되면\n방어가 올라간다."
+minus:
+  names:
+    jp_kana: マイナス
+    en: Minus
+    fr: Minus
+    it: Meno
+    de: Minus
+    es: Menos
+    ko: 마이너스
+  descriptions:
+    jp_kana: "プラスが　いると\nとくこうが　あがる。"
+    en: "Boosts Sp. Atk if another\nPokémon has Plus."
+    fr: "Améliore l’Atq. Spé. si un\nautre Pokémon a Plus."
+    it: "Aumenta l’Att. Sp. se un\naltro Pokémon ha Più."
+    de: "Steigert Spezial-Angriff,\nwenn ein PKMN Plus hat."
+    es: "Potencia At. Esp. si otro\ntiene la habilidad Más."
+    ko: "플러스가 있으면\n특수공격이 올라간다."
+mold_breaker:
+  names:
+    jp_kana: かたやぶり
+    en: Mold Breaker
+    fr: Brise Moule
+    it: Rompiforma
+    de: Überbrückung
+    es: Rompemoldes
+    ko: 틀깨기
+  descriptions:
+    jp_kana: "とくせいに　かんけいなく\nあいてに　わざを　だせる。"
+    en: "Moves can be used\nregardless of abilities."
+    fr: "Cap. utilisables quelles\nque soient les cap. spé."
+    it: "Le mosse si usano a\nprescindere dalle abilità."
+    de: "Att. können unabhängig d.\nFähigkeit verw. werden."
+    es: "No importan las habilidades\npara usar movimientos."
+    ko: "특성에 관계없이 상대에게\n기술을 쓸 수 있다."
+motor_drive:
+  names:
+    jp_kana: でんきエンジン
+    en: Motor Drive
+    fr: Motorisé
+    it: Elettrorapid
+    de: Starthilfe
+    es: Electromotor
+    ko: 전기엔진
+  descriptions:
+    jp_kana: "でんきを　うけると\nすばやさが　あがる。"
+    en: "Raises Speed if hit by an\nElectric-type move."
+    fr: "Augmente la Vit. si touché\npar une cap. Electrik."
+    it: "Aumenta Velocità se colpi-\nto da mosse elettriche."
+    de: "Erhöht Initiative nach\neiner Elektro-Attacke."
+    es: "Sube la Velocidad si se\nsufre un ataque eléctrico."
+    ko: "전기를 받으면\n스피드가 올라간다."
+multitype:
+  names:
+    jp_kana: マルチタイプ
+    en: Multitype
+    fr: Multi-Type
+    it: Multitipo
+    de: Variabilität
+    es: Multitipo
+    ko: 멀티타입
+  descriptions:
+    jp_kana: "もっている　プレートで\nタイプが　かわる。"
+    en: "Changes type to match\nthe held Plate."
+    fr: "Modifie le type en fonction\nde la Plaque tenue."
+    it: "Cambia tipo a seconda\ndella Lastra che tiene."
+    de: "Passt seinen Typ der\ngetragenen Tafel an."
+    es: "Cambia el tipo al de la\ntabla que lleva."
+    ko: "지니고 있는 플레이트에\n따라 타입이 바뀐다."
+natural_cure:
+  names:
+    jp_kana: しぜんかいふく
+    en: Natural Cure
+    fr: Médic Nature
+    it: Alternacura
+    de: Innere Kraft
+    es: Cura Natural
+    ko: 자연회복
+  descriptions:
+    jp_kana: "じょうたい　いじょうが\nひっこむと　なおる。"
+    en: "All status problems are\nhealed upon switching out."
+    fr: "Quitter le combat soigne\nles problèmes de statut."
+    it: "Cura i problemi di stato\ndel Pokémon se sostituito."
+    de: "Heilt bei Austausch\nStatusprobleme."
+    es: "Cura problemas de estado\nal cambiar de Pokémon."
+    ko: "배틀에서 일단 물러나면\n상태 이상이 회복된다."
+no_guard:
+  names:
+    jp_kana: ノーガード
+    en: No Guard
+    fr: Annule Garde
+    it: Nullodifesa
+    de: Schildlos
+    es: Indefenso
+    ko: 노가드
+  descriptions:
+    jp_kana: "おたがいの　わざが\nかならず　あたる。"
+    en: "Ensures the Pokémon and\nits foe’s attacks land."
+    fr: "Attaques du Pokémon et\nde l’ennemi réussissent."
+    it: "Gli attacchi dei Pokémon in\nlotta vanno a buon fine."
+    de: "Angriffe des Pokémon und\ndes Gegners treffen."
+    es: "El ataque del Pokémon y\nel del rival acertarán."
+    ko: "서로의 기술이\n반드시 맞는다."
+normalize:
+  names:
+    jp_kana: ノーマルスキン
+    en: Normalize
+    fr: Normalise
+    it: Normalità
+    de: Regulierung
+    es: Normalidad
+    ko: 노말스킨
+  descriptions:
+    jp_kana: "だしたわざが　すべて\nノーマルタイプに　なる。"
+    en: "All the Pokémon’s moves\nbecome the Normal type."
+    fr: "Toutes les capacités sont\nde type Normal."
+    it: "Tutte le mosse del Pokémon\ndiventano di tipo Normale."
+    de: "Alle Attacken des Pokémon\nwerden zu Normal-Att."
+    es: "Todos los movimientos se\nvuelven de tipo Normal."
+    ko: "쓴 기술이 모두\n노말타입이 된다."
+oblivious:
+  names:
+    jp_kana: どんかん
+    en: Oblivious
+    fr: Benêt
+    it: Indifferenza
+    de: Dösigkeit
+    es: Despiste
+    ko: 둔감
+  descriptions:
+    jp_kana: "メロメロ　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom becoming infatuated."
+    fr: "Empêche le Pokémon de\ntomber amoureux."
+    it: "Impedisce al Pokémon di\ninfatuarsi."
+    de: Verhindert Anziehung.
+    es: "Evita que el Pokémon\nse enamore."
+    ko: "헤롱헤롱 상태가\n되지 않는다."
+overgrow:
+  names:
+    jp_kana: しんりょく
+    en: Overgrow
+    fr: Engrais
+    it: Erbaiuto
+    de: Notdünger
+    es: Espesura
+    ko: 심록
+  descriptions:
+    jp_kana: "ピンチのとき　くさの\nいりょくが　あがる。"
+    en: "Powers up Grass-type\nmoves in a pinch."
+    fr: "Booste les capacités\nPlante en cas de besoin."
+    it: "In difficoltà potenzia\nle mosse di tipo Erba."
+    de: "Stärkt Pflanzen-Attacken\nin Not."
+    es: "Potencia los ataques de\ntipo Planta en un apuro."
+    ko: "위급할 때 풀타입의\n위력이 올라간다."
+own_tempo:
+  names:
+    jp_kana: マイペース
+    en: Own Tempo
+    fr: Tempo Perso
+    it: Mente Locale
+    de: Tempomacher
+    es: Ritmo Propio
+    ko: 마이페이스
+  descriptions:
+    jp_kana: "こんらん　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom becoming confused."
+    fr: Empêche la confusion.
+    it: "Impedisce al Pokémon\ndi subire la confusione."
+    de: Verhindert Verwirrung.
+    es: Evita la confusión.
+    ko: "혼란 상태가\n되지 않는다."
+pickup:
+  names:
+    jp_kana: ものひろい
+    en: Pickup
+    fr: Ramassage
+    it: Raccolta
+    de: Mitnahme
+    es: Recogida
+    ko: 픽업
+  descriptions:
+    jp_kana: "どうぐを　ひろってくる\nことが　ある。"
+    en: "The Pokémon may pick up\nitems."
+    fr: "Permet parfois au Pokémon\nde ramasser des objets."
+    it: "Il Pokémon può\ntrovare strumenti."
+    de: Kann Items aufnehmen.
+    es: "El Pokémon puede\nencontrar objetos."
+    ko: "도구를 주워올\n때가 있다."
+plus:
+  names:
+    jp_kana: プラス
+    en: Plus
+    fr: Plus
+    it: Più
+    de: Plus
+    es: Más
+    ko: 플러스
+  descriptions:
+    jp_kana: "マイナスが　いると\nとくこうが　あがる。"
+    en: "Boosts Sp. Atk if another\nPokémon has Minus."
+    fr: "Améliore l’Atq. Spé. si un\nautre Pokémon a Minus."
+    it: "Aumenta l’Att. Sp. se un\naltro Pokémon ha Meno."
+    de: "Steigert Spezial-Angriff,\nwenn ein PKMN Minus hat."
+    es: "Potencia At. Esp. si otro\ntiene la habilidad Menos."
+    ko: "마이너스가 있으면\n특수공격이 올라간다."
+poison_heal:
+  names:
+    jp_kana: ポイズンヒール
+    en: Poison Heal
+    fr: Soin Poison
+    it: Velencura
+    de: Aufheber
+    es: Antídoto
+    ko: 포이즌힐
+  descriptions:
+    jp_kana: "どくじょうたいに　なると\nＨＰを　かいふくする。"
+    en: "Restores HP if the\nPokémon is poisoned."
+    fr: "Restaure des PV si le\nPokémon est empoisonné."
+    it: "Ridà PS se il Pokémon\nè avvelenato."
+    de: "Steigert KP, wenn das\nPokémon vergiftet ist."
+    es: "Recupera PS si el Pokémon\nha sido envenenado."
+    ko: "독 상태가 되면\nHP를 회복한다."
+poison_point:
+  names:
+    jp_kana: どくのトゲ
+    en: Poison Point
+    fr: Point Poison
+    it: Velenopunto
+    de: Giftdorn
+    es: Punto Tóxico
+    ko: 독가시
+  descriptions:
+    jp_kana: "ふれた　あいてに　どくを\nおわせる　ことがある。"
+    en: "Contact with the Pokémon\nmay poison the foe."
+    fr: "Peut empoisonner l’ennemi\ns’il y a contact."
+    it: "Il contatto col Pokémon\npuò avvelenare il nemico."
+    de: "Vergiftet den Gegner\neventuell bei Berührung."
+    es: "Puede envenenar al\nmínimo contacto."
+    ko: "접촉한 상대를\n중독 시킬 때가 있다."
+pressure:
+  names:
+    jp_kana: プレッシャー
+    en: Pressure
+    fr: Pression
+    it: Pressione
+    de: Erzwinger
+    es: Presión
+    ko: 프레셔
+  descriptions:
+    jp_kana: "あいての　つかう　わざの\nＰＰを　おおく　へらす。"
+    en: "The Pokémon raises the\nfoe’s PP usage."
+    fr: "Force l’ennemi à\ndépenser plus de PP."
+    it: Il nemico usa più PP.
+    de: "Steigert den Verbrauch\nder AP des Gegners."
+    es: "Hace que los PP del rival\nse acaben antes."
+    ko: "상대가 사용하는 기술의\nPP를 많이 줄인다."
+pure_power:
+  names:
+    jp_kana: ヨガパワー
+    en: Pure Power
+    fr: Force Pure
+    it: Forzapura
+    de: Mentalkraft
+    es: Energía Pura
+    ko: 순수한힘
+  descriptions:
+    jp_kana: "ぶつり　こうげきの\nいりょくが　あがる。"
+    en: "Boosts the power of\nphysical attacks."
+    fr: "Augmente la puissance des\nattaques physiques."
+    it: "Aumenta la potenza degli\nattacchi fisici."
+    de: "Steigert Kraft physischer\nAngriffe."
+    es: "Potencia los ataques\nfísicos."
+    ko: "물리 공격의\n위력이 올라간다."
+quick_feet:
+  names:
+    jp_kana: はやあし
+    en: Quick Feet
+    fr: Pied Véloce
+    it: Piedisvelti
+    de: Rasanz
+    es: Pies Rápidos
+    ko: 속보
+  descriptions:
+    jp_kana: "じょうたい　いじょうで\nすばやさが　あがる。"
+    en: "Boosts Speed if there is a\nstatus problem."
+    fr: "Augmente la Vitesse s’il y\na un problème de statut."
+    it: "Aumenta la Velocità se\nc’è un problema di stato."
+    de: "Erhöht Initiative bei\nStatusproblemen."
+    es: "Potencia la Velocidad si\nhay problemas de estado."
+    ko: "상태 이상이 되면\n스피드가 올라간다."
+rain_dish:
+  names:
+    jp_kana: あめうけざら
+    en: Rain Dish
+    fr: Cuvette
+    it: Copripioggia
+    de: Regengenuss
+    es: Cura Lluvia
+    ko: 젖은접시
+  descriptions:
+    jp_kana: "あめのとき　すこしずつ\nＨＰを　かいふくする。"
+    en: "The Pokémon gradually\nrecovers HP in rain."
+    fr: "Récupère progressivement\ndes PV par temps de pluie."
+    it: "Il Pokémon recupera PS\nquando piove."
+    de: "Langsame Wiederherstellg.\nvon KP bei Regen."
+    es: "El Pokémon gana PS\ngradualmente si llueve."
+    ko: "비가 올 때 조금씩\nHP를 회복한다."
+reckless:
+  names:
+    jp_kana: すてみ
+    en: Reckless
+    fr: Téméraire
+    it: Temerarietà
+    de: Achtlos
+    es: Audaz
+    ko: 이판사판
+  descriptions:
+    jp_kana: "はんどうで　ダメージを\nうけるわざが　つよくなる。"
+    en: "Powers up moves that\nhave recoil damage."
+    fr: "Booste les cap. ayant des\ndégâts de contrecoups."
+    it: "Potenzia le mosse che\nprovocano contraccolpi."
+    de: "Steigert Attacken mit\nRückstoß-Schaden."
+    es: "Potencia los movimientos\nque dañan al usuario."
+    ko: "반동 데미지를\n받는 기술이 강해진다."
+rivalry:
+  names:
+    jp_kana: とうそうしん
+    en: Rivalry
+    fr: Rivalité
+    it: Antagonismo
+    de: Rivalität
+    es: Rivalidad
+    ko: 투쟁심
+  descriptions:
+    jp_kana: "せいべつが　おなじだと\nこうげきが　あがる。"
+    en: "Raises Attack if the foe\nis of the same gender."
+    fr: "Augmente l’Attaque si\nl’ennemi est du même sexe."
+    it: "Aumenta Attacco se il ne-\nmico è dello stesso sesso."
+    de: "Erhöht Angriff, wenn Gegn.\ndasselbe Geschlecht hat."
+    es: "Sube el Ataque si el rival\nes del mismo sexo."
+    ko: "성별이 같으면\n공격이 올라간다."
+rock_head:
+  names:
+    jp_kana: いしあたま
+    en: Rock Head
+    fr: Tête de Roc
+    it: Testadura
+    de: Steinhaupt
+    es: Cabeza Roca
+    ko: 돌머리
+  descriptions:
+    jp_kana: "ぶつかっても\nはんどうを　うけない。"
+    en: "Protects the Pokémon\nfrom recoil damage."
+    fr: "Protège le Pokémon des\ndégâts de contrecoups."
+    it: "Protegge il Pokémon dai\ncontraccolpi."
+    de: "Verhindert Schaden, der\ndurch Rückstoß entsteht."
+    es: "Impide que el Pokémon\nse dañe con sus movs."
+    ko: "부딪쳐도\n반동을 받지 않는다."
+rough_skin:
+  names:
+    jp_kana: さめはだ
+    en: Rough Skin
+    fr: Peau Dure
+    it: Cartavetro
+    de: Rauhaut
+    es: Piel Tosca
+    ko: 까칠한피부
+  descriptions:
+    jp_kana: "ふれた　あいてを\nキズつける。"
+    en: "Inflicts damage to the\nfoe on contact."
+    fr: "Le Pokémon blesse\nl’ennemi qui le touche."
+    it: "Danneggia il nemico\nal contatto."
+    de: Verletzt bei Berührung.
+    es: Hiere al tacto.
+    ko: "접촉한 상대에게\n상처를 입힌다."
+run_away:
+  names:
+    jp_kana: にげあし
+    en: Run Away
+    fr: Fuite
+    it: Fugafacile
+    de: Angsthase
+    es: Fuga
+    ko: 도주
+  descriptions:
+    jp_kana: "やせいの　ポケモンから\nかならず　にげられる。"
+    en: "Enables sure getaway from\nwild Pokémon."
+    fr: "Permet de fuir n’importe\nquel Pokémon sauvage."
+    it: "Garantisce la fuga dai\nPokémon selvatici."
+    de: "Erleichtert das\nEntkommen."
+    es: "Permite escapar fácilmente\nde los Pokémon salvajes."
+    ko: "야생 포켓몬으로부터\n반드시 도망칠 수 있다."
+sand_stream:
+  names:
+    jp_kana: すなおこし
+    en: Sand Stream
+    fr: Sable Volant
+    it: Sabbiafiume
+    de: Sandsturm
+    es: Chorro Arena
+    ko: 모래날림
+  descriptions:
+    jp_kana: "せんとうで　すなあらしを\nおこす。"
+    en: "The Pokémon summons a\nsandstorm in battle."
+    fr: "Le Pokémon invoque une\ntempête de sable."
+    it: "Causa una tempesta di\nsabbia durante la lotta."
+    de: Erzeugt einen Sandsturm.
+    es: "Crea una tormenta de\narena durante el combate."
+    ko: "배틀에서 모래바람을\n일으킨다."
+sand_veil:
+  names:
+    jp_kana: すながくれ
+    en: Sand Veil
+    fr: Voile Sable
+    it: Sabbiavelo
+    de: Sandschleier
+    es: Velo Arena
+    ko: 모래숨기
+  descriptions:
+    jp_kana: "すなあらしで\nかいひりつが　あがる。"
+    en: "Boosts the Pokémon’s\nevasion in a sandstorm."
+    fr: "Augmente l’esquive lors\ndes tempêtes de sable."
+    it: "Elusione del Pokémon sale\nin una tempesta di sabbia."
+    de: "Erhöht Fluchtwert im\nSandsturm."
+    es: "Aumenta la evasión en\nlas tormentas de arena."
+    ko: "모래바람으로\n회피율이 올라간다."
+scrappy:
+  names:
+    jp_kana: きもったま
+    en: Scrappy
+    fr: Querelleur
+    it: Nervisaldi
+    de: Rauflust
+    es: Intrépido
+    ko: 배짱
+  descriptions:
+    jp_kana: "ゴーストタイプに　わざが\nあたるようになる。"
+    en: "Enables moves to hit\nGhost-type foes."
+    fr: "Les capacités touchent\nles Pokémon Spectre."
+    it: "Le mosse colpiscono anche\ni nemici di tipo Spettro."
+    de: "Ermöglicht es mit Attacken\nGeist-Gegner zu treffen."
+    es: "Permite golpear a los\nrivales de tipo Fantasma."
+    ko: "고스트타입에\n기술이 맞게 된다."
+serene_grace:
+  names:
+    jp_kana: てんのめぐみ
+    en: Serene Grace
+    fr: Sérénité
+    it: Leggiadro
+    de: Edelmut
+    es: Dicha
+    ko: 하늘의은총
+  descriptions:
+    jp_kana: "わざの　ついかこうかが\nでやすい。"
+    en: "Boosts the likelihood of\nadded effects appearing."
+    fr: "Augmente la fréquence\ndu cumul d’effets."
+    it: "Effetti aggiuntivi più\nprobabili."
+    de: "Verstärkt\nZusatz-Effekte."
+    es: "Aumenta la probabilidad\nde efectos secundarios."
+    ko: "기술의 추가 효과가\n나오기 쉽다."
+shadow_tag:
+  names:
+    jp_kana: かげふみ
+    en: Shadow Tag
+    fr: Marque Ombre
+    it: Pedinombra
+    de: Wegsperre
+    es: Sombratrampa
+    ko: 그림자밟기
+  descriptions:
+    jp_kana: "あいての　かげをふみ\nにげられなくする。"
+    en: "Prevents the foe from\nescaping."
+    fr: "Empêche le Pokémon ennemi\nde quitter le combat."
+    it: "Impedisce la fuga al\nnemico."
+    de: Hindert Gegner an Flucht.
+    es: Evita que el enemigo huya.
+    ko: "상대의 그림자를 밟아\n도망칠 수 없게 한다."
+shed_skin:
+  names:
+    jp_kana: だっぴ
+    en: Shed Skin
+    fr: Mue
+    it: Muta
+    de: Expidermis
+    es: Mudar
+    ko: 탈피
+  descriptions:
+    jp_kana: "じょうたい　いじょうを\nなおす　ことがある。"
+    en: "The Pokémon may heal its\nown status problems."
+    fr: "Le Pokémon soigne parfois\nses problèmes de statut."
+    it: "Può guarire i problemi di\nstato del Pokémon."
+    de: "PKMN heilt eventuell\nseine Statusprobleme."
+    es: "Cura los problemas de\nestado mudando la piel."
+    ko: "상태 이상을\n회복할 때가 있다."
+shell_armor:
+  names:
+    jp_kana: シェルアーマー
+    en: Shell Armor
+    fr: Coque Armure
+    it: Guscioscudo
+    de: Panzerhaut
+    es: Caparazón
+    ko: 조가비갑옷
+  descriptions:
+    jp_kana: "あいての　こうげきが\nきゅうしょに　あたらない。"
+    en: "The Pokémon is protected\nagainst critical hits."
+    fr: "Protège le Pokémon contre\nles coups critiques."
+    it: "Il Pokémon è protetto\ndai brutti colpi."
+    de: Wehrt Volltreffer ab.
+    es: Bloquea golpes críticos.
+    ko: "상대의 공격이\n급소에 맞지 않는다."
+shield_dust:
+  names:
+    jp_kana: りんぷん
+    en: Shield Dust
+    fr: Ecran Poudre
+    it: Polvoscudo
+    de: Puderabwehr
+    es: Polvo Escudo
+    ko: 인분
+  descriptions:
+    jp_kana: "わざの　ついかこうかを\nうけない。"
+    en: "Blocks the added effects\nof attacks taken."
+    fr: "Annule les effets cumulés\nd’une attaque ennemie."
+    it: "Blocca effetti aggiuntivi\ndegli attacchi subiti."
+    de: "Blockiert Zusatz-Effekte\ngegnerischer Angriffe."
+    es: "Anula efectos secundarios\nde los ataques sufridos."
+    ko: "기술의 추가 효과를\n받지 않는다."
+simple:
+  names:
+    jp_kana: たんじゅん
+    en: Simple
+    fr: Simple
+    it: Disinvoltura
+    de: Wankelmut
+    es: Simple
+    ko: 단순
+  descriptions:
+    jp_kana: "のうりょく　へんかが\nいつもより　はげしい。"
+    en: "The Pokémon is prone to\nwild stat changes."
+    fr: "Le Pokémon est sujet à\ndes variations de stats."
+    it: "Le statistiche possono\ncambiare all’impazzata."
+    de: "Das Pokémon ist anfällig\nfür Statusveränderungen."
+    es: "Cambia las características\nde forma más audaz."
+    ko: "능력 변화가\n여느 때보다 심하다."
+skill_link:
+  names:
+    jp_kana: スキルリンク
+    en: Skill Link
+    fr: Multi-Coups
+    it: Abillegame
+    de: Wertelink
+    es: Encadenado
+    ko: 스킬링크
+  descriptions:
+    jp_kana: "れんぞく　わざを\nたくさん　だせる。"
+    en: "Increases the frequency\nof multi-strike moves."
+    fr: "Augmente la fréquence des\nattaques multiples."
+    it: "Aumenta la frequenza di\nmosse multicolpo."
+    de: "Erhöht die Häufigkeit von\nMehrfach-Attacken."
+    es: "Aumenta la frecuencia de\nlos movimientos múltiples."
+    ko: "연속 기술을\n많이 쓸 수 있다."
+slow_start:
+  names:
+    jp_kana: スロースタート
+    en: Slow Start
+    fr: Début Calme
+    it: Lentoinizio
+    de: Saumselig
+    es: Inicio Lento
+    ko: 슬로스타트
+  descriptions:
+    jp_kana: "こうげきと　すばやさが\nしばらく　はんぶんになる。"
+    en: "Temporarily halves Attack\nand Speed."
+    fr: "Divise temporairement\nVitesse et Attaque par 2."
+    it: "Dimezza per un po’\nl’Attacco e la Velocità."
+    de: "Halbiert zeitweilig Angriff\nund Initiative."
+    es: "Reduce a la mitad Ataque y\nVelocidad por un tiempo."
+    ko: "공격과 스피드가\n잠시 동안 절반이 된다."
+sniper:
+  names:
+    jp_kana: スナイパー
+    en: Sniper
+    fr: Sniper
+    it: Cecchino
+    de: Superschütze
+    es: Francotirad.
+    ko: 스나이퍼
+  descriptions:
+    jp_kana: "きゅうしょに　あてたとき\nいりょくが　あがる。"
+    en: "Powers up moves if they\nbecome critical hits."
+    fr: "Booste les capacités qui\nsont des coups critiques."
+    it: "Potenzia le mosse se\ndiventano brutti colpi."
+    de: "Steigert Attacken nach\nVolltreffern."
+    es: "Potencia los movimientos\nque se vuelven críticos."
+    ko: "급소에 맞혔을 때\n위력이 올라간다."
+snow_cloak:
+  names:
+    jp_kana: ゆきがくれ
+    en: Snow Cloak
+    fr: Rideau Neige
+    it: Mantelneve
+    de: Schneemantel
+    es: Manto Níveo
+    ko: 눈숨기
+  descriptions:
+    jp_kana: "てんきが　あられのとき　\nかいひりつが　あがる。"
+    en: "Raises evasion in a\nhailstorm."
+    fr: "Augmente l’esquive durant\nles tempêtes de grêle."
+    it: "Aumenta l’elusione\nquando grandina."
+    de: "Erhöht Fluchtwert\nwährend Hagelschauer."
+    es: "Sube la evasión durante\nuna tormenta de granizo."
+    ko: "날씨가 싸라기눈일 때\n회피율이 올라간다."
+snow_warning:
+  names:
+    jp_kana: ゆきふらし
+    en: Snow Warning
+    fr: Alerte Neige
+    it: Scendineve
+    de: Hagelalarm
+    es: Nevada
+    ko: 눈퍼뜨리기
+  descriptions:
+    jp_kana: "せんとうに　でると\nあられを　ふらす。"
+    en: "The Pokémon summons a\nhailstorm in battle."
+    fr: "Déclenche une tempête de\ngrêle pendant le combat."
+    it: "Il Pokémon provoca una\ngrandinata in battaglia."
+    de: "Pokémon beschwört einen\nHagelsturm herauf."
+    es: "El Pokémon invoca una\ntormenta de granizo."
+    ko: "배틀에 나가면\n싸라기눈을 내리게 한다."
+solar_power:
+  names:
+    jp_kana: サンパワー
+    en: Solar Power
+    fr: Force Soleil
+    it: Solarpotere
+    de: Solarkraft
+    es: Poder Solar
+    ko: 선파워
+  descriptions:
+    jp_kana: "はれると　ＨＰが　へるが\nとくこうが　あがる。"
+    en: "Boosts Sp. Atk, but\nlowers HP in sunshine."
+    fr: "Augmente l’Atq. Spé. mais\nbaisse les PV au soleil."
+    it: "Aumenta l’Att. Sp. ma\nriduce i PS se c’è il sole."
+    de: "Steigert Spezial-Angriff\nbei Sonne, senkt aber KP."
+    es: "Si hace sol, reduce los PS\npero potencia el At. Esp."
+    ko: "맑으면 HP가 줄지만\n특수공격이 올라간다."
+solid_rock:
+  names:
+    jp_kana: ハードロック
+    en: Solid Rock
+    fr: Solide Roc
+    it: Solidroccia
+    de: Felskern
+    es: Roca Sólida
+    ko: 하드록
+  descriptions:
+    jp_kana: "こうかばつぐん　のとき\nいりょくを　よわめる。"
+    en: "Powers down super-\neffective moves."
+    fr: "Affaiblit les capacités\n“super efficaces”."
+    it: "Riduce la potenza delle\nmosse superefficaci."
+    de: "Senkt die Stärke sehr\neffektiver Attacken."
+    es: "Mitiga los movimientos\nsupereficaces."
+    ko: "효과가 굉장한 기술의\n위력을 약하게 한다."
+soundproof:
+  names:
+    jp_kana: ぼうおん
+    en: Soundproof
+    fr: Anti-Bruit
+    it: Antisuono
+    de: Lärmschutz
+    es: Insonorizar
+    ko: 방음
+  descriptions:
+    jp_kana: "おとの　わざを\nうけない。"
+    en: "Gives full immunity to all\nsound-based moves."
+    fr: "Protège de toutes les\ncapacités sonores."
+    it: "Protegge totalmente da\nmosse sonore."
+    de: "Immun gegen Lärm-\nAttacken."
+    es: Evita ataques de sonido.
+    ko: "소리 기술을\n받지 않는다."
+speed_boost:
+  names:
+    jp_kana: かそく
+    en: Speed Boost
+    fr: Turbo
+    it: Acceleratore
+    de: Temposchub
+    es: Impulso
+    ko: 가속
+  descriptions:
+    jp_kana: "ちょっとずつ\nすばやく　なっていく。"
+    en: "The Pokémon’s Speed stat\nis gradually boosted."
+    fr: "La Vitesse du Pokémon\naugmente progressivement."
+    it: "Graduale aumento della\nVelocità del Pokémon."
+    de: "Erhöht Initiative nach\nund nach."
+    es: "Aumenta la Velocidad\ngradualmente."
+    ko: "조금씩\n스피드가 높아진다."
+stall:
+  names:
+    jp_kana: あとだし
+    en: Stall
+    fr: Frein
+    it: Rallentatore
+    de: Zeitspiel
+    es: Rezagado
+    ko: 시간벌기
+  descriptions:
+    jp_kana: "あいてより　すばやくても\nこうどうが　おそくなる。"
+    en: "The Pokémon moves after\neven slower foes."
+    fr: "Attaque toujours après \nl’ennemi, même plus lent."
+    it: "Anche i nemici più lenti\nattaccano per primi."
+    de: "Das Pokémon bewegt sich \nnach weniger agilen Gegn."
+    es: "El Pokémon se mueve\ntras el rival más lento."
+    ko: "상대보다 재빨라도\n행동이 느려진다."
+static:
+  names:
+    jp_kana: せいでんき
+    en: Static
+    fr: Statik
+    it: Statico
+    de: Statik
+    es: Elec. Estát.
+    ko: 정전기
+  descriptions:
+    jp_kana: "さわった　あいてを\nまひさせる　ことがある。"
+    en: "Contact with the Pokémon\nmay cause paralysis."
+    fr: "Un contact avec le\nPokémon peut paralyser."
+    it: "Il contatto con il Pokémon\npuò causare paralisi."
+    de: "Kann bei Berührung\nparalysieren."
+    es: "Puede paralizar al\nmínimo contacto."
+    ko: "접촉한 상대를\n마비시킬 때가 있다."
+steadfast:
+  names:
+    jp_kana: ふくつのこころ
+    en: Steadfast
+    fr: Impassible
+    it: Cuordeciso
+    de: Felsenfest
+    es: Impasible
+    ko: 불굴의마음
+  descriptions:
+    jp_kana: "ひるむ　たびに\nすばやさが　あがる。"
+    en: "Raises Speed each time\nthe Pokémon flinches."
+    fr: "Augmente la Vitesse quand\nle Pokémon a peur."
+    it: "Aumenta la Velocità quando\nil Pokémon tentenna."
+    de: "Erhöht Initiative, sobald\nPokémon zurückschreckt."
+    es: "Sube la Velocidad cada vez\nque el Pokémon retrocede."
+    ko: "풀죽을 때마다\n스피드가 올라간다."
+stench:
+  names:
+    jp_kana: あくしゅう
+    en: Stench
+    fr: Puanteur
+    it: Tanfo
+    de: Duftnote
+    es: Hedor
+    ko: 악취
+  descriptions:
+    jp_kana: "やせいの　ポケモンが\nよりつき　にくくなる。"
+    en: "The stench helps keep\nwild Pokémon away."
+    fr: "La puanteur peut repous-\nser les Pokémon sauvages."
+    it: "Questo tanfo tiene lontani\ni Pokémon selvatici."
+    de: "Hilft, wilde Pokémon\nfernzuhalten."
+    es: "El olor ayuda a mantener\nlejos Pokémon salvajes."
+    ko: "야생 포켓몬이\n접근하기 어려워진다."
+sticky_hold:
+  names:
+    jp_kana: ねんちゃく
+    en: Sticky Hold
+    fr: Glue
+    it: Antifurto
+    de: Wertehalter
+    es: Viscosidad
+    ko: 점착
+  descriptions:
+    jp_kana: どうぐを　とられない。
+    en: "Protects the Pokémon\nfrom item theft."
+    fr: "Protège le Pokémon\ncontre le vol d’objets."
+    it: "Protegge il Pokémon\ndal furto di strumenti."
+    de: "Verhindert Item-\nDiebstahl."
+    es: Impide el robo de objetos.
+    ko: 도구를 빼앗기지 않는다.
+storm_drain:
+  names:
+    jp_kana: よびみず
+    en: Storm Drain
+    fr: Lavabo
+    it: Acquascolo
+    de: Sturmsog
+    es: Colector
+    ko: 마중물
+  descriptions:
+    jp_kana: "みずタイプの　わざを\nすべて　うける。"
+    en: "The Pokémon draws in all\nWater-type moves."
+    fr: "Attire les attaques Eau\nvisant un Pokémon."
+    it: "Attira le mosse di tipo\nAcqua mirate a un Pokémon."
+    de: "Zieht offens. Wasser-Att.\nan, die auf 1 PKMN zielen."
+    es: "Atrae ataques de tipo\nAgua lanzados a un PKMN."
+    ko: "물타입의 기술을\n모두 자신이 맞는다."
+sturdy:
+  names:
+    jp_kana: がんじょう
+    en: Sturdy
+    fr: Fermeté
+    it: Vigore
+    de: Robustheit
+    es: Robustez
+    ko: 옹골참
+  descriptions:
+    jp_kana: "いちげきひっさつが\nきかない。"
+    en: "The Pokémon is protected\nagainst 1-hit KO attacks."
+    fr: "Protège des capacités\nmettant K.O. en un coup."
+    it: "Protegge dalle mosse che\ncausano KO in un colpo."
+    de: "Schutz gegen\nK.O.-Treffer-Angriffe."
+    es: "Protege de movimientos que\ndejan K.O. en un golpe."
+    ko: "일격 필살기가\n통하지 않는다."
+suction_cups:
+  names:
+    jp_kana: きゅうばん
+    en: Suction Cups
+    fr: Ventouse
+    it: Ventose
+    de: Saugnapf
+    es: Ventosas
+    ko: 흡반
+  descriptions:
+    jp_kana: "いれかえさせる　わざが\nきかない。"
+    en: "Negates moves that\nforce switching out."
+    fr: "Annule les cap. forçant\nà changer de Pokémon."
+    it: "Resiste alle mosse che\nobbligano la sostituzione."
+    de: "Negiert Attacken, die PKMN\naustauschen würden."
+    es: "Anula movimientos que\nfuerzan el relevo."
+    ko: "교체시킨 기술이\n효과를 발휘하지 못한다."
+super_luck:
+  names:
+    jp_kana: きょううん
+    en: Super Luck
+    fr: Chanceux
+    it: Supersorte
+    de: Glückspilz
+    es: Afortunado
+    ko: 대운
+  descriptions:
+    jp_kana: "あいての　きゅうしょに\nこうげきが　あたりやすい。"
+    en: "Heightens the critical-hit\nratios of moves."
+    fr: "Augmente la fréquence\ndes coups critiques."
+    it: "Maggiore probabilità di\ninfliggere brutti colpi."
+    de: "Erhöht die Chance auf\neinen Volltreffer."
+    es: "Aumenta la probabilidad de\nasestar golpes críticos."
+    ko: "상대의 급소에\n공격이 맞기 쉽다."
+swarm:
+  names:
+    jp_kana: むしのしらせ
+    en: Swarm
+    fr: Essaim
+    it: Aiutinsetto
+    de: Hexaplaga
+    es: Enjambre
+    ko: 벌레의알림
+  descriptions:
+    jp_kana: "ピンチのとき　むしの\nいりょくが　あがる。"
+    en: "Powers up Bug-type\nmoves in a pinch."
+    fr: "Booste les capacités\nInsecte en cas de besoin."
+    it: "In difficoltà potenzia le\nmosse di tipo Coleottero."
+    de: "Stärkt Käfer-Attacken\nin Not."
+    es: "Potencia los ataques de\ntipo Bicho en un apuro."
+    ko: "위급할 때 벌레타입의\n위력이 올라간다."
+swift_swim:
+  names:
+    jp_kana: すいすい
+    en: Swift Swim
+    fr: Glissade
+    it: Nuotovelox
+    de: Wassertempo
+    es: Nado Rápido
+    ko: 쓱쓱
+  descriptions:
+    jp_kana: "あめのとき　すばやさが\nあがる。"
+    en: "Boosts the Pokémon’s\nSpeed in rain."
+    fr: "Augmente la Vitesse du\nPokémon s’il pleut."
+    it: "Dà al Pokémon più\nVelocità nella pioggia."
+    de: "Steigert Initiative bei\nRegen."
+    es: "Sube la Velocidad cuando\nhay lluvia."
+    ko: "비가 올 때 스피드가\n올라간다."
+synchronize:
+  names:
+    jp_kana: シンクロ
+    en: Synchronize
+    fr: Synchro
+    it: Sincronismo
+    de: Synchro
+    es: Sincronía
+    ko: 싱크로
+  descriptions:
+    jp_kana: "どく　まひ　やけどを\nあいてに　うつす。"
+    en: "Passes on a burn, poison,\nor paralysis to the foe."
+    fr: "Transmet brûlure, poison\nou paralysie à l’ennemi."
+    it: "Trasmette scottatura,\nveleno o paralisi al nemico."
+    de: "Gibt Verbrennung, Ver-\ngiftung u. Paraly. an Geg."
+    es: "Pasa envenenamiento,\nparálisis y quemaduras."
+    ko: "독, 마비, 화상을\n상대에게 옮긴다."
+tangled_feet:
+  names:
+    jp_kana: ちどりあし
+    en: Tangled Feet
+    fr: Pieds Confus
+    it: Intricopiedi
+    de: Fußangel
+    es: Tumbos
+    ko: 갈지자걸음
+  descriptions:
+    jp_kana: "こんらん　していると\nかいひ　しやすくなる。"
+    en: "Raises evasion if the\nPokémon is confused."
+    fr: "Augmente l’esquive si le\nPokémon est confus."
+    it: "Aumenta l’elusione se\nil Pokémon è confuso."
+    de: "Erhöht Fluchtwert, wenn\ndas Pokémon verwirrt ist."
+    es: "Sube la evasión si el\nPokémon está confuso."
+    ko: "혼란에 빠져있으면\n회피하기 쉬워진다."
+technician:
+  names:
+    jp_kana: テクニシャン
+    en: Technician
+    fr: Technicien
+    it: Tecnico
+    de: Techniker
+    es: Experto
+    ko: 테크니션
+  descriptions:
+    jp_kana: "よわい　わざの\nいりょくが　あがる。"
+    en: "Powers up the Pokémon’s\nweaker moves."
+    fr: "Augmente la puissance des\ncapacités les plus faibles."
+    it: "Potenzia le mosse più\ndeboli del Pokémon."
+    de: "Steigert Effektivität von\nschwächeren Attacken."
+    es: "Potencia los movimientos\nmás débiles del Pokémon."
+    ko: "약한 기술의\n위력이 올라간다."
+thick_fat:
+  names:
+    jp_kana: あついしぼう
+    en: Thick Fat
+    fr: Isograisse
+    it: Grassospesso
+    de: Speckschicht
+    es: Sebo
+    ko: 두꺼운지방
+  descriptions:
+    jp_kana: "ほのおと　こおりタイプの\nわざに　つよい。"
+    en: "Raises resistance to Fire-\nand Ice-type moves."
+    fr: "Augmente la résistance\naux cap. Feu et Glace."
+    it: "Protegge meglio da mosse\ndi tipo Fuoco e Ghiaccio."
+    de: "Schutz vor Hitze\nund Kälte."
+    es: "Protege de los ataques\nde tipo Fuego y Hielo."
+    ko: "불꽃과 얼음타입의\n기술에 강하다."
+tinted_lens:
+  names:
+    jp_kana: いろめがね
+    en: Tinted Lens
+    fr: Lentiteintée
+    it: Lentifumé
+    de: Aufwertung
+    es: Cromolente
+    ko: 색안경
+  descriptions:
+    jp_kana: "こうかいまひとつ　のとき\nわざを　つよめる。"
+    en: "Powers up “not very\neffective” moves."
+    fr: "Améliore les capacités\n“pas très efficaces”."
+    it: "Potenzia le mosse\n“non molto efficaci”."
+    de: "Steigert “weniger\neffektive” Attacken."
+    es: "Potencia los movimientos\n“poco eficaces”."
+    ko: "효과가 별로인 기술이\n강해진다."
+torrent:
+  names:
+    jp_kana: げきりゅう
+    en: Torrent
+    fr: Torrent
+    it: Acquaiuto
+    de: Sturzbach
+    es: Torrente
+    ko: 급류
+  descriptions:
+    jp_kana: "ピンチのとき　みずの\nいりょくが　あがる。"
+    en: "Powers up Water-type\nmoves in a pinch."
+    fr: "Booste les capacités\nEau en cas de besoin."
+    it: "In difficoltà potenzia\nle mosse di tipo Acqua."
+    de: "Stärkt Wasser-Attacken\nin Not."
+    es: "Potencia los ataques de\ntipo Agua en un apuro."
+    ko: "위급할 때 물타입의\n위력이 올라간다."
+trace:
+  names:
+    jp_kana: トレース
+    en: Trace
+    fr: Calque
+    it: Traccia
+    de: Fährte
+    es: Rastro
+    ko: 트레이스
+  descriptions:
+    jp_kana: "あいてと　おなじ\nとくせいに　なる。"
+    en: "The Pokémon copies the\nfoe’s ability."
+    fr: "Imite la capacité spéciale\nde l’ennemi."
+    it: Copia l’abilità del nemico.
+    de: "Das Pokémon kopiert \nFähigkeit des Gegners."
+    es: "El Pokémon copia la\nhabilidad del rival."
+    ko: "상대와 같은\n특성이 된다."
+truant:
+  names:
+    jp_kana: なまけ
+    en: Truant
+    fr: Absentéisme
+    it: Pigrone
+    de: Schnarchnase
+    es: Ausente
+    ko: 게으름
+  descriptions:
+    jp_kana: "こうげきが　れんぞくで\nだせない。"
+    en: "The Pokémon can’t attack\non consecutive turns."
+    fr: "Le Pokémon ne frappe\nqu’un tour sur deux."
+    it: "Il Pokémon può attaccare\nun turno sì e uno no."
+    de: "Greift nur in jedem\n2. Zug an."
+    es: "El Pokémon no atacará\nen 2 turnos consecutivos."
+    ko: "연속으로\n공격할 수 없다."
+unaware:
+  names:
+    jp_kana: てんねん
+    en: Unaware
+    fr: Inconscient
+    it: Imprudenza
+    de: Unkenntnis
+    es: Ignorante
+    ko: 천진
+  descriptions:
+    jp_kana: "あいての　のうりょくの\nへんかを　むしする。"
+    en: "Ignores any change in\nability by the foe."
+    fr: "Ignore les changements de\nstats de l’ennemi."
+    it: "Ignora i cambiamenti delle\nstatistiche del nemico."
+    de: "Ignoriert Wechsel der\nStatuswerte des Gegners."
+    es: "Ignora los cambios en las\ncaracterísticas del rival."
+    ko: "상대의 능력\n변화를 무시한다."
+unburden:
+  names:
+    jp_kana: かるわざ
+    en: Unburden
+    fr: Délestage
+    it: Agiltecnica
+    de: Entlastung
+    es: Liviano
+    ko: 곡예
+  descriptions:
+    jp_kana: "どうぐが　なくなると\nすばやさが　あがる。"
+    en: "Raises Speed if a held\nitem is used."
+    fr: "Augmente la Vit. si l’objet\ntenu est utilisé ou perdu."
+    it: "Sale Veloc. se strum. te-\nnuto si perde o consuma."
+    de: "Erhöht Init., wenn 1 Item\nverwendet/verloren wird."
+    es: "Sube la Veloc. al perder\nun objeto equipado."
+    ko: "도구가 없어지면\n스피드가 올라간다."
+vital_spirit:
+  names:
+    jp_kana: やるき
+    en: Vital Spirit
+    fr: Esprit Vital
+    it: Spiritovivo
+    de: Munterkeit
+    es: Espír. Vital
+    ko: 의기양양
+  descriptions:
+    jp_kana: "ねむり　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom falling asleep."
+    fr: "Empêche le Pokémon\nde s’endormir."
+    it: "Impedisce al Pokémon\ndi addormentarsi."
+    de: Verhindert Einschlafen.
+    es: Evita quedarse dormido.
+    ko: "잠듦 상태가\n되지 않는다."
+volt_absorb:
+  names:
+    jp_kana: ちくでん
+    en: Volt Absorb
+    fr: Absorb Volt
+    it: Assorbivolt
+    de: Voltabsorber
+    es: Absor. Elec.
+    ko: 축전
+  descriptions:
+    jp_kana: "でんきを　うけると\nかいふくする。"
+    en: "Restores HP if hit by an\nElectric-type move."
+    fr: "Récupère des PV si touché\npar une capacité Electrik."
+    it: "Ridà PS se si subisce\nuna mossa di tipo Elettro."
+    de: "Wandelt Elektrizität in\nKP um."
+    es: "Recupera PS al recibir \nataques de tipo Eléctrico."
+    ko: "전기를 받으면\n회복한다."
+water_absorb:
+  names:
+    jp_kana: ちょすい
+    en: Water Absorb
+    fr: Absorb Eau
+    it: Assorbacqua
+    de: H2O-Absorber
+    es: Absor. Agua
+    ko: 저수
+  descriptions:
+    jp_kana: "みずを　うけると\nかいふくする。"
+    en: "Restores HP if hit by a\nWater-type move."
+    fr: "Récupère des PV si touché\npar une capacité Eau."
+    it: "Ridà PS se si subisce\nuna mossa di tipo Acqua."
+    de: Wandelt Wasser in KP um.
+    es: "Recupera PS al recibir \nataques de tipo Agua."
+    ko: "물을 받으면\n회복한다."
+water_veil:
+  names:
+    jp_kana: みずのベール
+    en: Water Veil
+    fr: Ignifu-Voile
+    it: Idrovelo
+    de: Aquahülle
+    es: Velo Agua
+    ko: 수의베일
+  descriptions:
+    jp_kana: "やけど　じょうたいに\nならない。"
+    en: "Prevents the Pokémon\nfrom getting a burn."
+    fr: "Protège le Pokémon\ndes brûlures."
+    it: "Impedisce al Pokémon di\nrimanere scottato."
+    de: "Verhindert\nVerbrennungen."
+    es: Evita las quemaduras.
+    ko: "화상 상태가\n되지 않는다."
+white_smoke:
+  names:
+    jp_kana: しろいけむり
+    en: White Smoke
+    fr: Ecran Fumée
+    it: Fumochiaro
+    de: Pulverrauch
+    es: Humo Blanco
+    ko: 하얀연기
+  descriptions:
+    jp_kana: "あいてに　のうりょくを\nさげられない。"
+    en: "Prevents the Pokémon’s\nstats from being lowered."
+    fr: "Empêche la réduction des\nstats du Pokémon."
+    it: "Impedisce la riduzione\ndelle statistiche."
+    de: "Verhindert das Absenken\nder Statuswerte."
+    es: "Evita que se reduzcan\nlas características."
+    ko: "상대가 능력을\n떨어뜨릴 수 없다."
+wonder_guard:
+  names:
+    jp_kana: ふしぎなまもり
+    en: Wonder Guard
+    fr: Garde Mystik
+    it: Magidifesa
+    de: Wunderwache
+    es: Superguarda
+    ko: 불가사의부적
+  descriptions:
+    jp_kana: "こうかばつぐん　しか\nあたらない。"
+    en: "Only supereffective\nmoves will hit."
+    fr: "Seules capacités “super\nefficaces” l’atteignent."
+    it: "Solo le mosse superefficaci\nhanno effetto."
+    de: "Nur sehr effektive Treffer\nschaden."
+    es: "Solo le dañan movimientos\nmuy eficaces."
+    ko: "효과가 굉장한 기술밖에\n맞지 않는다."

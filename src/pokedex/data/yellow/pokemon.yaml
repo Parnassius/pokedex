@@ -1,0 +1,5498 @@
+bulbasaur:
+  species_id: 1
+  names:
+    jp_kana: フシギダネ
+    en: BULBASAUR
+    fr: BULBIZARRE
+    it: BULBASAUR
+    de: BISASAM
+    es: BULBASAUR
+  forms:
+    bulbasaur:
+      form_id: 0
+      base_stats:
+        hp: 45
+        attack: 49
+        defense: 49
+        speed: 45
+        special: 65
+      types:
+        - grass
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "なんにちだって　なにも　たべなくても\nげんき！　せなかのタネに　たくさん\nえいようが　あるから　へいきだ！"
+        en:
+          yellow: "It can go for days\nwithout eating a\nsingle morsel.\fIn the bulb on\nits back, it\nstores energy."
+        fr:
+          yellow: "Il peut survivre\nplusieurs jours\nsans manger.\fLe bulbe sur son\ndos emmagasine de\nl’énergie."
+        it:
+          yellow: "Questo POKéMON\npuò stare a lungo\nsenza nutrimento.\fAccumula energia\nnel bulbo che ha\nsulla schiena."
+        de:
+          yellow: "Dieses POKéMON\nkommt sehr lange\nohne Nahrung aus.\fDie Knolle auf\nseinem Rücken\nspeichert Energie."
+        es:
+          yellow: "Puede sobrevivir\nlargo tiempo sin\nprobar bocado.\fGuarda energía\nen el bulbo de\nsu espalda"
+ivysaur:
+  species_id: 2
+  names:
+    jp_kana: フシギソウ
+    en: IVYSAUR
+    fr: HERBIZARRE
+    it: IVYSAUR
+    de: BISAKNOSP
+    es: IVYSAUR
+  forms:
+    ivysaur:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 62
+        defense: 63
+        speed: 60
+        special: 80
+      types:
+        - grass
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ようぶんを　とって　おおきくなった\nつぼみから　かおりが　ただよいだすと\nもうすぐ　ハナがひらく　しょうこだ。"
+        en:
+          yellow: "The bulb on its\nback grows by\ndrawing energy.\fIt gives off an\naroma when it is\nready to bloom."
+        fr:
+          yellow: "En emmagasinant\nde l’énergie, son\nbulbe grossit.\fIl en émane un\narôme quand il va\néclore."
+        it:
+          yellow: "Assorbendo energia\nil suo bulbo\ncresce.\fAl momento della\nfioritura emana\nun forte profumo."
+        de:
+          yellow: "Die Knospe auf\ndem Rücken wächst\ndurch absorbierte\fEnergie. Kurz vor\nder Blüte sondert\nsie einen Duft ab."
+        es:
+          yellow: "Su bulbo crece\ncuando absorbe\nenergía.\fDesprende un\nfuerte aroma\ncuando florece"
+venusaur:
+  species_id: 3
+  names:
+    jp_kana: フシギバナ
+    en: VENUSAUR
+    fr: FLORIZARRE
+    it: VENUSAUR
+    de: BISAFLOR
+    es: VENUSAUR
+  forms:
+    venusaur:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 82
+        defense: 83
+        speed: 80
+        special: 100
+      types:
+        - grass
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "せなかに　はえた　おおきな　ハナは\nたいようの　ひかりを　きゅうしゅうし\nエネルギーに　へんかん　できる。"
+        en:
+          yellow: "The flower on its\nback catches the\nsun’s rays.\fThe sunlight is\nthen absorbed and\nused for energy."
+        fr:
+          yellow: "Les pétales de\nsa fleur dorsale\nabsorbent les\frayons du soleil\npour en faire de\nl’énergie."
+        it:
+          yellow: "Il fiore che porta\nsulla schiena\ncattura i raggi\fsolari, li assorbe\ne li trasforma\nin energia."
+        de:
+          yellow: "Die Blume auf dem\nRücken dieses\nPOKéMON absorbiert\fdas Sonnenlicht\nund wandelt es in\nEnergie um."
+        es:
+          yellow: "La flor de su\nespalda recoge\nlos rayos del\fSol. Los\ntransforma en\nenergía"
+charmander:
+  species_id: 4
+  names:
+    jp_kana: ヒトカゲ
+    en: CHARMANDER
+    fr: SALAMECHE
+    it: CHARMANDER
+    de: GLUMANDA
+    es: CHARMANDER
+  forms:
+    charmander:
+      form_id: 0
+      base_stats:
+        hp: 39
+        attack: 52
+        defense: 43
+        speed: 65
+        special: 50
+      types:
+        - fire
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "しずかな　ところに　つれていくと\nシッポが　もえてる　ちいさな\nおとが　きこえてくるよ。"
+        en:
+          yellow: "The flame at the\ntip of its tail\nmakes a sound as\fit burns. You can\nonly hear it in\nquiet places."
+        fr:
+          yellow: "La flammèche au\nbout de sa queue\német un son\fcrépitant audible\nseulement dans\nun endroit calme."
+        it:
+          yellow: "Nel silenzio più\nassoluto si può\nudire la fiamma\fin cima alla sua\ncoda scoppiettare\nbruciando."
+        de:
+          yellow: "An sehr stillen\nOrten kann man\ndie brennende\fSchwanzspitze\ndieses POKéMON\nlodern hören."
+        es:
+          yellow: "La llama en la\npunta de su cola\nchisporrotea al\farder. Sólo se\noye en lugares\nsilenciosos"
+charmeleon:
+  species_id: 5
+  names:
+    jp_kana: リザード
+    en: CHARMELEON
+    fr: REPTINCEL
+    it: CHARMELEON
+    de: GLUTEXO
+    es: CHARMELEON
+  forms:
+    charmeleon:
+      form_id: 0
+      base_stats:
+        hp: 58
+        attack: 64
+        defense: 58
+        speed: 80
+        special: 65
+      types:
+        - fire
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "きょうてきと　たたかいつづけ\nエキサイトすると　あおじろい\nほのおを　はきだすことがある。"
+        en:
+          yellow: "Tough fights could\nexcite this\nPOKéMON. When\fexcited, it may\nblow out bluish-\nwhite flames."
+        fr:
+          yellow: "Ce POKéMON est\nviolent. Dans la\nfurie d’un combat\fson aura brille\nd’une flamme\nbleutée."
+        it:
+          yellow: "Si innervosisce\ndurante le lotte\npiù dure e\ftalvolta sputa\nfiamme blu e\nbianche."
+        de:
+          yellow: "Verfällt dieses\nPOKéMON in\nAufregung, so\fspuckt es\ngleißend helle\nFlammen."
+        es:
+          yellow: "Las duras luchas\nexcitan a este\nPOKéMON.\fEntonces, lanzará\nllamaradas\nblanco-azuladas"
+charizard:
+  species_id: 6
+  names:
+    jp_kana: リザードン
+    en: CHARIZARD
+    fr: DRACAUFEU
+    it: CHARIZARD
+    de: GLURAK
+    es: CHARIZARD
+  forms:
+    charizard:
+      form_id: 0
+      base_stats:
+        hp: 78
+        attack: 84
+        defense: 78
+        speed: 100
+        special: 85
+      types:
+        - fire
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "くちから　しゃくねつの　ほのおを\nはきだすとき　シッポのさきは\nより　あかく　はげしく　もえあがる。"
+        en:
+          yellow: "When expelling a\nblast of super\nhot fire, the red\fflame at the tip\nof its tail burns\nmore intensely."
+        fr:
+          yellow: "Quand il crache\nson souffle\nbrûlant, la\fflamme au bout de\nsa queue\ns’embrase."
+        it:
+          yellow: "Quando emette le\nsue lingue di\nfuoco, la fiamma\frossa sulla punta\ndella coda brucia\npiù intensamente."
+        de:
+          yellow: "Wenn dieses\nPOKéMON einen\nStrahl glühenden\fFeuers speit,\nleuchtet seine\nSchwanzspitze auf."
+        es:
+          yellow: "Cuando lanza una\ndescarga de fuego\nsúper caliente,\fla roja llama de\nsu cola brilla\nmás intensamente"
+squirtle:
+  species_id: 7
+  names:
+    jp_kana: ゼニガメ
+    en: SQUIRTLE
+    fr: CARAPUCE
+    it: SQUIRTLE
+    de: SCHIGGY
+    es: SQUIRTLE
+  forms:
+    squirtle:
+      form_id: 0
+      base_stats:
+        hp: 44
+        attack: 48
+        defense: 65
+        speed: 43
+        special: 50
+      types:
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "すいめんから　みずを　ふんしゃして\nエサをとる。あぶなくなると　こうらに\nてあしを　ひっこめて　みをまもる。"
+        en:
+          yellow: "Shoots water at\nprey while in the\nwater.\fWithdraws into\nits shell when in\ndanger."
+        fr:
+          yellow: "Caché sous l’eau,\nil crache un jet\nd’eau sur sa\fproie et se cache\nà l’intérieur de\nsa coquille."
+        it:
+          yellow: "Attacca i nemici\ncon potenti getti\nd’acqua. Se si\fsente in pericolo\nsi ritira dentro\nla sua corazza."
+        de:
+          yellow: "Dieses POKéMON\njagt mit einem\nWasserstrahl.\fBei Gefahr zieht\nes sich in seinen\nPanzer zurück."
+        es:
+          yellow: "Lanza agua a su\npresa desde el\nagua.\fSe esconde en su\nconcha cuando se\nsiente en peligro"
+wartortle:
+  species_id: 8
+  names:
+    jp_kana: カメール
+    en: WARTORTLE
+    fr: CARABAFFE
+    it: WARTORTLE
+    de: SCHILLOK
+    es: WARTORTLE
+  forms:
+    wartortle:
+      form_id: 0
+      base_stats:
+        hp: 59
+        attack: 63
+        defense: 80
+        speed: 58
+        special: 65
+      types:
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ポカンと　あたまを　たたかれるとき\nこうらに　ひっこんで　よける。でも\nちょっとだけ　シッポが　でているよ。"
+        en:
+          yellow: "When tapped, this\nPOKéMON will pull\nin its head, but\fits tail will\nstill stick out a\nlittle bit."
+        fr:
+          yellow: "Attaqué, il\ncache sa tête\ndans sa carapace,\fmais son corps\ntrop gros ne peut\ny tenir en entier."
+        it:
+          yellow: "Quando si sente\nminacciato ritira\nla testa nella\fcorazza, mentre\nla coda sporge\nsempre un po’."
+        de:
+          yellow: "Bei Gefahr zieht\ndieses POKéMON\nseinen Kopf ein.\fDie Schwanzspitze\nragt jedoch aus\ndem Panzer heraus."
+        es:
+          yellow: "Si es golpeado,\nesconderá su\ncabeza.\fAun así, su\ncola puede\nseguir golpeando"
+blastoise:
+  species_id: 9
+  names:
+    jp_kana: カメックス
+    en: BLASTOISE
+    fr: TORTANK
+    it: BLASTOISE
+    de: TURTOK
+    es: BLASTOISE
+  forms:
+    blastoise:
+      form_id: 0
+      base_stats:
+        hp: 79
+        attack: 83
+        defense: 100
+        speed: 78
+        special: 85
+      types:
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "あいてに　ねらいを　さだめると\nしょうぼうしゃの　ホースより\nつよい　いきおいで　みずを　だす。"
+        en:
+          yellow: "Once it takes aim\nat its enemy, it\nblasts out water\fwith even more\nforce than a fire\nhose."
+        fr:
+          yellow: "Une fois sa cible\nalignée, il\nprojette des jets\fd’eau plus\npuissants qu’une\nlance à incendie."
+        it:
+          yellow: "Dopo aver preso\nla mira colpisce\nil nemico con\fgetti d’acqua\npiù potenti\ndi un idrante."
+        de:
+          yellow: "Nachdem dieses\nPOKéMON einen\nGegner anvisiert\fhat, attackiert\nes mit einem Hoch-\ndruckwasserstrahl."
+        es:
+          yellow: "Cuando ataca a\nun enemigo, su\ndescarga de agua\fes aún más\npotente que una\nmanga de bombero"
+caterpie:
+  species_id: 10
+  names:
+    jp_kana: キャタピー
+    en: CATERPIE
+    fr: CHENIPAN
+    it: CATERPIE
+    de: RAUPY
+    es: CATERPIE
+  forms:
+    caterpie:
+      form_id: 0
+      base_stats:
+        hp: 45
+        attack: 30
+        defense: 35
+        speed: 45
+        special: 20
+      types:
+        - bug
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "あたまの　さきにある　しょっかくに\nふれると　きょうれつな　においを\nだして　みを　まもろうとする。"
+        en:
+          yellow: "If you touch the\nfeeler on top of\nits head, it will\frelease a horrible\nstink to protect\nitself."
+        fr:
+          yellow: "Quand on touche\nl’appendice sur\nson front, il\fsécrète un gaz\npuant pour se\nprotéger."
+        it:
+          yellow: "Se gli si tocca\nil sensore che ha\nsulla testa, si\fdifende emettendo\nun odore\ninsopportabile."
+        de:
+          yellow: "Berührt man die\nFühler auf dem\nKopf dieses\fPOKéMON, so\nsondert es einen\nekligen Geruch ab."
+        es:
+          yellow: "Si tocas los\nreceptores de\nsu cabeza,\fsoltará un\nterrible olor\npara protegerse"
+metapod:
+  species_id: 11
+  names:
+    jp_kana: トランセル
+    en: METAPOD
+    fr: CHRYSACIER
+    it: METAPOD
+    de: SAFCON
+    es: METAPOD
+  forms:
+    metapod:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 20
+        defense: 55
+        speed: 30
+        special: 25
+      types:
+        - bug
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "みをまもるため　ひたすら　カラを\nかたくしても　つよい　しょうげきを\nうけると　なかみが　でてしまう。"
+        en:
+          yellow: "Hardens its shell\nto protect itself.\nHowever, a large\fimpact may cause\nit to pop out of\nits shell."
+        fr:
+          yellow: "Il renforce sa\ncarapace pour se\nprotéger. Mais\fun coup puissant\npeut le déloger\nde son armure."
+        it:
+          yellow: "Per difendersi\nindurisce la\ncorazza, ma un\fcolpo violento\npuò scaraventarlo\nfuori dal guscio."
+        de:
+          yellow: "Dieses POKéMON\nkann zum Schutz\nseinen Panzer\ferhärten. Es kann\ndennoch nicht alle\nAttacken abwehren."
+        es:
+          yellow: "Endurece su\nconcha para\nprotegerse. De\ftodos modos, un\ngran impacto\npuede afectarle"
+butterfree:
+  species_id: 12
+  names:
+    jp_kana: バタフリー
+    en: BUTTERFREE
+    fr: PAPILUSION
+    it: BUTTERFREE
+    de: SMETTBO
+    es: BUTTERFREE
+  forms:
+    butterfree:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 45
+        defense: 50
+        speed: 70
+        special: 80
+      types:
+        - bug
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ハネの　もうどくの　りんぷんには\nみずをはじく　せいしつが　あるので\nあめのひ　でも　とびまわれる。"
+        en:
+          yellow: "Its wings, covered\nwith poisonous\npowders, repel\fwater. This\nallows it to fly\nin the rain."
+        fr:
+          yellow: "Ses ailes sont\nenduites d’une\npoudre toxique\fimperméable.\nIl peut voler\nsous la pluie."
+        it:
+          yellow: "Possiede ali\nidrorepellenti\nricoperte da una\fpolvere velenosa.\nPuò volare anche\nquando piove."
+        de:
+          yellow: "Die Flügel dieses\nPOKéMON sind\nwasserabweisend\fund von einer\ngiftigen Staub-\nschicht bedeckt."
+        es:
+          yellow: "Sus alas están\ncubiertas de\npolvos venenosos.\fComo repelen el\nagua, puede volar\nbajo la lluvia"
+weedle:
+  species_id: 13
+  names:
+    jp_kana: ビードル
+    en: WEEDLE
+    fr: ASPICOT
+    it: WEEDLE
+    de: HORNLIU
+    es: WEEDLE
+  forms:
+    weedle:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 35
+        defense: 30
+        speed: 50
+        special: 20
+      types:
+        - bug
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "あたまに　するどい　ハりを　もつ。\nもりや　くさちの　しげみに　かくれ\nひたすら　ハッパを　たべている。"
+        en:
+          yellow: "Beware of the\nsharp stinger on\nits head. It\fhides in grass\nand bushes where\nit eats leaves."
+        fr:
+          yellow: "Prenez garde à la\npique empoisonnée\nsur son front.\fIl se cache dans\nles buissons et\nles hautes herbes."
+        it:
+          yellow: "Ha un pungiglione\naffilato sul capo.\nVive tra l’erba\falta e i cespugli\ndove si nutre\ndi foglie."
+        de:
+          yellow: "Dieses POKéMON\nverfügt über einen\nspitzen Stachel.\fMan findet es\nmeist auf Wiesen\nund Feldern."
+        es:
+          yellow: "Cuidado con el\naguijón venenoso\nde su cabeza.\fSe esconde en la\nhierba y arbustos\nmientras come"
+kakuna:
+  species_id: 14
+  names:
+    jp_kana: コクーン
+    en: KAKUNA
+    fr: COCONFORT
+    it: KAKUNA
+    de: KOKUNA
+    es: KAKUNA
+  forms:
+    kakuna:
+      form_id: 0
+      base_stats:
+        hp: 45
+        attack: 25
+        defense: 50
+        speed: 35
+        special: 25
+      types:
+        - bug
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "じぶんでは　ほとんど　うごけないが\nあぶなくなると　ハりをだして\nどくを　あたえることも　あるらしい。"
+        en:
+          yellow: "Able to move only\nslightly. When\nendangered, it\fmay stick out its\nstinger and poison\nits enemy."
+        fr:
+          yellow: "Il se déplace\ntrès lentement.\nMenacé, il sort\fson aiguillon\net empoisonne ses\nennemis."
+        it:
+          yellow: "Si muove molto\nlentamente. Se si\nsente minacciato\favvelena il nemico\ncon il suo \npungiglione."
+        de:
+          yellow: "Dieses POKéMON\nkann sich kaum\nbewegen.\fBei Gefahr greift\nes mit einem\nGiftstachel an."
+        es:
+          yellow: "Sólo puede\nmoverse un poco.\nCuando está en\fpeligro, envenena\na su enemigo con\nsu aguijón"
+beedrill:
+  species_id: 15
+  names:
+    jp_kana: スピアー
+    en: BEEDRILL
+    fr: DARDARGNAN
+    it: BEEDRILL
+    de: BIBOR
+    es: BEEDRILL
+  forms:
+    beedrill:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 80
+        defense: 40
+        speed: 75
+        special: 45
+      types:
+        - bug
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "りょうてと　おしりにある　３ぼんの\nどくバりで　あいてを　さして　さして\nさしまくって　こうげきする。"
+        en:
+          yellow: "It has 3 poisonous\nstingers on its\nforelegs and its\ftail. They are\nused to jab its\nenemy repeatedly."
+        fr:
+          yellow: "Il se sert de ses\ntrois aiguillons\nempoisonnés pour\fattaquer sans\nrelâche ses\nadversaires."
+        it:
+          yellow: "Possiede 3 aculei\nvelenosi sulle\nzampe anteriori\fe sull’addome con\ncui punge i nemici\nripetutamente."
+        de:
+          yellow: "Dieses POKéMON\nverfügt über drei\nGiftstachel. Es\fkann seine Gegner\ndamit wiederholt\nstechen."
+        es:
+          yellow: "Tiene 3 aguijones\nvenenosos en sus\npatas y cola.\fSuelen pinchar a\nsus enemigos\nrepetidas veces"
+pidgey:
+  species_id: 16
+  names:
+    jp_kana: ポッポ
+    en: PIDGEY
+    fr: ROUCOOL
+    it: PIDGEY
+    de: TAUBSI
+    es: PIDGEY
+  forms:
+    pidgey:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 45
+        defense: 40
+        speed: 56
+        special: 35
+      types:
+        - normal
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "おとなしい　せいかくで　おそわれても\nはんげき　せずに　すなを　かけて\nみを　まもることが　おおい。"
+        en:
+          yellow: "Very docile. If\nattacked, it will\noften kick up\fsand to protect\nitself rather\nthan fight back."
+        fr:
+          yellow: "De nature très\ndocile, il\npréfère jeter du\fsable pour se\ndéfendre plutôt\nqu’attaquer."
+        it:
+          yellow: "Di indole docile\npreferisce alzare\nsabbia sul nemico\fper proteggersi\npiuttosto che\nattaccarlo."
+        de:
+          yellow: "Ein sanftmütiges\nPOKéMON, welches\nlieber Sand zum\fSchutze auf-\nwirbelt, als\nzurückzuschlagen."
+        es:
+          yellow: "Son muy dóciles.\nSi son atacados,\nsuelen lanzar\farena en lugar\nde repeler el\nataque"
+pidgeotto:
+  species_id: 17
+  names:
+    jp_kana: ピジョン
+    en: PIDGEOTTO
+    fr: ROUCOUPS
+    it: PIDGEOTTO
+    de: TAUBOGA
+    es: PIDGEOTTO
+  forms:
+    pidgeotto:
+      form_id: 0
+      base_stats:
+        hp: 63
+        attack: 60
+        defense: 55
+        speed: 71
+        special: 50
+      types:
+        - normal
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ありあまる　たいりょくの　もちぬしで\nひろい　なわばりを　とびまわり\nとおくまで　エサを　さがしにいく。"
+        en:
+          yellow: "This POKéMON is\nfull of vitality.\nIt constantly\fflies around its\nlarge territory in\nsearch of prey."
+        fr:
+          yellow: "Ce POKéMON est\ntrès vivace.\nIl survole en\fpermanence son\nterritoire pour\nchasser."
+        it:
+          yellow: "Un POKéMON pieno\ndi vitalità che\nvola instancabile\fsul suo territorio\nin cerca di\nprede ignare."
+        de:
+          yellow: "Dieses kraftvolle\nPOKéMON wacht\nunermüdlich über\fsein Territorium\nund sucht ständig\nnach Beute."
+        es:
+          yellow: "Este POKéMON está\nrepleto de\nvitalidad. Suele\fvolar por su\nterritorio en\nbusca de presas"
+pidgeot:
+  species_id: 18
+  names:
+    jp_kana: ピジョット
+    en: PIDGEOT
+    fr: ROUCARNAGE
+    it: PIDGEOT
+    de: TAUBOSS
+    es: PIDGEOT
+  forms:
+    pidgeot:
+      form_id: 0
+      base_stats:
+        hp: 83
+        attack: 80
+        defense: 75
+        speed: 91
+        special: 70
+      types:
+        - normal
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "マッハ２で　ひこうし　エサをさがす。\nその　おおきな　ツメは\nぶきと　しても　おそれられている。"
+        en:
+          yellow: "This POKéMON flies\nat Mach 2 speed,\nseeking prey.\fIts large talons\nare feared as\nwicked weapons."
+        fr:
+          yellow: "Ce POKéMON vole\nà Mach 2 quand il\nchasse. Ses\fgrandes griffes\nsont des armes\nredoutables."
+        it:
+          yellow: "Può volare ad una\nvelocità di Mach 2\nin cerca di\fprede. I suoi\nartigli sono\narmi micidiali."
+        de:
+          yellow: "Dieses POKéMON\nkann bis zu Mach 2\nschnell fliegen.\fSeine Klauen\ndienen ihm als\nexzellente Waffen."
+        es:
+          yellow: "Este POKéMON\nvuela a velocidad\nMach 2.\fSus grandes\ngarras son armas\nmuy peligrosas"
+rattata:
+  species_id: 19
+  names:
+    jp_kana: コラッタ
+    en: RATTATA
+    fr: RATTATA
+    it: RATTATA
+    de: RATTFRATZ
+    es: RATTATA
+  forms:
+    rattata:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 56
+        defense: 35
+        speed: 72
+        special: 25
+      types:
+        - normal
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "キバが　２つ。とにかく　なんでも\nかじってみる。１ぴき　みつけたら\n４０ぴきは　そこに　すんでるはず。"
+        en:
+          yellow: "Will chew on any-\nthing with its\nfangs. If you see\fone, it is certain\nthat 40 more live\nin the area."
+        fr:
+          yellow: "Il peut ronger\nn’importe quoi.\nQuand on en voit\fun , il y en a\ncertainement 40\ndans le coin."
+        it:
+          yellow: "Con le sue zanne\nrode qualsiasi\ncosa.\fVive in colonie\nnumerose con più\ndi 40 esemplari."
+        de:
+          yellow: "Dieses POKéMON\nnagt alles und\njeden an. Es\flebt in großen\nRudeln von bis zu\nvierzig POKéMON."
+        es:
+          yellow: "Muerde cualquier\ncosa con sus\ncolmillos. Si\fves uno, seguro\nque encuentras 40\nmás en la zona"
+raticate:
+  species_id: 20
+  names:
+    jp_kana: ラッタ
+    en: RATICATE
+    fr: RATTATAC
+    it: RATICATE
+    de: RATTIKARL
+    es: RATICATE
+  forms:
+    raticate:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 81
+        defense: 60
+        speed: 97
+        special: 50
+      types:
+        - normal
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "うしろあしにある　ちいさな\nみずかきで　かわを　およぐのは\nみずのなかの　エサを　とるためだ。"
+        en:
+          yellow: "Its hind feet are\nwebbed. They act\nas flippers, so\fit can swim in\nrivers and hunt\nfor prey."
+        fr:
+          yellow: "Ses pattes sont\npalmées. Il peut\npoursuivre sa\fproie à travers\nles cours d’eau\net les rivières."
+        it:
+          yellow: "Dispone di zampe\nposteriori palmate\ncosicché può\fnuotare nei fiumi\nin cerca di\nprede."
+        de:
+          yellow: "Die Hinterbeine\ndieses POKéMON\nverfügen über\fSchwimmhäute.\nSo kann es in\nFlüssen jagen."
+        es:
+          yellow: "Sus patas son\npalmeadas.\nSirven de aletas,\fpor lo que puede\nnadar por ríos\nen busca de presa"
+spearow:
+  species_id: 21
+  names:
+    jp_kana: オニスズメ
+    en: SPEAROW
+    fr: PIAFABEC
+    it: SPEAROW
+    de: HABITAK
+    es: SPEAROW
+  forms:
+    spearow:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 60
+        defense: 30
+        speed: 70
+        special: 31
+      types:
+        - normal
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "たかく　とぶのは　にがて。\nなわばりを　まもるために\nもうスピードで　とびまわっている。"
+        en:
+          yellow: "Inept at flying\nhigh. However, it\ncan fly around\fvery fast to\nprotect its ter-\nritory."
+        fr:
+          yellow: "Incapable de\nvoler à haute\naltitude, il se\fdéplace très vite\npour protéger son\nterritoire."
+        it:
+          yellow: "Non raggiunge alte\nquote, ma riesce\ncomunque a volare\fmolto velocemente\nper proteggere il\nsuo territorio."
+        de:
+          yellow: "Dieses POKéMON\nkann in großer\nHöhe nur schwer\ffliegen. Dafür\nkann es sehr\nschnell fliegen."
+        es:
+          yellow: "Es incapaz de\nvolar a gran\naltura, pero\fes muy rápido, lo\nque le permite\nprotegerse"
+fearow:
+  species_id: 22
+  names:
+    jp_kana: オニドリル
+    en: FEAROW
+    fr: RAPASDEPIC
+    it: FEAROW
+    de: IBITAK
+    es: FEAROW
+  forms:
+    fearow:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 90
+        defense: 65
+        speed: 100
+        special: 61
+      types:
+        - normal
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "むかしから　すんでいる　ポケモン。\nすこしでも　きけんを　かんじると\nそらたかく　とんで　いってしまう。"
+        en:
+          yellow: "A POKéMON that\ndates back many\nyears. If it\fsenses danger, it\nflies high and\naway, instantly."
+        fr:
+          yellow: "Un POKéMON à qui\non ne la fait pas.\nS’il sent du\fdanger, il fuit\ninstantanément et\nà toute vitesse."
+        it:
+          yellow: "Questo POKéMON\nmolto antico vola\nlontano e in alto\fimmediatamente\nal minimo accenno\ndi pericolo."
+        de:
+          yellow: "Dieses POKéMON\ngehört einer sehr\nalten Spezies an.\fWittert es Gefahr,\nso fliegt es\nsofort davon."
+        es:
+          yellow: "Este POKéMON es\nconocido desde\nhace muchos años.\fSi siente peligro\nvolará lejos\ninmediatamente"
+ekans:
+  species_id: 23
+  names:
+    jp_kana: アーボ
+    en: EKANS
+    fr: ABO
+    it: EKANS
+    de: RETTAN
+    es: EKANS
+  forms:
+    ekans:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 60
+        defense: 44
+        speed: 55
+        special: 40
+      types:
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "そだつほどに　どんどん　ながくなる。\nそして　よなかは　きのえだに\nグルグルと　からまって　やすむ。"
+        en:
+          yellow: "The older it gets,\nthe longer it\ngrows. At night,\fit wraps its long\nbody around tree\nbranches to rest."
+        fr:
+          yellow: "Plus il est âgé,\nplus son corps\nest long. Il se\flove autour des\narbres pour se\nreposer."
+        it:
+          yellow: "Con il tempo si fa\nsempre più lungo.\nLa notte avvolge\fil suo corpo\nattorno a qualche\nramo per dormire."
+        de:
+          yellow: "Mit dem Alter wird\nder Körper dieses\nPOKéMON immer\flänger.\nEs schläft um\nÄste gewickelt."
+        es:
+          yellow: "Cuanto más viejo,\nmás crece este\nPOKéMON. Por la\fnoche, descansa\nen las ramas de\nlos árboles"
+arbok:
+  species_id: 24
+  names:
+    jp_kana: アーボック
+    en: ARBOK
+    fr: ARBOK
+    it: ARBOK
+    de: ARBOK
+    es: ARBOK
+  forms:
+    arbok:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 85
+        defense: 69
+        speed: 80
+        special: 65
+      types:
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "おそろしげな　おなかの　もようは\nけんきゅうのけっか　６しゅるいほど\nパターンが　かくにんされている。"
+        en:
+          yellow: "The frightening\npatterns on its\nbelly have been\fstudied. Six\nvariations have\nbeen confirmed."
+        fr:
+          yellow: "Des études menées\nsur les motifs\neffrayants de son\fcorps ont révélé\nsix variations\ndifférentes."
+        it:
+          yellow: "I feroci disegni\nsulla sua pancia\nsono oggetto di\fattenti studi.\nNe sono stati\nscoperti 6 tipi."
+        de:
+          yellow: "Die Haut dieses\nPOKéMON zeigt ein\nfurchterregendes\fMuster. Sechs\nVarianten wurden\nbislang entdeckt."
+        es:
+          yellow: "Los espantosos\ndibujos de su\npiel han sido\festudiados. Seis\nvariaciones han\nsido confirmadas"
+pikachu:
+  species_id: 25
+  names:
+    jp_kana: ピカチュウ
+    en: PIKACHU
+    fr: PIKACHU
+    it: PIKACHU
+    de: PIKACHU
+    es: PIKACHU
+  forms:
+    pikachu:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 55
+        defense: 30
+        speed: 90
+        special: 50
+      types:
+        - electric
+      held_items:
+        common: light_ball
+        rare: light_ball
+      descriptions:
+        jp_kana:
+          yellow: "しっぽをたてて　まわりのけはいを\nかんじとっている。だから　むやみに\nしっぽを　ひっぱると　かみつくよ。"
+        en:
+          yellow: "It keeps its tail\nraised to monitor\nits surroundings.\fIf you yank its\ntail, it will try\nto bite you."
+        fr:
+          yellow: "Sa queue est\ndressée quand il\nest aux aguets.\fSi vous tirez\ndessus, il\nvous mordra."
+        it:
+          yellow: "Con la coda ritta\nsonda i dintorni.\nSe gliela si tira\fsi innervosisce,\nsi gira e cerca\ndi mordere."
+        de:
+          yellow: "Der Schweif dieses\nPOKéMON dient als\nFrühwarnsystem.\fZieht man PIKACHU\nam Schweif, so\nbeißt es um sich."
+        es:
+          yellow: "Mantiene su cola\nen alto para\nvigilar.\fSi das un tirón\na su cola,\nquerrá morderte"
+raichu:
+  species_id: 26
+  names:
+    jp_kana: ライチュウ
+    en: RAICHU
+    fr: RAICHU
+    it: RAICHU
+    de: RAICHU
+    es: RAICHU
+  forms:
+    raichu:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 90
+        defense: 55
+        speed: 100
+        special: 90
+      types:
+        - electric
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "からだに　でんきが　たまってくると\nこうげきてきな　せいかくにかわる。\nくらいところで　ひかってみえる。"
+        en:
+          yellow: "When electricity\nbuilds up inside\nits body, it\fbecomes feisty.\nIt also glows in\nthe dark."
+        fr:
+          yellow: "Il devient tout\nexcité quand il\nemmagasine de\fl’électricité.\nIl brille alors\ndans le noir."
+        it:
+          yellow: "Quando si accumula\nelettricità\nnel suo corpo,\fsi fa irascibile.\nAl buio brilla\ndi luce propria."
+        de:
+          yellow: "Dieses lebhafte \nPOKéMON erzeugt\nin seinem Körper\fElektrizität.\nEs leuchtet auch\nim Dunkeln."
+        es:
+          yellow: "Cuando la\nelectricidad del\ncuerpo crece, se\fvuelve irritable.\nTambién brilla en\nla oscuridad"
+sandshrew:
+  species_id: 27
+  names:
+    jp_kana: サンド
+    en: SANDSHREW
+    fr: SABELETTE
+    it: SANDSHREW
+    de: SANDAN
+    es: SANDSHREW
+  forms:
+    sandshrew:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 75
+        defense: 85
+        speed: 40
+        special: 30
+      types:
+        - ground
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "からだは　かわいている。しかし\nよなか　きおんが　さがったときは\nひふに　しずくが　つくという。"
+        en:
+          yellow: "Its body is dry.\nWhen it gets cold\nat night, its\fhide is said to\nbecome coated with\na fine dew."
+        fr:
+          yellow: "Son corps est sec.\nQuand la nuit\ndéploie ses ailes\fde fraîcheur, son\népiderme se\ncouvre de rosée."
+        it:
+          yellow: "Il suo corpo è\nmolto asciutto,\nma si dice che\fquando si fa\nfreddo si ricopra\ndi fine rugiada."
+        de:
+          yellow: "Der Körper dieses\nPOKéMON ist sehr\ntrocken.\fIn kalten Nächten\nwird sein Körper\nvon Tau überzogen."
+        es:
+          yellow: "Su cuerpo es muy\nseco. Cuando hace\nfrío por la\fnoche, su piel\naparece cubierta\ncon un fino rocío"
+sandslash:
+  species_id: 28
+  names:
+    jp_kana: サンドパン
+    en: SANDSLASH
+    fr: SABLAIREAU
+    it: SANDSLASH
+    de: SANDAMER
+    es: SANDSLASH
+  forms:
+    sandslash:
+      form_id: 0
+      base_stats:
+        hp: 75
+        attack: 100
+        defense: 110
+        speed: 65
+        special: 55
+      types:
+        - ground
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ツメで　ひっかくのが　とくいだが\nたたかっているうち　おれることも。\nつぎのひには　また　のびてくるぞ。"
+        en:
+          yellow: "It is skilled at\nslashing enemies\nwith its claws.\fIf broken, they\nstart to grow back\nin a day."
+        fr:
+          yellow: "Ses griffes sont\nredoutables.\nSi une d’elles se\fcasse, elle\nrepoussera en\nun jour."
+        it:
+          yellow: "È abilissimo a\ngraffiare i suoi\nnemici con gli\fartigli affilati.\nSe si rompono, si\nriformano subito."
+        de:
+          yellow: "Dieses POKéMON\ngreift Gegner mit\nseinen scharfen\fKlauen an. Bricht\neine Klaue ab, so\nwächst sie nach."
+        es:
+          yellow: "Es muy hábil al\ngolpear a sus\nenemigos con sus\fgarras. Si se\nrompen, crecerán\nen un solo día"
+nidoran_f:
+  species_id: 29
+  names:
+    jp_kana: ニドラン♀
+    en: NIDORAN♀
+    fr: NIDORAN♀
+    it: NIDORAN♀
+    de: NIDORAN♀
+    es: NIDORAN♀
+  forms:
+    nidoran_f:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 47
+        defense: 52
+        speed: 41
+        special: 40
+      types:
+        - poison
+      held_items:
+        common: tm043
+        rare: tm043
+      descriptions:
+        jp_kana:
+          yellow: "やさしい　せいかくで　たたかいは\nこのまないが　ちいさな　ツノからは\nどくが　でるので　ようちゅうい。"
+        en:
+          yellow: "A mild-mannered\nPOKéMON that does\nnot like to\ffight. Beware, its\nsmall horns\nsecrete venom."
+        fr:
+          yellow: "Un POKéMON\npaisible qui\nn’aime pas se\fbattre. Ses\npetites cornes\nsont empoisonnées."
+        it:
+          yellow: "POKéMON molto\ntranquillo che\nrifugge la lotta.\fTuttavia il corno\nsulla sommità del\ncapo è velenoso."
+        de:
+          yellow: "Dieses wilde\nPOKéMON vermeidet\nden Kampf.\fDas kleine Horn\nauf seinem Kopf\nenthält Gift."
+        es:
+          yellow: "A este POKéMON\nno le gusta\nluchar. Pero\fcuidado, sus\npequeños cuernos\nsegregan veneno"
+nidorina:
+  species_id: 30
+  names:
+    jp_kana: ニドリーナ
+    en: NIDORINA
+    fr: NIDORINA
+    it: NIDORINA
+    de: NIDORINA
+    es: NIDORINA
+  forms:
+    nidorina:
+      form_id: 0
+      base_stats:
+        hp: 70
+        attack: 62
+        defense: 67
+        speed: 56
+        special: 55
+      types:
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "すあなの　おくに　いるときは\nかならず　トゲトゲが　ひっこむ。\nりラックスしている　しょうこだ。"
+        en:
+          yellow: "When resting deep\nin its burrow, its\nthorns always\fretract.\nThis is proof that\nit is relaxed."
+        fr:
+          yellow: "Caché au fond de\nson terrier, ses\ncornes se\frétractent. C’est\nla preuve qu’il\nest au repos."
+        it:
+          yellow: "Durante il sonno\nnella sua tana\ni suoi aculei si\fritirano.\nQuesto dimostra\nche è rilassato."
+        de:
+          yellow: "Während dieses\nPOKéMON schläft,\nbewegen sich die\fStacheln auf dem\nRücken mit jedem\nAtemzug."
+        es:
+          yellow: "Cuando descansa\nprofundamente,\nsus cuernos se\fcontraen. Esto\nprueba que está\nrelajado"
+nidoqueen:
+  species_id: 31
+  names:
+    jp_kana: ニドクイン
+    en: NIDOQUEEN
+    fr: NIDOQUEEN
+    it: NIDOQUEEN
+    de: NIDOQUEEN
+    es: NIDOQUEEN
+  forms:
+    nidoqueen:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 82
+        defense: 87
+        speed: 76
+        special: 75
+      types:
+        - poison
+        - ground
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "かたい　ウロコに　おおわれた\nがんじょうな　からだの　もちぬし。\nウロコは　はえかわるらしい。"
+        en:
+          yellow: "Tough scales cover\nthe sturdy body\nof this POKéMON.\fIt appears that\nthe scales grow\nin cycles."
+        fr:
+          yellow: "Son corps musclé\nest recouvert de\nlourdes écailles\fElles poussent\nselon un cycle et\nun ordre précis."
+        it:
+          yellow: "Il suo corpo è\nricoperto da\ndure squame, che\fsembrano crescere\nad anello attorno\nal busto."
+        de:
+          yellow: "Der Rücken dieses\nPOKéMON wird von\nharten Schuppen\fbedeckt. Die\nSchuppen wachsen\nkreisförmig."
+        es:
+          yellow: "Grandes escamas\nrecubren el duro\ncuerpo de este\fPOKéMON.\nÉstas crecen\ncíclicamente"
+nidoran_m:
+  species_id: 32
+  names:
+    jp_kana: ニドラン♂
+    en: NIDORAN♂
+    fr: NIDORAN♂
+    it: NIDORAN♂
+    de: NIDORAN♂
+    es: NIDORAN♂
+  forms:
+    nidoran_m:
+      form_id: 0
+      base_stats:
+        hp: 46
+        attack: 57
+        defense: 40
+        speed: 50
+        special: 40
+      types:
+        - poison
+      held_items:
+        common: tm043
+        rare: tm043
+      descriptions:
+        jp_kana:
+          yellow: "いつも　おおきな　みみを　たてて\nまわりの　けはいを　さぐる。きけんを\nかんじたときは　どくバりを　つかう。"
+        en:
+          yellow: "Its large ears\nare always kept\nupright. If it\fsenses danger, it\nwill attack with a\npoisonous sting."
+        fr:
+          yellow: "Ses grandes\noreilles sont\ntoujours dressées.\fS’il est menacé,\nil se défend avec\nun dard venimeux."
+        it:
+          yellow: "Rizza le orecchie\nenormi e sensibili\nper percepire il\fpericolo. Poi\nattacca con i suoi\naculei velenosi."
+        de:
+          yellow: "Die Ohren dieses\nPOKéMON sind\nsehr sensibel.\fDroht Gefahr, so\nattackiert es mit\nseinem Gifthorn."
+        es:
+          yellow: "Sus largas orejas\nse mantienen\nsiempre alerta.\fSi siente peligro,\natacará con su\nvenenoso cuerno"
+nidorino:
+  species_id: 33
+  names:
+    jp_kana: ニドリーノ
+    en: NIDORINO
+    fr: NIDORINO
+    it: NIDORINO
+    de: NIDORINO
+    es: NIDORINO
+  forms:
+    nidorino:
+      form_id: 0
+      base_stats:
+        hp: 61
+        attack: 72
+        defense: 57
+        speed: 65
+        special: 55
+      types:
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "あたまにある　ツノの　どくそは\nつきさしたときの　しょうげきで\nにじみでる　しくみだ。"
+        en:
+          yellow: "Its horns contain\nvenom. If they\nare stabbed into\fan enemy, the\nimpact makes the\npoison leak out."
+        fr:
+          yellow: "Ses cornes sont\nvenimeuses. Si\nelles touchent un\fennemi, elles lui\ninjectent un\npoison violent."
+        it:
+          yellow: "Se le sue corna\ncolpiscono il\nnemico durante\fla lotta, queste\nsecernono un\nveleno letale."
+        de:
+          yellow: "Die Hörner dieses\nPOKéMON sondern\nim Kampf ein sehr\fstarkes Gift ab,\nwenn sie den\nGegner treffen."
+        es:
+          yellow: "Sus cuernos\ncontienen veneno.\nSi se introducen\fen el cuerpo del\nenemigo, soltarán\nsu tóxica carga"
+nidoking:
+  species_id: 34
+  names:
+    jp_kana: ニドキング
+    en: NIDOKING
+    fr: NIDOKING
+    it: NIDOKING
+    de: NIDOKING
+    es: NIDOKING
+  forms:
+    nidoking:
+      form_id: 0
+      base_stats:
+        hp: 81
+        attack: 92
+        defense: 77
+        speed: 85
+        special: 75
+      types:
+        - poison
+        - ground
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "はがねのような　ひふを　いかした\nたいあたりは　きょうりょく。\nツノは　ダイヤモンドも　つきさす。"
+        en:
+          yellow: "Its steel-like\nhide adds to its\npowerful tackle.\fIts horns are so\nhard, they can\npierce a diamond."
+        fr:
+          yellow: "Ses charges sont\ndévastatrices\ngrâce à sa peau\fd’acier. Ses\ncornes percent\nmême le diamant."
+        it:
+          yellow: "IL suo corpo è\nricoperto da una\npelle dura come\fl’acciaio. Con le\ncorna può spaccare\nanche i diamanti."
+        de:
+          yellow: "Die Haut dieses\nPOKéMON ist so\nhart wie Stahl.\fMit seinen Hörnern\nkann es sogar\nDiamanten spalten."
+        es:
+          yellow: "Duro como el\nacero, posee una\npoderosa carga.\fSus cuernos son\ntan duros como\nel diamante"
+clefairy:
+  species_id: 35
+  names:
+    jp_kana: ピッピ
+    en: CLEFAIRY
+    fr: MELOFEE
+    it: CLEFAIRY
+    de: PIEPI
+    es: CLEFAIRY
+  forms:
+    clefairy:
+      form_id: 0
+      base_stats:
+        hp: 70
+        attack: 45
+        defense: 48
+        speed: 35
+        special: 60
+      types:
+        - normal
+      held_items:
+        common: mysteryberry
+        rare: mysteryberry
+      descriptions:
+        jp_kana:
+          yellow: "すがたや　しぐさが　あいくるしく\nにんきだが　かずが　すくないのか\nなかなか　はっけん　できない。"
+        en:
+          yellow: "Adored for their\ncute looks and\nplayfulness. They\fare thought to be\nrare, as they do\nnot appear often."
+        fr:
+          yellow: "Adoré pour son\naspect mignon et\njoyeux, il est\fconsidéré comme\nrare. On en\nvoit très peu."
+        it:
+          yellow: "Questo POKéMON\nmolto raro e\ngiocherellone\fè ammirato per\nil suo aspetto\ntenero e dolce."
+        de:
+          yellow: "Dieses seltene\nPOKéMON hat wegen\nseines Aussehens\fund seiner\nVerspieltheit\nviele Bewunderer."
+        es:
+          yellow: "Su aspecto jovial\ny vivaracho lo\nhace adorable.\fPiensan que son\nraros, ya que no\nson muy comunes"
+clefable:
+  species_id: 36
+  names:
+    jp_kana: ピクシー
+    en: CLEFABLE
+    fr: MELODELFE
+    it: CLEFABLE
+    de: PIXI
+    es: CLEFABLE
+  forms:
+    clefable:
+      form_id: 0
+      base_stats:
+        hp: 95
+        attack: 70
+        defense: 73
+        speed: 60
+        special: 85
+      types:
+        - normal
+      held_items:
+        common: leftovers
+        rare: leftovers
+      descriptions:
+        jp_kana:
+          yellow: "じぶんたちの　せかいを　だいじに\nしているらしく　めったに　ひとまえに\nでてこない　ようせいの　なかま。"
+        en:
+          yellow: "They appear to be\nvery protective of\ntheir own world.\fIt is a kind of\nfairy, rarely seen\nby people."
+        fr:
+          yellow: "Il défend son\nhabitat avec\ncourage. C’est\fune sorte de fée\nqui ne se montre\nque rarement."
+        it:
+          yellow: "Si pensa che sia\nuna sorta di fata\nvista solo di\frado. Protegge\nstrenuamente\nil suo habitat."
+        de:
+          yellow: "Dieses feenhafte\nPOKéMON versucht,\nsich und seinen\fLebensraum vor\nden Menschen zu\nverbergen."
+        es:
+          yellow: "Protege bastante\nbien su propio\nentorno. Es una\fespecie de hada,\nraramente vista\npor los humanos"
+vulpix:
+  species_id: 37
+  names:
+    jp_kana: ロコン
+    en: VULPIX
+    fr: GOUPIX
+    it: VULPIX
+    de: VULPIX
+    es: VULPIX
+  forms:
+    vulpix:
+      form_id: 0
+      base_stats:
+        hp: 38
+        attack: 41
+        defense: 40
+        speed: 65
+        special: 65
+      types:
+        - fire
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "けなみや　シッポが　うつくしい。\nおおきくなると　シッポの　さきが\nわかれて　ふえていく。"
+        en:
+          yellow: "Both its fur and\nits tails are\nbeautiful. As it\fgrows, the tails\nsplit and form\nmore tails."
+        fr:
+          yellow: "Sa fourrure et sa\nqueue sont\nmagnifiques. En\fgrandissant sa\nqueue se divise\nen six."
+        it:
+          yellow: "Il suo mantello è\nmeraviglioso.\nCrescendo la sua\fmorbidissima coda\nsi moltiplica\nformandone altre."
+        de:
+          yellow: "Dieses POKéMON hat\nsehr schönes Fell.\nBeim Heranwachsen\fspaltet sich sein\nSchweif in mehrere\nTeile auf."
+        es:
+          yellow: "Su piel y colas\nson preciosas.\nCuando crecen\flas colas, se\ndividen formando\nnuevas colas"
+ninetales:
+  species_id: 38
+  names:
+    jp_kana: キュウコン
+    en: NINETALES
+    fr: FEUNARD
+    it: NINETALES
+    de: VULNONA
+    es: NINETALES
+  forms:
+    ninetales:
+      form_id: 0
+      base_stats:
+        hp: 73
+        attack: 76
+        defense: 75
+        speed: 100
+        special: 100
+      types:
+        - fire
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "９にんの　せいじゃが　がったいして\nこのポケモンに　うまれかわったと\nいいつたえに　のこっている。"
+        en:
+          yellow: "According to an\nenduring legend,\n9 noble saints\fwere united and\nreincarnated as\nthis POKéMON."
+        fr:
+          yellow: "Selon la légende,\n9 esprits se sont\nunis et incarnés\fdans ce POKéMON\nmystérieux et\nmagique."
+        it:
+          yellow: "Narra la leggenda\nche le anime di\nnove santi si\fsiano unite e\nreincarnate in\nquesto POKéMON."
+        de:
+          yellow: "Der Sage nach\nsind im Körper\ndieses POKéMON\fdie Seelen von\n9 edlen Zauberern\nvereinigt."
+        es:
+          yellow: "De acuerdo con\nuna antigua\nleyenda, este\fPOKéMON es la\nreencarnación de\n9 nobles santos"
+jigglypuff:
+  species_id: 39
+  names:
+    jp_kana: プリン
+    en: JIGGLYPUFF
+    fr: RONDOUDOU
+    it: JIGGLYPUFF
+    de: PUMMELUFF
+    es: JIGGLYPUFF
+  forms:
+    jigglypuff:
+      form_id: 0
+      base_stats:
+        hp: 115
+        attack: 45
+        defense: 20
+        speed: 20
+        special: 25
+      types:
+        - normal
+      held_items:
+        common: polkadot_bow
+        rare: polkadot_bow
+      descriptions:
+        jp_kana:
+          yellow: "つぶらな　ひとみで　あいてを\nみつめたあと　ふしぎで　ここちよい\nうたを　きかせて　ねむらせてしまう。"
+        en:
+          yellow: "Uses its alluring\neyes to enrapture\nits foe. It then\fsings a pleasing\nmelody that lulls\nthe foe to sleep."
+        fr:
+          yellow: "Son regard\ndéstabilise ses\nadversaires. Il\fchante ensuite\nune berceuse qui\nles endort."
+        it:
+          yellow: "Usa i suoi enormi\nocchi per stregare\ni suoi nemici,\fpoi canta una\ndolce melodia per\naddormentarli."
+        de:
+          yellow: "Dieses POKéMON\nbetört Gegner mit\nseinen großen\fAugen, bevor es\nsie in den Schlaf\nlullt."
+        es:
+          yellow: "Utiliza sus\nmisteriosos ojos\npara engañar a su\fenemigo.\nTambién cantará\npara dormirlo"
+wigglytuff:
+  species_id: 40
+  names:
+    jp_kana: プクリン
+    en: WIGGLYTUFF
+    fr: GRODOUDOU
+    it: WIGGLYTUFF
+    de: KNUDDELUFF
+    es: WIGGLYTUFF
+  forms:
+    wigglytuff:
+      form_id: 0
+      base_stats:
+        hp: 140
+        attack: 70
+        defense: 45
+        speed: 45
+        special: 50
+      types:
+        - normal
+      held_items:
+        common: gold_berry
+        rare: gold_berry
+      descriptions:
+        jp_kana:
+          yellow: "だんりょくせいに　すぐれた　からだは\nおおきく　いきを　すいこむと\nどこまでも　ふくらんでいく。"
+        en:
+          yellow: "Its body is full\nof elasticity. By\ninhaling deeply,\fit can continue\nto inflate itself\nwithout limit."
+        fr:
+          yellow: "Son corps est\nmalléable. En\naspirant de l’air\fil se gonfle dans\ndes proportions\ngigantesques."
+        it:
+          yellow: "Il suo corpo è\nestremamente\nelastico e può\fgonfiarsi fino\na dimensioni\nimpressionanti."
+        de:
+          yellow: "Dieses POKéMON\nverfügt über einen\nsehr elastischen\fKörper. Es kann\nsich zu immenser\nGröße aufblasen."
+        es:
+          yellow: "Su cuerpo es muy\nelástico. Cuando\ninhala aire\fprofundamente,\npuede inflarse\nsin límite"
+zubat:
+  species_id: 41
+  names:
+    jp_kana: ズバット
+    en: ZUBAT
+    fr: NOSFERAPTI
+    it: ZUBAT
+    de: ZUBAT
+    es: ZUBAT
+  forms:
+    zubat:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 45
+        defense: 35
+        speed: 55
+        special: 40
+      types:
+        - poison
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "くちから　ちょうおんぱを　だしながら\nとぶのは　まえに　なにが　あるのか\nしらべながら　とんでいるからだ。"
+        en:
+          yellow: "Emits ultrasonic\ncries while it\nflies. They act\fas a sonar used\nto check for ob-\njects in its way."
+        fr:
+          yellow: "Il se dirige avec\ndes ultrasons qui\nlui servent de\fsonar pour éviter\nles obstacles sur\nson trajet."
+        it:
+          yellow: "Durante il volo\nemette degli\nultrasuoni per\flocalizzare\ngli ostacoli\ncircostanti."
+        de:
+          yellow: "Dieses POKéMON\nstößt während des\nFluges\fUltraschallaute\naus, um Hinder-\nnisse zu orten."
+        es:
+          yellow: "Emite sonidos\nultrasónicos\nmientras vuela.\fLos utiliza como\nsónar para evitar\nobstáculos"
+golbat:
+  species_id: 42
+  names:
+    jp_kana: ゴルバット
+    en: GOLBAT
+    fr: NOSFERALTO
+    it: GOLBAT
+    de: GOLBAT
+    es: GOLBAT
+  forms:
+    golbat:
+      form_id: 0
+      base_stats:
+        hp: 75
+        attack: 80
+        defense: 70
+        speed: 90
+        special: 75
+      types:
+        - poison
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "どこから　ともなく　ちかづいてくる。\nするどいキバを　つかって　かみつくと\nどうじに　ちを　すいまくる。"
+        en:
+          yellow: "It attacks in a\nstealthy manner,\nwithout warning.\fIts sharp fangs\nare used to bite\nand suck blood."
+        fr:
+          yellow: "Il attaque par\nsurprise et sans\ncrier gare.\fSes longues dents\nlui servent à\nsucer le sang."
+        it:
+          yellow: "Attacca in modo\nrepentino e \nfurtivo. Usa\fi denti aguzzi\nper mordere e\nsucchiare sangue."
+        de:
+          yellow: "Dieses POKéMON\ngreift schnell und\nlautlos an.\fMit seinen spitzen\nZähnen kann es\nBlut saugen."
+        es:
+          yellow: "Ataca de manera\nviolenta sin\navisar. Utiliza\fsus afilados\ncolmillos para\nchupar sangre"
+oddish:
+  species_id: 43
+  names:
+    jp_kana: ナゾノクサ
+    en: ODDISH
+    fr: MYSTHERBE
+    it: ODDISH
+    de: MYRAPLA
+    es: ODDISH
+  forms:
+    oddish:
+      form_id: 0
+      base_stats:
+        hp: 45
+        attack: 50
+        defense: 55
+        speed: 30
+        special: 75
+      types:
+        - grass
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ただの　くさだと　おもって\nひきぬこうとすると　なきごえがする。\nなぜか　とても　おそろしいきぶん。"
+        en:
+          yellow: "It may be mistaken\nfor a clump of\nweeds. If you try\fto yank it out of\nthe ground, it\nshrieks horribly."
+        fr:
+          yellow: "Il est souvent\nconfondu avec un\nradis noir.\fSi on essaye de\nle soulever du\nsol, il hurle."
+        it:
+          yellow: "Spesso confuso\ncon una malerba\nquesto POKéMON\fstride atrocemente\nse si prova ad\nestirparlo."
+        de:
+          yellow: "Wenn man versucht,\ndieses Unkraut-\nPOKéMON aus der\fErde zu ziehen,\ndann schreit es\nfürchterlich laut."
+        es:
+          yellow: "Suele ser\nconfundido con\nun puñado de\fsemillas. Si\nlo extraes del\nsuelo, gritará"
+gloom:
+  species_id: 44
+  names:
+    jp_kana: クサイハナ
+    en: GLOOM
+    fr: ORTIDE
+    it: GLOOM
+    de: DUFLOR
+    es: GLOOM
+  forms:
+    gloom:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 65
+        defense: 70
+        speed: 40
+        special: 85
+      types:
+        - grass
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "もうれつな　クサさ！　それなのに\n１０００にんに　ひとりぐらい\nこれを　このんで　かぐひとがいる。"
+        en:
+          yellow: "Smells incredibly\nfoul! However,\naround 1 out of\f1,000 people enjoy\nsniffing its nose-\nbending stink."
+        fr:
+          yellow: "Il sent très\nmauvais! Mais\n1 personne sur\f1000 aime la\npuanteur de son\ncorps nauséabond."
+        it:
+          yellow: "Puzza da levare\nil fiato! Tuttavia\ncirca una persona\fsu mille adora\nannusarne il\nfetido lezzo."
+        de:
+          yellow: "Dieses POKéMON\nsondert einen\nübelriechenden\fGeruch ab. Trotz-\ndem halten einige\nLeute es im Haus."
+        es:
+          yellow: "¡Huele bastante\nmal! De todas\nformas, 1 de cada\f1000 personas\naprecian su\nfétido olor"
+vileplume:
+  species_id: 45
+  names:
+    jp_kana: ラフレシア
+    en: VILEPLUME
+    fr: RAFFLESIA
+    it: VILEPLUME
+    de: GIFLOR
+    es: VILEPLUME
+  forms:
+    vileplume:
+      form_id: 0
+      base_stats:
+        hp: 75
+        attack: 80
+        defense: 85
+        speed: 50
+        special: 100
+      types:
+        - grass
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "どくの　かふんを　ふりまくために\nおおきな　はなびらを　ゆらすと\nものすごい　おとも　ひびきわたる。"
+        en:
+          yellow: "Flaps its broad\nflower petals to\nscatter its\fpoisonous pollen.\nThe flapping sound\nis very loud."
+        fr:
+          yellow: "Il fait un bruit\nsourd quand il\nsecoue ses\fpétales pour\ndisperser son\npollen empoisonné."
+        it:
+          yellow: "Con gran frastuono\ne violenza scuote\ni suoi petali\fgrandissimi\nper liberare\npolline velenoso."
+        de:
+          yellow: "Dieses POKéMON\nkann kraftvoll mit\nden Blütenblättern\fflattern, um\ngiftige Pollen\nfreizusetzen."
+        es:
+          yellow: "Aletea sus \npétalos de flores\npara propagar su\fvenenoso polen.\nEl sonido que\nemite es agudo"
+paras:
+  species_id: 46
+  names:
+    jp_kana: パラス
+    en: PARAS
+    fr: PARAS
+    it: PARAS
+    de: PARAS
+    es: PARAS
+  forms:
+    paras:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 70
+        defense: 55
+        speed: 25
+        special: 55
+      types:
+        - bug
+        - grass
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "あなをほり　きのねっこ　から\nえいようを　とるが　ほとんどは\nせなかの　キノコに　うばわれる。"
+        en:
+          yellow: "Burrows under the\nground to gnaw on\ntree roots. The\fmushrooms on its\nback absorb most\nof the nutrition."
+        fr:
+          yellow: "Il s’enfouit sous\nterre pour ronger\ndes racines afin\fde nourrir le\nchampignon sur\nson dos."
+        it:
+          yellow: "Si nasconde sotto-\nterra dove si ciba\ndi radici.\fI funghi che ha\nsulla schiena\nsono parassiti."
+        de:
+          yellow: "Dieses POKéMON\ngräbt sich in den\nBoden und frißt\fWurzeln. Die Pilze\nauf seinem Rücken\nsind Parasiten."
+        es:
+          yellow: "Escarba bajo el\nsuelo para roer\nlas raíces de los\fárboles. Sus\nsetas absorben\nsus energías"
+parasect:
+  species_id: 47
+  names:
+    jp_kana: パラセクト
+    en: PARASECT
+    fr: PARASECT
+    it: PARASECT
+    de: PARASEK
+    es: PARASECT
+  forms:
+    parasect:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 95
+        defense: 80
+        speed: 30
+        special: 80
+      types:
+        - bug
+        - grass
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "ずっと　エキスを　すいつづけられ\nもはや　ムシではなく　せなかの\nキノコが　かんがえているようだ。"
+        en:
+          yellow: "The bug host is\ndrained of energy\nby the mushrooms\fon its back. They\nappear to do all\nthe thinking."
+        fr:
+          yellow: "Le champignon\nabsorbe son hôte\ninsectoïde. Il\fsemble doué de\nfacultés\nintellectuelles."
+        it:
+          yellow: "Il fungo sulla\nschiena assorbe\nl’energia dall’\finsetto ospitante\nsu cui ha anche\npieno controllo."
+        de:
+          yellow: "Der Pilz auf dem\nRücken entzieht\ndem Wirts-POKéMON\fEnergie. Er hat\ndie Kontrolle über\ndas POKéMON."
+        es:
+          yellow: "El parásito\nabsorbe la\nenergía con las\fsetas de la\nespalda, que lo\ncontrolan"
+venonat:
+  species_id: 48
+  names:
+    jp_kana: コンパン
+    en: VENONAT
+    fr: MIMITOSS
+    it: VENONAT
+    de: BLUZUK
+    es: VENONAT
+  forms:
+    venonat:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 55
+        defense: 50
+        speed: 45
+        special: 40
+      types:
+        - bug
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "レーダーになる　おおきな　めは\nあかるいところでは　ちいさな　めが\nあつまって　できているのが　わかる。"
+        en:
+          yellow: "Its large eyes act\nas radars. In a\nbright place, you\fcan see that they\nare clusters of\nmany tiny eyes."
+        fr:
+          yellow: "Ses grands yeux\nlui servent de\nradar. En pleine\flumière on peut y\ndistinguer des\nfacettes."
+        it:
+          yellow: "Gli occhi enormi\nfungono da radar.\nAlla luce si può\fnotare che sono\nformati da molti\nocchi minori."
+        de:
+          yellow: "Die Augen dieses\nPOKéMON fungieren\nals Radar.\fSie bestehen aus\nunzähligen, sehr\nkleinen Augen."
+        es:
+          yellow: "Sus grandes ojos\nactúan como\nradares. En\flugares claros,\nverás montones\nde pequeños ojos"
+venomoth:
+  species_id: 49
+  names:
+    jp_kana: モルフォン
+    en: VENOMOTH
+    fr: AEROMITE
+    it: VENOMOTH
+    de: OMOT
+    es: VENOMOTH
+  forms:
+    venomoth:
+      form_id: 0
+      base_stats:
+        hp: 70
+        attack: 65
+        defense: 60
+        speed: 90
+        special: 90
+      types:
+        - bug
+        - poison
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "ハネの　りんぷんは　からだにつくと\nなかなか　とれない。しかも　そこから\nどくの　せいぶんが　しみこんでくる。"
+        en:
+          yellow: "The powdery scales\non its wings are\nhard to remove.\fThey also contain\npoison that leaks\nout on contact."
+        fr:
+          yellow: "Les écailles de\nses ailes sont\ninamovibles.\fElles libèrent un\npoison violent au\ncontact."
+        it:
+          yellow: "Le sue ali sono\ncoperte di squame\npolverose.\fSe toccate\nliberano un\nveleno letale."
+        de:
+          yellow: "Die Flügel dieses\nPOKéMON tragen\neine markante\fZeichnung. Bei\nBerührung sondern\nsie Gift ab."
+        es:
+          yellow: "Es difícil quitar\nel polvo de sus\nalas. También\fposee un veneno\nque se desprende\nal contacto"
+diglett:
+  species_id: 50
+  names:
+    jp_kana: ディグダ
+    en: DIGLETT
+    fr: TAUPIQUEUR
+    it: DIGLETT
+    de: DIGDA
+    es: DIGLETT
+  forms:
+    diglett:
+      form_id: 0
+      base_stats:
+        hp: 10
+        attack: 55
+        defense: 25
+        speed: 95
+        special: 45
+      types:
+        - ground
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "くらいところを　このむ。ほとんど\nちちゅうですごすが　どうくつでは\nよく　かおを　だしている。"
+        en:
+          yellow: "It prefers dark\nplaces. It spends\nmost of its time\funderground,\nthough it may pop\nup in caves."
+        fr:
+          yellow: "Il aime les lieux\nsombres. Il\npasse la majeure\fpartie du temps\nsous terre ou\ndans des cavernes."
+        it:
+          yellow: "Ama i luoghi bui\ne vive quindi\nsoprattutto\fsottoterra. Si\npuò vedere solo\nnelle grotte."
+        de:
+          yellow: "Dieses POKéMON\nlebt unter der\nErdoberfläche.\fMan kann es\nmitunter in Höhlen\nbeobachten."
+        es:
+          yellow: "Prefiere los\nlugares oscuros.\nPasa el tiempo\fbajo tierra,\naunque aparece\nen cuevas"
+dugtrio:
+  species_id: 51
+  names:
+    jp_kana: ダグトリオ
+    en: DUGTRIO
+    fr: TRIOPIKEUR
+    it: DUGTRIO
+    de: DIGDRI
+    es: DUGTRIO
+  forms:
+    dugtrio:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 80
+        defense: 50
+        speed: 120
+        special: 70
+      types:
+        - ground
+      held_items:
+        common: gold_berry
+        rare: gold_berry
+      descriptions:
+        jp_kana:
+          yellow: "みつごのパワーで　ちか１００キロまで\nほりすすむので　じしんの　げんいんに\nなるとの　ほうこくも　されている。"
+        en:
+          yellow: "A team of triplets\nthat can burrow\nover 60 MPH.\fDue to this, some\npeople think it’s\nan earthquake."
+        fr:
+          yellow: "Quand un de ces\ntriplets creuse à\nplus de 90 Km/h,\fil provoque des\ntremblements de\nterre."
+        it:
+          yellow: "Gruppo di tre\nDIGLETT che può\nscavare con una\fforza e velocità\ntali da causare\ndei terremoti."
+        de:
+          yellow: "Drei DIGDAS bilden\ndieses POKéMON.\nEs gräbt sich mit\funglaublicher\nGeschwindigkeit\ndurch den Boden."
+        es:
+          yellow: "Un grupo de\ntrillizos que\ncava a 90 KPH.\fPor ello, creen\nque se trata de\nun terremoto"
+meowth:
+  species_id: 52
+  names:
+    jp_kana: ニャース
+    en: MEOWTH
+    fr: MIAOUSS
+    it: MEOWTH
+    de: MAUZI
+    es: MEOWTH
+  forms:
+    meowth:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 45
+        defense: 35
+        speed: 90
+        special: 40
+      types:
+        - normal
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "よるのほうが　げんきがあるようだ。\nまるくて　ひかるものが　すきで\nみつけると　ひろわずに　いられない。"
+        en:
+          yellow: "Appears to be more\nactive at night.\nIt loves round\fand shiny things.\nIt can’t stop from\npicking them up."
+        fr:
+          yellow: "Il est surtout\nactif la nuit.\nIl aime chaparder\fles objets ronds\net brillants."
+        it:
+          yellow: "Sembra essere più\nattivo di notte.\nAma gli oggetti\flucenti e rotondi\ne non può evitare\ndi raccoglierli."
+        de:
+          yellow: "Dieses POKéMON ist\nnachtaktiv. Es\nliebt glitzernde\fGegenstände und\nstiehlt diese bei\njeder Gelegenheit."
+        es:
+          yellow: "Parece que son\nmás activos por\nla noche.\fAdoran las cosas\nredondas y\nbrillantes"
+persian:
+  species_id: 53
+  names:
+    jp_kana: ペルシアン
+    en: PERSIAN
+    fr: PERSIAN
+    it: PERSIAN
+    de: SNOBILIKAT
+    es: PERSIAN
+  forms:
+    persian:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 70
+        defense: 60
+        speed: 115
+        special: 65
+      types:
+        - normal
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ひたいの　ほうせきが　かがやく！\nまた　あるくすがたも　しなやかで\nおうじょのような　はなやかさがある。"
+        en:
+          yellow: "The gem in its\nforehead glows on\nits own! It walks\fwith all the grace\nand elegance of a\nproud queen."
+        fr:
+          yellow: "Sa démarche est\nsouple et\nmajestueuse.\fLa pierre sur son\nfront brille de\nmille feux."
+        it:
+          yellow: "La gemma che ha\nin fronte brilla\ndi luce propria.\fSi muove con\nl’eleganza di\nuna fiera regina."
+        de:
+          yellow: "Dieses prächtige\nPOKéMON trägt an\nder Stirn ein\fleuchtendes Juwel.\nEs hat die Eleganz\neiner Königin."
+        es:
+          yellow: "¡La gema en su\nfrente brilla\npor sí misma!\fCamina con la\nelegancia de\nuna reina"
+psyduck:
+  species_id: 54
+  names:
+    jp_kana: コダック
+    en: PSYDUCK
+    fr: PSYKOKWAK
+    it: PSYDUCK
+    de: ENTON
+    es: PSYDUCK
+  forms:
+    psyduck:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 52
+        defense: 48
+        speed: 55
+        special: 50
+      types:
+        - water
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "いつも　ずつうに　なやまされている。\nねんりきを　つかうが　じぶんの\nいしか　どうか　わからない。"
+        en:
+          yellow: "Always tormented\nby headaches.\nIt uses psychic\fpowers, but it is\nnot known if it\nintends to do so."
+        fr:
+          yellow: "Il est victime\nde violents maux\nde tête. Il\futilise ses\npouvoirs psy de\nfaçon discrète."
+        it:
+          yellow: "Soffre sempre\ndi forti mal di\ntesta.\fUsa i suoi poteri\npsichici di rado\ne senza volerlo."
+        de:
+          yellow: "Dieses POKéMON\nplagen chronische\nKopfschmerzen.\fEs verfügt über\nPSI-Kräfte, die es\nselten einsetzt."
+        es:
+          yellow: "Siempre tiene\ndolores de\ncabeza. Posee\fpoderes mentales,\npero no sabes\ncuándo los usará"
+golduck:
+  species_id: 55
+  names:
+    jp_kana: ゴルダック
+    en: GOLDUCK
+    fr: AKWAKWAK
+    it: GOLDUCK
+    de: ENTORON
+    es: GOLDUCK
+  forms:
+    golduck:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 82
+        defense: 78
+        speed: 85
+        special: 80
+      types:
+        - water
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "すらりとした　ながい　てあしと\nはったつした　おおきな　みずかきで\nみずうみを　ゆうがに　およぐ。"
+        en:
+          yellow: "Its slim and long\nlimbs end in broad\nflippers. They\fare used for swim-\nming gracefully\nin lakes."
+        fr:
+          yellow: "Ses membres fins\net longs sont\nterminés par des\fnageoires qui lui\npermettent de\nnager élégamment."
+        it:
+          yellow: "I suoi arti\nlunghi e sottili\nterminano in\fzampe palmate.\nNuota elegante\nnei laghi."
+        de:
+          yellow: "Dank seiner großen\nSchwimmflossen ist\ndieses in Seen\flebende POKéMON\nein hervorragender\nSchwimmer."
+        es:
+          yellow: "Sus delgados y\nlargos miembros\nacaban en anchas\faletas. Las usan \npara nadar en\nlos lagos"
+mankey:
+  species_id: 56
+  names:
+    jp_kana: マンキー
+    en: MANKEY
+    fr: FEROSINGE
+    it: MANKEY
+    de: MENKI
+    es: MANKEY
+  forms:
+    mankey:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 80
+        defense: 35
+        speed: 70
+        special: 35
+      types:
+        - fighting
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "みがるで　きのうえで　せいかつする。\nふとしたことで　きげんが　わるくなり\nまわりに　いるものに　とびかかる。"
+        en:
+          yellow: "An agile POKéMON\nthat lives in\ntrees. It angers\feasily and will\nnot hesitate to\nattack anything."
+        fr:
+          yellow: "Agile et rapide,\nce POKéMON vit\ndans les arbres.\fIl est féroce et\nne refuse jamais\nun combat."
+        it:
+          yellow: "POKéMON agile che\nvive sugli alberi.\nMolto irascibile\fnon esita ad\nattaccare\ntutto e tutti."
+        de:
+          yellow: "Dieses sehr agile\nPOKéMON ist leicht\nreizbar.\fEs zögert nicht,\nalles und jeden\nanzugreifen."
+        es:
+          yellow: "Este ágil POKéMON\nvive en los\nárboles. Se\fenfada fácilmente\ny no dudará en\natacar a todos"
+primeape:
+  species_id: 57
+  names:
+    jp_kana: オコリザル
+    en: PRIMEAPE
+    fr: COLOSSINGE
+    it: PRIMEAPE
+    de: RASAFF
+    es: PRIMEAPE
+  forms:
+    primeape:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 105
+        defense: 60
+        speed: 95
+        special: 60
+      types:
+        - fighting
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "まわりに　だれも　いないときだけは\nおこるのを　やめている。しかし\nそれをみるのは　むずかしい。"
+        en:
+          yellow: "It stops being\nangry only when\nnobody else is\faround. To view\nthis moment is\nvery difficult."
+        fr:
+          yellow: "Sa fureur prend\nfin quand il n’a\nplus personne à\ffrapper. Il est\ndifficile d’en\nêtre témoin."
+        it:
+          yellow: "Questo POKéMON\nè costantemente\nfurioso e si\fcalma solo nella\nsolitudine\npiù assoluta."
+        de:
+          yellow: "In ganz seltenen\nFällen beruhigt\nsich dieses sehr\fjähzornige POKéMON\nund ist für einen\nMoment friedlich."
+        es:
+          yellow: "Sólo se calma\ncuando nadie está\ncerca. Llegar\fa ver ese momento\nes realmente\ndifícil"
+growlithe:
+  species_id: 58
+  names:
+    jp_kana: ガーディ
+    en: GROWLITHE
+    fr: CANINOS
+    it: GROWLITHE
+    de: FUKANO
+    es: GROWLITHE
+  forms:
+    growlithe:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 70
+        defense: 45
+        speed: 60
+        special: 50
+      types:
+        - fire
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ひとなつっこい　せいかくだが\nなわばりに　はいってきた　てきに\nたいしては　はげしく　ほえる。"
+        en:
+          yellow: "A POKéMON with a\nfriendly nature.\nHowever, it will\fbark fiercely at\nanything invading\nits territory."
+        fr:
+          yellow: "Ce POKéMON est\nde nature amicale.\nMais il devient\fhargneux quand\nson territoire\nest menacé."
+        it:
+          yellow: "POKéMON molto\namico dell’uomo.\nTuttavia abbaia\finferocito a\nchiunqua invada\nil suo habitat."
+        de:
+          yellow: "Ein friedfertiges\nPOKéMON, welches\nwild zu kläffen\fbeginnt, sobald\nman seinen Lebens-\nraum betritt."
+        es:
+          yellow: "Este POKéMON es\nmuy amistoso.\nAun así, gruñirá\fa cualquiera que\ninvada su\nterritorio"
+arcanine:
+  species_id: 59
+  names:
+    jp_kana: ウインディ
+    en: ARCANINE
+    fr: ARCANIN
+    it: ARCANINE
+    de: ARKANI
+    es: ARCANINE
+  forms:
+    arcanine:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 110
+        defense: 80
+        speed: 95
+        special: 80
+      types:
+        - fire
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "ちゅうごくで　でんせつの　ポケモン。\nかろやかに　はしる　そのすがたに\nとりこに　される　ものも　おおい。"
+        en:
+          yellow: "A legendary POKé-\nMON in China.\nMany people are\fcharmed by its\ngrace and beauty\nwhile running."
+        fr:
+          yellow: "Un POKéMON légend-\naire en Chine. Il\nest admiré pour\fla grâce et la\nbeauté de sa\ncourse."
+        it:
+          yellow: "Questo POKéMON\nleggendario in\nCina affascina\fper la sua grazia\ne bellezza\nquando corre."
+        de:
+          yellow: "Ein sehr beliebtes\nPOKéMON, dessen\nSchönheit und\fAnmut jeden sofort\nin ihren Bann zu\nziehen vermag."
+        es:
+          yellow: "Es un POKéMON\nlegendario en\nChina. Allí,\fadoran la gracia\ny belleza que\nexhibe al correr"
+poliwag:
+  species_id: 60
+  names:
+    jp_kana: ニョロモ
+    en: POLIWAG
+    fr: PTITARD
+    it: POLIWAG
+    de: QUAPSEL
+    es: POLIWAG
+  forms:
+    poliwag:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 50
+        defense: 40
+        speed: 90
+        special: 40
+      types:
+        - water
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "うずまきの　むきは　うまれた\nちほうに　よって　ちがうらしい。\nあるくより　およぐほうが　じょうず。"
+        en:
+          yellow: "The direction of\nthe spiral on the\nbelly differs by\farea. It is more\nadept at swimming\nthan walking."
+        fr:
+          yellow: "Le sens de la\nspirale sur son\nventre diffère\fselon son origine.\nIl préfère la\nnage à la marche."
+        it:
+          yellow: "La spirale che ha\nsulla pancia varia\nda zona a zona.\fÈ molto più\nbravo nel nuoto\nche nella corsa."
+        de:
+          yellow: "Dieses POKéMON\nkann sehr schlecht\nlaufen. Sein\fBauchmuster ist\nunterschiedlich,\nje nach Region."
+        es:
+          yellow: "La dirección de\nla espiral en el\nvientre cambia\fsegún el área.\nPrefiere nadar\na correr"
+poliwhirl:
+  species_id: 61
+  names:
+    jp_kana: ニョロゾ
+    en: POLIWHIRL
+    fr: TETARTE
+    it: POLIWHIRL
+    de: QUAPUTZI
+    es: POLIWHIRL
+  forms:
+    poliwhirl:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 65
+        defense: 65
+        speed: 90
+        special: 50
+      types:
+        - water
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "おそわれそうに　なると　おなかの\nうずまきを　つかって　あいてを\nねむらせ　そのすきに　にげるらしい。"
+        en:
+          yellow: "Under attack, it\nuses its belly \nspiral to put the\ffoe to sleep. It\nthen makes its\nescape."
+        fr:
+          yellow: "Attaqué, il se\nsert de sa\nspirale pour\fendormir sa proie.\nIl peut ainsi\ns’enfuir."
+        it:
+          yellow: "Nella lotta usa\nla spirale sulla\npancia per\fipnotizzare i\nsuoi nemici, poi\nsi dà alla fuga."
+        de:
+          yellow: "Das Spiralmuster\nauf QUAPUTZIs\nBauch hypnotisiert\fim Kampf Gegner\nund ermöglicht\nihm so die Flucht."
+        es:
+          yellow: "Cuando lo atacan, \nusa la espiral\ndel vientre para\fdormir al rival.\nAprovecha para\nescapar entonces"
+poliwrath:
+  species_id: 62
+  names:
+    jp_kana: ニョロボン
+    en: POLIWRATH
+    fr: TARTARD
+    it: POLIWRATH
+    de: QUAPPO
+    es: POLIWRATH
+  forms:
+    poliwrath:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 85
+        defense: 95
+        speed: 70
+        special: 70
+      types:
+        - water
+        - fighting
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ぜんしんの　きんにくを　つかった\nちからづよい　およぎで　オリンピック\nせんしゅも　おいぬいていく。"
+        en:
+          yellow: "Swims powerfully\nusing all the\nmuscles in its\fbody. It can even\novertake champion\nswimmers."
+        fr:
+          yellow: "Son corps très\nmusclé lui permet\nde nager plus\frapidement qu’un\nchampion\nolympique."
+        it:
+          yellow: "Nuota velocissimo\nusando tutti i\nsuoi muscoli.\fRiesce persino a\nbattere i campioni\nolimpionici."
+        de:
+          yellow: "Dieses POKéMON\nist ein meister-\nhafter Schwimmer.\fSeine Techniken\nschlagen selbst\nOlympiasieger."
+        es:
+          yellow: "Es capaz de nadar\nusando todos los\nmúsculos de su\fcuerpo. Podrá\nadelantar incluso\na un campeón"
+abra:
+  species_id: 63
+  names:
+    jp_kana: ケーシィ
+    en: ABRA
+    fr: ABRA
+    it: ABRA
+    de: ABRA
+    es: ABRA
+  forms:
+    abra:
+      form_id: 0
+      base_stats:
+        hp: 25
+        attack: 20
+        defense: 15
+        speed: 90
+        special: 105
+      types:
+        - psychic
+      held_items:
+        common: tm009
+        rare: tm009
+      descriptions:
+        jp_kana:
+          yellow: "１にちに　１８じかん　ねむる。\nきけんが　せまると　ねたままでも\nテレポートして　にげる。"
+        en:
+          yellow: "Sleeps 18 hours a\nday. If it senses\ndanger, it will\fteleport itself to\nsafety even as it\nsleeps."
+        fr:
+          yellow: "Il dort 18 heures\npar jour. En cas\nde danger, il se\ftéléporte vers un\nlieu sûr, même\ns’il est assoupi."
+        it:
+          yellow: "Dorme 18 ore al\ngiorno, ma se\npercepisce un\fpericolo si\nteletrasporta\nal sicuro."
+        de:
+          yellow: "Dieses POKéMON\nschläft 18 Stunden\nam Tag.\fBei Gefahr tele-\nportiert es sich\nin Sicherheit."
+        es:
+          yellow: "Duerme 18 horas\nal día. Si siente\npeligro, se\fteletransporta\na lugar seguro,\naun durmiendo"
+kadabra:
+  species_id: 64
+  names:
+    jp_kana: ユンゲラー
+    en: KADABRA
+    fr: KADABRA
+    it: KADABRA
+    de: KADABRA
+    es: KADABRA
+  forms:
+    kadabra:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 35
+        defense: 30
+        speed: 105
+        special: 120
+      types:
+        - psychic
+      held_items:
+        common: twisted_spoon
+        rare: twisted_spoon
+      descriptions:
+        jp_kana:
+          yellow: "ユンゲラーが　ちかくに　いると\nとけいが　ぎゃくかいてん　したり\nおかしなことが　おこるらしい。"
+        en:
+          yellow: "Many odd things\nhappen if this\nPOKéMON is close\fby. For example,\nit makes clocks\nrun backwards."
+        fr:
+          yellow: "Sa présence cause\ndes événements\nétranges, comme\fdes pendules\nmarchant à\nl’envers."
+        it:
+          yellow: "Quando è vicino\nsuccedono molte\ncose strane.\fPer esempio gli\norologi girano\nal contrario."
+        de:
+          yellow: "Viele seltsame\nDinge passieren,\nwenn KADABRA in\fder Nähe ist.\nUhren z.B. laufen\nrückwärts."
+        es:
+          yellow: "Muchas cosas\nraras suceden\nsi está cerca.\fPor ejemplo, hace\nque los relojes\nvayan al revés"
+alakazam:
+  species_id: 65
+  names:
+    jp_kana: フーディン
+    en: ALAKAZAM
+    fr: ALAKAZAM
+    it: ALAKAZAM
+    de: SIMSALA
+    es: ALAKAZAM
+  forms:
+    alakazam:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 50
+        defense: 45
+        speed: 120
+        special: 135
+      types:
+        - psychic
+      held_items:
+        common: gold_berry
+        rare: gold_berry
+      descriptions:
+        jp_kana:
+          yellow: "なんでも　おぼえることができる。\nたいけんした　あらゆることを\nわすれないので　あたまがいいのだ。"
+        en:
+          yellow: "A POKéMON that can\nmemorize anything.\nIt never forgets\fwhat it learns--\nthat’s why this\nPOKéMON is smart."
+        fr:
+          yellow: "Ce POKéMON est\ntrès intelligent.\nSa mémoire est\fimmense, il\nretient tout ce\nqu’il apprend."
+        it:
+          yellow: "Questo POKéMON\nmolto intelligente\nha un’ottima\fmemoria, infatti\nnon dimentica\nmai nulla."
+        de:
+          yellow: "Dieses POKéMON\nhat ein sehr gutes\nGedächtnis.\fSIMSALA ist daher\nein allwissendes,\nkluges POKéMON."
+        es:
+          yellow: "Este POKéMON\nlo recuerda todo.\nNunca olvida lo\fque aprende.\nEs un POKéMON\nmuy listo"
+machop:
+  species_id: 66
+  names:
+    jp_kana: ワンリキー
+    en: MACHOP
+    fr: MACHOC
+    it: MACHOP
+    de: MACHOLLO
+    es: MACHOP
+  forms:
+    machop:
+      form_id: 0
+      base_stats:
+        hp: 70
+        attack: 80
+        defense: 50
+        speed: 35
+        special: 35
+      types:
+        - fighting
+      held_items:
+        common: brick_piece
+        rare: brick_piece
+      descriptions:
+        jp_kana:
+          yellow: "ちいさな　からだ　だが　ちからもち。\nそのうえ　いろいろな　かくとうぎを\nマスターしていて　とても　つよい。"
+        en:
+          yellow: "Very powerful in\nspite of its small\nsize. Its mastery\fof many types of\nmartial arts makes\nit very tough."
+        fr:
+          yellow: "Très puissant\nmalgré sa petite\ntaille, il est\fpassé maître en\nplusieurs types\nd’arts martiaux."
+        it:
+          yellow: "Sebbene piccolo\nè molto forte.\nLa sua maestria\fin tutte le arti\nmarziali lo rende\nun osso duro."
+        de:
+          yellow: "Dieses POKéMON ist\nrecht klein, doch\nseine Kampfsport-\fkenntnisse machen\nes zu einem sehr\nstarken Gegner."
+        es:
+          yellow: "Muy poderoso a\npesar de su\npequeño tamaño.\fSu maestría en\nartes marciales\nlo hace muy duro"
+machoke:
+  species_id: 67
+  names:
+    jp_kana: ゴーリキー
+    en: MACHOKE
+    fr: MACHOPEUR
+    it: MACHOKE
+    de: MASCHOCK
+    es: MACHOKE
+  forms:
+    machoke:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 100
+        defense: 70
+        speed: 45
+        special: 50
+      types:
+        - fighting
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "こしにまいた　パワーセーブベルトを\nはずした　ゴーリキーの　いきおいを\nとめることは　だれにも　ふかのうだ。"
+        en:
+          yellow: "The belt around\nits waist holds\nback its energy.\fWithout it, this\nPOKéMON would be\nunstoppable."
+        fr:
+          yellow: "Sa ceinture sert\nà retenir son\nénergie. Sans\felle, il serait\ninvincible et\nincontrôlable."
+        it:
+          yellow: "La cintura attorno\nalla vita serve a\ncontenere la sua\fenergia.\nSenza sarebbe\ninarrestabile."
+        de:
+          yellow: "Der Gürtel dieses\nPOKéMON dient als\nKraftbegrenzer.\fOhne seinen Gürtel\nwäre MASCHOCK\nnicht zu bändigen."
+        es:
+          yellow: "El cinturón que\nrodea su cuello\nretiene toda su\fenergía. Sin él,\neste POKéMON\nsería imparable"
+machamp:
+  species_id: 68
+  names:
+    jp_kana: カイリキー
+    en: MACHAMP
+    fr: MACKOGNEUR
+    it: MACHAMP
+    de: MACHOMEI
+    es: MACHAMP
+  forms:
+    machamp:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 130
+        defense: 80
+        speed: 55
+        special: 65
+      types:
+        - fighting
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "１ぽんでも　やまを　うごかせる\nちからをもった　うでを　４ほんすべて\nつかって　すごいパンチを　くりだす。"
+        en:
+          yellow: "One arm alone can\nmove mountains.\nUsing all four\farms, this POKéMON\nfires off awesome\npunches."
+        fr:
+          yellow: "Un seul de ses\nbras peut bouger\nune montagne.\fRien ne résiste\naux quatre bras\nen même temps."
+        it:
+          yellow: "Può muovere una\nmontagna con un\nsolo braccio.\fLa forza di tutte\ne quattro è\ninimmaginabile."
+        de:
+          yellow: "Dieses POKéMON\nkann mit einem Arm\nBerge versetzen.\fDie Kraft aller\nArme zusammen ist\nunvorstellbar."
+        es:
+          yellow: "Con sólo un brazo\npuede mover\nmontañas. Usando\flos cuatro, este\nPOKéMON puede\nser terrible"
+bellsprout:
+  species_id: 69
+  names:
+    jp_kana: マダツボミ
+    en: BELLSPROUT
+    fr: CHETIFLOR
+    it: BELLSPROUT
+    de: KNOFENSA
+    es: BELLSPROUT
+  forms:
+    bellsprout:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 75
+        defense: 35
+        speed: 40
+        special: 70
+      types:
+        - grass
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "おんどが　たかく　しつどの　ある\nところを　このむ。ツルを　つかって\nちいさなムシを　とらえて　たべる。"
+        en:
+          yellow: "Prefers hot and\nhumid places.\nIt ensnares tiny\finsects with its\nvines and devours\nthem."
+        fr:
+          yellow: "Il préfère les\nendroits chauds\net humides. Il\fcapture sa proie\navec ses lianes\npour la dévorer."
+        it:
+          yellow: "Ama i luoghi\ncaldi e umidi.\nCattura minuscoli\finsetti con le\nsue liane e poi\nli divora."
+        de:
+          yellow: "Dieses POKéMON\nbevorzugt einen\nfeuchten und\fwarmen Lebensraum.\nKNOFENSA ernährt\nsich von Insekten."
+        es:
+          yellow: "Prefiere los\nlugares calientes\ny húmedos. Atrapa\fpequeños insectos\ncon sus ramas\npara devorarlos"
+weepinbell:
+  species_id: 70
+  names:
+    jp_kana: ウツドン
+    en: WEEPINBELL
+    fr: BOUSTIFLOR
+    it: WEEPINBELL
+    de: ULTRIGARIA
+    es: WEEPINBELL
+  forms:
+    weepinbell:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 90
+        defense: 50
+        speed: 55
+        special: 85
+      types:
+        - grass
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "おなかが　へると　てあたりしだいに\nうごくものを　のみこんでは\nようかいえきで　とどめを　さす。"
+        en:
+          yellow: "When hungry, it\nswallows anything\nthat moves. Its\fhapless prey is\nmelted inside by\nstrong acids."
+        fr:
+          yellow: "Il peut avaler\net digérer\nn’importe quoi\fgrâce à l’hyper-\nacidité de son\nestomac vorace."
+        it:
+          yellow: "Quando è affamato\ndivora qualsiasi\ncosa gli capiti a\ftiro. La preda\nè poi disciolta\nda potenti acidi."
+        de:
+          yellow: "Wenn dieses\nPOKéMON hungrig\nist, dann schnappt\fes vor Gier nach\nallem, was sich\nbewegt."
+        es:
+          yellow: "Cuando está\nhambriento, ataca\na todo lo que se\fmueva. Su pobre\npresa se derrite\nen fuertes ácidos"
+victreebel:
+  species_id: 71
+  names:
+    jp_kana: ウツボット
+    en: VICTREEBEL
+    fr: EMPIFLOR
+    it: VICTREEBEL
+    de: SARZENIA
+    es: VICTREEBEL
+  forms:
+    victreebel:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 105
+        defense: 65
+        speed: 70
+        special: 100
+      types:
+        - grass
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ミツの　かおりで　えものを　さそう。\nくちのなかに　いれたものは　１にちで\nホネまで　とかしてしまうという。"
+        en:
+          yellow: "Lures prey with\nthe sweet aroma of\nhoney. Swallowed\fwhole, the prey is\nmelted in a day,\nbones and all."
+        fr:
+          yellow: "Il attire sa\nproie avec une\nodeur de miel et\fl’avale en entier.\nIl la digère en\nun seul jour."
+        it:
+          yellow: "Attira le prede\ncon il dolce aroma\ndel miele, le\finghiotte intere\ne le digerisce\nin un giorno."
+        de:
+          yellow: "SARZENIA ist uner-\nsättlich. Es lockt\nseine Beute mit\fsüßen Düften an\nund verschlingt\nsie mit einem Biß."
+        es:
+          yellow: "Engaña a su presa\ncon un dulce\naroma a miel.\fUna vez atrapada,\nla presa perderá\nhasta sus huesos"
+tentacool:
+  species_id: 72
+  names:
+    jp_kana: メノクラゲ
+    en: TENTACOOL
+    fr: TENTACOOL
+    it: TENTACOOL
+    de: TENTACHA
+    es: TENTACOOL
+  forms:
+    tentacool:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 40
+        defense: 35
+        speed: 70
+        special: 100
+      types:
+        - water
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "なみうちぎわに　ひからびた　すがたを\nはっけん　することも　あるが\nみずに　つけてやれば　ふっかつする。"
+        en:
+          yellow: "It can sometimes\nbe found all dry\nand shriveled up\fon a beach. Toss\nit back into the\nsea to revive it."
+        fr:
+          yellow: "Certains échouent\nsur la plage et\nsèchent sur le\fsable. Poussez\n-les dans l’eau\net ils revivent."
+        it:
+          yellow: "Lo si può trovare\ntutto rinsecchito\nsulla spiaggia,\fme se è rigettato\nin mare rivive\nistantaneamente."
+        de:
+          yellow: "Findet man ein\nschwaches TENTACHA\nam Strand und\fwirft es ins Meer\nzurück, so wird\nes wieder topfit."
+        es:
+          yellow: "A veces puede ser\nencontrado seco\ny medio enterrado\fen una playa. Al\nlanzarlo otra vez\nal mar revivirá"
+tentacruel:
+  species_id: 73
+  names:
+    jp_kana: ドククラゲ
+    en: TENTACRUEL
+    fr: TENTACRUEL
+    it: TENTACRUEL
+    de: TENTOXA
+    es: TENTACRUEL
+  forms:
+    tentacruel:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 70
+        defense: 65
+        speed: 100
+        special: 120
+      types:
+        - water
+        - poison
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "８０ぽんの　しょくしゅを　じゆうに\nのびちぢみさせ　えものに　まきつき\nどくを　あたえて　よわらせる。"
+        en:
+          yellow: "Its 80 tentacles\ncan stretch and\ncontract freely.\fThey wrap around\nprey and weaken\nit with poison."
+        fr:
+          yellow: "Ses 80 tentacules\nsont extensibles\net autonomes.\fIls innoculent\nun poison au\ncontact."
+        it:
+          yellow: "Avvolge i suoi\n80 tentacoli\nsemoventi attorno\falla preda, poi \nla indebolisce \ncon il veleno."
+        de:
+          yellow: "Dieses POKéMON\nverfügt über mehr\nals 80 Tentakel.\fEs umwickelt seine\nBeute und schwächt\nsie dann mit Gift."
+        es:
+          yellow: "Puede controlar\nlibremente sus 80\ntentáculos. Éstos\fdebilitan a su\npresa con su\npoderoso veneno"
+geodude:
+  species_id: 74
+  names:
+    jp_kana: イシツブテ
+    en: GEODUDE
+    fr: RACAILLOU
+    it: GEODUDE
+    de: KLEINSTEIN
+    es: GEODUDE
+  forms:
+    geodude:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 80
+        defense: 100
+        speed: 20
+        special: 30
+      types:
+        - rock
+        - ground
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "やまみち　などに　おおく　せいそく。\nきづかずに　ふみつけると\nおこりだすので　ようちゅういだ。"
+        en:
+          yellow: "Commonly found\nnear mountain\ntrails, etc.\fIf you step on\none by accident,\nit gets angry."
+        fr:
+          yellow: "On en trouve près\ndes sentiers de\nmontagne. Si vous\fmarchez dessus,\nils s’énervent et\nattaquent."
+        it:
+          yellow: "Di solito si trova\nvicino ai sentieri\ndi montagna.\fSe per sbaglio\nviene urtato\ndiventa furioso."
+        de:
+          yellow: "KLEINSTEIN sonnt\nsich gerne auf\nGebirgspfaden.\fTritt man auf\nKLEINSTEIN, wird\nes sehr wütend."
+        es:
+          yellow: "Se encuentran\nnormalmente en\nlos caminos de\fmontaña. Si te\ncruzas con uno,\nse enfadará"
+graveler:
+  species_id: 75
+  names:
+    jp_kana: ゴローン
+    en: GRAVELER
+    fr: GRAVALANCH
+    it: GRAVELER
+    de: GEOROK
+    es: GRAVELER
+  forms:
+    graveler:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 95
+        defense: 115
+        speed: 35
+        special: 45
+      types:
+        - rock
+        - ground
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "やまみちを　よく　ころがっている。\nとおりみちに　なにが　あろうと\nいっさい　きに　していない。"
+        en:
+          yellow: "Often seen rolling\ndown mountain\ntrails. Obstacles\fare just things to\nroll straight\nover, not avoid."
+        fr:
+          yellow: "Il dévale les\npentes le long\ndes montagnes, et\ftraverse les\nobstacles en les\npulvérisant."
+        it:
+          yellow: "Spesso viene visto\nrotolare giù per\ni sentieri di\fmontagna, dove\ntravolge tutto ciò\nche incontra."
+        de:
+          yellow: "Dieses POKéMON\nrollt sich gerne\nGebirgspfade\fhinunter. Kein\nHindernis kann es\ndann aufhalten."
+        es:
+          yellow: "Se le suele ver\nrodando por las\nmontañas.\fLos obstáculos no\nlos evita.\n¡Los arrolla!"
+golem:
+  species_id: 76
+  names:
+    jp_kana: ゴローニャ
+    en: GOLEM
+    fr: GROLEM
+    it: GOLEM
+    de: GEOWAZ
+    es: GOLEM
+  forms:
+    golem:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 110
+        defense: 130
+        speed: 45
+        special: 55
+      types:
+        - rock
+        - ground
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "だっぴ　したてのときは　ぜんたいが\nしろっぽく　やわらかいが　すぐに\nくうきに　ふれて　かたくなる。"
+        en:
+          yellow: "Once it sheds its\nskin, its body\nturns tender and\fwhitish. Its hide\nhardens when it’s\nexposed to air."
+        fr:
+          yellow: "Son corps est\nblanc et tendre.\nAu contact de\fl’air sa peau\nse solidifie en\nune armure."
+        it:
+          yellow: "Al momento della\nmuta il suo corpo\nè bianco e tenero\fma poi l’aria lo\ntrasforma in una\ndura corazza."
+        de:
+          yellow: "Die Haut dieses\nPOKéMON verfärbt\nsich an der Luft\fweiß und verhärtet\nsich zu einem sehr\nharten Panzer."
+        es:
+          yellow: "Cuando pierde su\npiel, su cuerpo\nse vuelve blando\fy blanquecino.\nSi esto ocurre,\nse esconderá"
+ponyta:
+  species_id: 77
+  names:
+    jp_kana: ポニータ
+    en: PONYTA
+    fr: PONYTA
+    it: PONYTA
+    de: PONITA
+    es: PONYTA
+  forms:
+    ponyta:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 85
+        defense: 55
+        speed: 90
+        special: 65
+      types:
+        - fire
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ものすごい　ジャンプの　あとの\nちゃくちの　しょうげきは　ヒヅメと\nあしの　きんにくで　やわらげる。"
+        en:
+          yellow: "Capable of jumping\nincredibly high.\nIts hooves and\fsturdy legs absorb\nthe impact of a\nhard landing."
+        fr:
+          yellow: "Capable de sauter\ntrès haut, ses\nsabots et ses\fpattes peuvent\nabsorber l’impact\nde l’atterissage."
+        it:
+          yellow: "È capace di salti\naltissimi. Quando\ntocca terra gli\fzoccoli e le zampe\nammortizzano\nl’impatto."
+        de:
+          yellow: "Dieses POKéMON\nkann unglaublich\nhoch springen.\fEs absorbiert die\nWucht der Landung\nmit seinen Hufen."
+        es:
+          yellow: "Es capaz de\nsaltar muy alto.\nCon sus pezuñas\fy sus robustas\npatas, absorbe el\nimpacto"
+rapidash:
+  species_id: 78
+  names:
+    jp_kana: ギャロップ
+    en: RAPIDASH
+    fr: GALOPA
+    it: RAPIDASH
+    de: GALLOPA
+    es: RAPIDASH
+  forms:
+    rapidash:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 100
+        defense: 70
+        speed: 105
+        special: 80
+      types:
+        - fire
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "とにかく　はしるのが　だいすきで\nじぶんより　はやいものを　みつけると\nぜんそくりょくで　おいかける。"
+        en:
+          yellow: "Just loves to run.\nIf it sees some-\nthing faster than\fitself, it will\ngive chase at top\nspeed."
+        fr:
+          yellow: "Il aime la course.\nIl poursuit tout\nce qui va plus\fvite que lui.\nQuestion\nd’honneur."
+        it:
+          yellow: "Questo POKéMON è\nveloce come una\nsaetta. Insegue\fcon foga tutto\nciò che si muove\nrapidamente."
+        de:
+          yellow: "Dieses POKéMON\nkann schnell wie\nder Blitz laufen.\fEs verfolgt alle\nObjekte, die sich\nschnell bewegen."
+        es:
+          yellow: "Le encanta\ncorrer. Si ve\nalgo más rápido\fque él, intentará\nalcanzarlo a toda\nvelocidad"
+slowpoke:
+  species_id: 79
+  names:
+    jp_kana: ヤドン
+    en: SLOWPOKE
+    fr: RAMOLOSS
+    it: SLOWPOKE
+    de: FLEGMON
+    es: SLOWPOKE
+  forms:
+    slowpoke:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 65
+        defense: 65
+        speed: 15
+        special: 40
+      types:
+        - water
+        - psychic
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "とても　まぬけで　うごきも　にぶい。\nじかんの　ながれを　きにすることなく\nのんびりと　いきている。"
+        en:
+          yellow: "Incredibly slow\nand sluggish. It\nis quite content\fto loll about\nwithout worrying\nabout the time."
+        fr:
+          yellow: "Lent et stupide,\nil aime se la\ncouler douce en\fobservant\nl’activité autour\nde lui."
+        it:
+          yellow: "Questo POKéMON\nè incredibilmente\npigro e lento.\fAdora dormire e\npoltrire tutto\nil giorno."
+        de:
+          yellow: "Dieses POKéMON\nist unglaublich\nfaul und träge.\fEs faulenzt und\nschläft den\nganzen Tag lang."
+        es:
+          yellow: "Es increíblemente\nlento y perezoso.\nLe encanta dormir\fsin preocuparse\nni del tiempo ni\nde lo que ocurra"
+slowbro:
+  species_id: 80
+  names:
+    jp_kana: ヤドラン
+    en: SLOWBRO
+    fr: FLAGADOSS
+    it: SLOWBRO
+    de: LAHMUS
+    es: SLOWBRO
+  forms:
+    slowbro:
+      form_id: 0
+      base_stats:
+        hp: 95
+        attack: 75
+        defense: 110
+        speed: 30
+        special: 80
+      types:
+        - water
+        - psychic
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "うみのちかくで　のんびり　くらす。\nもし　シッポの　シェルダーが\nはずれてしまうと　ヤドンにもどる。"
+        en:
+          yellow: "Lives lazily by\nthe sea. If the\nSHELLDER on its\ftail comes off,\nit becomes a\nSLOWPOKE again."
+        fr:
+          yellow: "Il se prélasse au\nsoleil. Si le\nKOKIYAS, accroché\fà sa queue s’en\nva, il redevient\nun RAMOLOSS."
+        it:
+          yellow: "È lento e pigro e\nvive in riva al\nmare. Diventa\fSLOWPOKE se gli si\nstacca lo SHELLDER\ndalla coda."
+        de:
+          yellow: "Dieses faule und\nträge POKéMON\nlebt an der Küste.\fOhne die Muschel\nam Schwanz wäre\nes ein FLEGMON."
+        es:
+          yellow: "Vive tranquilo en\nel mar. Si el\nSHELLDER de su\fcola se cae,\nvuelve a ser un\nSLOWPOKE otra vez"
+magnemite:
+  species_id: 81
+  names:
+    jp_kana: コイル
+    en: MAGNEMITE
+    fr: MAGNETI
+    it: MAGNEMITE
+    de: MAGNETILO
+    es: MAGNEMITE
+  forms:
+    magnemite:
+      form_id: 0
+      base_stats:
+        hp: 25
+        attack: 35
+        defense: 70
+        speed: 45
+        special: 95
+      types:
+        - electric
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "うまれつき　じゅうりょくを　さえぎる\nのうりょくを　もち　でんじはを\nだしながら　くうちゅうを　いどう。"
+        en:
+          yellow: "It is born with\nthe ability to\ndefy gravity. It\ffloats in air on\npowerful electro-\nmagnetic waves."
+        fr:
+          yellow: "Sa nature défie\nles lois de la\ngravité. Il\fflotte grâce à un\nchamp électro-\nmagnétique."
+        it:
+          yellow: "Ha la capacità di\ncontrastare la\nforza di gravità\fgrazie a potenti\nonde elettro-\nmagnetiche."
+        de:
+          yellow: "MAGNETILO schwebt\nauf elektro-\nmagnetischen\fWellen durch die\nLuft und trotzt so\nder Schwerkraft."
+        es:
+          yellow: "Puede desafiar a\nla gravedad desde\nsu nacimiento.\fFlota en el aire\ngracias a ondas\nelectromagnéticas"
+magneton:
+  species_id: 82
+  names:
+    jp_kana: レアコイル
+    en: MAGNETON
+    fr: MAGNETON
+    it: MAGNETON
+    de: MAGNETON
+    es: MAGNETON
+  forms:
+    magneton:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 60
+        defense: 95
+        speed: 70
+        special: 120
+      types:
+        - electric
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "なぞのでんぱを　はっしんしており\nはんけい　１キロのはんいでは\nきおんが　２ど　あがる。"
+        en:
+          yellow: "Generates strange\nradio signals. It\nraises the tem-\fperature by 3.6F\ndegrees within\n3,300 feet."
+        fr:
+          yellow: "Il émet un signal\nradio étrange. Sa\nprésence augmente\fla température de\n1 degré dans un\nrayon de 1000 m."
+        it:
+          yellow: "Produce strane\nonde radio con cui\npuò aumentare\fla temperatura\natmosferica di\nqualche grado."
+        de:
+          yellow: "Dieses POKéMON\nerzeugt seltsame\nRadiowellen und\fkann die Luft-\ntemperatur gering-\nfügig anheben."
+        es:
+          yellow: "Genera extrañas\nseñales de radio.\nEs capaz de\felevar la\ntemperatura\n3° centígrados"
+farfetchd:
+  species_id: 83
+  names:
+    jp_kana: カモネギ
+    en: FARFETCH’D
+    fr: CANARTICHO
+    it: FARFETCH’D
+    de: PORENTA
+    es: FARFETCH’D
+  forms:
+    farfetchd:
+      form_id: 0
+      base_stats:
+        hp: 52
+        attack: 65
+        defense: 55
+        speed: 60
+        special: 58
+      types:
+        - normal
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "クキが　はえている　ところに　すむ。\nめずらしく　かずも　すくないので\nカモネギも　へってきた　らしい。"
+        en:
+          yellow: "Lives where reedy\nplants grow. They\nare rarely seen,\fso it’s thought\ntheir numbers are\ndecreasing."
+        fr:
+          yellow: "Ils vivent près\ndes roseaux.\nOn en voit peu,\fils sont peut-\nêtre en voie\nd’extinction."
+        it:
+          yellow: "Vive nei canneti\nma si vede molto\nraramente, quindi\fsi pensa che\nsia in via di\nestinzione."
+        de:
+          yellow: "Dieses POKéMON\nlebt in Gebieten\nmit Schilfwuchs.\fZunehmende Umwelt-\nzerstörung bedroht\nseinen Lebensraum."
+        es:
+          yellow: "Vive cerca de las\nplantas. Son\nraramente vistos,\fasí que se piensa\nque se están\nextinguiendo"
+doduo:
+  species_id: 84
+  names:
+    jp_kana: ドードー
+    en: DODUO
+    fr: DODUO
+    it: DODUO
+    de: DODU
+    es: DODUO
+  forms:
+    doduo:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 85
+        defense: 45
+        speed: 75
+        special: 35
+      types:
+        - normal
+        - flying
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "はねは　みじかく　そらをとぶのは\nにがてだが　そのかわり　はったつした\nあしで　はやく　かけることができる。"
+        en:
+          yellow: "Its short wings\nmake flying dif-\nficult. Instead,\fthis POKéMON runs\nat high speed on\ndeveloped legs."
+        fr:
+          yellow: "Ses petites ailes\nne lui permettent\npas de voler,\fmais il peut\ncourir très\nrapidement."
+        it:
+          yellow: "Le cortissime ali\nnon gli permettono\ndi volare. Può\ftuttavia correre\nvelocissimo sulle\nzampe sviluppate."
+        de:
+          yellow: "Dieses POKéMON\nkann nicht gerade\ngut fliegen.\fDafür kann es mit\nseinen Beinen sehr\nschnell laufen."
+        es:
+          yellow: "Sus cortas alas\nlo hacen volar\ncon dificultad.\fDe todos modos,\npuede correr a\ngran velocidad"
+dodrio:
+  species_id: 85
+  names:
+    jp_kana: ドードリオ
+    en: DODRIO
+    fr: DODRIO
+    it: DODRIO
+    de: DODRI
+    es: DODRIO
+  forms:
+    dodrio:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 110
+        defense: 70
+        speed: 100
+        special: 60
+      types:
+        - normal
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ドードーの　どちらかの　あたまが\nぶんれつした　へんしゅ。そうげんを\nじそく　６０キロで　はしっていく。"
+        en:
+          yellow: "One of DODUO’s 2\nheads splits to\nform a unique\fspecies. It runs\nclose to 40 MPH\nin prairies."
+        fr:
+          yellow: "Quand une des 2\ntêtes d’un DODUO\nse divise, il\fdevient un DODRIO\ncapable de courir\nà 60 Km/h."
+        it:
+          yellow: "Una delle 2 teste\ndi DODUO si divide\ne forma una nuova\fspecie. Riesce a\ntoccare velocità\nincredibili."
+        de:
+          yellow: "Dieses POKéMON\nentwickelt sich\naus DODU.\fEs erreicht beim\nLaufen sehr hohe\nGeschwindigkeiten."
+        es:
+          yellow: "Una de las dos\ncabezas de DODUO\nse divide para\fformar un nuevo\nPKMN. Es capaz de\ncorrer a 40 KPH"
+seel:
+  species_id: 86
+  names:
+    jp_kana: パウワウ
+    en: SEEL
+    fr: OTARIA
+    it: SEEL
+    de: JUROB
+    es: SEEL
+  forms:
+    seel:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 45
+        defense: 55
+        speed: 45
+        special: 70
+      types:
+        - water
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "こおるほど　さむいところが　すき。\nひょうてんか　１０ど　くらいで\nきもちよく　およいでいる。"
+        en:
+          yellow: "Loves freezing\ncold conditions.\nRelishes swimming\fin a frigid cli-\nmate of around 14F\ndegrees."
+        fr:
+          yellow: "Il est à l’aise\ndans les endroits\nfroids et gelés.\fIl peut nager\ndans de l’eau à\n0 degré."
+        it:
+          yellow: "Adora gli ambienti\nfreddi gelidi.\nNuota in acque a\ftemperature polari\ndi circa 10 gradi\nsotto zero."
+        de:
+          yellow: "Dieses POKéMON\nbevorzugt eiskalte\nLebensräume und\fschwimmt mit Vor-\nliebe in -10 Grad\nkaltem Wasser."
+        es:
+          yellow: "A este POKéMON le\nencanta el frío.\nLe encanta nadar\fen climas polares,\nsea cual sea\nla temperatura"
+dewgong:
+  species_id: 87
+  names:
+    jp_kana: ジュゴン
+    en: DEWGONG
+    fr: LAMANTINE
+    it: DEWGONG
+    de: JUGONG
+    es: DEWGONG
+  forms:
+    dewgong:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 70
+        defense: 80
+        speed: 70
+        special: 95
+      types:
+        - water
+        - ice
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "ぜんしん　ゆきのように　まっしろ。\nさむさに　つよく　こおりが　うかぶ\nうみも　げんきよく　およぎまわる。"
+        en:
+          yellow: "Its entire body is\na snowy-white.\nUnharmed by even\fintense cold, it\nswims powerfully\nin icy waters."
+        fr:
+          yellow: "Son corps entier\nest d’une couleur\nblanc neige. Il\fpeut nager au\nmilieu des\nicebergs."
+        it:
+          yellow: "Il suo corpo è\nbianco candido.\nRiesce a nuotare\fvelocissimo\nanche in acque\ncongelate."
+        de:
+          yellow: "Der Körper dieses\nPOKéMON ist\nschneeweiß.\fEs kann sogar in\nEiswasser kraft-\nvoll schwimmen."
+        es:
+          yellow: "Su cuerpo es como\nuna bola de\nnieve. Inmune al\ffrío intenso,\nnada rápidamente\nen aguas heladas"
+grimer:
+  species_id: 88
+  names:
+    jp_kana: ベトベター
+    en: GRIMER
+    fr: TADMORV
+    it: GRIMER
+    de: SLEIMA
+    es: GRIMER
+  forms:
+    grimer:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 80
+        defense: 50
+        speed: 25
+        special: 40
+      types:
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ヘドロが　かたまって　うまれた。\nくさくて　さわることが　できないし\nとおったあとには　くさも　はえない。"
+        en:
+          yellow: "Made of hardened\nsludge. It smells\ntoo putrid to\ftouch.\nEven weeds won’t\ngrow in its path."
+        fr:
+          yellow: "Ce tas d’ordures\nconcentrées sent\ntrès mauvais.\fRien ne peut\npousser dans son\nsillage putride."
+        it:
+          yellow: "Formato da fanghi\nsolidificati emana\npuzzo di fogna.\fDove passa lui non\ncresce più neanche\nla gramigna."
+        de:
+          yellow: "SLEIMAS Körper\nbesteht aus\nIndustrieabfällen.\fWo dieses POKéMON\nhintritt, wächst\nkein Gras mehr!"
+        es:
+          yellow: "Está hecho de\nfango endurecido.\nHuele a pútrido.\f¡Por donde pasa,\nno crece la\nhierba!"
+muk:
+  species_id: 89
+  names:
+    jp_kana: ベトベトン
+    en: MUK
+    fr: GROTADMORV
+    it: MUK
+    de: SLEIMOK
+    es: MUK
+  forms:
+    muk:
+      form_id: 0
+      base_stats:
+        hp: 105
+        attack: 105
+        defense: 75
+        speed: 50
+        special: 65
+      types:
+        - poison
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "とっても　くさい！　きぜつするほど\nきょうれつだが　べトベトンは　はなが\nたいかして　においを　かんじない。"
+        en:
+          yellow: "Smells so awful,\nit can cause\nfainting. Through\fdegeneration, it\nlost its sense of\nsmell."
+        fr:
+          yellow: "Son odeur immonde\nprovoque des\névanouissements.\fSon odorat s’est\natrophié par sa\npropre puanteur."
+        it:
+          yellow: "Il suo fetore così\nnauseante causa\nsvenimenti e lui\fstesso ha perso\nnel tempo il senso\ndell’olfatto."
+        de:
+          yellow: "Dieses POKéMON\nverbreitet einen\nso erbärmlichen\fGestank, daß es\nsich selbst nicht\nmehr riechen kann."
+        es:
+          yellow: "Huele tan mal que\npuede provocar\ndesmayos. Ha\fdegenerado tanto,\nque ya ni él\nmismo se huele"
+shellder:
+  species_id: 90
+  names:
+    jp_kana: シェルダー
+    en: SHELLDER
+    fr: KOKIYAS
+    it: SHELLDER
+    de: MUSCHAS
+    es: SHELLDER
+  forms:
+    shellder:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 65
+        defense: 100
+        speed: 40
+        special: 45
+      types:
+        - water
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "どんな　こうげきにも　たえる\nかたいカラだが　ひらくと　やわらかい\nなかみが　むきだしになる。"
+        en:
+          yellow: "The shell can\nwithstand any\nattack. However,\fwhen it is open,\nthe tender body\nis exposed."
+        fr:
+          yellow: "Sa coquille le\nprotège de toute\nattaque. Si elle\fs’ouvre son corps\nfragile devient\nvulnérable."
+        it:
+          yellow: "La sua conchiglia\nresiste ad ogni\nattacco. Tuttavia\fa guscio aperto\ndiventa molto\nvulnerabile."
+        de:
+          yellow: "Die Schale dieses\nPOKéMON hält allen\nAttacken stand.\fWenn sie geöffnet\nist, wird MUSCHAS\nverwundbar."
+        es:
+          yellow: "Su concha puede\nevitar cualquier\nataque. El débil\fcuerpo sólo está\nexpuesto cuando\nestá abierta"
+cloyster:
+  species_id: 91
+  names:
+    jp_kana: パルシェン
+    en: CLOYSTER
+    fr: CRUSTABRI
+    it: CLOYSTER
+    de: AUSTOS
+    es: CLOYSTER
+  forms:
+    cloyster:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 95
+        defense: 180
+        speed: 70
+        special: 85
+      types:
+        - water
+        - ice
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "ダイヤモンドよりも　かたいカラで\nまもるだけでなく　ついている　トゲを\nとばしてくるので　かなり　てごわい。"
+        en:
+          yellow: "For protection, it\nuses its harder-\nthan-diamonds\fshell. It also\nshoots spikes from\nthe shell."
+        fr:
+          yellow: "Sa coquille plus\ndure que le\ndiamant le\fprotège. Il peut\nenvoyer des\nvolées de dards."
+        it:
+          yellow: "È protetto da una\nconchiglia dura\ncome il diamante.\fTalvolta attacca\nsparando lance\ndalla conchiglia."
+        de:
+          yellow: "Eine diamantharte\nSchale schützt\ndieses POKéMON.\fEs kann aus seiner\nSchale mit harten\nStacheln schießen."
+        es:
+          yellow: "Utiliza su concha\npara protegerse.\nDicen que es más\fdura que el\ndiamante. También\nlanza espinas"
+gastly:
+  species_id: 92
+  names:
+    jp_kana: ゴース
+    en: GASTLY
+    fr: FANTOMINUS
+    it: GASTLY
+    de: NEBULAK
+    es: GASTLY
+  forms:
+    gastly:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 35
+        defense: 30
+        speed: 80
+        special: 100
+      types:
+        - ghost
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "ふるくなって　だれも　すまなくなった\nたてものに　はっせいするらしい。\nかたちは　あいまいで　ガスのよう。"
+        en:
+          yellow: "Said to appear in\ndecrepit, deserted\nbuildings. It has\fno real shape as\nit appears to be\nmade of a gas."
+        fr:
+          yellow: "On en trouve dans\nles maisons en\nruine. Il n’a\fpas de forme bien\ndéfinie car il\nest fait de gaz."
+        it:
+          yellow: "Si dice che appaia\nin case diroccate\ne deserte. Non\fha una forma vera\ne propria poiché\nè fatto di gas."
+        de:
+          yellow: "NEBULAK lebt in\nGeister-Häusern\nund Ruinen.\fSein Körper hat\nkeine feste Form\noder Gestalt."
+        es:
+          yellow: "Sólo aparece en\nedificios en\nruinas. No tiene\fforma real, ya\nque parece que\nestá hecho de gas"
+haunter:
+  species_id: 93
+  names:
+    jp_kana: ゴースト
+    en: HAUNTER
+    fr: SPECTRUM
+    it: HAUNTER
+    de: ALPOLLO
+    es: HAUNTER
+  forms:
+    haunter:
+      form_id: 0
+      base_stats:
+        hp: 45
+        attack: 50
+        defense: 45
+        speed: 95
+        special: 115
+      types:
+        - ghost
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "なめられると　いのちを　すわれる。\nからだが　ふるえて　とまらなくなり\nやがては　し　に　いたるという。"
+        en:
+          yellow: "By licking, it\nsaps the victim’s\nlife. It causes\fshaking that won’t\nstop until the\nvictim’s demise."
+        fr:
+          yellow: "Les tremblements\nprovoqués par le\ncontact de sa\flangue éthérée ne\ns’arrêtent qu’à\nl’évanouissement."
+        it:
+          yellow: "Succhia l’anima al\nnemico con una\nLECCATA. Causa\ftremori orribili\nche finiscono solo\ncon il decesso."
+        de:
+          yellow: "Dieses POKéMON\nsaugt seinen\nbemitleidenswerten\fOpfern ohne\nGnade die Seele\naus dem Leib."
+        es:
+          yellow: "Toma la vida de\nsu adversario a\nlengüetazos. Esto\fproduce mareos\nhasta que la\nvíctima fallece"
+gengar:
+  species_id: 94
+  names:
+    jp_kana: ゲンガー
+    en: GENGAR
+    fr: ECTOPLASMA
+    it: GENGAR
+    de: GENGAR
+    es: GENGAR
+  forms:
+    gengar:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 65
+        defense: 60
+        speed: 110
+        special: 130
+      types:
+        - ghost
+        - poison
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "とつぜん　さむけを　かんじるとき\nゲンガーが　ちかくにいる。もしかして\nのろいを　かけるかも　しれない。"
+        en:
+          yellow: "A GENGAR is close\nby if you feel a\nsudden chill.\fIt may be trying\nto lay a curse\non you."
+        fr:
+          yellow: "Quand il lance\nune malédiction,\nil émet une aura\fmalveillante qui\nprovoque des\nfrissons."
+        it:
+          yellow: "Un alito gelido\nannuncia l’arrivo\ndi GENGAR.\fAttacca le vittime\ncon orribili\nmaledizioni."
+        de:
+          yellow: "Ein plötzlicher\nLuftzug kündigt\nGENGARS Besuch an.\fEs belegt seine\nOpfer mit furcht-\nbaren Flüchen."
+        es:
+          yellow: "Sabrás que un\nGENGAR está cerca\ncuando sufras de\fsudores fríos.\nIntentará echarte\nun hechizo"
+onix:
+  species_id: 95
+  names:
+    jp_kana: イワーク
+    en: ONIX
+    fr: ONIX
+    it: ONIX
+    de: ONIX
+    es: ONIX
+  forms:
+    onix:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 45
+        defense: 160
+        speed: 70
+        special: 30
+      types:
+        - rock
+        - ground
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ちちゅうを　ものすごい　いきおいで\nほりすすみ　エサを　さがす。とおった\nあとは　ディグダの　すみかになる。"
+        en:
+          yellow: "Burrows at high\nspeed in search\nof food. The\ftunnels it leaves\nare used as homes\nby DIGLETTs."
+        fr:
+          yellow: "Il creuse sous\nterre en quête\nde nourriture.\fSes tunnels\nservent de maison\naux TAUPIQUEUR."
+        it:
+          yellow: "Scava veloce nel\nterreno in cerca\ndi cibo lasciando\flunghi cunicoli\nusati poi come\ncasa dai DIGLETT."
+        de:
+          yellow: "Dieses POKéMON\ngräbt auf seiner\nSuche nach Futter\flange Tunnel, in\ndenen sich später\nDIGDAS einnisten."
+        es:
+          yellow: "Cava a gran\nvelocidad en\nbusca de comida.\fLos túneles que\ndeja son usados\npor los DIGLETT"
+drowzee:
+  species_id: 96
+  names:
+    jp_kana: スリープ
+    en: DROWZEE
+    fr: SOPORIFIK
+    it: DROWZEE
+    de: TRAUMATO
+    es: DROWZEE
+  forms:
+    drowzee:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 48
+        defense: 45
+        speed: 42
+        special: 90
+      types:
+        - psychic
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "いつも　いっしょに　ねむってみると\nときどき　むかし　たべたユメを\nみせてくれる　よるがある。"
+        en:
+          yellow: "If you sleep by\nit all the time,\nit will sometimes\fshow you dreams\nit has eaten in\nthe past."
+        fr:
+          yellow: "Si vous dormez\nprès de lui, il\ninfluencera vos\frêves avec les\nsonges qu’il a\ndévorés."
+        it:
+          yellow: "Tenendolo vicino\nè probabile che\nDROWZEE ti faccia\fvedere i sogni\nche ha mangiato\nin passato."
+        de:
+          yellow: "Wenn man nett zu\nTRAUMATO ist,\nzeigt es\fmanchmal Träume,\ndie es zuvor\ngefressen hat."
+        es:
+          yellow: "Si duermes cerca\nde uno todo el\ntiempo, en alguna\focasión podrás\nver sueños que se\nhaya comido antes"
+hypno:
+  species_id: 97
+  names:
+    jp_kana: スリーパー
+    en: HYPNO
+    fr: HYPNOMADE
+    it: HYPNO
+    de: HYPNO
+    es: HYPNO
+  forms:
+    hypno:
+      form_id: 0
+      base_stats:
+        hp: 85
+        attack: 73
+        defense: 70
+        speed: 67
+        special: 115
+      types:
+        - psychic
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "うっかり　であったときは　めを\nそらさないと　きけん。てに　もった\nふりこで　ねむらされてしまう。"
+        en:
+          yellow: "Avoid eye contact\nif you come across\none. It will try\fto put you to\nsleep by using\nits pendulum."
+        fr:
+          yellow: "Evitez son regard\nquand vous en\ncroisez un, ou il\fessayera de vous\nhypnotiser avec\nson pendule."
+        it:
+          yellow: "Se lo incontri\nevita il contatto\nvisivo, poiché\fcercherà di\nipnotizzarti con\nil suo pendolo."
+        de:
+          yellow: "Man sollte den\nAugenkontakt mit\ndiesem POKéMON\fvermeiden. Mit\nseinem Pendel kann\nes hypnotisieren."
+        es:
+          yellow: "Intenta evitar\ncualquier tipo de\ncontacto visual\fcon este POKéMON.\nPuede hipnotizar\ncon su péndulo"
+krabby:
+  species_id: 98
+  names:
+    jp_kana: クラブ
+    en: KRABBY
+    fr: KRABBY
+    it: KRABBY
+    de: KRABBY
+    es: KRABBY
+  forms:
+    krabby:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 105
+        defense: 90
+        speed: 50
+        special: 25
+      types:
+        - water
+      held_items:
+        common: tm033
+        rare: tm033
+      descriptions:
+        jp_kana:
+          yellow: "きょうりょくな　ぶきとなる　ハサミは\nこうげきのとき　まれに　もげるが\nあとから　すぐに　はえてくる。"
+        en:
+          yellow: "Its pincers are\nsuperb weapons.\nThey sometimes\fbreak off during\nbattle, but they\ngrow back fast."
+        fr:
+          yellow: "Ses pinces sont\nde puissantes\narmes. Si une\fse casse durant\nun combat,elle\nrepoussera vite."
+        it:
+          yellow: "Le sue chele sono\narmi formidabili.\nSe si rompono\fdurante la lotta\nricrescono\nimmediatamente."
+        de:
+          yellow: "Die Scheren dieses\nPOKéMON bilden\nperfekte Waffen.\fBrechen sie ab,\nso wachsen sie\nwieder nach."
+        es:
+          yellow: "Sus pinzas son\narmas perfectas.\nEn alguna ocasión\fpueden romperse\nen combate, pero\ncrecerán rápido"
+kingler:
+  species_id: 99
+  names:
+    jp_kana: キングラー
+    en: KINGLER
+    fr: KRABBOSS
+    it: KINGLER
+    de: KINGLER
+    es: KINGLER
+  forms:
+    kingler:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 130
+        defense: 115
+        speed: 75
+        special: 50
+      types:
+        - water
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "かたほうだけ　きょだいか　した\nハサミは　こうてつの　かたさと\n１まんばりきを　もつが　おもすぎる。"
+        en:
+          yellow: "One claw grew\nmassively and as\nhard as steel.\fIt has 10,000-HP\nstrength. However,\nit is too heavy."
+        fr:
+          yellow: "Sa pince, grosse\net dure comme de\nl’acier, peut\fdéployer une\npression de\n100 tonnes."
+        it:
+          yellow: "Le sue enormi\nchele sono dure\ncome l’acciaio.\fHa un’incredibile\nforza, ma è\ntroppo pesante."
+        de:
+          yellow: "Die große Schere\ndieses POKéMON ist\nhart wie Stahl.\fKINGLER ist sehr\nstark, aber auch\nsehr schwerfällig."
+        es:
+          yellow: "Una de sus pinzas\ncrece más que la\notra, y es dura\fcomo el acero.\nDe todos modos,\npesa demasiado"
+voltorb:
+  species_id: 100
+  names:
+    jp_kana: ビリリダマ
+    en: VOLTORB
+    fr: VOLTORBE
+    it: VOLTORB
+    de: VOLTOBAL
+    es: VOLTORB
+  forms:
+    voltorb:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 30
+        defense: 50
+        speed: 100
+        special: 55
+      types:
+        - electric
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "モンスターボールに　にているのは\nほごしょくの　ためだと　いわれるが\nいがいと　かんたんに　じばくする。"
+        en:
+          yellow: "It is said to\ncamouflage itself\nas a POKé BALL. It\fwill self-destruct\nwith very little\nstimulus."
+        fr:
+          yellow: "On dit qu’il se\ndéguise en\nPOKé BALL. Il\fs’autodétruira\nà la moindre\nstimulation."
+        it:
+          yellow: "Questo POKéMON\nsi traveste da\nPOKé BALL e\fappena avverte il\npericolo si\nautodistrugge."
+        de:
+          yellow: "Dieses POKéMON\ntarnt sich gerne\nals POKéBALL.\fIn die Ecke\ngedrängt, zerstört\nes sich selbst."
+        es:
+          yellow: "Se dice que se\ncamufla como una\nPOKé BALL.\fAl más mínimo\nestímulo se\nautodestruirá"
+electrode:
+  species_id: 101
+  names:
+    jp_kana: マルマイン
+    en: ELECTRODE
+    fr: ELECTRODE
+    it: ELECTRODE
+    de: LEKTROBAL
+    es: ELECTRODE
+  forms:
+    electrode:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 50
+        defense: 70
+        speed: 140
+        special: 80
+      types:
+        - electric
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "すこしでも　しょうげきを　あたえると\nたいないの　エレクトンエネルギーが\nあふれて　ばくはつ　してしまう。"
+        en:
+          yellow: "Stores electrical\nenergy inside its\nbody. Even the\fslightest shock\ncould trigger a\nhuge explosion."
+        fr:
+          yellow: "Il stocke de\nl’énergie\nélectrique dans\fson corps, ce qui\nle rend instable\net explosif."
+        it:
+          yellow: "L’elettricità\naccumulata nel suo\ncorpo minaccia\fesplosioni\napocalittiche\nin ogni momento."
+        de:
+          yellow: "Dieses POKéMON\nspeichert Energie\nin seinem Körper.\fDie geringste\nErschütterung läßt\nes explodieren."
+        es:
+          yellow: "Almacena energía\neléctrica en su\ncuerpo. El más\fleve shock puede\nprovocar una\ngran explosión"
+exeggcute:
+  species_id: 102
+  names:
+    jp_kana: タマタマ
+    en: EXEGGCUTE
+    fr: NOEUNOEUF
+    it: EXEGGCUTE
+    de: OWEI
+    es: EXEGGCUTE
+  forms:
+    exeggcute:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 40
+        defense: 80
+        speed: 40
+        special: 60
+      types:
+        - grass
+        - psychic
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "タマの　ひとつひとつが　おたがいに\nひきあって　かいてんしている。\n６つでないと　あんていしないのだ。"
+        en:
+          yellow: "The heads attract\neach other and\nspin around.\fThere must be 6\nheads for it to\nmaintain balance."
+        fr:
+          yellow: "Les têtes sont\nattirées les unes\nvers les autres.\fIl en faut 6 pour\nqu’il établisse\nson équilibre."
+        it:
+          yellow: "Attraendosi le sei\nteste creano un\nrapido movimento\fcircolare con cui\nsi mantengono\nin equilibrio."
+        de:
+          yellow: "OWEIS kleine Köpfe\nkreisen um den\ngroßen Kopf wie\fPlaneten um die\nSonne. Sie halten\nso die Balance."
+        es:
+          yellow: "Sus cabezas se\natraen unas a\notras, y giran\fentre si. Debe\ntener seis para\nequilibrarse"
+exeggutor:
+  species_id: 103
+  names:
+    jp_kana: ナッシー
+    en: EXEGGUTOR
+    fr: NOADKOKO
+    it: EXEGGUTOR
+    de: KOKOWEI
+    es: EXEGGUTOR
+  forms:
+    exeggutor:
+      form_id: 0
+      base_stats:
+        hp: 95
+        attack: 95
+        defense: 85
+        speed: 55
+        special: 125
+      types:
+        - grass
+        - psychic
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "なきごえが　にぎやかなのは\n３つある　あたまが　それぞれ\nすきなことを　かんがえているからだ。"
+        en:
+          yellow: "Its cries are very\nnoisy. This is\nbecause each of\fthe 3 heads thinks\nabout whatever it\nlikes."
+        fr:
+          yellow: "Son hurlement est\nstrident car ses\n3 têtes se\fchamaillent tout\nle temps."
+        it:
+          yellow: "Il suo verso è un\ngrido che spacca\ni timpani dovuto\falla confusione\ndi tre teste che\npensano insieme."
+        de:
+          yellow: "Der Schrei dieses\nPOKéMON ist\nohrenbetäubend.\fDie drei Köpfe\nschreien wild\ndurcheinander."
+        es:
+          yellow: "Este POKéMON es\nmuy ruidoso. Esto\nes debido a que\fcada una de sus\ncabezas hace lo\nque quiere"
+cubone:
+  species_id: 104
+  names:
+    jp_kana: カラカラ
+    en: CUBONE
+    fr: OSSELAIT
+    it: CUBONE
+    de: TRAGOSSO
+    es: CUBONE
+  forms:
+    cubone:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 50
+        defense: 95
+        speed: 35
+        special: 40
+      types:
+        - ground
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "しんだ　ははおやの　ホネを　かぶる。\nなきごえは　ホネのなかで　ひびいて\nものがなしい　メロディになる。"
+        en:
+          yellow: "Wears the skull\nof its deceased\nmother. Its cries\fecho inside the\nskull and come out\nas a sad melody."
+        fr:
+          yellow: "Il porte le crâne\nde sa défunte\nmère. Ses pleurs\frésonnent dans\nson casque en une\ntriste mélodie."
+        it:
+          yellow: "Porta il teschio\ndi sua madre come\nelmetto. Il suo\fverso che fa eco\nnel teschio è una\ntriste melodia."
+        de:
+          yellow: "TRAGOSSO trägt den\nSchädel seiner\nMutter als Maske.\fSein trauriges\nWeinen hallt\ndarin wider."
+        es:
+          yellow: "Siempre lleva el\ncráneo de su\ndifunta madre. Su\fgrito hace eco\ny parece una\ntriste melodía"
+marowak:
+  species_id: 105
+  names:
+    jp_kana: ガラガラ
+    en: MAROWAK
+    fr: OSSATUEUR
+    it: MAROWAK
+    de: KNOGGA
+    es: MAROWAK
+  forms:
+    marowak:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 80
+        defense: 110
+        speed: 45
+        special: 50
+      types:
+        - ground
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "からだは　ちいさく　よわかったが\nホネを　うまく　つかって　たたかう\nきょうぼうな　せいかくに　なった。"
+        en:
+          yellow: "Small and weak,\nthis POKéMON is\nadept with its\fbone club. It has\ngrown more vicious\nover the ages."
+        fr:
+          yellow: "Petit et faible,\nce POKéMON est\nhabile avec sa\fmasse en os. Il\ndevient vicieux\navec l’âge."
+        it:
+          yellow: "Piccolo e debole\ndiventa forte\nquando usa il suo\fOSSOCLAVA. Nei\nsecoli si è fatto\npiù aggressivo."
+        de:
+          yellow: "Dieses kleine\nPOKéMON ist im\nUmgang mit der\fKNOCHENKEULE sehr\nstark. KNOGGA ist\nfurchtbar zornig."
+        es:
+          yellow: "Pequeño y débil,\neste POKéMON\nsiempre va\facompañado de\nsu palo de hueso\nde POKéMON"
+hitmonlee:
+  species_id: 106
+  names:
+    jp_kana: サワムラー
+    en: HITMONLEE
+    fr: KICKLEE
+    it: HITMONLEE
+    de: KICKLEE
+    es: HITMONLEE
+  forms:
+    hitmonlee:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 120
+        defense: 53
+        speed: 87
+        special: 35
+      types:
+        - fighting
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "キックがあたる　しゅんかん！\nあしのウラが　ダイヤモンドのように\nかたくなって　あいてを　はかいする。"
+        en:
+          yellow: "When kicking, the\nsole of its foot\nturns as hard as\fa diamond on im-\npact and destroys\nits enemy."
+        fr:
+          yellow: "Quand il donne\ndes coups de\npied, ceux-ci\fdeviennent durs\ncomme le diamant."
+        it:
+          yellow: "Quando tira calci\ni suoi piedi si\nfanno così duri\fche l’impatto può\nspaccare persino\nil diamante."
+        de:
+          yellow: "Der Fuß dieses\nPOKéMON ist\nunglaublich hart.\fSein Tritt vermag\nsogar Diamanten\nzu zerschmettern."
+        es:
+          yellow: "Cuando da patadas\nal enemigo, la\nplanta de sus\fpies se vuelve\ntan dura como el\ndiamante"
+hitmonchan:
+  species_id: 107
+  names:
+    jp_kana: エビワラー
+    en: HITMONCHAN
+    fr: TYGNON
+    it: HITMONCHAN
+    de: NOCKCHAN
+    es: HITMONCHAN
+  forms:
+    hitmonchan:
+      form_id: 0
+      base_stats:
+        hp: 50
+        attack: 105
+        defense: 79
+        speed: 76
+        special: 35
+      types:
+        - fighting
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ねじりこむような　パンチこうげき！\nコンクリートのかべが　ドリルじょうに\nけずられて　やがて　あなが　あく。"
+        en:
+          yellow: "Punches in cork-\nscrew fashion. It\ncan punch its way\fthrough a concrete\nwall in the same\nway as a drill."
+        fr:
+          yellow: "Ses coups de\npoings rotatifs\nsont si puissants\fqu’il peut forer\nle béton comme un\nmarteau-piqueur."
+        it:
+          yellow: "Sferrando i suoi\npotenti pugni può\naprirsi un varco\fin un muro di\ngranito proprio\ncome un trapano."
+        de:
+          yellow: "NOCKCHAN vermag\nes, sich wie eine\nBohrmaschine\fmit kraftvollen\nSchlägen durch\nGranit zu bohren."
+        es:
+          yellow: "Sus golpes se\nasemejan a una\ntaladradora.\fPuede atravesar un\nmuro de hormigón\ncomo si nada"
+lickitung:
+  species_id: 108
+  names:
+    jp_kana: ベロリンガ
+    en: LICKITUNG
+    fr: EXCELANGUE
+    it: LICKITUNG
+    de: SCHLURP
+    es: LICKITUNG
+  forms:
+    lickitung:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 55
+        defense: 75
+        speed: 30
+        special: 60
+      types:
+        - normal
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "２メートルもある　ながい　したは\nまえあしより　きように　うごかせる。\nなめられると　なぜか　しびれてくる。"
+        en:
+          yellow: "Its tongue spans\nalmost 7 feet and\nmoves more freely\fthan its forelegs.\nIts licks can\ncause paralysis."
+        fr:
+          yellow: "Sa langue mesure\n2m et elle est\nplus maniable que\fses pattes. Son\ncontact provoque\nla paralysie."
+        it:
+          yellow: "La sua lingua\nlunga circa un\nmetro si muove\fvelocissima. Se\ncolpisce paralizza\nl’avversario."
+        de:
+          yellow: "SCHLURPs Zunge ist\nfast einen Meter\nlang. Sie ist\fäußerst beweglich\nund kann Gegner\nparalysieren."
+        es:
+          yellow: "Su lengua mide\ncasi dos metros\ny se mueve\flibremente. Sus\nlametazos pueden\ncausar parálisis"
+koffing:
+  species_id: 109
+  names:
+    jp_kana: ドガース
+    en: KOFFING
+    fr: SMOGO
+    it: KOFFING
+    de: SMOGON
+    es: KOFFING
+  forms:
+    koffing:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 65
+        defense: 95
+        speed: 35
+        special: 60
+      types:
+        - poison
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "あついところ　では　からだのなかの\nガスが　ふくらんで　はれつする\nきけんせいも　あるので　ちゅういだ。"
+        en:
+          yellow: "In hot places, its\ninternal gases\ncould expand and\fexplode without\nany warning. Be\nvery careful!"
+        fr:
+          yellow: "Dans des endroits\nchauds, son corps\nfait de gaz\fdevient instable\net peut exploser.\nAttention!"
+        it:
+          yellow: "In luoghi caldi i\nsuoi gas interni\npossono dilatarsi\fed esplodere\nall’improvviso.\nFai attenzione!"
+        de:
+          yellow: "Dieses POKéMON\nist unberechenbar.\nAn warmen Orten\fneigt es dazu,\nohne Vorwarnung\nzu explodieren!"
+        es:
+          yellow: "A veces puede\nexplotar sin\navisar, ya que en\flugares calurosos\nsu gas interno\nse expande"
+weezing:
+  species_id: 110
+  names:
+    jp_kana: マタドガス
+    en: WEEZING
+    fr: SMOGOGO
+    it: WEEZING
+    de: SMOGMOG
+    es: WEEZING
+  forms:
+    weezing:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 90
+        defense: 120
+        speed: 60
+        special: 85
+      types:
+        - poison
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "ゴミのなかに　ふくまれている\nどくガス　バイきん　ほこりを\nきゅうしゅうして　いきている。"
+        en:
+          yellow: "It lives and grows\nby absorbing dust,\ngerms and poison\fgases that are\ncontained in toxic\nwaste and garbage."
+        fr:
+          yellow: "Ce POKéMON se\nnourrit de gaz,\nde poisons, et de\fgermes que l’on\npeut trouver dans\ndes tas d’ordures."
+        it:
+          yellow: "Vive e cresce\nassorbendo il gas\ntossico, i germi\fe la polvere che\nsi trovano nelle\ndiscariche."
+        de:
+          yellow: "SMOGMOG ernährt\nsich von Gasen,\nDreck und anderen\fKöstlichkeiten,\ndie man auf\nMüllkippen findet."
+        es:
+          yellow: "Este POKéMON vive\nabsorbiendo\ngases venenosos,\fgérmenes, y el\npolvo que existe\nen la basura"
+rhyhorn:
+  species_id: 111
+  names:
+    jp_kana: サイホーン
+    en: RHYHORN
+    fr: RHINOCORNE
+    it: RHYHORN
+    de: RIHORN
+    es: RHYHORN
+  forms:
+    rhyhorn:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 85
+        defense: 95
+        speed: 25
+        special: 30
+      types:
+        - ground
+        - rock
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "たんさいぼうで　ひとつの　ことしか\nかんがえられない。とっしんを\nはじめると　ねむるまで　とまらない。"
+        en:
+          yellow: "A POKéMON with a\none-track mind.\nOnce it charges, \fit won’t stop\nrunning until it\nfalls asleep."
+        fr:
+          yellow: "Un POKéMON qui a\ndes oeillères.\nS’il se met à\fcharger, il ne\ns’arrêtera qu’à\nl’épuisement."
+        it:
+          yellow: "Questo POKéMON ha\nla mente a senso\nunico. Quando\fattacca si ferma\nsolo a esaurimento\ndelle sue forze."
+        de:
+          yellow: "RIHORN steigert\nsich so in einen\nKampf hinein,\fdaß es kämpft\nbis es ermattet\neinschläft."
+        es:
+          yellow: "Este POKéMON no\ntiene muchas\nluces. Una vez\finicia la carga,\nno para hasta\nque cae dormido"
+rhydon:
+  species_id: 112
+  names:
+    jp_kana: サイドン
+    en: RHYDON
+    fr: RHINOFEROS
+    it: RHYDON
+    de: RIZEROS
+    es: RHYDON
+  forms:
+    rhydon:
+      form_id: 0
+      base_stats:
+        hp: 105
+        attack: 130
+        defense: 120
+        speed: 40
+        special: 45
+      types:
+        - ground
+        - rock
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "うしろあしだけで　あるくようになり\nちのうが　はったつした。よろいの\nような　ひふは　マグマにも　たえる。"
+        en:
+          yellow: "Walks on its hind\nlegs. Shows signs\nof intelligence.\fIts armor-like\nhide even repels\nmolten lava."
+        fr:
+          yellow: "Il peut se tenir\ndebout. Il\nsemble un peu\fintelligent. Son\népiderme résiste\nmême à la lave."
+        it:
+          yellow: "Molto intelligente\ncammina in posi-\nzione eretta. La\fsua corazza può\nresistere anche\nalla lava fusa."
+        de:
+          yellow: "Dieses POKéMON\nläuft auf seinen\nHinterbeinen.\fSeine stahlharte\nHaut widersteht\nsogar heißer Lava."
+        es:
+          yellow: "Camina sobre sus\npatas traseras, y\nmuestra signos de\finteligencia. Es\ncapaz de aguantar\nlava hirviendo"
+chansey:
+  species_id: 113
+  names:
+    jp_kana: ラッキー
+    en: CHANSEY
+    fr: LEVEINARD
+    it: CHANSEY
+    de: CHANEIRA
+    es: CHANSEY
+  forms:
+    chansey:
+      form_id: 0
+      base_stats:
+        hp: 250
+        attack: 5
+        defense: 5
+        speed: 50
+        special: 105
+      types:
+        - normal
+      held_items:
+        common: lucky_punch
+        rare: lucky_punch
+      descriptions:
+        jp_kana:
+          yellow: "きずついた　ものを　みかけると\nえいようまんてんの　タマゴを\nわけあたえる　やさしい　ポケモン。"
+        en:
+          yellow: "A gentle and kind-\nhearted POKéMON\nthat shares its\fnutritious eggs\nif it sees an\ninjured POKéMON."
+        fr:
+          yellow: "Il est gentil et\naimable, et il\npartage ses oeufs\fnourrissants avec\nles POKéMON\nblessés."
+        it:
+          yellow: "Un POKéMON gentile\ne generoso pronto\na condividere le\fsue nutrienti uova\ncon chi si trova\nin difficoltà."
+        de:
+          yellow: "CHANEIRA ist sehr\nwarmherzig und\nfreundlich.\fEs kümmert sich\nliebevoll um\nverletzte POKéMON."
+        es:
+          yellow: "Este amable\nPOKéMON es capaz\nde compartir sus\fnutrientes huevos\ncon un POKéMON\nherido"
+tangela:
+  species_id: 114
+  names:
+    jp_kana: モンジャラ
+    en: TANGELA
+    fr: SAQUEDENEU
+    it: TANGELA
+    de: TANGELA
+    es: TANGELA
+  forms:
+    tangela:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 55
+        defense: 115
+        speed: 60
+        special: 100
+      types:
+        - grass
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "からだが　あおいツルに　おおわれて\nしょうたいは　わからない。\nツルは　ずっと　のびつづけるという。"
+        en:
+          yellow: "Its identity is\nobscured by masses\nof thick, blue\fvines. The vines\nare said to never\nstop growing."
+        fr:
+          yellow: "Son corps est\nmasqué par une\nmasse épaisse de\flianes bleues qui\npoussent en\npermanence."
+        it:
+          yellow: "Il suo aspetto è\nnascosto sotto una\nmassa di fitte\fliane blu che non\nsmettono mai di\ncrescere."
+        de:
+          yellow: "TANGELAs wahres\nIch liegt unter\ndichten Ranken\fverborgen, die\nniemals aufhören\nzu wachsen."
+        es:
+          yellow: "Se camufla tras\nuna gran masa de\nenredaderas\fazules. Se dice\nque nunca dejan\nde crecer"
+kangaskhan:
+  species_id: 115
+  names:
+    jp_kana: ガルーラ
+    en: KANGASKHAN
+    fr: KANGOUREX
+    it: KANGASKHAN
+    de: KANGAMA
+    es: KANGASKHAN
+  forms:
+    kangaskhan:
+      form_id: 0
+      base_stats:
+        hp: 105
+        attack: 95
+        defense: 80
+        speed: 90
+        special: 40
+      types:
+        - normal
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "おなかのふくろで　こどもをそだてる。\nこどもを　まもるためになら　どんな\nあいてにも　たちむかっていく。"
+        en:
+          yellow: "Raises its young\nin its belly\npouch. Won’t run\ffrom any fight\nto keep its young\nprotected."
+        fr:
+          yellow: "Il élève son\npetit dans sa\npoche ventrale.\fIl ne l’abandonne\njamais dans un\ncombat."
+        it:
+          yellow: "Il suo cucciolo\ncresce dentro al\nmarsupio. È\fpronto a qualsiasi\nlotta pur di\nproteggerlo."
+        de:
+          yellow: "KANGAMA trägt\nseine Jungen in\neiner Bauchtasche\fumher und schützt\nsie vor jeglichen\nGefahren."
+        es:
+          yellow: "Cuida de su cría\nen la bolsa de su\ntripa.\fNo evitará\nninguna pelea\npara protegerla"
+horsea:
+  species_id: 116
+  names:
+    jp_kana: タッツー
+    en: HORSEA
+    fr: HYPOTREMPE
+    it: HORSEA
+    de: SEEPER
+    es: HORSEA
+  forms:
+    horsea:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 40
+        defense: 70
+        speed: 60
+        special: 70
+      types:
+        - water
+      held_items:
+        common: tm033
+        rare: tm033
+      descriptions:
+        jp_kana:
+          yellow: "みに　きけんを　かんじたときは\nくちから　みずや　とくしゅなスミを\nいきおいよく　はきだす。"
+        en:
+          yellow: "If it senses any\ndanger, it will\nvigorously spray\fwater or a special\ntype of ink from\nits mouth."
+        fr:
+          yellow: "Menacé, il crache\nun jet d’encre\nou d’eau de sa\fbouche pour se\ndéfendre."
+        it:
+          yellow: "Se minacciato\nsputa dalla bocca\nun inchiostro\fspeciale o potenti\ngetti d’acqua\nper difendersi."
+        de:
+          yellow: "Wenn sich SEEPER\nin Gefahr wähnt,\nversprüht es zur\fVerteidigung\nentweder Wasser\noder Spezialtinte."
+        es:
+          yellow: "Si se siente en\npeligro, arrojará\nun potente chorro\fde agua, o de una\ntinta especial,\npor su boca"
+seadra:
+  species_id: 117
+  names:
+    jp_kana: シードラ
+    en: SEADRA
+    fr: HYPOCEAN
+    it: SEADRA
+    de: SEEMON
+    es: SEADRA
+  forms:
+    seadra:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 65
+        defense: 95
+        speed: 85
+        special: 95
+      types:
+        - water
+      held_items:
+        common: gold_leaf
+        rare: gold_leaf
+      descriptions:
+        jp_kana:
+          yellow: "せびれに　さわると　しびれてしまう。\nねむるときは　ながされないように\nシッポを　さんごに　まきつける。"
+        en:
+          yellow: "Touching the back\nfin causes numb-\nness. It hooks\fits tail to coral\nto stay in place\nwhile sleeping."
+        fr:
+          yellow: "Le contact de sa\nnageoire provoque\nune irritation.\fIl ancre sa queue\nau corail pour\ndormir."
+        it:
+          yellow: "Il contatto con\nla sua pinna\nposteriore causa\fstordimento.\nDorme attaccato a\nqualche corallo."
+        de:
+          yellow: "Die Rückenflossen\ndieses POKéMON\nsondern Gift ab.\fIm Schlaf klammert\nsich SEEMON an\nKorallen fest."
+        es:
+          yellow: "Tocar su aleta\ntrasera causa\nparálisis. Se\fengancha al coral\npara mantenerse\nmientras duerme"
+goldeen:
+  species_id: 118
+  names:
+    jp_kana: トサキント
+    en: GOLDEEN
+    fr: POISSIRENE
+    it: GOLDEEN
+    de: GOLDINI
+    es: GOLDEEN
+  forms:
+    goldeen:
+      form_id: 0
+      base_stats:
+        hp: 45
+        attack: 67
+        defense: 60
+        speed: 63
+        special: 50
+      types:
+        - water
+      held_items:
+        common: tm033
+        rare: tm033
+      descriptions:
+        jp_kana:
+          yellow: "タマゴをうむ　じきになると　かわや\nたきを　のぼってくる　トサキントの\nしゅうだんの　すがたが　みられる。"
+        en:
+          yellow: "When it is time\nfor them to lay\neggs, they can be\fseen swimming up\nrivers and falls\nin large groups."
+        fr:
+          yellow: "Quand survient la\nsaison de ponte,\non peut en voir\fdans les rivières\net les cascades\nen larges groupes."
+        it:
+          yellow: "Al momento di\ndeporre le uova\npossono essere\fvisti a branchi in\nmari e fiumi per\nl’accoppiamento."
+        de:
+          yellow: "Zur Paarungszeit\nströmen ganze\nSchwärme dieses\fPOKéMON in die\nSeen und Flüsse,\num Eier zu legen."
+        es:
+          yellow: "En su época de\npuesta de huevos,\nsuelen ser vistos\fnadando por ríos\ncontracorriente\nen grandes grupos"
+seaking:
+  species_id: 119
+  names:
+    jp_kana: アズマオウ
+    en: SEAKING
+    fr: POISSOROY
+    it: SEAKING
+    de: GOLKING
+    es: SEAKING
+  forms:
+    seaking:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 92
+        defense: 65
+        speed: 68
+        special: 80
+      types:
+        - water
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "あたまのツノで　かわぞこにある\nいわを　くりぬき　すを　つくるのは\nオスの　やくめ　だ。"
+        en:
+          yellow: "It is the male’s\njob to make a\nnest by carving\fout boulders in a\nstream using the\nhorn on its head."
+        fr:
+          yellow: "Le mâle utilise\nla corne placée\nsur son front\fpour creuser un\nnid dans la\nrivière."
+        it:
+          yellow: "Questo POKéMON\nsi scava il nido\nin fondo al mare\fo sul letto di un\nfiume agitando\nil suo corno."
+        de:
+          yellow: "Dieses POKéMON\nschafft sich einen\nUnterschlupf,\findem es mit\nseinem Horn Steine\naushöhlt."
+        es:
+          yellow: "Este POKéMON\nhace sus nidos\ntallando cantos\fde riachuelo\ncon el cuerno\nde su cabeza"
+staryu:
+  species_id: 120
+  names:
+    jp_kana: ヒトデマン
+    en: STARYU
+    fr: STARI
+    it: STARYU
+    de: STERNDU
+    es: STARYU
+  forms:
+    staryu:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 45
+        defense: 55
+        speed: 85
+        special: 70
+      types:
+        - water
+      held_items:
+        common: tm033
+        rare: tm033
+      descriptions:
+        jp_kana:
+          yellow: "からだの　ちゅうしんぶぶん　さえ\nのこっていれば　どんなに　こまかく\nきられても　さいせいするという。"
+        en:
+          yellow: "As long as the\ncenter section is\nunharmed, it can\fgrow back fully\neven if it is\nchopped to bits."
+        fr:
+          yellow: "Tant que sa\npartie centrale\nest indemne, il\fpeut régénérer\nles parties de\nson corps."
+        it:
+          yellow: "Se non ne viene\ndanneggiato\nil centro può\frigenerare tutte\nle appendici\nperse lottando."
+        de:
+          yellow: "Solange STERNDUS\nKernstück\nunversehrt bleibt,\fverfügt es über\nexzellente Selbst-\nheilungskräfte."
+        es:
+          yellow: "Mientras su parte\ncentral se\nmantenga intacta,\fcrecerá de nuevo\naunque haya sido\ndestrozado"
+starmie:
+  species_id: 121
+  names:
+    jp_kana: スターミー
+    en: STARMIE
+    fr: STAROSS
+    it: STARMIE
+    de: STARMIE
+    es: STARMIE
+  forms:
+    starmie:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 75
+        defense: 85
+        speed: 115
+        special: 100
+      types:
+        - water
+        - psychic
+      held_items:
+        common: silver_leaf
+        rare: silver_leaf
+      descriptions:
+        jp_kana:
+          yellow: "コアと　よばれる　ちゅうしんぶぶんが\nなないろに　かがやくのは　つうしん\nしているからだと　いわれている。"
+        en:
+          yellow: "The center section\nis named the core.\nPeople think it\fis communicating\nwhen it glows in\n7 colors."
+        fr:
+          yellow: "Quand le centre\nde son corps,\nappelé le coeur,\fbrille de 7\ncouleurs, il\nessaie de parler."
+        it:
+          yellow: "La parte centrale\nemette i colori\ndell’arcobaleno.\fSi dice che sia\nil suo modo di\ncomunicare."
+        de:
+          yellow: "STARMIEs Kernstück\nleuchtet in den\nRegenbogen-Farben.\fMan sagt, es\nwürde damit\nkommunizieren."
+        es:
+          yellow: "Su zona central\nes conocida como\nel núcleo.\fSe piensa que se\ncomunica mediante\ncolores"
+mr_mime:
+  species_id: 122
+  names:
+    jp_kana: バリヤード
+    en: MR.MIME
+    fr: M.MIME
+    it: MR.MIME
+    de: PANTIMOS
+    es: MR.MIME
+  forms:
+    mr_mime:
+      form_id: 0
+      base_stats:
+        hp: 40
+        attack: 45
+        defense: 65
+        speed: 90
+        special: 100
+      types:
+        - psychic
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "パントマイムが　とくいで　いつでも\nれんしゅう　している。ないものでも\nそこに　あると　しんじこませる。"
+        en:
+          yellow: "Always practices\nits pantomime act.\nIt makes enemies\fbelieve something\nexists that\nreally doesn’t."
+        fr:
+          yellow: "Il est toujours\nen train de mimer.\nIl leurre ses\fennemis en\nmimant des\nactions irréelles."
+        it:
+          yellow: "La sua pantomima\nconfonde i nemici\nche credono di\fvedere qualcosa\nche in realtà\nnon esiste."
+        de:
+          yellow: "PANTIMOS verwirrt\nGegner durch sein\nMienenspiel.\fSie glauben, Dinge\nzu sehen, die gar\nnicht existieren."
+        es:
+          yellow: "Siempre practica\nla misma\npantomima. Hace\fcreer al enemigo\nque existe algo\nque no es real"
+scyther:
+  species_id: 123
+  names:
+    jp_kana: ストライク
+    en: SCYTHER
+    fr: INSECATEUR
+    it: SCYTHER
+    de: SICHLOR
+    es: SCYTHER
+  forms:
+    scyther:
+      form_id: 0
+      base_stats:
+        hp: 70
+        attack: 110
+        defense: 80
+        speed: 105
+        special: 55
+      types:
+        - bug
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "くさむらから　いきなり　とびだして\nするどいカマで　きりさく　すがたは\nまるで　ニンジャの　ようだ。"
+        en:
+          yellow: "Leaps out of tall\ngrass and slices\nprey with its\fscythes. The move-\nment looks like\nthat of a ninja."
+        fr:
+          yellow: "Bondissant hors\nde l’herbe comme\nun ninja, il\flacère sa proie\nde ses griffes\nacérées."
+        it:
+          yellow: "Salta fuori dall’\nerba alta per\nfare a fettine\fle sue prede con\nmovimenti simili\na quelli ninja."
+        de:
+          yellow: "SICHLOR lebt im\ndichten Unterholz.\nFlink wie ein\fNinja greift es\nmit seinen sichel-\nförmigen Armen an."
+        es:
+          yellow: "Se agazapa en la\nhierba alta para\nsaltar sobre su\fenemigo con sus\nguadañas. Se mueve\ncomo un ninja"
+jynx:
+  species_id: 124
+  names:
+    jp_kana: ルージュラ
+    en: JYNX
+    fr: LIPPOUTOU
+    it: JYNX
+    de: ROSSANA
+    es: JYNX
+  forms:
+    jynx:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 50
+        defense: 35
+        speed: 95
+        special: 95
+      types:
+        - ice
+        - psychic
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "どくとくの　りズムを　もつらしく\nおどるように　かろやかに　うごき\nこしをふる　ようにして　あるく。"
+        en:
+          yellow: "Appears to move\nto a rhythm of\nits own, as if it\fwere dancing. It\nwiggles its hips\nas it walks."
+        fr:
+          yellow: "Il bouge en\nrythme comme s’il\ndansait.\fIl ondule du\npopotin quand\nil marche."
+        it:
+          yellow: "Sembra muoversi\ncon un ritmo\ntutto suo, come\fse danzasse.\nAncheggia\nmentre cammina."
+        de:
+          yellow: "Dieses POKéMON\nbewegt sich nach\neinem besonderen\fRhythmus.\nDabei schwingt es\nmit den Hüften."
+        es:
+          yellow: "Parece moverse\ncomo si estuviera\nbailando un ritmo\fde su propia\ncreación. Menea\nmucho sus caderas"
+electabuzz:
+  species_id: 125
+  names:
+    jp_kana: エレブー
+    en: ELECTABUZZ
+    fr: ELEKTEK
+    it: ELECTABUZZ
+    de: ELEKTEK
+    es: ELECTABUZZ
+  forms:
+    electabuzz:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 83
+        defense: 57
+        speed: 105
+        special: 85
+      types:
+        - electric
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "おおきな　ていでんが　おきたときは\nエレブーが　はつでんしょの\nでんきを　たべたに　ちがいない。"
+        en:
+          yellow: "If a major power\noutage occurs, it\nis certain that\fthis POKéMON has\neaten electricity\nat a power plant."
+        fr:
+          yellow: "Il provoque des\npannes de courant\ndans les\fcentrales en\nmangeant de\nl’électricité."
+        it:
+          yellow: "S’intrufola\nnelle centrali\nper cibarsi di\felettricità\ncausando così\ngravi black out."
+        de:
+          yellow: "ELEKTEK schleicht\nsich oft in Kraft-\nwerke und frißt\fden ganzen Strom\nauf. So verursacht\nes Stromausfälle."
+        es:
+          yellow: "Cuando hay un\napagón, es más\nque posible que\feste POKéMON se\nhaya comido\nla energía"
+magmar:
+  species_id: 126
+  names:
+    jp_kana: ブーバー
+    en: MAGMAR
+    fr: MAGMAR
+    it: MAGMAR
+    de: MAGMAR
+    es: MAGMAR
+  forms:
+    magmar:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 95
+        defense: 57
+        speed: 93
+        special: 85
+      types:
+        - fire
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "かざんの　ふんかこうから　うまれた。\nぜんしんが　もえているため\nひのたまと　みわけが　つかない。"
+        en:
+          yellow: "Born in an active\nvolcano. Its body\nis always cloaked\fin flames, so it\nlooks like a big\nball of fire."
+        fr:
+          yellow: "Né dans un\nvolcan en fusion,\nson corps est\frecouvert de\nflammes, comme\nune boule de feu."
+        it:
+          yellow: "Nato in un vulcano\nattivo il suo\ncorpo è coperto\fdi fiamme tanto\nda sembrare una\npalla di fuoco."
+        de:
+          yellow: "Dieses POKéMON\nentstammt einem\naktiven Vulkan.\fGanz in Flammen\ngehüllt gleicht es\neinem Feuerball."
+        es:
+          yellow: "Nacen en volcanes\nactivos. Su\ncuerpo parece una\fgran bola de\nfuego ya que\nestán en llamas"
+pinsir:
+  species_id: 127
+  names:
+    jp_kana: カイロス
+    en: PINSIR
+    fr: SCARABRUTE
+    it: PINSIR
+    de: PINSIR
+    es: PINSIR
+  forms:
+    pinsir:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 125
+        defense: 100
+        speed: 85
+        special: 55
+      types:
+        - bug
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ツノで　はさんで　パワーぜんかい！\nさむくなると　うごけなくなるから\nあたたかい　ところに　すんでいる。"
+        en:
+          yellow: "Grips its prey in\nits pincers and\nsqueezes hard! It\fcan’t move if it’s\ncold, so it lives\nin warm places."
+        fr:
+          yellow: "Il enserre sa\nproie de sa\npuissante pince.\fIl ne peut se\ndéplacer dans les\nmilieux froids."
+        it:
+          yellow: "Afferra la preda\ntra le tenaglie\ne la stritola.\fVive in ambienti\ncaldi poiché il\nfreddo lo gela."
+        de:
+          yellow: "Dieses POKéMON\nbevorzugt einen\nwarmen Lebensraum.\fPINSIR attackiert\nGegner mit seiner\nriesigen Schere."
+        es:
+          yellow: "Atrapa a su presa\ncon sus pinzas, y\naprieta fuerte.\fNo se puede\nmover si hace\nmucho frío"
+tauros:
+  species_id: 128
+  names:
+    jp_kana: ケンタロス
+    en: TAUROS
+    fr: TAUROS
+    it: TAUROS
+    de: TAUROS
+    es: TAUROS
+  forms:
+    tauros:
+      form_id: 0
+      base_stats:
+        hp: 75
+        attack: 100
+        defense: 95
+        speed: 110
+        special: 70
+      types:
+        - normal
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "スタミナに　あふれた　あばれんぼう。\nはしりだすと　たいあたりするまで\nどこまでも　ひたすら　つきすすむ。"
+        en:
+          yellow: "A rowdy POKéMON\nwith a lot of\nstamina. Once\frunning, it won’t\nstop until it hits\nsomething."
+        fr:
+          yellow: "C’est un POKéMON\ntrès endurant.\nIl n’achève sa\fcharge qu’une\nfois sa cible\npulvérisée."
+        it:
+          yellow: "Questo POKéMON\nforte e violento\ncorre travolgendo\fogni cosa. Solo\nun vero ostacolo\npuò fermarlo."
+        de:
+          yellow: "Dieses POKéMON\nstrotzt nur so vor\nKraft. Läuft es\ferst einmal, dann\nkann es nur ein\nHindernis stoppen."
+        es:
+          yellow: "Un rudo POKéMON\nrepleto de\nenergía vital.\fCuando corre, no\npara hasta que\nchoca con algo"
+magikarp:
+  species_id: 129
+  names:
+    jp_kana: コイキング
+    en: MAGIKARP
+    fr: MAGICARPE
+    it: MAGIKARP
+    de: KARPADOR
+    es: MAGIKARP
+  forms:
+    magikarp:
+      form_id: 0
+      base_stats:
+        hp: 20
+        attack: 10
+        defense: 55
+        speed: 80
+        special: 20
+      types:
+        - water
+      held_items:
+        common: berry
+        rare: berry
+      descriptions:
+        jp_kana:
+          yellow: "たよりないので　ゆうめいなポケモン。\nうみ　かわ　いけ　みずたまり\nいたるところを　およいでいる。"
+        en:
+          yellow: "Famous for being\nvery unreliable.\nIt can be found\fswimming in seas,\nlakes, rivers and\nshallow puddles."
+        fr:
+          yellow: "Célèbre pour son\ninutilité, on en\ntrouve beaucoup\fdans les océans,\nles étangs et les\nrivières."
+        it:
+          yellow: "Famoso per la sua\ninaffidabilità lo\nsi vede nuotare\fcomunemente in\nmari, fiumi, laghi\ne zone paludose."
+        de:
+          yellow: "Man sollte niemals\ngroße Hoffnungen\nauf KARPADOR\fsetzen. Dieses\nPOKéMON ist sehr\nunzuverlässig."
+        es:
+          yellow: "Famoso por ser\npoco fiable.\nPuede encontrarse\fnadando en mares,\nlagos, ríos y\ncharcos"
+gyarados:
+  species_id: 130
+  names:
+    jp_kana: ギャラドス
+    en: GYARADOS
+    fr: LEVIATOR
+    it: GYARADOS
+    de: GARADOS
+    es: GYARADOS
+  forms:
+    gyarados:
+      form_id: 0
+      base_stats:
+        hp: 95
+        attack: 125
+        defense: 79
+        speed: 81
+        special: 100
+      types:
+        - water
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "やばんで　はかいてきな　せいかく。\nおおむかし　まちを　やきつくした\nきろくがある　きょうふのポケモン。"
+        en:
+          yellow: "Brutally vicious\nand enormously\ndestructive.\fKnown for totally\ndestroying cities\nin ancient times."
+        fr:
+          yellow: "Brutal, vicieux\net dangereux, il\nest connu pour\favoir rasé des\nvilles entières\npar le passé."
+        it:
+          yellow: "Questo POKéMON è\nbrutale e feroce.\nFamoso per aver\fraso al suolo\nin passato\nintere città."
+        de:
+          yellow: "Dieses POKéMON\nist ungeheuer\nzerstörungwütig.\fEs hat schon ganze\nStädte in Schutt\nund Asche gelegt."
+        es:
+          yellow: "Este POKéMON es\nenormemente \ndestructivo.\fEn la antigüedad,\nera conocido por\ndestruir ciudades"
+lapras:
+  species_id: 131
+  names:
+    jp_kana: ラプラス
+    en: LAPRAS
+    fr: LOKHLASS
+    it: LAPRAS
+    de: LAPRAS
+    es: LAPRAS
+  forms:
+    lapras:
+      form_id: 0
+      base_stats:
+        hp: 130
+        attack: 85
+        defense: 80
+        speed: 60
+        special: 95
+      types:
+        - water
+        - ice
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "にんげんの　ことばを　りかいする\nやさしい　こころの　もちぬしだ。\nせなかに　のせて　うみをゆく。"
+        en:
+          yellow: "A gentle soul that\ncan read the minds\nof people. It can\fferry people\nacross the sea on\nits back."
+        fr:
+          yellow: "D’une âme noble,\nil peut lire dans\nles esprits. Il\ftransporte les\nhumains sur son\ndos."
+        it:
+          yellow: "Possiede un’anima\ngentile che può\nleggere la mente.\fPuò traghettare la\ngente sull’acqua\nsulla sua groppa."
+        de:
+          yellow: "Dieses freundliche\nPOKéMON kann\nGedanken lesen.\fAuf seinem Rücken\nträgt es Menschen\nüber das Wasser."
+        es:
+          yellow: "Este espíritu\ngentil es capaz\nde leer la mente.\fPuede llevar a la\ngente a través\ndel mar"
+ditto:
+  species_id: 132
+  names:
+    jp_kana: メタモン
+    en: DITTO
+    fr: METAMORPH
+    it: DITTO
+    de: DITTO
+    es: DITTO
+  forms:
+    ditto:
+      form_id: 0
+      base_stats:
+        hp: 48
+        attack: 48
+        defense: 48
+        speed: 48
+        special: 48
+      types:
+        - normal
+      held_items:
+        common: metal_powder
+        rare: metal_powder
+      descriptions:
+        jp_kana:
+          yellow: "あいてをみた　しゅんかん　からだが\nとけるように　へんかを　はじめる。\nほぼ　おなじかたちに　へんしんする。"
+        en:
+          yellow: "When it spots an\nenemy, its body\ntransfigures into\fan almost perfect\ncopy of its oppo-\nnent."
+        fr:
+          yellow: "Quand il repère\nun ennemi, il\nadapte sa forme\fpour en faire une\ncopie parfaite."
+        it:
+          yellow: "Quando incontra\nun nemico è capace\ndi trasformarsi\fnella sua copia\nperfetta in\nun baleno."
+        de:
+          yellow: "Wenn DITTO einen\nGegner ausmacht,\nnimmt es\fblitzschnell das\nAussehen seines\nGegenübers an."
+        es:
+          yellow: "Cuando se fija\nen un enemigo,\nsu cuerpo se\ftransforma en una\ncopia perfecta\ndel mismo"
+eevee:
+  species_id: 133
+  names:
+    jp_kana: イーブイ
+    en: EEVEE
+    fr: EVOLI
+    it: EEVEE
+    de: EVOLI
+    es: EEVEE
+  forms:
+    eevee:
+      form_id: 0
+      base_stats:
+        hp: 55
+        attack: 55
+        defense: 50
+        speed: 55
+        special: 65
+      types:
+        - normal
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "アンバランスな　いでんしによって\nしんかの　かのうせいに　あふれる。\nただ　せいぞんすうが　すくない。"
+        en:
+          yellow: "Its genetic code\nis unstable, so it\ncould evolve in\fa variety of ways.\nThere are only a\nfew alive."
+        fr:
+          yellow: "Sa génétique\ninstable lui\npermet d’évoluer\fde plusieurs\nfaçons. Très peu\nsont en vie."
+        it:
+          yellow: "Il suo codice\ngenetico è così\ninstabile che\fpuò evolversi in\nmolti modi.\nÈ molto raro."
+        de:
+          yellow: "EVOLIS genetischer\nCode ist sehr\ninstabil.\fEs kann sich auf\nverschiedene\nWeise entwickeln."
+        es:
+          yellow: "Su código\ngenético es muy\ninestable. Puede\fevolucionar en\ndiversas razas\nde POKéMON"
+vaporeon:
+  species_id: 134
+  names:
+    jp_kana: シャワーズ
+    en: VAPOREON
+    fr: AQUALI
+    it: VAPOREON
+    de: AQUANA
+    es: VAPOREON
+  forms:
+    vaporeon:
+      form_id: 0
+      base_stats:
+        hp: 130
+        attack: 65
+        defense: 60
+        speed: 65
+        special: 110
+      types:
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "さいぼうそしきが　みずの　ぶんしに\nにているため　みずに　とけると　\nすがたが　みえなく　なってしまう。"
+        en:
+          yellow: "Its cell structure\nis similar to\nwater molecules.\fIt will melt away\nand become invis-\nible in water."
+        fr:
+          yellow: "Sa structure\ncellulaire est\nsemblable à celle\fde l’eau. Il est\ninvisible en\nmilieu aquatique."
+        it:
+          yellow: "La sua struttura\ncellulare è simile\nall’acqua. Se si\fimmerge diventa\ninvisibile e\ninafferrabile."
+        de:
+          yellow: "Die Zellstruktur\ndieses POKéMON\nähnelt der von\fWassermolekülen.\nIm Wasser ist es\ndaher unsichtbar."
+        es:
+          yellow: "Su estructura\ncelular se parece\na las moléculas\fde agua. Es\ninvisible cuando\nestá en el agua"
+jolteon:
+  species_id: 135
+  names:
+    jp_kana: サンダース
+    en: JOLTEON
+    fr: VOLTALI
+    it: JOLTEON
+    de: BLITZA
+    es: JOLTEON
+  forms:
+    jolteon:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 65
+        defense: 60
+        speed: 130
+        special: 110
+      types:
+        - electric
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ちょっとした　しげきで　ないたり\nおこったりする。また　かんじょうが\nかわるたびに　でんきがたまる。"
+        en:
+          yellow: "A sensitive POKé-\nMON that easily\nbecomes sad or\fangry. Every time\nits mood changes,\nit charges power."
+        fr:
+          yellow: "Un POKéMON\ntrès sensible et\nlunatique.\fIl se charge en\nénergie selon son\nhumeur."
+        it:
+          yellow: "Il suo umore passa\ndalla tristezza\nall’ira in un\fsoffio. Questi\nsbalzi producono\nelettricità."
+        de:
+          yellow: "BLITZAs Stimmung\nschwankt ständig\nzwischen Wut und\fTrauer. Dabei\nwird Elektrizität\nerzeugt."
+        es:
+          yellow: "Un POKéMON muy\nsensible. Se\nentristece o\fenfada con mucha\nfacilidad, lo que\nle da energía"
+flareon:
+  species_id: 136
+  names:
+    jp_kana: ブースター
+    en: FLAREON
+    fr: PYROLI
+    it: FLAREON
+    de: FLAMARA
+    es: FLAREON
+  forms:
+    flareon:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 130
+        defense: 60
+        speed: 65
+        special: 110
+      types:
+        - fire
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "たいないに　ほのおぶくろが　あって\nすいこんだ　いきを　１７００どの\nほのおにして　くちから　はきだす。"
+        en:
+          yellow: "It has a flame\nchamber inside its\nbody. It inhales,\fthen blows out\nfire that is over\n3,000F degrees."
+        fr:
+          yellow: "Une flamme brûle\nen permanence\ndans son corps.\fIl crache un feu\nde plus de 1000\ndegrés."
+        it:
+          yellow: "Il suo corpo è\nuna camera di\ncombustione.\fInspira e sputa\nfiamme roventi\na 1000 gradi."
+        de:
+          yellow: "Der Körper dieses\nPOKéMON ist wie\neine Brennkammer.\fEs holt Luft und\nspeit 1000 Grad\nheiße Flammen."
+        es:
+          yellow: "El cuerpo de este\nPOKéMON posee\nuna cámara ígnea.\fCuando exhala\naire, éste está\na 3.000° Celsius"
+porygon:
+  species_id: 137
+  names:
+    jp_kana: ポリゴン
+    en: PORYGON
+    fr: PORYGON
+    it: PORYGON
+    de: PORYGON
+    es: PORYGON
+  forms:
+    porygon:
+      form_id: 0
+      base_stats:
+        hp: 65
+        attack: 60
+        defense: 70
+        speed: 40
+        special: 75
+      types:
+        - normal
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ゆいいつ　うちゅうまで　とんでいける\nポケモンと　きたい　されているが\nいまだに　せいこうれいは　ない。"
+        en:
+          yellow: "The only POKéMON\npeople anticipate\ncan fly into\fspace. None has\nmanaged the feat\nyet, however."
+        fr:
+          yellow: "Conçu pour voler\ndans l’espace, on\nne lui a toujours\fpas trouvé une\nautre utilité."
+        it:
+          yellow: "Per gli esperti\nè l’unico POKéMON\nche potrà andare\fnello spazio, ma\nnessuno sa ancora\ncome e quando."
+        de:
+          yellow: "PORYGON kann\nangeblich in den\nWeltraum fliegen.\fBislang ist dies\naber noch keinem\nExemplar gelungen."
+        es:
+          yellow: "La gente dice\nque se trata del\núnico POKéMON que\fpuede volar por\nel espacio. Aún\nno lo ha logrado"
+omanyte:
+  species_id: 138
+  names:
+    jp_kana: オムナイト
+    en: OMANYTE
+    fr: AMONITA
+    it: OMANYTE
+    de: AMONITAS
+    es: OMANYTE
+  forms:
+    omanyte:
+      form_id: 0
+      base_stats:
+        hp: 35
+        attack: 40
+        defense: 100
+        speed: 35
+        special: 90
+      types:
+        - rock
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "１０ぽんのあしを　うまく　くねらせて\nこだいの　うみを　ただよっていた\nポケモンの　かせきを　ふくげんした。"
+        en:
+          yellow: "An ancient POKéMON\nthat was recovered\nfrom a fossil. It\fswims by cleverly\ntwisting its 10\ntentacles about."
+        fr:
+          yellow: "Un ancien POKéMON\nrégénéré à\npartir d’un\ffossile. Il nage\ngrâce à ses 10\ntentacules."
+        it:
+          yellow: "POKéMON primitivo\nresuscitato da\nun fossile.\fNuota agitando con\nmaestria i suoi\n10 tentacoli."
+        de:
+          yellow: "Dieses Urzeit-\nPOKéMON wurde aus\neinem Fossil\fwiederbelebt. Es\nbewegt sich mit\nseinen Tentakeln."
+        es:
+          yellow: "Este antiguo PKMN\nfue recuperado de\nun fósil. Nada\fmuy bien gracias\nal movimiento de\nsus 10 tentáculos"
+omastar:
+  species_id: 139
+  names:
+    jp_kana: オムスター
+    en: OMASTAR
+    fr: AMONISTAR
+    it: OMASTAR
+    de: AMOROSO
+    es: OMASTAR
+  forms:
+    omastar:
+      form_id: 0
+      base_stats:
+        hp: 70
+        attack: 60
+        defense: 125
+        speed: 55
+        special: 115
+      types:
+        - rock
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "するどい　キバを　もっていたが\nカラが　おおきすぎて　うまく\nうごけず　ぜつめつ　したらしい。"
+        en:
+          yellow: "Sharp beaks ring\nits mouth. Its\nshell was too big\ffor it to move\nfreely, so it\nbecame extinct."
+        fr:
+          yellow: "Sa bouche est\nformée de becs\naiguisés. Sa\fcoquille trop\nlourde l’empêche\nde se déplacer."
+        it:
+          yellow: "La sua bocca è\ncircondata da\ndenti affilati.\fSi è estinto per\nla sua conchiglia\ntroppo pesante."
+        de:
+          yellow: "Dieses POKéMON\nverfügt über einen\nsehr scharfen\fSchnabel. Es ist\nbereits vor langer\nZeit ausgestorben."
+        es:
+          yellow: "Picos afilados\nrodean su boca.\nSu concha es\fdemasiado grande\ncomo para que se\nmueva libremente"
+kabuto:
+  species_id: 140
+  names:
+    jp_kana: カブト
+    en: KABUTO
+    fr: KABUTO
+    it: KABUTO
+    de: KABUTO
+    es: KABUTO
+  forms:
+    kabuto:
+      form_id: 0
+      base_stats:
+        hp: 30
+        attack: 80
+        defense: 90
+        speed: 55
+        special: 45
+      types:
+        - rock
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "かせきから　さいせいした　ポケモン。\nかいていに　かくれては　せなかの\nめで　あたりを　みていたようだ。"
+        en:
+          yellow: "A POKéMON that was\nrecovered from a\nfossil. It uses\fthe eyes on its\nback while hiding\non the sea floor."
+        fr:
+          yellow: "Créé à partir\nd’un fossile, il\nse sert des yeux\fdans son dos\nquand il se cache\nau fond de l’eau."
+        it:
+          yellow: "POKéMON primitivo\nresuscitato da\nun fossile.\fQuando è in fondo\nal mare usa gli\nocchi superiori."
+        de:
+          yellow: "Dieses Urzeit-\nPOKéMON wurde aus\neinem Fossil\fwiederbelebt.\nEs lebt in den\nTiefen des Meeres."
+        es:
+          yellow: "Este POKéMON fue\nrecuperado desde\nun fósil. Usa los\fojos de su espalda\nal ocultarse en\nel lecho marino"
+kabutops:
+  species_id: 141
+  names:
+    jp_kana: カブトプス
+    en: KABUTOPS
+    fr: KABUTOPS
+    it: KABUTOPS
+    de: KABUTOPS
+    es: KABUTOPS
+  forms:
+    kabutops:
+      form_id: 0
+      base_stats:
+        hp: 60
+        attack: 115
+        defense: 105
+        speed: 80
+        special: 70
+      types:
+        - rock
+        - water
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ほそい　からだで　すばやく　およぐ。\nとらえた　えものは　カマで　きりさき\nたいえきを　すっていたらしい。"
+        en:
+          yellow: "A slim and fast\nswimmer. It slices\nits prey with its\fsharp sickles and\ndrinks the body\nfluids."
+        fr:
+          yellow: "C’est un très bon\nnageur. Il lacère\nsa proie de ses\flongues griffes\net en absorbe les\nfluides corporels."
+        it:
+          yellow: "È un perfetto\nnuotatore che\ntaglia la preda\fcon le sue falci\ne ne succhia il\nsangue."
+        de:
+          yellow: "Dieses POKéMON\nist ein sehr guter\nSchwimmer.\fEs attackiert\nGegner mit seinen\nSichelarmen."
+        es:
+          yellow: "Este POKéMON es\nun hábil y rápido\nnadador. Atrapa\fa su presa para\ndrenar sus\nfluidos vitales"
+aerodactyl:
+  species_id: 142
+  names:
+    jp_kana: プテラ
+    en: AERODACTYL
+    fr: PTERA
+    it: AERODACTYL
+    de: AERODACTYL
+    es: AERODACTYL
+  forms:
+    aerodactyl:
+      form_id: 0
+      base_stats:
+        hp: 80
+        attack: 105
+        defense: 65
+        speed: 130
+        special: 60
+      types:
+        - rock
+        - flying
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "コハクから　とりだされた　いでんしを\nけんきゅうして　ふっかつさせた\nおおむかしの　どうもうな　ポケモン。"
+        en:
+          yellow: "A savage POKéMON\nthat died out in\nancient times. It\fwas resurrected\nusing DNA taken\nfrom amber."
+        fr:
+          yellow: "Un POKéMON sauvage\ndisparu il y a\nlongtemps. Il est\fcréé à partir\nd’ADN fossilisé\ndans de l’ambre."
+        it:
+          yellow: "Estinto già nell’\nantichità questo\nPOKéMON primitivo\fè stato riportato\nin vita dal DNA\ndell’ambra."
+        de:
+          yellow: "Dieses wilde\nUrzeit-POKéMON\nwurde aus in\fBernstein einge-\nschlossener DNS\nwiederbelebt."
+        es:
+          yellow: "Este POKéMON\nsalvaje, extinto\nhace siglos,\ffue resucitado\nusando ADN tomado\nde un ámbar"
+snorlax:
+  species_id: 143
+  names:
+    jp_kana: カビゴン
+    en: SNORLAX
+    fr: RONFLEX
+    it: SNORLAX
+    de: RELAXO
+    es: SNORLAX
+  forms:
+    snorlax:
+      form_id: 0
+      base_stats:
+        hp: 160
+        attack: 110
+        defense: 65
+        speed: 30
+        special: 65
+      types:
+        - normal
+      held_items:
+        common: leftovers
+        rare: leftovers
+      descriptions:
+        jp_kana:
+          yellow: "たしょう　カビが　はえていても\nきにしないで　たべまくる。\nおなかを　こわしたりもしない。"
+        en:
+          yellow: "Will eat anything,\neven if the food\nhappens to be a\flittle moldy. It\nnever gets an\nupset stomach."
+        fr:
+          yellow: "Il peut tout\nmanger, même de\nla nourriture\favariée. Il\nn’a jamais mal au\nventre."
+        it:
+          yellow: "Mangia qualsiasi\ncosa gli capiti a\ntiro, anche se\fmarcia o ammuffita\nsenza mai soffrire\ndi mal di pancia."
+        de:
+          yellow: "RELAXO ist ein\nVielfraß. Es kann\nsogar verdorbene\fNahrung fressen,\nohne Bauchweh zu\nbekommen."
+        es:
+          yellow: "Come cualquier\ncosa. Incluso la\ncomida pasada de\ffecha. Su\nestómago nunca\nse llena"
+articuno:
+  species_id: 144
+  names:
+    jp_kana: フリーザー
+    en: ARTICUNO
+    fr: ARTIKODIN
+    it: ARTICUNO
+    de: ARKTOS
+    es: ARTICUNO
+  forms:
+    articuno:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 85
+        defense: 100
+        speed: 85
+        special: 125
+      types:
+        - ice
+        - flying
+      held_items:
+        common: bright_powder
+        rare: bright_powder
+      descriptions:
+        jp_kana:
+          yellow: "ふゆぞらの　くうきに　ふくまれる\nすいぶんを　こおらせて　ゆきを\nふらせる　でんせつの　とりポケモン。"
+        en:
+          yellow: "A legendary bird\nPOKéMON. It\nfreezes water\fthat is contained\nin winter air and\nmakes it snow."
+        fr:
+          yellow: "Un POKéMON\nlégendaire. Il\nglace la vapeur\fd’eau contenue\ndans l’air pour\nfaire de la neige."
+        it:
+          yellow: "Dove passa questo\nmitico POKéMON\nuccello si\fcongela l’umidità\ndell’aria e inizia\na nevicare."
+        de:
+          yellow: "Wenn ARKTOS durch\ndie Lüfte schwebt,\ngefriert das\fWasser in der Luft\nund es beginnt zu\nschneien."
+        es:
+          yellow: "Un legendario\npájaro POKéMON.\nCongela el agua\fque encuentra en\nel aire para\ngenerar nieve"
+zapdos:
+  species_id: 145
+  names:
+    jp_kana: サンダー
+    en: ZAPDOS
+    fr: ELECTHOR
+    it: ZAPDOS
+    de: ZAPDOS
+    es: ZAPDOS
+  forms:
+    zapdos:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 90
+        defense: 85
+        speed: 100
+        special: 125
+      types:
+        - electric
+        - flying
+      held_items:
+        common: bright_powder
+        rare: bright_powder
+      descriptions:
+        jp_kana:
+          yellow: "そらが　くらくなり　いなづまが\nれんぞくして　おちていく　はてに\nでんせつの　ポケモンは　あらわれる。"
+        en:
+          yellow: "This legendary\nbird POKéMON is\nsaid to appear\fwhen the sky turns\ndark and lightning\nshowers down."
+        fr:
+          yellow: "Ce POKéMON\nlégendaire\nannonce l’arrivée\fde nuages noirs,\nd’éclairs et\nd’averses."
+        it:
+          yellow: "Si dice che questo\nmitico uccello\nappaia quando il\fcielo si oscura e\ntuoni e fulmini\nlacerano l’aria."
+        de:
+          yellow: "Dieses legendäre\nVogel-POKéMON\nerscheint meist\fwährend Gewittern\nam wolkenverhange-\nnen Himmel."
+        es:
+          yellow: "Este legendario\npájaro POKéMON\nsólo aparece\fcuando el cielo\nse torna oscuro\ny caen rayos"
+moltres:
+  species_id: 146
+  names:
+    jp_kana: ファイヤー
+    en: MOLTRES
+    fr: SULFURA
+    it: MOLTRES
+    de: LAVADOS
+    es: MOLTRES
+  forms:
+    moltres:
+      form_id: 0
+      base_stats:
+        hp: 90
+        attack: 100
+        defense: 90
+        speed: 90
+        special: 125
+      types:
+        - fire
+        - flying
+      held_items:
+        common: bright_powder
+        rare: bright_powder
+      descriptions:
+        jp_kana:
+          yellow: "よぞら　さえも　あかく　するほど\nはげしく　もえあがる　つばさで\nはばたく　でんせつの　とりポケモン。"
+        en:
+          yellow: "A legendary bird\nPOKéMON. As it\nflaps its flaming\fwings, even the\nnight sky will\nturn red."
+        fr:
+          yellow: "Quand ce POKéMON\nlégendaire agite\nses ailes de feu,\fmême la nuit\nnoire s’embrase\net rougeoie."
+        it:
+          yellow: "Quando questo\nuccello mitico\nsbatte le ali di\ffuoco si infiamma\ndi rosso il cielo\nnotturno."
+        de:
+          yellow: "Wenn dieses legen-\ndäre Vogel-POKéMON\nmit den Flügeln\fschlägt, erstrahlt\nder Nachthimmel in\ngleißendem Rot."
+        es:
+          yellow: "Un legendario\npájaro POKéMON.\nCuando aletea sus\fflamígeras alas,\nla oscura noche\nse torna roja"
+dratini:
+  species_id: 147
+  names:
+    jp_kana: ミニリュウ
+    en: DRATINI
+    fr: MINIDRACO
+    it: DRATINI
+    de: DRATINI
+    es: DRATINI
+  forms:
+    dratini:
+      form_id: 0
+      base_stats:
+        hp: 41
+        attack: 64
+        defense: 45
+        speed: 50
+        special: 50
+      types:
+        - dragon
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "ながらく　まぼろしと　されていたが\nさいきん　つりあげられて\nその　そんざいが　かくにんされた。"
+        en:
+          yellow: "The existence of\nthis mythical\nPOKéMON was only\frecently confirmed\nby a fisherman\nwho caught one."
+        fr:
+          yellow: "L’existence de ce\nPOKéMON mythique\nne fut confirmée\fque récemment par\nun pêcheur."
+        it:
+          yellow: "L’esistenza di\nquesto POKéMON\nmisterioso è\fstata recentemente\naccertata da un\npescatore."
+        de:
+          yellow: "Dieses mysteriöse\nPOKéMON wurde erst\nkürzlich entdeckt,\fals es einem\nFischer zufällig\nins Netz ging."
+        es:
+          yellow: "La existencia de\neste POKéMON ha\nsido confirmada\frecientemente\npor un pescador\nque cogió uno"
+dragonair:
+  species_id: 148
+  names:
+    jp_kana: ハクリュー
+    en: DRAGONAIR
+    fr: DRACO
+    it: DRAGONAIR
+    de: DRAGONIR
+    es: DRAGONAIR
+  forms:
+    dragonair:
+      form_id: 0
+      base_stats:
+        hp: 61
+        attack: 84
+        defense: 65
+        speed: 70
+        special: 70
+      types:
+        - dragon
+      held_items:
+        common: protein
+        rare: protein
+      descriptions:
+        jp_kana:
+          yellow: "もくげきした　ひとの　はなしによると\nからだからは　オーラが　だされて\nしんぴてきだった　という。"
+        en:
+          yellow: "According to a\nwitness, its body\nwas surrounded by\fa strange aura\nthat gave it a\nmystical look."
+        fr:
+          yellow: "Selon certains,\nson corps est\nbaigné d’une\fétrange aura, lui\ndonnant un air\nmystique."
+        it:
+          yellow: "Secondo qualcuno\nquesto POKéMON\nsarebbe\fcircondato\nda un’aura\nmisteriosa."
+        de:
+          yellow: "Nur wenige haben\ndieses POKéMON\njemals gesehen.\fEs wird von einer\nmysteriösen Aura\numgeben."
+        es:
+          yellow: "De acuerdo con un\ntestigo, un aura\nde extraña forma\flo rodea, dándole\nun misterioso y\nmístico aspecto"
+dragonite:
+  species_id: 149
+  names:
+    jp_kana: カイリュー
+    en: DRAGONITE
+    fr: DRACOLOSSE
+    it: DRAGONITE
+    de: DRAGORAN
+    es: DRAGONITE
+  forms:
+    dragonite:
+      form_id: 0
+      base_stats:
+        hp: 91
+        attack: 134
+        defense: 95
+        speed: 80
+        special: 100
+      types:
+        - dragon
+        - flying
+      held_items:
+        common: antidote
+        rare: antidote
+      descriptions:
+        jp_kana:
+          yellow: "ひろい　うみの　どこかを　すみかにし\nとんで　いどうすると　いわれているが\nあくまで　うわさに　すぎない。"
+        en:
+          yellow: "It is said that\nthis POKéMON lives\nsomewhere in the\fsea and that it\nflies. However, it\nis only a rumor."
+        fr:
+          yellow: "On raconte que ce\nPOKéMON vit\nquelque part dans\fla mer et qu’il\npeut voler. Rien\nn’est moins sûr."
+        it:
+          yellow: "Si dice che questo\nrarissimo POKéMON\nviva nel mare e\fche sappia volare,\nma di certo non\nsi sa nulla."
+        de:
+          yellow: "Dieses seltene\nPOKéMON soll im\nMeer leben,\fgleichzeitig aber\nauch fliegen\nkönnen."
+        es:
+          yellow: "Se dice que este\nPOKéMON vive en\nalgún lugar del\fmar, y que vuela.\nDe todos modos,\nsólo es un rumor"
+mewtwo:
+  species_id: 150
+  names:
+    jp_kana: ミュウツー
+    en: MEWTWO
+    fr: MEWTWO
+    it: MEWTWO
+    de: MEWTU
+    es: MEWTWO
+  forms:
+    mewtwo:
+      form_id: 0
+      base_stats:
+        hp: 106
+        attack: 110
+        defense: 90
+        speed: 130
+        special: 154
+      types:
+        - psychic
+      held_items:
+        common: bright_powder
+        rare: bright_powder
+      descriptions:
+        jp_kana:
+          yellow: "ミュウの　いでんしと　ほとんど\nおなじ。だが　おおきさも　せいかくも\nおそろしいほど　ちがっている。"
+        en:
+          yellow: "Its DNA is almost\nthe same as MEW’s.\nHowever, its size\fand disposition\nare vastly dif-\nferent."
+        fr:
+          yellow: "Son ADN est le\nmême que celui de\nMEW mais sa\ftaille et son\naspect sont très\ndifférents."
+        it:
+          yellow: "Il suo DNA è quasi\nuguale a quello di\nMEW, tuttavia le\fdimensioni e il\ncarattere sono\nagli antipodi."
+        de:
+          yellow: "Die DNS von MEWTU\nist fast mit der\nvon MEW identisch,\fdoch der Charakter\nunterscheidet sich\nerheblich."
+        es:
+          yellow: "Su ADN es casi el\nmismo que el de\nMEW. De todos\fmodos, su tamaño\ny disposición son\ndiferentes"
+mew:
+  species_id: 151
+  names:
+    jp_kana: ミュウ
+    en: MEW
+    fr: MEW
+    it: MEW
+    de: MEW
+    es: MEW
+  forms:
+    mew:
+      form_id: 0
+      base_stats:
+        hp: 100
+        attack: 100
+        defense: 100
+        speed: 100
+        special: 100
+      types:
+        - psychic
+      held_items:
+        common: bitter_berry
+        rare: bitter_berry
+      descriptions:
+        jp_kana:
+          yellow: "けんびきょうで　のぞいてみたら\nひじょうに　みじかくて　ほそい\nこまやかな　たいもうが　はえていた。"
+        en:
+          yellow: "When viewed\nthrough a micro-\nscope, this\fPOKéMON’s short,\nfine, delicate\nhair can be seen."
+        fr:
+          yellow: "Vu au microscope,\nle pelage de ce\nPOKéMON est fin,\fsoyeux et très\ndélicat."
+        it:
+          yellow: "Se osservata al\nmicroscopio la\npelle di MEW\fè ricoperta da\nfine, corta e\ndelicata peluria."
+        de:
+          yellow: "Betrachtet man\nMEWs Haut in der\nVergrößerung, so\ferkennt man ein\nFell aus sehr\nfeinen Härchen."
+        es:
+          yellow: "Cuando es mirado\na través de un\nmicroscopio,\fpuede observarse\nel delicado pelo\nde este POKéMON"

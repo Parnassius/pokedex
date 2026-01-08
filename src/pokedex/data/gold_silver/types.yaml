@@ -1,0 +1,162 @@
+bug:
+  names:
+    jp_kana: むし
+    en: BUG
+    fr: INSECTE
+    it: COLEOTT.
+    de: KÄFER
+    es: BICHO
+    ko: 벌레
+dark:
+  names:
+    jp_kana: あく
+    en: DARK
+    fr: TENEBRES
+    it: BUIO
+    de: UNLICHT
+    es: SINIEST.
+    ko: 악
+dragon:
+  names:
+    jp_kana: ドラゴン
+    en: DRAGON
+    fr: DRAGON
+    it: DRAGO
+    de: DRACHEN
+    es: DRAGÓN
+    ko: 드래곤
+electric:
+  names:
+    jp_kana: でんき
+    en: ELECTRIC
+    fr: ELECTRIK
+    it: ELETTRO
+    de: ELEKTRO
+    es: ELÉCTRIC
+    ko: 전기
+fighting:
+  names:
+    jp_kana: かくとう
+    en: FIGHTING
+    fr: COMBAT
+    it: LOTTA
+    de: KAMPF
+    es: LUCHA
+    ko: 격투
+fire:
+  names:
+    jp_kana: ほのお
+    en: FIRE
+    fr: FEU
+    it: FUOCO
+    de: FEUER
+    es: FUEGO
+    ko: 화염
+flying:
+  names:
+    jp_kana: ひこう
+    en: FLYING
+    fr: VOL
+    it: VOLANTE
+    de: FLUG
+    es: VOLADOR
+    ko: 비행
+ghost:
+  names:
+    jp_kana: ゴースト
+    en: GHOST
+    fr: SPECTRE
+    it: SPETTRO
+    de: GEIST
+    es: FANTASMA
+    ko: 고스트
+grass:
+  names:
+    jp_kana: くさ
+    en: GRASS
+    fr: PLANTE
+    it: ERBA
+    de: PFLANZE
+    es: PLANTA
+    ko: 풀
+ground:
+  names:
+    jp_kana: じめん
+    en: GROUND
+    fr: SOL
+    it: TERRA
+    de: BODEN
+    es: TIERRA
+    ko: 땅
+ice:
+  names:
+    jp_kana: こおり
+    en: ICE
+    fr: GLACE
+    it: GHIACCIO
+    de: EIS
+    es: HIELO
+    ko: 얼음
+normal:
+  names:
+    jp_kana: ノーマル
+    en: NORMAL
+    fr: NORMAL
+    it: NORMALE
+    de: NORMAL
+    es: NORMAL
+    ko: 노말
+poison:
+  names:
+    jp_kana: どく
+    en: POISON
+    fr: POISON
+    it: VELENO
+    de: GIFT
+    es: VENENO
+    ko: 독
+psychic:
+  names:
+    jp_kana: エスパー
+    en: PSYCHIC
+    fr: PSY
+    it: PSICO
+    de: PSYCHO
+    es: PSÍQUICO
+    ko: 에스퍼
+question_marks:
+  names:
+    jp_kana: ？？？
+    en: ???
+    fr: ???
+    it: ???
+    de: ???
+    es: ¿¿??
+    ko: ???
+rock:
+  names:
+    jp_kana: いわ
+    en: ROCK
+    fr: ROCHE
+    it: ROCCIA
+    de: GESTEIN
+    es: ROCA
+    ko: 바위
+steel:
+  names:
+    jp_kana: はがね
+    en: STEEL
+    fr: ACIER
+    it: ACCIAIO
+    de: STAHL
+    es: ACERO
+    ko: 강철
+water:
+  names:
+    jp_kana: みず
+    en: WATER
+    fr: EAU
+    it: ACQUA
+    de: WASSER
+    es: AGUA
+    ko: 물

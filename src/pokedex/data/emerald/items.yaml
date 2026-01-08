@@ -1,0 +1,4635 @@
+acro_bike:
+  names:
+    jp_kana: ダートじてんしゃ
+    en: ACRO BIKE
+    fr: VELO CROSS
+    it: BICI CROSS
+    de: KUNSTRAD
+    es: BICI ACROB.
+  descriptions:
+    jp_kana: "ジャンプや　ウイリーの\nアクションが　できる\nおりたたみの　じてんしゃ"
+    en: "A folding bicycle\ncapable of jumps\nand wheelies."
+    fr: "Un vélo pliable\npour faire des\nsauts."
+    it: "Bici pieghevole:\npermette salti\ne impennate."
+    de: "Klapprad ermög-\nlicht Sprünge und\nWheelies."
+    es: "Bici plegable ideal\npara saltar y hacer\ncaballitos y giros."
+aguav_berry:
+  names:
+    jp_kana: バンジのみ
+    en: AGUAV BERRY
+    fr: BAIE GOWAV
+    it: BACCAGUAVA
+    de: GAUVEBEERE
+    es: BAYA GUAYA
+  descriptions:
+    jp_kana: "もたせると　たいりょくを\nかいふく　できるが\nこんらんする　ことがある"
+    en: "A hold item that\nrestores HP but\nmay confuse."
+    fr: "Objet tenu qui res-\ntaure les PV. Peut\nrendre confus."
+    it: "Strumento tenuto:\nrestituisce PS, ma\npuò confondere."
+    de: "Item (Tragen) füllt\nKP auf, bewirkt\nevtl. Verwirrung."
+    es: "Al llevarla, te\nrestaura PS, pero\npuede confundirte."
+amulet_coin:
+  names:
+    jp_kana: おまもりこばん
+    en: AMULET COIN
+    fr: PIECE RUNE
+    it: MONETAMULETO
+    de: MÜNZAMULETT
+    es: MON. AMULETO
+  descriptions:
+    jp_kana: "もたせた　ポケモンが\nせんとうに　でると\nおかねが　２ばいもらえる"
+    en: "Doubles money in\nbattle if the\nholder takes part."
+    fr: "Double l’argent ga-\ngné si le porteur\nse bat aussi."
+    it: "Doppi guadagni in\nlotta se chi lo\ntiene vi partecipa."
+    de: "Doppelter Geldbe-\ntrag, wenn Träger \nam Kampf teilnimmt."
+    es: "Si el que lo lleva\nlucha en combate,\nduplica el dinero."
+antidote:
+  names:
+    jp_kana: どくけし
+    en: ANTIDOTE
+    fr: ANTIDOTE
+    it: ANTIDOTO
+    de: GEGENGIFT
+    es: ANTÍDOTO
+  descriptions:
+    jp_kana: "どく　じょうたいを\nかいふくする"
+    en: "Heals a poisoned\nPOKéMON."
+    fr: "Soigne les POKéMON\nempoisonnés."
+    it: "Cura un POKéMON\ndall’avvelenamento."
+    de: "Heilt Vergiftungen\nbei POKéMON."
+    es: "Cura a un POKéMON\nenvenenado."
+apicot_berry:
+  names:
+    jp_kana: ズアのみ
+    en: APICOT BERRY
+    fr: BAIE ABRIKO
+    it: BACCACOCCA
+    de: APIKOBEERE
+    es: BAYA ARICOC
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nとくぼうが　あがる"
+    en: "A hold item that\nraises SP. DEF in\na pinch."
+    fr: "Objet tenu qui\nmonte la DEF. SPE.\nsi nécessaire."
+    it: "Strumento tenuto:\nin difficoltà au-\nmenta la DIF. SP."
+    de: "Item (Tragen) hebt\nSP. VERT.-Wert\nin einer Notlage."
+    es: "Al llevarla, subirá\nla DEF. ESP. en un\nmomento de apuro."
+aspear_berry:
+  names:
+    jp_kana: ナナシのみ
+    en: ASPEAR BERRY
+    fr: BAIE WILLIA
+    it: BACCAPERINA
+    de: WILBIRBEERE
+    es: BAYA PERASI
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nこおり　じょうたいを\nかいふくする"
+    en: "A hold item that\ndefrosts POKéMON\nin battle."
+    fr: "Objet tenu qui dé-\ncongèle les PKMN\npendant un combat."
+    it: "Strumento tenuto:\nscongela un POKé-\nMON nella lotta."
+    de: "Item (Tragen) be-\nwirkt Selbstheilung\nbei Frost."
+    es: "Al llevarla, \nte descongela\nen el combate."
+auroraticket:
+  names:
+    jp_kana: オーロラチケット
+    en: AURORATICKET
+    fr: TICKETAURORA
+    it: BIGL. AURORA
+    de: AURORATICKET
+    es: ORI-TICKET
+  descriptions:
+    jp_kana: "たんじょうのしまへ\nいくために　ひつような\nふねの　チケット"
+    en: "A ticket required\nto board the ship\nto BIRTH ISLAND."
+    fr: "Le ticket requis\npour aller sur\nl’ILE AURORE."
+    it: "Biglietto per la\nnave che porta\nall’ISOLA MATERNA."
+    de: "Fahrkarte für das\nSchiff zur\nENTSTEHUNGSINSEL."
+    es: "Ticket necesario\npara navegar hasta\nISLA ORIGEN."
+awakening:
+  names:
+    jp_kana: ねむけざまし
+    en: AWAKENING
+    fr: REVEIL
+    it: SVEGLIA
+    de: AUFWECKER
+    es: DESPERTAR
+  descriptions:
+    jp_kana: "ねむり　じょうたいを\nかいふくする"
+    en: "Awakens a sleeping\nPOKéMON."
+    fr: "Réveille les\nPOKéMON endormis."
+    it: "Sveglia un POKéMON\naddormentato."
+    de: "Weckt schlafendes\nPOKéMON auf."
+    es: "Despierta a un\nPOKéMON dormido."
+basement_key:new_mauville:
+  names:
+    jp_kana: ちかのカギ
+    en: BASEMENT KEY
+    fr: CLE SOUS-SOL
+    it: CHIAVE SOTT.
+    de: KELLERÖFFNER
+    es: LL. SÓTANO
+  descriptions:
+    jp_kana: "キンセツの　ちかにある\nニューキンセツに\nはいる　ための　カギ"
+    en: "The key for NEW\nMAUVILLE beneath\nMAUVILLE CITY."
+    fr: "La clé de NEW\nLAVANDIA, située\nsous LAVANDIA."
+    it: "Chiave per \nCICLANOVA, sotto\nCICLAMIPOLI."
+    de: "Schlüssel für NEU\nMALVENFROH unter\nMALVENFROH CITY."
+    es: "Llave de MALVALA-\nNOVA (al sur de\nCIUDAD MALVALONA)."
+bead_mail:
+  names:
+    jp_kana: トレジャーメール
+    en: BEAD MAIL
+    fr: LETTRE BULLE
+    it: MESS. PERLE
+    de: PERLENBRIEF
+    es: CARTA IMAGEN
+  descriptions:
+    jp_kana: "もたせた　ポケモンの\nにがおえがでる　びんせん"
+    en: "MAIL featuring a\nsketch of the\nholding POKéMON."
+    fr: "Du papier avec un\ndessin du POKéMON\nqui le tient."
+    it: "MESSAGGIO che\nraffigura il POKé-\nMON che lo tiene."
+    de: "BRIEF mit Abbildung\ndes POKéMON, das\nihn trägt."
+    es: "Carta con la imagen\ndel POKéMON que la\nlleva."
+belue_berry:
+  names:
+    jp_kana: ベリブのみ
+    en: BELUE BERRY
+    fr: BAIE MYRTE
+    it: BACCARTILLO
+    de: MYRTILBEERE
+    es: BAYA ANDANO
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nベリブが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow BELUE."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un MYRTE."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nMYRTIL wächst."
+    es: "En suelo fértil da\nANDANO. Sirve para\nhacer POKéCUBOS."
+berry_juice:
+  names:
+    jp_kana: きのみジュース
+    en: BERRY JUICE
+    fr: JUS DE BAIE
+    it: SUCCODIBACCA
+    de: BEERENSAFT
+    es: ZUMO DE BAYA
+  descriptions:
+    jp_kana: "きのみ　１００パーセント\nポケモンの　たいりょくを\n２０　かいふくする"
+    en: "A 100% pure juice\nthat restores HP\nby 20 points."
+    fr: "Une boisson 100%\npur jus qui\nrestaure 20 PV."
+    it: "Puro succo di\nfrutta che\nrestituisce 20 PS."
+    de: "Reiner Fruchtsaft,\nder die KP um\n20 Punkte auffüllt."
+    es: "Zumo 100% natural\nque restaura 20 PS."
+berry_pouch:
+  names:
+    jp_kana: きのみぶくろ
+    en: BERRY POUCH
+    fr: SAC A BAIES
+    it: PORTABACCHE
+    de: BEERENTÜTE
+    es: SACO BAYAS
+  descriptions:
+    jp_kana: "きのみを　ほぞんする\nべんりな　いれもの"
+    en: "A convenient\ncontainer that\nholds BERRIES."
+    fr: "Un petit sac pour\ntransporter les\nBAIES."
+    it: "Contenitore utile\nper le BACCHE."
+    de: "Tüte, in der\nBEEREn aufbewahrt\nwerden."
+    es: "Útil saquito que\nsirve para llevar\nBAYAS."
+big_mushroom:
+  names:
+    jp_kana: おおきなキノコ
+    en: BIG MUSHROOM
+    fr: GROS CHAMPI
+    it: GRANDE FUNGO
+    de: RIESENPILZ
+    es: SETA GRANDE
+  descriptions:
+    jp_kana: "めずらしい　キノコ\nたかく　うれる"
+    en: "A rare mushroom\nthat would sell at a\nhigh price."
+    fr: "Un champignon rare.\nPeut être vendu\nà bon prix."
+    it: "Un fungo raro che\nsi vende a caro\nprezzo."
+    de: "Ein seltener\nPilz von \nhohem Wert."
+    es: "Seta poco común.\nSe vende\na alto precio."
+big_pearl:
+  names:
+    jp_kana: おおきなしんじゅ
+    en: BIG PEARL
+    fr: GRANDE PERLE
+    it: GRANDE PERLA
+    de: RIESENPERLE
+    es: PERLA GRANDE
+  descriptions:
+    jp_kana: "とても　きれいな\nおおつぶの　しんじゅ\nたかく　うれる"
+    en: "A lovely large pearl\nthat would sell at a\nhigh price."
+    fr: "Une perle magni-\nfique. Peut être\nvendue à bon prix."
+    it: "Una perla bella e\ngrande che si vende\na caro prezzo."
+    de: "Schöne, große Per-\nle, die einen hohen\nPreis erzielt."
+    es: "Perla grande y\nbella que se vende\na alto precio."
+bike:
+  names:
+    jp_kana: じてんしゃ
+    en: BICYCLE
+    fr: BICYCLETTE
+    it: BICICLETTA
+    de: FAHRRAD
+    es: BICICLETA
+  descriptions:
+    jp_kana: "おりたたみの　じてんしゃ\nランニングシューズより\nはやく　はしる"
+    en: "A folding bicycle\nthat is faster than\nthe RUNNING SHOES."
+    fr: "Un vélo pour aller\nplus vite qu’avec\nles CHAUSSURES."
+    it: "Bici pieghevole,\npiù veloce delle\nSCARPE da CORSA."
+    de: "Klapprad, das\nschneller als\nTURBOTRETER ist."
+    es: "Bici plegable\nmás rápida que\nlas DEPORTIVAS."
+bike_voucher:
+  names:
+    jp_kana: ひきかえけん
+    en: BIKE VOUCHER
+    fr: BON COMMANDE
+    it: BUONO BICI
+    de: RAD-COUPON
+    es: BONO BICI
+  descriptions:
+    jp_kana: "ミラクル・サイクルで\nおりたたみ　じてんしゃと\nこうかん　できる　かみ"
+    en: "A voucher for\nobtaining a bicycle\nfrom the BIKE SHOP."
+    fr: "Bon à échanger\ncontre un vélo aux\nCYCLES A GOGO."
+    it: "Buono per una\nbicicletta al\nNEGOZIO di BICI."
+    de: "Gutschein für ein\nFAHRRAD im LADEN\nin AZURIA."
+    es: "Puede canjearse\npor una bici en la\nTIENDA de BICIS."
+black_belt:
+  names:
+    jp_kana: くろおび
+    en: BLACK BELT
+    fr: CEINT.NOIRE
+    it: CINTURANERA
+    de: SCHWARZGURT
+    es: CINT. NEGRO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nかくとうタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nboosts FIGHTING-\ntype moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques COMBAT."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo LOTTA."
+    de: "Item (Tragen)\nverstärkt KAMPF-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo LUCHA."
+black_flute:
+  names:
+    jp_kana: くろいビードロ
+    en: BLACK FLUTE
+    fr: FLUTE NOIRE
+    it: FLAUTO NERO
+    de: SCHW. FLÖTE
+    es: FLAUTA NEGRA
+  descriptions:
+    jp_kana: "ガラスで　できた　ふえ\nやせい　ポケモンと\nそうぐう　しにくくなる"
+    en: "A glass flute that\nkeeps away wild\nPOKéMON."
+    fr: "Une flûte en verre\nqui repousse les\nPOKéMON sauvages."
+    it: "Flauto di vetro che\ntiene alla larga i\nPOKéMON selvatici."
+    de: "Eine gläserne\nFlöte, die wilde\nPOKéMON abhält."
+    es: "Flauta de cristal\nque aleja a los\nPOKéMON salvajes."
+black_glasses:
+  names:
+    jp_kana: くろいメガネ
+    en: BLACKGLASSES
+    fr: LUNET.NOIRES
+    it: OCCHIALINERI
+    de: SCHATTENGLAS
+    es: GAFAS DE SOL
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nあくタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nDARK-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques TENEBRES."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo BUIO."
+    de: "Item (Tragen)\nverstärkt\nUNLICHT-Attacken."
+    es: "Al llevarlas, forta-\nlecen los ataques\nde tipo SINIESTRO."
+blue_flute:
+  names:
+    jp_kana: あおいビードロ
+    en: BLUE FLUTE
+    fr: FLUTE BLEUE
+    it: FLAUTO BLU
+    de: BLAUE FLÖTE
+    es: FLAUTA AZUL
+  descriptions:
+    jp_kana: "ガラスで　できた　ふえ\nねむり　じょうたいを\nかいふくする"
+    en: "A glass flute that\nawakens sleeping\nPOKéMON."
+    fr: "Une flûte en verre\nqui réveille les\nPOKéMON endormis."
+    it: "Flauto di vetro che\nsveglia un POKéMON\naddormentato."
+    de: "Eine gläserne Flö-\nte, die schlafende\nPKMN aufweckt."
+    es: "Flauta de cristal\nque despierta a los\nPOKéMON dormidos."
+blue_orb:
+  names:
+    jp_kana: あいいろのたま
+    en: BLUE ORB
+    fr: ORBE BLEU
+    it: SFERA BLU
+    de: BLAUE KUGEL
+    es: ESFERA AZUL
+  descriptions:
+    jp_kana: "おおむかしの　ちからが\nこめられている　という\nあおく　かがやく　たま"
+    en: "A blue, glowing orb\nsaid to contain an\nancient power."
+    fr: "Un globe bleu lumi-\nneux censé abriter\nun pouvoir antique."
+    it: "Sfera blu\nluminosa con\nun antico potere."
+    de: "Blau glühende Ku-\ngel, die eine uralte\nMacht bergen soll."
+    es: "Es azul y brillante.\nDicen que posee\nun poder ancestral."
+blue_scarf:
+  names:
+    jp_kana: あおいバンダナ
+    en: BLUE SCARF
+    fr: FOUL. BLEU
+    it: FASCIA BLU
+    de: BLAUER SCHAL
+    es: PAÑUELO AZUL
+  descriptions:
+    jp_kana: "もたせて　コンテストに\nさんかすると　いつもより\nうつくしく　みられる"
+    en: "A hold item that\nraises BEAUTY in\nCONTESTS."
+    fr: "Objet tenu montant\nla stat BEAUTE\ndans les CONCOURS."
+    it: "Strumento tenuto:\ndà più BELLEZZA\nnelle GARE."
+    de: "Item (Tragen) hebt\nSCHÖN.-Wert für\nden WETTBEWERB."
+    es: "Al llevarlo en los\nCONCURSOS,\nsube la BELLEZA."
+blue_shard:
+  names:
+    jp_kana: あおいかけら
+    en: BLUE SHARD
+    fr: TESSON BLEU
+    it: COCCIO BLU
+    de: INDIGOSTÜCK
+    es: PARTE AZUL
+  descriptions:
+    jp_kana: "むかしに　つくられた\nどうぐの　かけら　らしい\nやすく　うれる"
+    en: "A shard from an\nancient item. Can\nbe sold cheaply."
+    fr: "Fragment d’objet\nantique. Peut être\nvendu à bas prix."
+    it: "Coccio di un antico\nstrumento. Si vende\na basso prezzo."
+    de: "Scherbe eines\nantiken Relikts\nvon geringem Wert."
+    es: "Parte de un objeto\nantiguo. Se vende\na bajo precio."
+bluk_berry:
+  names:
+    jp_kana: ブリーのみ
+    en: BLUK BERRY
+    fr: BAIE REMU
+    it: BACCAMORA
+    de: MORBBEERE
+    es: BAYA ORAM
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nブリーが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow BLUK."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un REMU."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nMORB wächst."
+    es: "En suelo fértil da\nORAM. Sirve para\nhacer POKéCUBOS."
+bright_powder:
+  names:
+    jp_kana: ひかりのこな
+    en: BRIGHTPOWDER
+    fr: POUDRECLAIRE
+    it: LUMINPOLVERE
+    de: BLENDPUDER
+    es: POLVO BRILLO
+  descriptions:
+    jp_kana: "もたせると　ひかりが\nあいてを　まどわして\nめいちゅうりつを　さげる"
+    en: "A hold item that\ncasts a glare to\nreduce accuracy."
+    fr: "Objet tenu qui\néblouit et baisse\nla précision."
+    it: "Strumento tenuto:\nabbaglia riducendo\nla precisione."
+    de: "Item (Tragen)\nsenkt die Genauig-\nkeit des Gegners."
+    es: "Al llevarlo, lanza\nun destello que ba-\nja la PRECISIÓN."
+burn_heal:
+  names:
+    jp_kana: やけどなおし
+    en: BURN HEAL
+    fr: ANTI-BRULE
+    it: ANTISCOTTAT.
+    de: FEUERHEILER
+    es: ANTIQUEMAR
+  descriptions:
+    jp_kana: "やけど　じょうたいを\nかいふくする"
+    en: "Heals POKéMON\nof a burn."
+    fr: "Soigne les POKéMON\nde leurs brûlures."
+    it: "Cura un POKéMON\nda una scottatura."
+    de: "Heilt Verbrennun-\ngen bei POKéMON."
+    es: "Cura a un POKéMON\nquemado."
+calcium:
+  names:
+    jp_kana: リゾチウム
+    en: CALCIUM
+    fr: CALCIUM
+    it: CALCIO
+    de: KALZIUM
+    es: CALCIO
+  descriptions:
+    jp_kana: "とくこうの\nきそポイントを　あげる"
+    en: "Raises the base\nSP. ATK stat of one\nPOKéMON."
+    fr: "Monte l’ATQ. SPE.\nd’un POKéMON."
+    it: "Aumenta l’ATT. SP.\ndi un POKéMON."
+    de: "Hebt den\nSP. ANGR.-Wert\neines POKéMON."
+    es: "Sube el AT. ESP.\nde un POKéMON."
+carbos:
+  names:
+    jp_kana: インドメタシン
+    en: CARBOS
+    fr: CARBONE
+    it: CARBURANTE
+    de: CARBON
+    es: CARBURANTE
+  descriptions:
+    jp_kana: "すばやさの\nきそポイントを　あげる"
+    en: "Raises the base\nSPEED stat of one\nPOKéMON."
+    fr: "Monte la VITESSE\nd’un POKéMON."
+    it: "Aumenta la\nVELOCITÀ di\nun POKéMON."
+    de: "Hebt den\nINIT.-Wert\neines POKéMON."
+    es: "Sube la VELOCIDAD\nde un POKéMON."
+card_key:silph_co:
+  names:
+    jp_kana: カードキー
+    en: CARD KEY
+    fr: CARTE MAGN.
+    it: APRIPORTA
+    de: TÜRÖFFNER
+    es: LL.MAGNÉTICA
+  descriptions:
+    jp_kana: "カードで　できた　カギ\nシルフカンパニー　ビルの\nドアロックを　はずせる"
+    en: "A card-type door\nkey used in SILPH\nCO’s office."
+    fr: "Carte magnétique\npouvant ouvrir\nla SYLPHE SARL."
+    it: "Chiave a scheda per\nla DIREZIONE della\nSILPH SpA."
+    de: "Schlüsselkarte für\nHQ der SILPH\nCO. in SAFFRONIA."
+    es: "Abre las OFICINAS\nCENTRALES\nde SILPH S.A."
+charcoal:
+  names:
+    jp_kana: もくたん
+    en: CHARCOAL
+    fr: CHARBON
+    it: CARBONELLA
+    de: HOLZKOHLE
+    es: CARBÓN
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nほのおタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nFIRE-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques FEU."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo FUOCO."
+    de: "Item (Tragen)\nverstärkt FEUER-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo FUEGO."
+cheri_berry:
+  names:
+    jp_kana: クラボのみ
+    en: CHERI BERRY
+    fr: BAIE CERIZ
+    it: BACCALIEGIA
+    de: AMRENABEERE
+    es: BAYA ZREZA
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nまひ　じょうたいを\nかいふくする"
+    en: "A hold item that\nheals paralysis\nin battle."
+    fr: "Objet tenu qui\nsoigne la paralysie\npendant un combat."
+    it: "Strumento tenuto:\ncura paralisi\nnella lotta."
+    de: "Item (Tragen) be-\nwirkt Selbstheilung\nbei Paralyse."
+    es: "Al llevarla, cura\nla parálisis\nen el combate."
+chesto_berry:
+  names:
+    jp_kana: カゴのみ
+    en: CHESTO BERRY
+    fr: BAIE MARON
+    it: BACCASTAGNA
+    de: MARONBEERE
+    es: BAYA ATANIA
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nねむり　じょうたいを\nかいふくする"
+    en: "A hold item that\nawakens POKéMON\nin battle."
+    fr: "Objet tenu qui\nréveille les PKMN\ndormant au combat."
+    it: "Strumento tenuto:\nrisveglia un POKé-\nMON nella lotta."
+    de: "Item (Tragen)\nweckt schlafendes\nPOKéMON im Kampf."
+    es: "Al llevarla, \nte despierta\nen el combate."
+choice_band:
+  names:
+    jp_kana: こだわりハチマキ
+    en: CHOICE BAND
+    fr: BAND. CHOIX
+    it: BENDASCELTA
+    de: WAHLBAND
+    es: CIN. ELEGIDA
+  descriptions:
+    jp_kana: "こうげきの　いりょくが\nあがるが　おなじ\nわざしか　だせなくなる"
+    en: "Raises a move’s\npower, but permits\nonly that move."
+    fr: "Monte la puissance\nd’une attaque. Dés-\nactive les autres."
+    it: "Potenzia una mossa\nma obbliga ad usare\nsoltanto quella."
+    de: "Stärkt eine Atta-\ncke. Aber nur diese\nist einsetzbar."
+    es: "Aumenta la fuerza\nde un ataque, pero\nsólo deja usar ése."
+claw_fossil:
+  names:
+    jp_kana: ツメのカセキ
+    en: CLAW FOSSIL
+    fr: FOSS. GRIFFE
+    it: FOSSILUNGHIA
+    de: KLAUENFOSSIL
+    es: FÓSIL GARRA
+  descriptions:
+    jp_kana: "おおむかし　かいていで\nくらしていた　ポケモンの\nカセキと　いわれている"
+    en: "A fossil of an\nancient, seafloor-\ndwelling POKéMON."
+    fr: "Fossile d’un très\nvieux POKéMON\nsous-marin."
+    it: "Fossile di un\nantico POKéMON che\nviveva sui fondali."
+    de: "Fossil eines ural-\nten POKéMON, das in\nder Tiefsee lebte."
+    es: "Fósil de un POKéMON\nancestral que moró\nen el fondo del mar."
+cleanse_tag:
+  names:
+    jp_kana: きよめのおふだ
+    en: CLEANSE TAG
+    fr: RUNE PURIF.
+    it: VELOPURO
+    de: SCHUTZBAND
+    es: AMULETO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nやせいの　ポケモンに\nそうぐう　しにくく　なる"
+    en: "A hold item that\nhelps repel wild\nPOKéMON."
+    fr: "Objet tenu pour\nrepousser les\nPOKéMON sauvages."
+    it: "Strumento tenuto:\npuò allontanare i\nPOKéMON selvatici."
+    de: "Item (Tragen) kann\nwilde POKéMON\nabhalten."
+    es: "Al llevarlo, ayuda\na repeler a los\nPOKéMON salvajes."
+coin_case:
+  names:
+    jp_kana: コインケース
+    en: COIN CASE
+    fr: BOITE JETONS
+    it: SALVADANAIO
+    de: MÜNZKORB
+    es: MONEDERO
+  descriptions:
+    jp_kana: "てにいれた　コインを\n９９９９まい　まで\nもつことが　できる"
+    en: "A case that holds\nup to 9,999 COINS."
+    fr: "Une boîte qui peut\ncontenir jusqu’à\n9 999 JETONS."
+    it: "Può contenere fino\na 9.999 GETTONI."
+    de: "Kann bis zu 9999\nMÜNZEn aufnehmen."
+    es: "Te servirá para\nllevar hasta 9.999\nFICHAS."
+contest_pass:
+  names:
+    jp_kana: コンテストパス
+    en: CONTEST PASS
+    fr: PASSECONCOUR
+    it: TESSERA GARE
+    de: WETTB.-KARTE
+    es: PASE CONCUR.
+  descriptions:
+    jp_kana: "ポケモンコンテストに\nさんかする　ことができる"
+    en: "The pass required\nfor entering\nPOKéMON CONTESTS."
+    fr: "La carte requise\npour participer aux\nCONCOURS POKéMON."
+    it: "Tessera per\npartecipare alle\nGARE POKéMON."
+    de: "Ausweis zur Teil-\nnahme an POKéMON- \nWETTBEWERBEN."
+    es: "Es necesario para\nparticipar en un\nCONCURSO POKéMON."
+cornn_berry:
+  names:
+    jp_kana: モコシのみ
+    en: CORNN BERRY
+    fr: BAIE SIAM
+    it: BACCAVENA
+    de: SAIMBEERE
+    es: BAYA MAIS
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nモコシが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow CORNN."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un SIAM."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nSAIM wächst."
+    es: "En suelo fértil da\nMAIS. Sirve para\nhacer POKéCUBOS."
+deep_sea_scale:
+  names:
+    jp_kana: しんかいのウロコ
+    en: DEEPSEASCALE
+    fr: ECAILLEOCEAN
+    it: SQUAMABISSI
+    de: ABYSSPLATTE
+    es: ESCAMA MAR.
+  descriptions:
+    jp_kana: "にぶく　ひかる　ウロコ\nパールルに　もたせると\nとくぼうが　あがる"
+    en: "A hold item that\nraises the SP. DEF\nof CLAMPERL."
+    fr: "Objet tenu montant\nla DEF. SPE. de\nCOQUIPERL."
+    it: "Strumento tenuto:\naumenta la DIF. SP.\ndi CLAMPERL."
+    de: "Item (Tragen) hebt\nSP. VERT. von\nPERLU."
+    es: "Al llevarla, sube la\nDEF. ESP. de\nCLAMPERL."
+deep_sea_tooth:
+  names:
+    jp_kana: しんかいのキバ
+    en: DEEPSEATOOTH
+    fr: DENT OCEAN
+    it: DENTE ABISSI
+    de: ABYSSZAHN
+    es: DIENTE MAR.
+  descriptions:
+    jp_kana: "するどく　ひかる　キバ\nパールルに　もたせると\nとくこうが　あがる"
+    en: "A hold item that\nraises the SP. ATK\nof CLAMPERL."
+    fr: "Objet tenu montant\nl’ATQ. SPE. de\nCOQUIPERL."
+    it: "Strumento tenuto:\naumenta l’ATT. SP.\ndi CLAMPERL."
+    de: "Item (Tragen) hebt\nSP. ANGR. von\nPERLU."
+    es: "Al llevarlo, sube el\nAT. ESP. de\nCLAMPERL."
+devon_parts:
+  names:
+    jp_kana: デボンのにもつ
+    en: DEVON GOODS
+    fr: PACK DEVON
+    it: MERCE DEVON
+    de: DEVON-WAREN
+    es: PIEZAS DEVON
+  descriptions:
+    jp_kana: "デボンで　つくられた\nなにかの　パーツが\nはいっている　にもつ"
+    en: "A package that\ncontains DEVON’s\nmachine parts."
+    fr: "Un paquet avec des\npièces détachées\nde chez DEVON."
+    it: "Si tratta di pezzi\nmeccanici prodotti\ndalla DEVON."
+    de: "Päckchen, das Ma-\nschinenteile von\nDEVON enthält."
+    es: "Paquete con todas\nlas piezas de la\nmáquina de DEVON."
+devon_scope:
+  names:
+    jp_kana: デボンスコープ
+    en: DEVON SCOPE
+    fr: DEVON SCOPE
+    it: DEVONSCOPIO
+    de: DEVON-SCOPE
+    es: DETEC. DEVON
+  descriptions:
+    jp_kana: "みえない　ポケモンに\nはんのうして　おとをだす\nデボンの　とくせいひん"
+    en: "A device by DEVON\nthat signals any\nunseeable POKéMON."
+    fr: "Un appareil DEVON\nqui signale les\nPOKéMON invisibles."
+    it: "Strumento della\nDEVON per scovare\nPOKéMON invisibili."
+    de: "Gerät von DEVON, \ndas unsichtbare\nPOKéMON entlarvt."
+    es: "Dispositivo hecho\nen DEVON para ver\nPOKéMON invisibles."
+dire_hit:
+  names:
+    jp_kana: クリティカッター
+    en: DIRE HIT
+    fr: MUSCLE +
+    it: SUPERCOLPO
+    de: ANGRIFFPLUS
+    es: DIRECTO
+  descriptions:
+    jp_kana: "つかった　せんとうちゅう\nあいての　きゅうしょに\nあたりやすくなる"
+    en: "Raises the\ncritical-hit ratio\nduring one battle."
+    fr: "Monte le taux de\ncritiques pendant\nun combat."
+    it: "Brutti colpi\npiù probabili\nper una lotta."
+    de: "Hebt die\nVolltrefferquote\nfür einen Kampf."
+    es: "Aumenta el índice\nde golpe crítico\nen un combate."
+dive_ball:
+  names:
+    jp_kana: ダイブボール
+    en: DIVE BALL
+    fr: SCUBA BALL
+    it: SUB BALL
+    de: TAUCHBALL
+    es: BUCEO BALL
+  descriptions:
+    jp_kana: "かいていに　いる\nポケモンが　つかまえ\nやすくなる　ボール"
+    en: "A BALL that works\nbetter on POKéMON\non the ocean floor."
+    fr: "Une BALL qui marche\nmieux avec les\nPKMN sous-marins."
+    it: "BALL più efficace\nsui POKéMON in\nfondo al mare."
+    de: "BALL fängt besser\nPOKéMON auf\ndem Meeresgrund."
+    es: "Funciona mejor con\nlos POKéMON del\nfondo del mar."
+dome_fossil:
+  names:
+    jp_kana: こうらのカセキ
+    en: DOME FOSSIL
+    fr: FOSSILE DOME
+    it: DOMOFOSSILE
+    de: DOMFOSSIL
+    es: FÓSIL DOMO
+  descriptions:
+    jp_kana: "おおむかし　うみに\nすんでいた　ポケモンの\nこうらの　いちぶ"
+    en: "A piece of an\nancient marine\nPOKéMON’s shell."
+    fr: "Un fossile d’un\nancien POKéMON\naquatique."
+    it: "Parte di corazza\ndi un antico\nPOKéMON dei mari."
+    de: "Fossil eines PKMN,\ndas am Meeresgrund\nlebte."
+    es: "Concha de un\nPOKéMON ancestral\nque habitó el mar."
+dowsing_machine:
+  names:
+    jp_kana: ダウジングマシン
+    en: ITEMFINDER
+    fr: CHERCH’OBJET
+    it: DETECTOR
+    de: DETEKTOR
+    es: BUSCAOBJETOS
+  descriptions:
+    jp_kana: "みえない　どうぐに\nはんのうして\nおとで　おしえて　くれる"
+    en: "A device that\nsignals an invisible\nitem by sound."
+    fr: "Un appareil qui sig-\nnale les objets in-\nvisibles par un son."
+    it: "Individua oggetti\ninvisibili grazie\nal suono."
+    de: "Ein Gerät, das ver-\nborgene Items via \nSchallwellen ortet."
+    es: "Detector de\nobjetos invisibles\npor ondas sonoras."
+dragon_fang:
+  names:
+    jp_kana: りゅうのキバ
+    en: DRAGON FANG
+    fr: CROC DRAGON
+    it: DENTEDIDRAGO
+    de: DRACHENZAHN
+    es: COLMILLODRAG
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nドラゴンタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nDRAGON-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques DRAGON."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo DRAGO."
+    de: "Item (Tragen)\nverstärkt\nDRACHEN-Attacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo DRAGÓN."
+dragon_scale:
+  names:
+    jp_kana: りゅうのウロコ
+    en: DRAGON SCALE
+    fr: ECAILLEDRACO
+    it: SQUAMA DRAGO
+    de: DRACHENHAUT
+    es: ESCAMADRAGÓN
+  descriptions:
+    jp_kana: "ドラゴンタイプの\nポケモンが　もっている\nふしぎな　ウロコ"
+    en: "A strange scale\nheld by DRAGON-\ntype POKéMON."
+    fr: "Une étrange écaille\ntenue par les\nPOKéMON DRAGON."
+    it: "Squama tenuta da\nun POKéMON di\ntipo DRAGO."
+    de: "Seltsame Haut zum\nTragen für POKéMON\ndes Typs DRACHE."
+    es: "Rara escama que\nllevan los POKéMON\nde tipo DRAGÓN."
+dream_mail:
+  names:
+    jp_kana: ドリームメール
+    en: DREAM MAIL
+    fr: LETTRE SONGE
+    it: MESS. SOGNO
+    de: TRAUMBRIEF
+    es: CARTA SUEÑO
+  descriptions:
+    jp_kana: "もたせた　ポケモンの\nにがおえがでる　びんせん"
+    en: "MAIL featuring a\nsketch of the\nholding POKéMON."
+    fr: "Du papier avec un\ndessin du POKéMON\nqui le tient."
+    it: "MESSAGGIO che\nraffigura il POKé-\nMON che lo tiene."
+    de: "BRIEF mit Abbildung\ndes POKéMON, das\nihn trägt."
+    es: "Carta con la imagen\ndel POKéMON que la\nlleva."
+durin_berry:
+  names:
+    jp_kana: ドリのみ
+    en: DURIN BERRY
+    fr: BAIE DURIN
+    it: BACCADURIAN
+    de: DURINBEERE
+    es: BAYA RUDION
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nドリが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow DURIN."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un DURIN."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nDURIN wächst."
+    es: "En suelo fértil da\nRUDION. Sirve para\nhacer POKéCUBOS."
+elixir:
+  names:
+    jp_kana: ピーピーエイダー
+    en: ELIXIR
+    fr: ELIXIR
+    it: ELISIR
+    de: ELIXIER
+    es: ELIXIR
+  descriptions:
+    jp_kana: "すべての　わざの\nわざポイントを\n１０　かいふくする"
+    en: "Restores the PP\nof all moves by 10."
+    fr: "Restaure 10 PP\nde toutes les\nattaques."
+    it: "Restituisce 10 PP\na tutte le mosse."
+    de: "Füllt alle AP 1 PKMN\num 10 Punkte auf."
+    es: "Restaura 10 PP de\ntodos los ataques."
+energy_powder:
+  names:
+    jp_kana: ちからのこな
+    en: ENERGYPOWDER
+    fr: POUDRENERGIE
+    it: POLVENERGIA
+    de: ENERGIESTAUB
+    es: POLVOENERGÍA
+  descriptions:
+    jp_kana: "とても　にがい　こな\nポケモンの　たいりょくを\n５０　かいふくする"
+    en: "A bitter powder\nthat restores HP\nby 50 points."
+    fr: "Une poudre amère\nqui restaure les PV\nde 50 points."
+    it: "Polvere amara che\nrestituisce 50 PS."
+    de: "Ein bitteres Pul-\nver, das die KP um\n50 Punkte auffüllt."
+    es: "Polvo amargo que\nrestaura 50 PS."
+energy_root:
+  names:
+    jp_kana: ちからのねっこ
+    en: ENERGY ROOT
+    fr: RACINENERGIE
+    it: RADICENERGIA
+    de: KRAFTWURZEL
+    es: RAÍZ ENERGÍA
+  descriptions:
+    jp_kana: "とても　にがい　ねっこ\nポケモンの　たいりょくを\n２００　かいふくする"
+    en: "A bitter root\nthat restores HP\nby 200 points."
+    fr: "Une racine amère\nqui restaure les PV\nde 200 points."
+    it: "Radice amara che\nrestituisce 200 PS."
+    de: "Eine Wurzel, die die\nKP um 200 Punkte\nauffüllt."
+    es: "Raíz amarga que\nrestaura 200 PS."
+enigma_berry:
+  names:
+    jp_kana: ナゾのみ
+    en: ENIGMA BERRY
+    fr: BAIE ENIGMA
+    it: BACCAENIGMA
+    de: ENIGMABEERE
+    es: BAYA ENIGMA
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nなぞな　みが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow a mystery."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un ENIGMA."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nMysterium wächst."
+    es: "En suelo fértil da\nalgo raro. De ella\nse hacen POKéCUBOS."
+eon_ticket:
+  names:
+    jp_kana: むげんのチケット
+    en: EON TICKET
+    fr: PASSE EON
+    it: BIGL. EONE
+    de: ÄON-TICKET
+    es: TICKET EÓN
+  descriptions:
+    jp_kana: "みなみのことうへ　いく\nふねの　チケット"
+    en: "The ticket for a\nferry to a distant\nsouthern island."
+    fr: "Un ticket de ferry\npour une île\nlointaine, au sud."
+    it: "Per salire su un\ntraghetto verso\nun’isola a sud."
+    de: "Bootsticket zu\neiner fernen Insel\nim Süden."
+    es: "Billete necesario\npara ir hasta una\nlejana isla del sur."
+escape_rope:
+  names:
+    jp_kana: あなぬけのヒモ
+    en: ESCAPE ROPE
+    fr: CORDE SORTIE
+    it: FUNE DI FUGA
+    de: FLUCHTSEIL
+    es: CUERDA HUIDA
+  descriptions:
+    jp_kana: "どうくつや　ダンジョンを\nぬけだせる"
+    en: "Use to escape\ninstantly from a\ncave or a dungeon."
+    fr: "Pour sortir rapide-\nment d’une grotte\nou d’un souterrain."
+    it: "Per fuggire\nda grotte o\nsotterranei."
+    de: "Ermöglicht die\nFlucht aus Höhlen\noder Ähnlichem."
+    es: "Sirve para huir de\nuna cueva u otros\nsitios cerrados."
+ether:
+  names:
+    jp_kana: ピーピーエイド
+    en: ETHER
+    fr: HUILE
+    it: ETERE
+    de: ÄTHER
+    es: ÉTER
+  descriptions:
+    jp_kana: "１つの　わざの\nわざポイントを\n１０　かいふくする"
+    en: "Restores the PP\nof a selected move\nby 10."
+    fr: "Restaure 10 PP\nd’une attaque\nsélectionnée."
+    it: "Restituisce 10 PP\nalla mossa\nselezionata."
+    de: "Füllt AP einer aus-\ngewählten Attacke\num 10 Punkte auf."
+    es: "Restaura 10 PP del\nataque que elijas."
+everstone:
+  names:
+    jp_kana: かわらずのいし
+    en: EVERSTONE
+    fr: PIERRE STASE
+    it: PIETRASTANTE
+    de: EWIGSTEIN
+    es: PIEDRAETERNA
+  descriptions:
+    jp_kana: "もたせた　ポケモンが\nしんか　しなくなる\nふしぎな　いし"
+    en: "A wondrous hold\nitem that prevents\nevolution."
+    fr: "Pierre merveilleuse\n& objet tenu empê-\nchant l’évolution."
+    it: "Strumento tenuto:\npietra che blocca\nl’evoluzione."
+    de: "Wundersamer Stein\nzum Tragen. Bewirkt\nEntwicklungsstopp."
+    es: "El que lleve esta\npiedra mágica\nno evolucionará."
+exp_share:
+  names:
+    jp_kana: がくしゅうそうち
+    en: EXP. SHARE
+    fr: MULTI EXP
+    it: CONDIV. ESP.
+    de: EP-TEILER
+    es: REPARTIR EXP
+  descriptions:
+    jp_kana: "もたせた　ポケモンが\nけいけんちを\nわけて　もらえる"
+    en: "A hold item that\ngets EXP. points\nfrom battles."
+    fr: "Objet tenu pour\npartager l’EXP.\naprès un combat."
+    it: "Strumento tenuto:\nottiene punti ESP.\ndalla lotta."
+    de: "Item (Tragen) teilt\ndie Kampf-EP."
+    es: "Al llevarlo, se\ntoman puntos de\nEXP. del combate."
+fab_mail:
+  names:
+    jp_kana: ミラクルメール
+    en: FAB MAIL
+    fr: LETTRE COOL
+    it: MESS. LUSSO
+    de: EDELBRIEF
+    es: CARTA FAB.
+  descriptions:
+    jp_kana: "ごうかな　もようが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A gorgeous-print\nMAIL to be held\nby a POKéMON."
+    fr: "Papier magnifique\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto\nche presenta una\nstupenda immagine."
+    de: "BRIEF (Tragen) mit \nedlem Aufdruck."
+    es: "Fabuloso dibujo.\nDebe llevarla\nun POKéMON."
+fame_checker:
+  names:
+    jp_kana: ボイスチェッカー
+    en: FAME CHECKER
+    fr: MEMORYDEX
+    it: POKéVIP
+    de: RUHMESDATEI
+    es: MEMORÍN
+  descriptions:
+    jp_kana: "ゆうめいな　じんぶつの\nじょうほうを　いつでも\nみなおすことが　できる"
+    en: "Stores information\non famous people\nfor instant recall."
+    fr: "Stocke les infos\nsur les gens\nimportants."
+    it: "Apparecchio che\nregistra dati sulle\npersone importanti."
+    de: "Gerät, das Infos\nüber wichtige Per-\nsonen speichert."
+    es: "Refresca la memoria\nsobre cosas\ny personas."
+figy_berry:
+  names:
+    jp_kana: フィラのみ
+    en: FIGY BERRY
+    fr: BAIE FIGUY
+    it: BACCAFICO
+    de: GIEFEBEERE
+    es: BAYA HIGOG
+  descriptions:
+    jp_kana: "もたせると　たいりょくを\nかいふく　できるが\nこんらんする　ことがある"
+    en: "A hold item that\nrestores HP but\nmay confuse."
+    fr: "Objet tenu qui res-\ntaure les PV. Peut\nrendre confus."
+    it: "Strumento tenuto:\nrestituisce PS, ma\npuò confondere."
+    de: "Item (Tragen) füllt\nKP auf, bewirkt\nevtl. Verwirrung."
+    es: "Al llevarla, te\nrestaura PS, pero\npuede confundirte."
+fire_stone:
+  names:
+    jp_kana: ほのおのいし
+    en: FIRE STONE
+    fr: PIERRE FEU
+    it: PIETRAFOCAIA
+    de: FEUERSTEIN
+    es: PIEDRA FUEGO
+  descriptions:
+    jp_kana: "とくていの　ポケモンを\nしんかさせる"
+    en: "Makes certain\nspecies of POKéMON\nevolve."
+    fr: "Fait évoluer\ncertaines espèces\nde POKéMON."
+    it: "Fa evolvere\ndeterminate specie\ndi POKéMON."
+    de: "Löst bei bestimm-\nten POKéMON die\nEntwicklung aus."
+    es: "Hace evolucionar\na varias especies\nde POKéMON."
+fluffy_tail:
+  names:
+    jp_kana: エネコのシッポ
+    en: FLUFFY TAIL
+    fr: QUEUE SKITTY
+    it: CODA SKITTY
+    de: ENECO-RUTE
+    es: COLA SKITTY
+  descriptions:
+    jp_kana: "そうぐうした　やせいの\nポケモンから　かならず\nにげることが　できる"
+    en: "Use to flee from\nany battle with\na wild POKéMON."
+    fr: "Pour s’enfuir d’un\ncombat contre un\nPOKéMON sauvage."
+    it: "Per fuggire dalla\nlotta con un\nPOKéMON selvatico."
+    de: "Ermöglicht Flucht\nim Kampf gegen\nwilde POKéMON."
+    es: "Sirve para huir de\nun combate con un\nPOKéMON salvaje."
+focus_band:
+  names:
+    jp_kana: きあいのハチマキ
+    en: FOCUS BAND
+    fr: BANDEAU
+    it: BANDANA
+    de: FOKUS-BAND
+    es: CINTA FOCUS
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nたまに　ひんしを\nふせぐことが　できる"
+    en: "A hold item that\noccasionally\nprevents fainting."
+    fr: "Objet tenu pouvant\nparfois empêcher\nd’être mis K.O."
+    it: "Strumento tenuto:\na volte impedisce\ndi andare KO."
+    de: "Item (Tragen) kann\nmanchmal K.O.\nverhindern."
+    es: "Al llevarla, quizá\nevites debilitarte."
+fresh_water:
+  names:
+    jp_kana: おいしいみず
+    en: FRESH WATER
+    fr: EAU FRAICHE
+    it: ACQUA FRESCA
+    de: TAFELWASSER
+    es: AGUA FRESCA
+  descriptions:
+    jp_kana: "ミネラルたっぷりの　みず\nポケモンの　たいりょくを\n５０　かいふくする"
+    en: "A mineral water\nthat restores HP\nby 50 points."
+    fr: "Une eau minérale\nqui restaure 50 PV."
+    it: "Acqua minerale che\nrestituisce 50 PS."
+    de: "Ein stilles Wasser,\ndas die KP um 50\nPunkte auffüllt."
+    es: "Agua mineral que\nrestaura 50 PS."
+full_heal:
+  names:
+    jp_kana: なんでもなおし
+    en: FULL HEAL
+    fr: TOTAL SOIN
+    it: CURA TOTALE
+    de: HYPERHEILER
+    es: CURA TOTAL
+  descriptions:
+    jp_kana: "じょうたい　いじょうを\nすべて　かいふくする"
+    en: "Heals all the\nstatus problems of\none POKéMON."
+    fr: "Soigne les change-\nments de statut \nd’un POKéMON."
+    it: "Risolve tutti i\nproblemi di stato\ndi un POKéMON."
+    de: "Beseitigt alle\nStatusprobleme\neines POKéMON."
+    es: "Cura los problemas\nde estado de un\nPOKéMON."
+full_restore:
+  names:
+    jp_kana: かいふくのくすり
+    en: FULL RESTORE
+    fr: GUERISON
+    it: RICARICA TOT
+    de: TOP-GENESUNG
+    es: RESTAU. TODO
+  descriptions:
+    jp_kana: "ポケモンの　たいりょくと\nじょうたい　いじょうを\nぜんかいふくする"
+    en: "Fully restores the\nHP and status of a\nPOKéMON."
+    fr: "Restaure tous les\nPV et le statut\nd’un POKéMON."
+    it: "Ridà ogni PS ad un \nPOKéMON e risolve\ni problemi di stato."
+    de: "Stellt KP und\nStatus eines\nPOKéMON wieder her."
+    es: "Restaura todos los\nPS y el estado\nde un POKéMON."
+ganlon_berry:
+  names:
+    jp_kana: リュガのみ
+    en: GANLON BERRY
+    fr: BAIE LINGAN
+    it: BACCALONGAN
+    de: LINGANBEERE
+    es: BAYA GONLAN
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nぼうぎょりょくが　あがる"
+    en: "A hold item that\nraises DEFENSE in\na pinch."
+    fr: "Objet tenu qui\nmonte la DEFENSE\nsi nécessaire."
+    it: "Strumento tenuto:\nin difficoltà au-\nmenta la DIFESA."
+    de: "Item (Tragen) hebt\nVERT.-Wert in einer\nNotlage."
+    es: "Al llevarla, subirá\nla DEFENSA en un\nmomento de apuro."
+glitter_mail:
+  names:
+    jp_kana: キラキラメール
+    en: GLITTER MAIL
+    fr: LETTRE BRILL
+    it: MESS. LUCI
+    de: GLITZERBRIEF
+    es: CARTA BRILLO
+  descriptions:
+    jp_kana: "ピカチュウの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A PIKACHU-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier PIKACHU\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi PIKACHU."
+    de: "BRIEF (Tragen) mit \nPIKACHU-\nAufdruck."
+    es: "Sale PIKACHU.\nDebe llevarla\nun POKéMON."
+go_goggles:
+  names:
+    jp_kana: ゴーゴーゴーグル
+    en: GO-GOGGLES
+    fr: LUNET. SABLE
+    it: OCCHIALONI
+    de: WÜSTENGLAS
+    es: GAF. AISLAN.
+  descriptions:
+    jp_kana: "さばくの　すなあらしから\nめを　まもってくれる\nすてきな　ゴーグル"
+    en: "Nifty goggles that\nprotect eyes from\ndesert sandstorms."
+    fr: "Lunettes proté-\ngeant les yeux des\ntempêtes de sable."
+    it: "Proteggono dalle\ntempeste di\nsabbia."
+    de: "Schicke Brille, die\ndie Augen vor Sand-\nstürmen schützt."
+    es: "Ingeniosas gafas\nque protegen de la\narena del desierto."
+gold_teeth:
+  names:
+    jp_kana: きんのいれば
+    en: GOLD TEETH
+    fr: DENT D’OR
+    it: DENTI D’ORO
+    de: GOLDZÄHNE
+    es: DIENTES ORO
+  descriptions:
+    jp_kana: "サファリゾーンの\nえんちょうが　おとした\nきんいろの　いれば"
+    en: "Gold dentures lost\nby the SAFARI\nZONE’s WARDEN."
+    fr: "Une dent en or\ndu gardien du\nPARC SAFARI."
+    it: "Dentiera persa\ndal GUARDIANO\ndella ZONA SAFARI."
+    de: "Verlorenes Gebiss\ndes WÄRTERs der\nSAFARI-ZONE."
+    es: "Son los dientes de\noro que perdió el\nGUARDA del SAFARI."
+good_rod:
+  names:
+    jp_kana: いいつりざお
+    en: GOOD ROD
+    fr: SUPER CANNE
+    it: AMO BUONO
+    de: PROFIANGEL
+    es: CAÑA BUENA
+  descriptions:
+    jp_kana: "ポケモンを　つるどうぐ\nなかなかの　つりざおと\nいわれている"
+    en: "A decent fishing\nrod for catching\nwild POKéMON."
+    fr: "Une bonne canne\npour pêcher des\nPOKéMON sauvages."
+    it: "Discreto amo usato\nper pescare\nPOKéMON selvatici."
+    de: "Eine recht gute\nAngel zum Fischen\nvon POKéMON."
+    es: "Una buena caña\npara pescar\nPOKéMON salvajes."
+great_ball:
+  names:
+    jp_kana: スーパーボール
+    en: GREAT BALL
+    fr: SUPER BALL
+    it: MEGA BALL
+    de: SUPERBALL
+    es: SUPERBALL
+  descriptions:
+    jp_kana: "モンスターボール　より\nつかまえ　やすくなった\nこうせいのうの　ボール"
+    en: "A good BALL with a\nhigher catch rate\nthan a POKé BALL."
+    fr: "BALL au taux de\nréussite supérieur\nà la POKé BALL."
+    it: "Una buona BALL,\npiù efficace della\nPOKé BALL."
+    de: "BALL mit guter Er-\nfolgsquote. Besser\nals ein POKéBALL."
+    es: "Es buena. Tiene\nmás índice de éxito\nque la POKé BALL."
+green_scarf:
+  names:
+    jp_kana: みどりのバンダナ
+    en: GREEN SCARF
+    fr: FOUL. VERT
+    it: FASCIA VERDE
+    de: GRÜNER SCHAL
+    es: PAÑ. VERDE
+  descriptions:
+    jp_kana: "もたせて　コンテストに\nさんかすると　いつもより\nかしこく　みられる"
+    en: "A hold item that\nraises SMART in\nCONTESTS."
+    fr: "Objet tenu montant\nla stat INTEL.\ndans les CONCOURS."
+    it: "Strumento tenuto:\ndà più ACUME nelle\nGARE."
+    de: "Item (Tragen) hebt\nKLUG.-Wert für den\nWETTBEWERB."
+    es: "Al llevarlo en los\nCONCURSOS,\nsube el INGENIO."
+green_shard:
+  names:
+    jp_kana: みどりのかけら
+    en: GREEN SHARD
+    fr: TESSON VERT
+    it: COCCIO VERDE
+    de: GRÜNSTÜCK
+    es: PARTE VERDE
+  descriptions:
+    jp_kana: "むかしに　つくられた\nどうぐの　かけら　らしい\nやすく　うれる"
+    en: "A shard from an\nancient item. Can\nbe sold cheaply."
+    fr: "Fragment d’objet\nantique. Peut être\nvendu à bas prix."
+    it: "Coccio di un antico\nstrumento. Si vende\na basso prezzo."
+    de: "Scherbe eines\nantiken Relikts\nvon geringem Wert."
+    es: "Parte de un objeto\nantiguo. Se vende\na bajo precio."
+grepa_berry:
+  names:
+    jp_kana: ウブのみ
+    en: GREPA BERRY
+    fr: BAIE RESIN
+    it: BACCAUVA
+    de: LABRUSBEERE
+    es: BAYA UVAV
+  descriptions:
+    jp_kana: "ポケモンが　ちょっと\nなつくが　とくぼうの\nきそポイントが　さがる"
+    en: "Makes a POKéMON\nfriendly but lowers\nbase SP. DEF."
+    fr: "Rend un POKéMON\namical, baisse la\nDEF. SPE. de base."
+    it: "Rende un POKéMON\namichevole, ma\nriduce la DIF. SP."
+    de: "PKMN wird freund-\nlicher. Grund-SP.\nVERT.-Wert sinkt."
+    es: "Hace amable al\nPOKéMON, pero\nbaja la DEF. ESP."
+guard_spec:
+  names:
+    jp_kana: エフェクトガード
+    en: GUARD SPEC.
+    fr: DEFENSE SPEC
+    it: SUPERGUARDIA
+    de: MEGABLOCK
+    es: PROTEC. ESP.
+  descriptions:
+    jp_kana: "せんとうで　つかうと\nみかたの　のうりょくを\nさげられなくする"
+    en: "Prevents stat\nreduction when\nused in battle."
+    fr: "Empêche la perte\nde points de stats\npendant un combat."
+    it: "Impedisce la\nriduzione delle\nstat. nella lotta."
+    de: "Statusänderung\nwird für einen\nKampf verhindert."
+    es: "Evita la reducción\nde características\ndurante el combate."
+harbor_mail:
+  names:
+    jp_kana: ハーバーメール
+    en: HARBOR MAIL
+    fr: LETTRE PORT
+    it: MESS. PORTO
+    de: HAFENBRIEF
+    es: CARTA PUERTO
+  descriptions:
+    jp_kana: "キャモメの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A WINGULL-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier GOELISE\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi WINGULL."
+    de: "BRIEF (Tragen) mit \nWINGULL-\nAufdruck."
+    es: "Sale WINGULL.\nDebe llevarla\nun POKéMON."
+hard_stone:
+  names:
+    jp_kana: かたいいし
+    en: HARD STONE
+    fr: PIERRE DURE
+    it: PIETRADURA
+    de: GRANITSTEIN
+    es: PIEDRA DURA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nいわタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nROCK-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques ROCHE."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo ROCCIA."
+    de: "Item (Tragen)\nverstärkt\nGESTEIN-Attacken."
+    es: "Al llevarla, forta-\nlece los ataques\nde tipo ROCA."
+heal_powder:
+  names:
+    jp_kana: ばんのうごな
+    en: HEAL POWDER
+    fr: POUDRE SOIN
+    it: POLVOCURA
+    de: HEILPUDER
+    es: POL.CURACIÓN
+  descriptions:
+    jp_kana: "すごく　にがい　こな\nじょうたい　いじょうを\nすべて　かいふくする"
+    en: "A bitter powder\nthat heals all\nstatus problems."
+    fr: "Une poudre amère\nsoignant les chan-\ngements de statut."
+    it: "Polvere amara che\nrisolve tutti i\nproblemi di stato."
+    de: "Ein bitteres Pul-\nver, das alle Sta-\ntusprobleme heilt."
+    es: "Polvos amargos que\ncuran los problemas\nde estado."
+heart_scale:
+  names:
+    jp_kana: ハートのウロコ
+    en: HEART SCALE
+    fr: ECAILLECOEUR
+    it: SQUAMA CUORE
+    de: HERZSCHUPPE
+    es: ESC. CORAZÓN
+  descriptions:
+    jp_kana: "きれいな　ウロコ\nマニアの　あいだで\nにんきが　たかい"
+    en: "A lovely scale.\nIt is coveted by\ncollectors."
+    fr: "Une jolie écaille\nconvoitée par les\ncollectionneurs."
+    it: "Una squama\ngraziosa, ambita\ndai collezionisti."
+    de: "Hübsche Schuppe,\nhöchst begehrt\nbei Sammlern."
+    es: "Escama preciosa.\nPieza codiciada por\ncoleccionistas."
+helix_fossil:
+  names:
+    jp_kana: かいのカセキ
+    en: HELIX FOSSIL
+    fr: NAUTILE
+    it: HELIXFOSSILE
+    de: HELIXFOSSIL
+    es: FÓSIL HELIX
+  descriptions:
+    jp_kana: "おおむかし　うみに\nすんでいた　ポケモンの\nかいがらの　いちぶ"
+    en: "A piece of an\nancient marine\nPOKéMON’s seashell."
+    fr: "Un fossile d’un\nancien POKéMON\naquatique."
+    it: "Parte di conchiglia\ndi un antico\nPOKéMON dei mari."
+    de: "Fossil eines PKMN,\ndas am Meeresgrund\nlebte."
+    es: "Concha marina de un\nPOKéMON ancestral\nque habitó el mar."
+hm01:
+  names:
+    jp_kana: ひでんマシン０１
+    en: HM01
+    fr: CS01
+    it: MN01
+    de: VM01
+    es: MO01
+  descriptions:
+    jp_kana: "カマや　ツメなどの\nするどいもので　てきを\nきりつけて　こうげきする"
+    en: "Attacks the foe\nwith sharp blades\nor claws."
+    fr: "Coupe l’ennemi avec\ndes lames, des\ngriffes, etc."
+    it: "Attacca il nemico\ncon lame o artigli\naffilati."
+    de: "Gegner wird mit\nklingenscharfen\nKrallen attackiert."
+    es: "Corta con finas\ncuchillas, afiladas\ngarras, etc."
+hm02:
+  names:
+    jp_kana: ひでんマシン０２
+    en: HM02
+    fr: CS02
+    it: MN02
+    de: VM02
+    es: MO02
+  descriptions:
+    jp_kana: "１ターンめで　そらへとび\nつぎの　ターンに　てきを\nこうげきする"
+    en: "Flies up on the\nfirst turn, then\nattacks next turn."
+    fr: "S’envole au premier\ntour et frappe au\nsecond."
+    it: "Vola alto al primo \nturno e attacca\nnel successivo."
+    de: "PKMN fliegt hoch,\ndann erfolgt\nLuftangriff."
+    es: "1.ᵉʳ turno: vuela.\n2.º turno: ataca."
+hm03:
+  names:
+    jp_kana: ひでんマシン０３
+    en: HM03
+    fr: CS03
+    it: MN03
+    de: VM03
+    es: MO03
+  descriptions:
+    jp_kana: "みずに　なみを　おこし\nそれを　ものすごい\nちからで　たたきつける"
+    en: "Creates a huge\nwave, then crashes\nit down on the foe."
+    fr: "Crée une énorme\nvague qui s’écrase\nsur l’ennemi."
+    it: "Un’onda enorme \nsi abbatte sul \nnemico."
+    de: "Eine riesige Flut-\nwelle ergießt sich\nüber den Gegner."
+    es: "Crea una ola\ngigante y la lanza\ncontra el enemigo."
+hm04:
+  names:
+    jp_kana: ひでんマシン０４
+    en: HM04
+    fr: CS04
+    it: MN04
+    de: VM04
+    es: MO04
+  descriptions:
+    jp_kana: "ぜんしんに　ものすごい\nちからを　ためこみ\nてきを　こうげきする"
+    en: "Builds enormous\npower, then slams\nthe foe."
+    fr: "Accumule de la\npuissance, puis\nfrappe l’ennemi."
+    it: "Raccoglie un mare\nd’energia per poi \ncolpire il nemico."
+    de: "Den Gegner trifft \nein energiegelade-\nner Kraftschlag."
+    es: "Genera mucha\nfuerza y ataca con\nenergía al rival."
+hm05:
+  names:
+    jp_kana: ひでんマシン０５
+    en: HM05
+    fr: CS05
+    it: MN05
+    de: VM05
+    es: MO05
+  descriptions:
+    jp_kana: "つよい　ひかりで　めを\nくらませて　てきの\nめいちゅうりつを　さげる"
+    en: "Looses a powerful\nblast of light that\nreduces accuracy."
+    fr: "Explosion lumi-\nneuse baissant\nla précision."
+    it: "Potente abbaglio\nche riduce la\nprecisione."
+    de: "Ein gleißender\nLichtstrahl, der\nGenau. senken kann."
+    es: "Lanza una intensa\nráfaga de luz que\nbaja la PRECISIÓN."
+hm06:
+  names:
+    jp_kana: ひでんマシン０６
+    en: HM06
+    fr: CS06
+    it: MN06
+    de: VM06
+    es: MO06
+  descriptions:
+    jp_kana: "いわをもくだく　ちからで\nてきの　ぼうぎょを\nさげる　ことがある"
+    en: "A rock-crushingly\ntough attack that\nmay lower DEFENSE."
+    fr: "Une attaque\npuissante qui peut\nbaisser la DEFENSE."
+    it: "Attacco frantuma-\nroccia: può ridurre \nla DIFESA."
+    de: "Steinbrecherische\nAttacke, die VERT.-\nWert senken kann."
+    es: "Ataque demoledor\nque puede bajar\nla DEFENSA."
+hm07:
+  names:
+    jp_kana: ひでんマシン０７
+    en: HM07
+    fr: CS07
+    it: MN07
+    de: VM07
+    es: MO07
+  descriptions:
+    jp_kana: "たきを　さかのぼるような\nいきおいで　てきに\nとっしんする"
+    en: "Attacks the foe\nwith enough power\nto climb waterfalls."
+    fr: "Attaque rapide qui\npermet de franchir\ndes cascades."
+    it: "Carica il nemico con\nla forza di chi\nrisale una cascata."
+    de: "Mächtige Attacke,\ndie Wasserfälle\nbezwingbar macht."
+    es: "Embiste con impulso\ncomo para remontar\nuna cascada."
+hm08:
+  names:
+    jp_kana: ひでんマシン０８
+    en: HM08
+    fr: CS08
+    it: MN08
+    de: VM08
+    es: MO08
+  descriptions:
+    jp_kana: "１ターンめで　みずに　\nもぐり　つぎのターンで\nてきを　こうげきする"
+    en: "Dives underwater\nthe 1st turn, then\nattacks next turn."
+    fr: "Plonge en apnée\nau premier tour et\nfrappe au second."
+    it: "Al primo turno si \nimmerge e attacca \nin quello seguente."
+    de: "PKMN taucht ab,\ndann erfolgt An-\ngriff aus der Tiefe."
+    es: "1.ᵉʳ turno: bucea.\n2.º turno: golpea."
+hondew_berry:
+  names:
+    jp_kana: ロメのみ
+    en: HONDEW BERRY
+    fr: BAIE LONME
+    it: BACCAMELON
+    de: HONMELBEERE
+    es: BAYA MELUCE
+  descriptions:
+    jp_kana: "ポケモンが　ちょっと\nなつくが　とくこうの\nきそポイントが　さがる"
+    en: "Makes a POKéMON\nfriendly but lowers\nbase SP. ATK."
+    fr: "Rend un POKéMON\namical, baisse\nl’ATQ. SPE. de base."
+    it: "Rende un POKéMON\namichevole, ma\nriduce l’ATT. SP."
+    de: "PKMN wird freund-\nlicher. Grund-SP.\nANGR.-Wert sinkt."
+    es: "Hace amable al\nPOKéMON, pero\nbaja el AT. ESP."
+hp_up:
+  names:
+    jp_kana: マックスアップ
+    en: HP UP
+    fr: PV PLUS
+    it: PS-SU
+    de: KP-PLUS
+    es: MÁS PS
+  descriptions:
+    jp_kana: "たいりょくの\nきそポイントを　あげる"
+    en: "Raises the base HP\nof one POKéMON."
+    fr: "Monte les PV d’un\nPOKéMON."
+    it: "Aumenta i PS di\nun POKéMON."
+    de: "Hebt die KP\neines POKéMON."
+    es: "Aumenta los PS\nde un POKéMON."
+hyper_potion:
+  names:
+    jp_kana: すごいキズぐすり
+    en: HYPER POTION
+    fr: HYPER POTION
+    it: IPERPOZIONE
+    de: HYPERTRANK
+    es: HIPERPOCIÓN
+  descriptions:
+    jp_kana: "ポケモンの　たいりょくを\n２００　かいふくする"
+    en: "Restores the HP of\na POKéMON by\n200 points."
+    fr: "Restaure les PV\nd’un POKéMON\nde 200 points."
+    it: "Restituisce ad un\nPOKéMON 200 PS."
+    de: "Füllt die KP eines\nPOKéMON um\n200 Punkte auf."
+    es: "Restaura 200 PS\nde un POKéMON."
+iapapa_berry:
+  names:
+    jp_kana: イアのみ
+    en: IAPAPA BERRY
+    fr: BAIE PAPAYA
+    it: BACCAPAIA
+    de: YAPABEERE
+    es: BAYA PABAYA
+  descriptions:
+    jp_kana: "もたせると　たいりょくを\nかいふく　できるが\nこんらんする　ことがある"
+    en: "A hold item that\nrestores HP but\nmay confuse."
+    fr: "Objet tenu qui res-\ntaure les PV. Peut\nrendre confus."
+    it: "Strumento tenuto:\nrestituisce PS, ma\npuò confondere."
+    de: "Item (Tragen) füllt\nKP auf, bewirkt\nevtl. Verwirrung."
+    es: "Al llevarla, te\nrestaura PS, pero\npuede confundirte."
+ice_heal:
+  names:
+    jp_kana: こおりなおし
+    en: ICE HEAL
+    fr: ANTIGEL
+    it: ANTIGELO
+    de: EISHEILER
+    es: ANTIHIELO
+  descriptions:
+    jp_kana: "こおり　じょうたいを\nかいふくする"
+    en: "Defrosts a frozen\nPOKéMON."
+    fr: "Décongèle les\nPOKéMON gelés."
+    it: "Libera un POKéMON\ndal congelamento."
+    de: "Taut POKéMON\nwieder auf."
+    es: "Descongela a los\nPOKéMON."
+iron:
+  names:
+    jp_kana: ブロムヘキシン
+    en: IRON
+    fr: FER
+    it: FERRO
+    de: EISEN
+    es: HIERRO
+  descriptions:
+    jp_kana: "ぼうぎょの\nきそポイントを　あげる"
+    en: "Raises the base\nDEFENSE stat of\none POKéMON."
+    fr: "Monte la DEFENSE\nd’un POKéMON."
+    it: "Aumenta la DIFESA\ndi un POKéMON."
+    de: "Hebt den\nVERT.-Wert\neines POKéMON."
+    es: "Aumenta la DEFENSA\nde un POKéMON."
+kelpsy_berry:
+  names:
+    jp_kana: ネコブのみ
+    en: KELPSY BERRY
+    fr: BAIE ALGA
+    it: BACCALGA
+    de: SETANGBEERE
+    es: BAYA ALGAMA
+  descriptions:
+    jp_kana: "ポケモンが　ちょっと\nなつくが　こうげきの\nきそポイントが　さがる"
+    en: "Makes a POKéMON\nfriendly but lowers\nbase ATTACK."
+    fr: "Rend un POKéMON\namical, baisse\nl’ATTAQUE de base."
+    it: "Rende un POKéMON\namichevole, ma\nriduce l’ATTACCO."
+    de: "PKMN wird freund-\nlicher, aber Grund-\nANGR.-Wert sinkt."
+    es: "Hace amable al\nPOKéMON, pero\nbaja el ATAQUE."
+key_to_room_1:
+  names:
+    jp_kana: １ごうしつのカギ
+    en: RM. 1 KEY
+    fr: CLE SALLE 1
+    it: CHIAVE CAB.1
+    de: K1-SCHLÜSSEL
+    es: LL. CABINA 1
+  descriptions:
+    jp_kana: "すてられぶねの　へやに\nはいる　ための　カギ"
+    en: "A key that opens a\ndoor inside the\nABANDONED SHIP."
+    fr: "Une clé pour ouvrir\nune des portes de\nl’EPAVE."
+    it: "Apre una porta\nnella VECCHIA\nNAVE."
+    de: "Schlüssel zur Tür\neiner Kabine auf\ndem SCHIFFSWRACK."
+    es: "Llave de una de las\ncabinas de la NAO\nABANDONADA."
+key_to_room_2:
+  names:
+    jp_kana: ２ごうしつのカギ
+    en: RM. 2 KEY
+    fr: CLE SALLE 2
+    it: CHIAVE CAB.2
+    de: K2-SCHLÜSSEL
+    es: LL. CABINA 2
+  descriptions:
+    jp_kana: "すてられぶねの　へやに\nはいる　ための　カギ"
+    en: "A key that opens a\ndoor inside the\nABANDONED SHIP."
+    fr: "Une clé pour ouvrir\nune des portes de\nl’EPAVE."
+    it: "Apre una porta\nnella VECCHIA\nNAVE."
+    de: "Schlüssel zur Tür\neiner Kabine auf\ndem SCHIFFSWRACK."
+    es: "Llave de una de las\ncabinas de la NAO\nABANDONADA."
+key_to_room_4:
+  names:
+    jp_kana: ４ごうしつのカギ
+    en: RM. 4 KEY
+    fr: CLE SALLE 4
+    it: CHIAVE CAB.4
+    de: K4-SCHLÜSSEL
+    es: LL. CABINA 4
+  descriptions:
+    jp_kana: "すてられぶねの　へやに\nはいる　ための　カギ"
+    en: "A key that opens a\ndoor inside the\nABANDONED SHIP."
+    fr: "Une clé pour ouvrir\nune des portes de\nl’EPAVE."
+    it: "Apre una porta\nnella VECCHIA\nNAVE."
+    de: "Schlüssel zur Tür\neiner Kabine auf\ndem SCHIFFSWRACK."
+    es: "Llave de una de las\ncabinas de la NAO\nABANDONADA."
+key_to_room_6:
+  names:
+    jp_kana: ６ごうしつのカギ
+    en: RM. 6 KEY
+    fr: CLE SALLE 6
+    it: CHIAVE CAB.6
+    de: K6-SCHLÜSSEL
+    es: LL. CABINA 6
+  descriptions:
+    jp_kana: "すてられぶねの　へやに\nはいる　ための　カギ"
+    en: "A key that opens a\ndoor inside the\nABANDONED SHIP."
+    fr: "Une clé pour ouvrir\nune des portes de\nl’EPAVE."
+    it: "Apre una porta\nnella VECCHIA\nNAVE."
+    de: "Schlüssel zur Tür\neiner Kabine auf\ndem SCHIFFSWRACK."
+    es: "Llave de una de las\ncabinas de la NAO\nABANDONADA."
+kings_rock:
+  names:
+    jp_kana: おうじゃのしるし
+    en: KING’S ROCK
+    fr: ROCHE ROYALE
+    it: ROCCIA DI RE
+    de: KING-STEIN
+    es: ROCA DEL REY
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nダメージを　うけた\nあいてが　たまに　ひるむ"
+    en: "A hold item that\nmay cause flinching\nwhen the foe is hit."
+    fr: "Objet tenu pouvant\napeurer l’ennemi\ns’il est touché."
+    it: "Strumento tenuto:\npuò far tentennare\nil nemico colpito."
+    de: "Item (Tragen) kann\nGegner zurück-\nweichen lassen."
+    es: "Al llevarla, puede\nhacer retroceder al\nrival si lo hieres."
+lansat_berry:
+  names:
+    jp_kana: サンのみ
+    en: LANSAT BERRY
+    fr: BAIE LANSAT
+    it: BACCALANGSA
+    de: LANSATBEERE
+    es: BAYA ZONLAN
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nてきの　きゅうしょに\nあたり　やすくなる"
+    en: "A hold item that\nups the critical-\nhit rate in a pinch."
+    fr: "Objet tenu qui mon-\nte le taux de criti-\nques si nécessaire."
+    it: "Strumento tenuto:\naumenta i brutti\ncolpi in difficoltà."
+    de: "Item (Tragen) hebt\nVolltrefferquote\nin einer Notlage."
+    es: "Al llevarla, sube la\nposibilidad de dar\nun golpe crítico."
+lava_cookie:
+  names:
+    jp_kana: フエンせんべい
+    en: LAVA COOKIE
+    fr: LAVA COOKIE
+    it: LAVOTTINO
+    de: LAVAKEKS
+    es: GALLETA LAVA
+  descriptions:
+    jp_kana: "フエンの　めいぶつ\nじょうたい　いじょうを\nすべて　かいふくする"
+    en: "A local specialty\nthat heals all\nstatus problems."
+    fr: "Spécialité locale\nsoignant les chan-\ngements de statut."
+    it: "Specialità locale\nche risolve tutti i\nproblemi di stato."
+    de: "Eine regionale Spe-\nzialität. Heilt alle\nStatusprobleme."
+    es: "Dulce típico que\ncura los problemas\nde estado."
+lax_incense:
+  names:
+    jp_kana: のんきのおこう
+    en: LAX INCENSE
+    fr: ENCENS DOUX
+    it: DISTRAROMA
+    de: LAXRAUCH
+    es: INCIE. SUAVE
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nてきの　めいちゅうりつを\nすこしだけ　さげる"
+    en: "A hold item that\nslightly lowers the\nfoe’s accuracy."
+    fr: "Objet tenu bais-\nsant un peu la pré-\ncision de l’ennemi."
+    it: "Strumento tenuto:\nriduce di poco la\nprecisione nemica."
+    de: "Item (Tragen)\nsenkt Genauigkeit\ndes Gegners."
+    es: "Al llevarlo, baja\nalgo la PRECISIÓN\ndel rival."
+leaf_stone:
+  names:
+    jp_kana: リーフのいし
+    en: LEAF STONE
+    fr: PIERREPLANTE
+    it: PIETRAFOGLIA
+    de: BLATTSTEIN
+    es: PIEDRA HOJA
+  descriptions:
+    jp_kana: "とくていの　ポケモンを\nしんかさせる"
+    en: "Makes certain\nspecies of POKéMON\nevolve."
+    fr: "Fait évoluer\ncertaines espèces\nde POKéMON."
+    it: "Fa evolvere\ndeterminate specie\ndi POKéMON."
+    de: "Löst bei bestimm-\nten POKéMON die\nEntwicklung aus."
+    es: "Hace evolucionar\na varias especies\nde POKéMON."
+leek:
+  names:
+    jp_kana: ながねぎ
+    en: STICK
+    fr: BATON
+    it: GAMBO
+    de: LAUCHSTANGE
+    es: PALO
+  descriptions:
+    jp_kana: "カモネギに　もたせると\nきゅうしょに\nあたりやすくなる"
+    en: "A hold item that\nraises FARFETCH’D’s\ncritical-hit ratio."
+    fr: "Objet montant le\ntaux de critiques\nde CANARTICHO."
+    it: "Strumento tenuto:\naumenta i brutti\ncolpi di FARFETCH’D."
+    de: "Item (Tragen) er-\nhöht Volltreffer-\nquote von PORENTA."
+    es: "FARFETCH’D tiene\nmás índice de golpe\ncrítico al llevarlo."
+leftovers:
+  names:
+    jp_kana: たべのこし
+    en: LEFTOVERS
+    fr: RESTES
+    it: AVANZI
+    de: ÜBERRESTE
+    es: RESTOS
+  descriptions:
+    jp_kana: "もたせると　たいりょくが\nせんとうの　あいだ\nすこしずつ　かいふくする"
+    en: "A hold item that\ngradually restores\nHP in battle."
+    fr: "Objet tenu permet-\ntant de restaurer\nles PV au combat."
+    it: "Strumento tenuto:\naumenta per gradi\ni PS nella lotta."
+    de: "Item (Tragen) füllt\nim Kampf langsam\nKP wieder auf."
+    es: "Al llevarlos, van\nrestaurando los PS\ndurante el combate."
+lemonade:
+  names:
+    jp_kana: ミックスオレ
+    en: LEMONADE
+    fr: LIMONADE
+    it: LEMONSUCCO
+    de: LIMONADE
+    es: LIMONADA
+  descriptions:
+    jp_kana: "とっても　あまーい\nポケモンの　たいりょくを\n８０　かいふくする"
+    en: "A very sweet drink\nthat restores HP\nby 80 points."
+    fr: "Une boisson très\nsucrée qui\nrestaure 80 PV."
+    it: "Bevanda molto\ndolce che\nrestituisce 80 PS."
+    de: "Ein süßes Getränk,\ndas die KP um 80\nPunkte auffüllt."
+    es: "Bebida dulce que\nrestaura 80 PS."
+leppa_berry:
+  names:
+    jp_kana: ヒメリのみ
+    en: LEPPA BERRY
+    fr: BAIE MEPO
+    it: BACCAMELA
+    de: JONAGOBEERE
+    es: BAYA ZANAMA
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nわざポイントを\n１０　かいふくする"
+    en: "A hold item that\nrestores 10 PP in\nbattle."
+    fr: "Objet tenu qui\nrestaure 10 PP\npendant un combat."
+    it: "Strumento tenuto:\nrestituisce 10 PP\nnella lotta."
+    de: "Item (Tragen) füllt\nAP im Kampf um\n10 Punkte auf."
+    es: "Al llevarla, \nte restaura 10 PP\nen el combate."
+letter:
+  names:
+    jp_kana: ダイゴへのてがみ
+    en: LETTER
+    fr: LETTRE
+    it: LETTERA
+    de: BRIEF
+    es: CARTA
+  descriptions:
+    jp_kana: "デボンしゃちょう　から\nあずかった　てがみ"
+    en: "A letter to STEVEN\nfrom the PRESIDENT\nof the DEVON CORP."
+    fr: "Lettre pour PIERRE\ndu PRESIDENT de la\nDEVON SARL."
+    it: "Lettera per ROCCO\ndal PRESIDENTE\ndella DEVON SpA."
+    de: "Brief an TROY\nvom PRÄSIDENTen\nder DEVON CORP."
+    es: "Carta para MÁXIMO,\ndel PRESIDENTE de\nDEVON S.A."
+liechi_berry:
+  names:
+    jp_kana: チイラのみ
+    en: LIECHI BERRY
+    fr: BAIE LICHII
+    it: BACCALICI
+    de: LYDZIBEERE
+    es: BAYA LICHI
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nこうげきりょくが　あがる"
+    en: "A hold item that\nraises ATTACK in\na pinch."
+    fr: "Objet tenu qui\nmonte l’ATTAQUE\nsi nécessaire."
+    it: "Strumento tenuto:\nin difficoltà au-\nmenta l’ATTACCO."
+    de: "Item (Tragen) hebt\nANGR.-Wert in einer\nNotlage."
+    es: "Al llevarla, subirá\nel ATAQUE en un\nmomento de apuro."
+lift_key:
+  names:
+    jp_kana: エレベータのカギ
+    en: LIFT KEY
+    fr: CLE ASC.
+    it: CHIAVE ASC.
+    de: LIFTÖFFNER
+    es: LL. ASCENSOR
+  descriptions:
+    jp_kana: "ロケットだん　アジトの\nエレベーターを　うごかす\nことが　できる　カギ"
+    en: "An elevator key\nused in TEAM\nROCKET’s HIDEOUT."
+    fr: "Clé pour l’ascen-\nseur du REPAIRE\nde la TEAM ROCKET."
+    it: "Chiave per l’ascen-\nsore nel RIFUGIO di\nTEAM ROCKET."
+    de: "Schlüssel für\nAufzug im VERSTECK\nvon TEAM ROCKET."
+    es: "Abre el ascensor\nde la GUARIDA\ndel TEAM ROCKET."
+light_ball:
+  names:
+    jp_kana: でんきだま
+    en: LIGHT BALL
+    fr: BALLELUMIERE
+    it: ELETTROPALLA
+    de: KUGELBLITZ
+    es: BOLALUMINOSA
+  descriptions:
+    jp_kana: "ビリビリしている　たま\nピカチュウに　もたせると\nとくこうが　あがる"
+    en: "A hold item that\nraises the SP. ATK\nof PIKACHU."
+    fr: "Objet tenu pour\nmonter l’ATQ. SPE.\nde PIKACHU."
+    it: "Strumento tenuto:\naumenta l’ATT. SP.\ndi PIKACHU."
+    de: "Item (Tragen)\nerhöht PIKACHUs\nSP. ANGR."
+    es: "Al llevarla, el AT. \nESP. de PIKACHU\naumentará."
+lucky_egg:
+  names:
+    jp_kana: しあわせタマゴ
+    en: LUCKY EGG
+    fr: OEUF CHANCE
+    it: FORTUNUOVO
+    de: GLÜCKS-EI
+    es: HUEVO SUERTE
+  descriptions:
+    jp_kana: "もたせた　ポケモンの\nけいけんちが　いつもより\nおおめに　もらえる"
+    en: "A hold item that\nboosts EXP. points\nearned in battle."
+    fr: "Objet tenu pour\naugmenter l’EXP.\ngagnée au combat."
+    it: "Strumento tenuto:\naumenta punti ESP.\nottenuti lottando."
+    de: "Item (Tragen)\nerhöht im Kampf er-\nhaltene EP."
+    es: "Al llevarlo, ganarás\nmuchos más puntos\nde EXP. en combate."
+lucky_punch:
+  names:
+    jp_kana: ラッキーパンチ
+    en: LUCKY PUNCH
+    fr: POING CHANCE
+    it: FORTUNPUGNO
+    de: LUCKY PUNCH
+    es: PUÑO SUERTE
+  descriptions:
+    jp_kana: "ラッキーに　もたせると\nあいての　きゅうしょに\nあたりやすくなる"
+    en: "A hold item that\nraises CHANSEY’s\ncritical-hit rate."
+    fr: "Objet tenu montant\nle taux de criti-\nques de LEVEINARD."
+    it: "Strumento tenuto:\naumenta i brutti\ncolpi di CHANSEY."
+    de: "Item (Tragen)\nerhöht CHANEIRAs\nVolltrefferquote."
+    es: "Al llevarlo, CHANSEY\ndará posiblemente\nun golpe crítico."
+lum_berry:
+  names:
+    jp_kana: ラムのみ
+    en: LUM BERRY
+    fr: BAIE PRINE
+    it: BACCAPRUGNA
+    de: PRUNUSBEERE
+    es: BAYA ZIUELA
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nじょうたい　いじょうを\nかいふくする"
+    en: "A hold item that\nheals any status\nproblem in battle."
+    fr: "Objet tenu qui\nrestaure le statut\npendant un combat."
+    it: "Strumento tenuto:\ncura i problemi di\nstato nella lotta."
+    de: "Item (Tragen) be-\nwirkt Selbstheilung\nbei Statusproblem."
+    es: "Al llevarla, cura \nlos problemas\nde estado."
+luxury_ball:
+  names:
+    jp_kana: ゴージャスボール
+    en: LUXURY BALL
+    fr: LUXE BALL
+    it: CHIC BALL
+    de: LUXUSBALL
+    es: LUJO BALL
+  descriptions:
+    jp_kana: "つかまえた　ポケモンが\nなつき　やすくなる\nいごこちの　いい　ボール"
+    en: "A cozy BALL that\nmakes POKéMON\nmore friendly."
+    fr: "Une BALL confor-\ntable qui rend les\nPOKéMON amicaux."
+    it: "Una BALL graziosa\nche rende i POKéMON\npiù amichevoli."
+    de: "Behaglicher BALL,\nder POKéMON\nfreundlicher macht."
+    es: "Es muy acogedora.\nHace a los POKéMON\nmás simpáticos."
+mach_bike:
+  names:
+    jp_kana: マッハじてんしゃ
+    en: MACH BIKE
+    fr: VELO COURSE
+    it: BICI CORSA
+    de: EILRAD
+    es: BICI CARRERA
+  descriptions:
+    jp_kana: "２ばい　いじょうの\nはやさで　いどう　できる\nおりたたみの　じてんしゃ"
+    en: "A folding bicycle\nthat doubles your\nspeed or better."
+    fr: "Un vélo pliable\npour aller 2 fois\nplus vite qu’à pied."
+    it: "Bici pieghevole: la\nvelocità è più che\nraddoppiata."
+    de: "Klapprad, das dop-\npelt so schnell ist\nwie ein Fußgänger."
+    es: "Bici plegable con la\nque se va el doble\nde rápido que a pie."
+macho_brace:
+  names:
+    jp_kana: きょうせいギプス
+    en: MACHO BRACE
+    fr: BRAC. MACHO
+    it: CRESCICAPPA
+    de: MACHOBAND
+    es: VESTIDURA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nすばやさが　さがるが　\nつよく　そだつ"
+    en: "A hold item that\npromotes growth,\nbut reduces SPEED."
+    fr: "Objet tenu augmen-\ntant la croissance.\nBaisse la VITESSE."
+    it: "Strumento tenuto:\naiuta la crescita,\nma riduce VELOCITÀ."
+    de: "Item (Tragen) för-\ndert Wachstum,\naber senkt INIT."
+    es: "Al llevarla, se\ncrece rápido, pero\nbaja la VELOCIDAD."
+magma_emblem:
+  names:
+    jp_kana: マグマのしるし
+    en: MAGMA EMBLEM
+    fr: SCEAU MAGMA
+    it: STEMMA MAGMA
+    de: MAGMAEMBLEM
+    es: SIGNO MAGMA
+  descriptions:
+    jp_kana: "マグマだんの　マークと\nおなじ　かたちを　した\nメダルの　ようなもの"
+    en: "A medal-like item in\nthe same shape as\nTEAM MAGMA’s mark."
+    fr: "Un objet portant le\nsceau de la\nTEAM MAGMA."
+    it: "Medaglia con lo\nstemma del TEAM\nMAGMA."
+    de: "EMBLEM in der Form\nvon TEAM MAGMAs\nAbzeichen."
+    es: "Especie de medalla\nidéntica al símbolo\ndel EQUIPO MAGMA."
+magnet:
+  names:
+    jp_kana: じしゃく
+    en: MAGNET
+    fr: AIMANT
+    it: CALAMITA
+    de: MAGNET
+    es: IMÁN
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nでんきタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nboosts ELECTRIC-\ntype moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques ELECTRIK."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo ELETTRO."
+    de: "Item (Tragen)\nverstärkt\nELEKTRO-Attacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo ELÉCTRIC."
+mago_berry:
+  names:
+    jp_kana: マゴのみ
+    en: MAGO BERRY
+    fr: BAIE MAGO
+    it: BACCAMANGO
+    de: MAGOBEERE
+    es: BAYA ANGO
+  descriptions:
+    jp_kana: "もたせると　たいりょくを\nかいふく　できるが\nこんらんする　ことがある"
+    en: "A hold item that\nrestores HP but\nmay confuse."
+    fr: "Objet tenu qui res-\ntaure les PV. Peut\nrendre confus."
+    it: "Strumento tenuto:\nrestituisce PS, ma\npuò confondere."
+    de: "Item (Tragen) füllt\nKP auf, bewirkt\nevtl. Verwirrung."
+    es: "Al llevarla, te\nrestaura PS, pero\npuede confundirte."
+magost_berry:
+  names:
+    jp_kana: ゴスのみ
+    en: MAGOST BERRY
+    fr: BAIE MANGOU
+    it: BACCAGOSTAN
+    de: MAGOSTBEERE
+    es: BAYA AOSTAN
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nゴスが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow MAGOST."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un MANGOU."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nMAGOST wächst."
+    es: "En suelo fértil da\nAOSTAN. Sirve para\nhacer POKéCUBOS."
+master_ball:
+  names:
+    jp_kana: マスターボール
+    en: MASTER BALL
+    fr: MASTER BALL
+    it: MASTER BALL
+    de: MEISTERBALL
+    es: MASTER BALL
+  descriptions:
+    jp_kana: "ポケモンを　かならず\nつかまえることが　できる\nさいこうの　ボール"
+    en: "The best BALL that\ncatches a POKéMON\nwithout fail."
+    fr: "La meilleure BALL.\nCapture le POKéMON\nà coup sûr."
+    it: "La BALL migliore:\ncattura un POKéMON\ninfallibilmente."
+    de: "Der beste BALL.\nFängt das POKéMON\ngarantiert."
+    es: "Es la mejor.\nAtrapa siempre al\nPOKéMON. No falla."
+max_elixir:
+  names:
+    jp_kana: ピーピーマックス
+    en: MAX ELIXIR
+    fr: MAX ELIXIR
+    it: ELISIR MAX
+    de: TOP-ELIXIER
+    es: ELIXIR MÁX.
+  descriptions:
+    jp_kana: "ポケモン　１ぴきの\nすべての　わざポイントを\nぜんかいふくする"
+    en: "Fully restores the\nPP of a POKéMON’s\nmoves."
+    fr: "Restaure tous les\nPP de toutes les\nattaques."
+    it: "Restituisce tutti i\nPP alle mosse di\nun POKéMON."
+    de: "Füllt alle AP eines\nPOKéMON voll-\nständig auf."
+    es: "Restaura los PP de\ntodos los ataques\nde un POKéMON."
+max_ether:
+  names:
+    jp_kana: ピーピーリカバー
+    en: MAX ETHER
+    fr: HUILE MAX
+    it: ETERE MAX
+    de: TOP-ÄTHER
+    es: ÉTER MÁX.
+  descriptions:
+    jp_kana: "１つの　わざの\nわざポイントを\nぜんかいふくする"
+    en: "Fully restores the\nPP of a selected\nmove."
+    fr: "Restaure tous les\nPP d’une attaque\nsélectionnée."
+    it: "Restituisce tutti\ni PP alla mossa\nselezionata."
+    de: "Füllt AP einer aus-\ngewählten Attacke\nvollständig auf."
+    es: "Restaura los PP del\nataque que elijas."
+max_potion:
+  names:
+    jp_kana: まんたんのくすり
+    en: MAX POTION
+    fr: POTION MAX
+    it: POZIONE MAX
+    de: TOP-TRANK
+    es: MÁX. POCIÓN
+  descriptions:
+    jp_kana: "ポケモンの　たいりょくを\nぜんかいふくする"
+    en: "Fully restores the\nHP of a POKéMON."
+    fr: "Restaure tous les\nPV d’un POKéMON."
+    it: "Restituisce ad un\nPOKéMON ogni PS."
+    de: "Füllt die KP\nvollständig auf."
+    es: "Restaura todos los\nPS de un POKéMON."
+max_repel:
+  names:
+    jp_kana: ゴールドスプレー
+    en: MAX REPEL
+    fr: MAX REPOUSSE
+    it: REPELL. MAX
+    de: TOP-SCHUTZ
+    es: MÁX. REPEL
+  descriptions:
+    jp_kana: "２５０ぽ　すすむ　あいだ\nよわい　ポケモンと\nそうぐう　しなくなる"
+    en: "Repels weak wild\nPOKéMON for 250\nsteps."
+    fr: "Repousse les PKMN\nsauvages faibles \ndurant 250 pas."
+    it: "Allontana i POKéMON\nselvatici deboli\nper 250 passi."
+    de: "Hält 250 Schritte\nlang schwache,\nwilde POKéMON ab."
+    es: "Repele POKéMON\nsalvajes débiles\n250 pasos."
+max_revive:
+  names:
+    jp_kana: げんきのかたまり
+    en: MAX REVIVE
+    fr: RAPPEL MAX
+    it: REVITAL. MAX
+    de: TOP-BELEBER
+    es: MÁX. REVIVIR
+  descriptions:
+    jp_kana: "ひんし　じょうたいから\nたいりょくを\nぜんかいふくする"
+    en: "Revives a fainted\nPOKéMON with all\nits HP."
+    fr: "Réanime un POKéMON\nK.O. et restaure\ntous ses PV."
+    it: "Un POKéMON\nesausto recupera\ntutti i PS."
+    de: "Belebt POKéMON\nund füllt KP voll-\nständig wieder auf."
+    es: "Hace revivir a un\nPOKéMON debilitado.\nLe da todos los PS."
+mech_mail:
+  names:
+    jp_kana: メカニカルメール
+    en: MECH MAIL
+    fr: LETTRE MECA
+    it: MESS. TECNO
+    de: EILBRIEF
+    es: CARTA IMÁN
+  descriptions:
+    jp_kana: "コイルの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A MAGNEMITE-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier MAGNETI\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi MAGNEMITE."
+    de: "BRIEF (Tragen) mit \nMAGNETILO-\nAufdruck."
+    es: "Sale MAGNEMITE.\nDebe llevarla\nun POKéMON."
+mental_herb:
+  names:
+    jp_kana: メンタルハーブ
+    en: MENTAL HERB
+    fr: HERBE MENTAL
+    it: MENTALERBA
+    de: MENTALKRAUT
+    es: HIER. MENTAL
+  descriptions:
+    jp_kana: "もたせた　ポケモンが\nメロメロに　なったとき\nなおして　くれる"
+    en: "A hold item that\nsnaps POKéMON out\nof infatuation."
+    fr: "Objet tenu qui\nannule l’attirance\nd’un POKéMON."
+    it: "Strumento tenuto:\nlibera un POKéMON\ndall’infatuazione."
+    de: "Item (Tragen) er-\nlöst POKéMON von\nder Anziehung."
+    es: "Al llevarla, los\nPOKéMON se liberan\ndel enamoramiento."
+metal_coat:
+  names:
+    jp_kana: メタルコート
+    en: METAL COAT
+    fr: PEAU METAL
+    it: METALCOPERTA
+    de: METALLMANTEL
+    es: REV.METÁLICO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nはがねタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nSTEEL-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques ACIER."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo ACCIAIO."
+    de: "Item (Tragen)\nverstärkt STAHL-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo ACERO."
+metal_powder:
+  names:
+    jp_kana: メタルパウダー
+    en: METAL POWDER
+    fr: POUDRE METAL
+    it: METALPOLVERE
+    de: METALLSTAUB
+    es: POL.METÁLICO
+  descriptions:
+    jp_kana: "メタモンに　もたせると\nぼうぎょが　あがる"
+    en: "A hold item that\nraises DITTO’s\nDEFENSE."
+    fr: "Objet tenu montant\nla DEFENSE de\nMETAMORPH."
+    it: "Strumento tenuto:\naumenta la DIFESA\ndi DITTO."
+    de: "Item (Tragen)\nerhöht VERT.-Wert\nvon DITTO."
+    es: "Si lo lleva DITTO,\nsu DEFENSA\naumentará."
+meteorite:hoenn:
+  names:
+    jp_kana: いんせき
+    en: METEORITE
+    fr: METEORITE
+    it: METEORITE
+    de: METEORIT
+    es: METEORITO
+  descriptions:
+    jp_kana: "りゅうせいのたきに\nおちていた　いんせき"
+    en: "A meteorite found\nat METEOR FALLS."
+    fr: "Météorite venant \ndu SITE METEORE."
+    it: "Si trova presso le\nCASCATE METEORA."
+    de: "Meteorit. Fundort:\nMETEORFÄLLE."
+    es: "Meteorito encon-\ntrado en la CASCADA\nMETEORO."
+miracle_seed:
+  names:
+    jp_kana: きせきのタネ
+    en: MIRACLE SEED
+    fr: GRAIN MIRACL
+    it: MIRACOLSEME
+    de: WUNDERSAAT
+    es: SEM. MILAGRO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nくさタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nGRASS-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques PLANTE."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo ERBA."
+    de: "Item (Tragen)\nverstärkt PFLAN-\nZEN-Attacken."
+    es: "Al llevarla, forta-\nlece los ataques\nde tipo PLANTA."
+moomoo_milk:
+  names:
+    jp_kana: モーモーミルク
+    en: MOOMOO MILK
+    fr: LAIT MEUMEU
+    it: LATTE MUMU
+    de: KUHMUH-MILCH
+    es: LECHE MU-MU
+  descriptions:
+    jp_kana: "えいよう　まんてん\nポケモンの　たいりょくを\n１００　かいふくする"
+    en: "A nutritious milk\nthat restores HP\nby 100 points."
+    fr: "Un lait nourrissant\nqui restaure les PV\nde 100 points."
+    it: "Latte nutriente\nche restituisce\n100 PS."
+    de: "Milch, die die KP um\n100 Punkte\nauffüllt."
+    es: "Nutritiva leche que\nrestaura 100 PS."
+moon_stone:
+  names:
+    jp_kana: つきのいし
+    en: MOON STONE
+    fr: PIERRE LUNE
+    it: PIETRALUNARE
+    de: MONDSTEIN
+    es: PIEDRA LUNAR
+  descriptions:
+    jp_kana: "とくていの　ポケモンを\nしんかさせる"
+    en: "Makes certain\nspecies of POKéMON\nevolve."
+    fr: "Fait évoluer\ncertaines espèces\nde POKéMON."
+    it: "Fa evolvere\ndeterminate specie\ndi POKéMON."
+    de: "Löst bei bestimm-\nten POKéMON die\nEntwicklung aus."
+    es: "Hace evolucionar\na varias especies\nde POKéMON."
+mystic_water:
+  names:
+    jp_kana: しんぴのしずく
+    en: MYSTIC WATER
+    fr: EAU MYSTIQUE
+    it: ACQUA MAGICA
+    de: ZAUBERWASSER
+    es: AGUA MÍSTICA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nみずタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nWATER-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques EAU."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo ACQUA."
+    de: "Item (Tragen)\nverstärkt WASSER-\nAttacken."
+    es: "Al llevarla, forta-\nlece los ataques\nde tipo AGUA."
+mysticticket:
+  names:
+    jp_kana: しんぴのチケット
+    en: MYSTICTICKET
+    fr: TICKETMYSTIK
+    it: BIGL. MAGICO
+    de: GEHEIMTICKET
+    es: MISTI-TICKET
+  descriptions:
+    jp_kana: "へそのいわへ\nいくために　ひつような\nふねの　チケット"
+    en: "A ticket required\nto board the ship\nto NAVEL ROCK."
+    fr: "Le ticket requis\npour aller au\nROC NOMBRI."
+    it: "Biglietto per la\nnave che porta\nal MONTE CORDONE."
+    de: "Fahrkarte für das\nSchiff zum\nNABELFELSEN."
+    es: "Ticket necesario\npara navegar hasta\nROCA OMBLIGO."
+nanab_berry:
+  names:
+    jp_kana: ナナのみ
+    en: NANAB BERRY
+    fr: BAIE NANAB
+    it: BACCABANA
+    de: NANABBEERE
+    es: BAYA LATANO
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nナナが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow NANAB."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un NANAB."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nNANAB wächst."
+    es: "En suelo fértil da\nLATANO. Sirve para\nhacer POKéCUBOS."
+nest_ball:
+  names:
+    jp_kana: ネストボール
+    en: NEST BALL
+    fr: FAIBLO BALL
+    it: MINOR BALL
+    de: NESTBALL
+    es: NIDO BALL
+  descriptions:
+    jp_kana: "つかまえる　ポケモンが\nよわいほど　つかまえ\nやすくなる　ボール"
+    en: "A BALL that works\nbetter on weaker\nPOKéMON."
+    fr: "Une BALL qui marche\nmieux avec les\nPOKéMON faibles."
+    it: "BALL più efficace\nsui POKéMON di\nlivello inferiore."
+    de: "BALL mit höherer\nErfolgsquote bei\nschwachen POKéMON."
+    es: "Funciona mejor\ncon los POKéMON\nde menor nivel."
+net_ball:
+  names:
+    jp_kana: ネットボール
+    en: NET BALL
+    fr: FILET BALL
+    it: RETE BALL
+    de: NETZBALL
+    es: MALLA BALL
+  descriptions:
+    jp_kana: "みずと　むしタイプの\nポケモンが　つかまえ\nやすくなる　ボール"
+    en: "A BALL that works\nwell on WATER- and\nBUG-type POKéMON."
+    fr: "Une BALL qui marche\nbien sur un POKéMON\nEAU ou INSECTE."
+    it: "BALL più efficace\nsui POKéMON di tipo\nACQUA e COLEOT."
+    de: "BALL fängt POKéMON\ndes Typs WASSER\nund KÄFER besser."
+    es: "Funciona bien con\nlos POKéMON de\ntipo AGUA y BICHO."
+never_melt_ice:
+  names:
+    jp_kana: とけないこおり
+    en: NEVERMELTICE
+    fr: GLACETERNEL
+    it: GELOMAI
+    de: EWIGES EIS
+    es: ANTIDERRETIR
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nこおりタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nICE-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques GLACE."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo GHIACCIO."
+    de: "Item (Tragen)\nverstärkt EIS-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo HIELO."
+nomel_berry:
+  names:
+    jp_kana: ノメルのみ
+    en: NOMEL BERRY
+    fr: BAIE TRONCI
+    it: BACCALEMON
+    de: TRONZIBEERE
+    es: BAYA MONLI
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nノメルが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow NOMEL."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un TRONCI."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nTRONZI wächst."
+    es: "En suelo fértil da\nMONLI. Sirve para\nhacer POKéCUBOS."
+nugget:
+  names:
+    jp_kana: きんのたま
+    en: NUGGET
+    fr: PEPITE
+    it: PEPITA
+    de: NUGGET
+    es: PEPITA
+  descriptions:
+    jp_kana: "じゅんきん　せい\nたかく　うれる"
+    en: "A nugget of pure\ngold. Can be sold at\na high price."
+    fr: "Pépite d’or pur.\nPeut être vendue\nà bon prix."
+    it: "Pepita d’oro puro.\nSi può vendere\na caro prezzo."
+    de: "Ein Barren aus pu-\nrem Gold, der von\ngroßem Wert ist."
+    es: "Pepita de oro puro\nque se vende a alto\nprecio."
+old_amber:
+  names:
+    jp_kana: ひみつのコハク
+    en: OLD AMBER
+    fr: VIEIL AMBRE
+    it: AMBRA ANTICA
+    de: ALTBERNSTEIN
+    es: ÁMBAR VIEJO
+  descriptions:
+    jp_kana: "こだい　ポケモンの\nいでんし　じょうほうが\nとじこめられている　いし"
+    en: "A stone containing\nthe genes of an\nancient POKéMON."
+    fr: "Une pierre\ncontenant l’ADN\nd’un ancien PKMN."
+    it: "Ambra che contiene\ni geni di un POKéMON\nantico."
+    de: "Bernstein mit den\nGenen eines\nantiken PKMN."
+    es: "Trozo de ámbar\ncon genes de un\nPOKéMON ancestral."
+old_rod:
+  names:
+    jp_kana: ボロのつりざお
+    en: OLD ROD
+    fr: CANNE
+    it: AMO VECCHIO
+    de: ANGEL
+    es: CAÑA VIEJA
+  descriptions:
+    jp_kana: "ポケモンを　つるどうぐ\nみずべで　つかうと\nポケモンが　つれる"
+    en: "Use by any body of\nwater to fish for\nwild POKéMON."
+    fr: "Canne pour pêcher\ndes POKéMON\nsauvages."
+    it: "Pesca POKéMON\nselvatici in ogni\nspecchio d’acqua."
+    de: "Damit kannst du in\njedem Gewässer\nPOKéMON angeln."
+    es: "Pesca POKéMON\nsalvajes en todo\ntipo de aguas."
+old_sea_map:
+  names:
+    jp_kana: ふるびたかいず
+    en: OLD SEA MAP
+    fr: VIEILLECARTE
+    it: MAPPA STINTA
+    de: ALTE KARTE
+    es: MAPA VIEJO
+  descriptions:
+    jp_kana: "ある　しまへの　かいろを\nしるして　ある\nふるぼけた　うみの　ちず"
+    en: "A faded sea chart\nthat shows the way\nto a certain island."
+    fr: "Une vieille carte\nmontrant la route\nvers une île."
+    it: "Una mappa sbiadita\nper raggiungere\nuna certa isola."
+    de: "Alte Seekarte!\nZeigt den Weg zu\neiner Insel."
+    es: "Descolorido mapa\nmarino, que indica\ndónde hay una isla."
+oran_berry:
+  names:
+    jp_kana: オレンのみ
+    en: ORAN BERRY
+    fr: BAIE ORAN
+    it: BACCARANCIA
+    de: SINELBEERE
+    es: BAYA ARANJA
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nたいりょくを\n１０　かいふくする"
+    en: "A hold item that\nrestores 10 HP in\nbattle."
+    fr: "Objet tenu qui\nrestaure 10 PV\npendant un combat."
+    it: "Strumento tenuto:\nrestituisce 10 PS\nnella lotta."
+    de: "Item (Tragen) füllt\nKP im Kampf um\n10 Punkte auf."
+    es: "Al llevarla, \nte restaura 10 PS\nen el combate."
+orange_mail:
+  names:
+    jp_kana: オレンジメール
+    en: ORANGE MAIL
+    fr: LETTRE ORANJ
+    it: MESS. AGRUME
+    de: ZIGZAGBRIEF
+    es: CAR. NARANJA
+  descriptions:
+    jp_kana: "ジグザグマの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A ZIGZAGOON-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier ZIGZATON\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi ZIGZAGOON."
+    de: "BRIEF (Tragen) mit \nZIGZACHS-\nAufdruck."
+    es: "Sale ZIGZAGOON.\nDebe llevarla\nun POKéMON."
+pamtre_berry:
+  names:
+    jp_kana: シーヤのみ
+    en: PAMTRE BERRY
+    fr: BAIE PALMA
+    it: BACCAPALMA
+    de: PALLMBEERE
+    es: BAYA PLAMA
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nシーヤが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow PAMTRE."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un PALMA."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nPALLM wächst."
+    es: "En suelo fértil da\nPLAMA. Sirve para\nhacer POKéCUBOS."
+paralyze_heal:
+  names:
+    jp_kana: まひなおし
+    en: PARLYZ HEAL
+    fr: ANTI-PARA
+    it: ANTIPARALISI
+    de: PARA-HEILER
+    es: ANTIPARALIZ
+  descriptions:
+    jp_kana: "まひ　じょうたいを\nかいふくする"
+    en: "Heals a paralyzed\nPOKéMON."
+    fr: "Soigne les POKéMON\nparalysés."
+    it: "Cura un POKéMON\ndalla paralisi."
+    de: "Heilt Paralyse\neines POKéMON."
+    es: "Cura a un POKéMON\nparalizado."
+parcel:kanto:
+  names:
+    jp_kana: おとどけもの
+    en: OAK’S PARCEL
+    fr: COLIS CHEN
+    it: PACCO DI OAK
+    de: EICHs PAKET
+    es: CORREO-OAK
+  descriptions:
+    jp_kana: "ショップの　てんいんから\nたのまれた　おとどけもの\nオーキドはかせに　わたす"
+    en: "A parcel for PROF.\nOAK from a POKéMON\nMART’s clerk."
+    fr: "Un paquet pour le\nPROF. CHEN d’une\nBOUTIQUE PKMN."
+    it: "Un pacco per OAK\nda un POKéMON-\nMARKET."
+    de: "Paket! SUPERMARKT\nin VERTANIA an\nPROF. EICH."
+    es: "Se lo mandan al\nPROF. OAK desde una\nTIENDA POKéMON."
+pearl:
+  names:
+    jp_kana: しんじゅ
+    en: PEARL
+    fr: PERLE
+    it: PERLA
+    de: PERLE
+    es: PERLA
+  descriptions:
+    jp_kana: "きれいな　しんじゅ\nやすく　うれる"
+    en: "A pretty pearl\nthat would sell at a\ncheap price."
+    fr: "Une jolie perle.\nPeut être vendue\nà bas prix."
+    it: "Una bella perla che\nsi vende a basso\nprezzo."
+    de: "Eine hübsche Perle\nvon geringem Wert."
+    es: "Bonita perla\nque se vende\na bajo precio."
+pecha_berry:
+  names:
+    jp_kana: モモンのみ
+    en: PECHA BERRY
+    fr: BAIE PECHA
+    it: BACCAPESCA
+    de: PIRSIFBEERE
+    es: BAYA MELOC
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nどく　じょうたいを\nかいふくする"
+    en: "A hold item that\nheals poisoning\nin battle."
+    fr: "Objet tenu qui soi-\ngne du poison\npendant un combat."
+    it: "Strumento tenuto:\ncura avvelenamento\nnella lotta."
+    de: "Item (Tragen) be-\nwirkt Selbstheilung\nbei Vergiftung."
+    es: "Al llevarla, cura\nel envenenamiento\nen el combate."
+persim_berry:
+  names:
+    jp_kana: キーのみ
+    en: PERSIM BERRY
+    fr: BAIE KIKA
+    it: BACCAKI
+    de: PERSIMBEERE
+    es: BAYA CAQUIC
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nこんらん　じょうたいを\nかいふくする"
+    en: "A hold item that\nheals confusion\nin battle."
+    fr: "Objet tenu qui\nsoigne la confusion\npendant un combat."
+    it: "Strumento tenuto:\ncura la confusione\nnella lotta."
+    de: "Item (Tragen) be-\nwirkt Selbstheilung\nbei Verwirrung."
+    es: "Al llevarla, te\nsaca del estado\nde confusión."
+petaya_berry:
+  names:
+    jp_kana: ヤタピのみ
+    en: PETAYA BERRY
+    fr: BAIE PITAYE
+    it: BACCAPITAYA
+    de: TAHAYBEERE
+    es: BAYA YAPATI
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nとくこうが　あがる"
+    en: "A hold item that\nraises SP. ATK in\na pinch."
+    fr: "Objet tenu qui\nmonte l’ATQ. SPE.\nsi nécessaire."
+    it: "Strumento tenuto:\nin difficoltà au-\nmenta l’ATT. SP."
+    de: "Item (Tragen) hebt\nSP. ANGR.-Wert\nin einer Notlage."
+    es: "Al llevarla, subirá\nel AT. ESP. en un\nmomento de apuro."
+pinap_berry:
+  names:
+    jp_kana: パイルのみ
+    en: PINAP BERRY
+    fr: BAIE NANANA
+    it: BACCANANAS
+    de: SANANABEERE
+    es: BAYA PINIA
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nパイルが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow PINAP."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un NANANA."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nSANANA wächst."
+    es: "En suelo fértil da\nPINIA. Sirve para\nhacer POKéCUBOS."
+pink_scarf:
+  names:
+    jp_kana: ピンクのバンダナ
+    en: PINK SCARF
+    fr: FOUL. ROSE
+    it: FASCIA ROSA
+    de: ROSA SCHAL
+    es: PAÑUELO ROSA
+  descriptions:
+    jp_kana: "もたせて　コンテストに\nさんかすると　いつもより\nかわいく　みられる"
+    en: "A hold item that\nraises CUTE in\nCONTESTS."
+    fr: "Objet tenu montant\nla stat GRACE\ndans les CONCOURS."
+    it: "Strumento tenuto:\ndà più GRAZIA nelle\nGARE."
+    de: "Item (Tragen) hebt\nANMUT-Wert für den\nWETTBEWERB."
+    es: "Al llevarlo en los\nCONCURSOS,\nsube la DULZURA."
+poison_barb:
+  names:
+    jp_kana: どくバリ
+    en: POISON BARB
+    fr: PIC VENIN
+    it: VELENACULEO
+    de: GIFTSTICH
+    es: FLECHA VEN.
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nどくタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nPOISON-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques POISON."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo VELENO."
+    de: "Item (Tragen)\nverstärkt GIFT-\nAttacken."
+    es: "Al llevarla, forta-\nlece los ataques\nde tipo VENENO."
+poke_ball:
+  names:
+    jp_kana: モンスターボール
+    en: POKé BALL
+    fr: POKé BALL
+    it: POKé BALL
+    de: POKéBALL
+    es: POKé BALL
+  descriptions:
+    jp_kana: "やせい　ポケモンを\nつかまえるための　どうぐ"
+    en: "A tool used for\ncatching wild\nPOKéMON."
+    fr: "Un objet qui permet\nd’attraper les\nPOKéMON sauvages."
+    it: "Strumento usato\nper catturare\nPOKéMON selvatici."
+    de: "Damit fängst\ndu wilde\nPOKéMON."
+    es: "Sirve para atrapar\nPOKéMON salvajes."
+poke_doll:
+  names:
+    jp_kana: ピッピにんぎょう
+    en: POKé DOLL
+    fr: POKéPOUPEE
+    it: POKé BAMBOLA
+    de: POKéPUPPE
+    es: POKé MUÑECO
+  descriptions:
+    jp_kana: "そうぐうした　やせいの\nポケモンから　かならず\nにげることが　できる"
+    en: "Use to flee from\nany battle with\na wild POKéMON."
+    fr: "Pour s’enfuir d’un\ncombat contre un\nPOKéMON sauvage."
+    it: "Per fuggire dalla\nlotta con un\nPOKéMON selvatico."
+    de: "Ermöglicht Flucht\nim Kampf gegen\nwilde POKéMON."
+    es: "Sirve para huir de\nun combate con un\nPOKéMON salvaje."
+poke_flute:
+  names:
+    jp_kana: ポケモンのふえ
+    en: POKé FLUTE
+    fr: POKéFLUTE
+    it: POKé FLAUTO
+    de: POKéFLÖTE
+    es: POKé FLAUTA
+  descriptions:
+    jp_kana: "きれいな　ねいろの　ふえ\nねている　ポケモンが\nきくと　とびおきる"
+    en: "A sweet-sounding\nflute that awakens\nPOKéMON."
+    fr: "Une flûte pouvant\nréveiller n’importe\nquel POKéMON."
+    it: "Flauto melodioso\nche risveglia\ni POKéMON."
+    de: "Flöte, deren Klang\njedes schlafende\nPKMN aufweckt."
+    es: "Despierta a los\nPOKéMON.\nSuena de maravilla."
+pokeblock_case:
+  names:
+    jp_kana: ポロックケース
+    en: POKéBLOCK CASE
+    fr: BOITE POKéBLOCS
+    it: PORTAPOKéMELLE
+    de: POKéRIEGELBOX
+    es: TUBO POKéCUBOS
+  descriptions:
+    jp_kana: "きのみブレンダーで\nつくった　ポロックを\nほぞんする　いれもの"
+    en: "A case for holding\nPOKéBLOCKS made with\na BERRY BLENDER."
+    fr: "Boîte pour ranger\nles POKéBLOCS créés\navec le MIXEUR."
+    it: "Contiene le\nPOKéMELLE fatte con\nil MIXER BACCHE."
+    de: "Box für POKéRIEGEL,\ndie im BEERENMIXER\nhergestellt werden."
+    es: "Tubo para los\nPOKéCUBOS hechos\ncon la LICUABAYAS."
+pomeg_berry:
+  names:
+    jp_kana: ザロクのみ
+    en: POMEG BERRY
+    fr: BAIE GRENA
+    it: BACCAGRANA
+    de: GRANABEERE
+    es: BAYA GRANA
+  descriptions:
+    jp_kana: "ポケモンが　ちょっと\nなつくが　ＨＰの\nきそポイントが　さがる"
+    en: "Makes a POKéMON\nfriendly but lowers\nbase HP."
+    fr: "Rend un POKéMON\namical, baisse les\nPV de base."
+    it: "Rende un POKéMON\namichevole, ma\nriduce i PS."
+    de: "PKMN wird freund-\nlicher, aber\nGrund-KP sinkt."
+    es: "Hace amable al\nPOKéMON, pero\nbaja los PS."
+potion:
+  names:
+    jp_kana: キズぐすり
+    en: POTION
+    fr: POTION
+    it: POZIONE
+    de: TRANK
+    es: POCIÓN
+  descriptions:
+    jp_kana: "ポケモンの　たいりょくを\n２０　かいふくする"
+    en: "Restores the HP of\na POKéMON by\n20 points."
+    fr: "Restaure les PV\nd’un POKéMON\nde 20 points."
+    it: "Restituisce ad un\nPOKéMON 20 PS."
+    de: "Füllt die KP eines\nPOKéMON um\n20 Punkte auf."
+    es: "Restaura 20 PS\nde un POKéMON."
+powder_jar:
+  names:
+    jp_kana: こないれ
+    en: POWDER JAR
+    fr: POT POUDRE
+    it: PORTAFARINA
+    de: PUDERDÖSCHEN
+    es: BOTE POLVOS
+  descriptions:
+    jp_kana: "きのみクラッシュで\nできた　きのみの　こなを\nほぞんする　いれもの"
+    en: "Stores BERRY\nPOWDER made using\na BERRY CRUSHER."
+    fr: "Un pot pour\nconserver la\nPOUDRE BAIE."
+    it: "Contiene la FARINA\ndi BACCHE ottenuta\ncol MACINABACCHE."
+    de: "Glas für BEEREN-\nPUDER der\nBEERENMÜHLE."
+    es: "Es para el POLVO\nde BAYA que sale\ndel MACHACABAYAS."
+pp_max:
+  names:
+    jp_kana: ポイントマックス
+    en: PP MAX
+    fr: PP MAX
+    it: PP-MAX
+    de: AP-TOP
+    es: MÁX. PP
+  descriptions:
+    jp_kana: "わざポイントを\nさいだいちまで　あげる"
+    en: "Raises the PP of a\nmove to its maximum\npoints."
+    fr: "Monte les PP d’une\nattaque à son\nmaximum."
+    it: "Porta al limite i PP \nmassimi della mossa\nselezionata."
+    de: "Maximiert die\nAnzahl der AP\neiner Attacke."
+    es: "Aumenta los PP\ndel ataque que\nelijas al máximo."
+pp_up:
+  names:
+    jp_kana: ポイントアップ
+    en: PP UP
+    fr: PP PLUS
+    it: PP-SU
+    de: AP-PLUS
+    es: MÁS PP
+  descriptions:
+    jp_kana: "わざポイントの\nさいだいちが　あがる"
+    en: "Raises the maximum\nPP of a selected\nmove."
+    fr: "Monte les PP max.\nd’une attaque\nsélectionnée."
+    it: "Aumenta i PP\nmassimi della\nmossa selezionata."
+    de: "Hebt die maximale\nAnzahl der AP\neiner Attacke."
+    es: "Aumenta los PP\nmáximos del\nataque que elijas."
+premier_ball:
+  names:
+    jp_kana: プレミアボール
+    en: PREMIER BALL
+    fr: HONOR BALL
+    it: PREMIER BALL
+    de: PREMIERBALL
+    es: HONOR BALL
+  descriptions:
+    jp_kana: "なにかの　きねんに\nつくられた　めずらしい\nモンスターボール"
+    en: "A rare BALL made\nin commemoration\nof some event."
+    fr: "Une BALL rare créée\nà l’occasion d’un\ngrand évènement."
+    it: "Una BALL rara che\ncommemora un\nparticolare evento."
+    de: "Seltener BALL, als\nReminiszenz an ir-\ngendein Ereignis."
+    es: "Es muy particular. \nSe hizo para\nconmemorar algo."
+protein:
+  names:
+    jp_kana: タウリン
+    en: PROTEIN
+    fr: PROTEINE
+    it: PROTEINA
+    de: PROTEIN
+    es: PROTEÍNA
+  descriptions:
+    jp_kana: "こうげきの\nきそポイントを　あげる"
+    en: "Raises the base\nATTACK stat of one\nPOKéMON."
+    fr: "Monte l’ATTAQUE\nd’un POKéMON."
+    it: "Aumenta l’ATTACCO\ndi un POKéMON."
+    de: "Hebt den\nANGR.-Wert\neines POKéMON."
+    es: "Aumenta el ATAQUE\nde un POKéMON."
+qualot_berry:
+  names:
+    jp_kana: タポルのみ
+    en: QUALOT BERRY
+    fr: BAIE QUALOT
+    it: BACCALOQUAT
+    de: QUALOTBEERE
+    es: BAYA ISPERO
+  descriptions:
+    jp_kana: "ポケモンが　ちょっと\nなつくが　ぼうぎょの\nきそポイントが　さがる"
+    en: "Makes a POKéMON\nfriendly but lowers\nbase DEFENSE."
+    fr: "Rend un POKéMON\namical, baisse la\nDEF. de base."
+    it: "Rende un POKéMON\namichevole, ma\nriduce la DIFESA."
+    de: "PKMN wird freund-\nlicher, aber Grund-\nVERT.-Wert sinkt."
+    es: "Hace amable al\nPOKéMON, pero\nbaja la DEFENSA."
+quick_claw:
+  names:
+    jp_kana: せんせいのツメ
+    en: QUICK CLAW
+    fr: VIVE GRIFFE
+    it: RAPIDARTIGLI
+    de: FLINKKLAUE
+    es: GARRA RÁPIDA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nせんせい　こうげきが\nたまに　できる"
+    en: "A hold item that\noccasionally allows\nthe first strike."
+    fr: "Objet tenu qui\npermet parfois de\nfrapper le premier."
+    it: "Strumento tenuto:\na volte permette di\ncolpire per primi."
+    de: "Item (Tragen) hebt\ndie Erstschlag-\nquote."
+    es: "Al llevarla, se\npuede golpear en\nprimer lugar."
+rabuta_berry:
+  names:
+    jp_kana: ラブタのみ
+    en: RABUTA BERRY
+    fr: BAIE RABUTA
+    it: BACCAMBUTAN
+    de: RABUTABEERE
+    es: BAYA RAUTAN
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nラブタが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow RABUTA."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un RABUTA."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nRABUTA wächst."
+    es: "En suelo fértil da\nRAUTAN. Sirve para\nhacer POKéCUBOS."
+rainbow_pass:
+  names:
+    jp_kana: レインボーパス
+    en: RAINBOW PASS
+    fr: PASSE PRISME
+    it: SETTE PASS
+    de: BUNT-PASS
+    es: IRIS-TICKET
+  descriptions:
+    jp_kana: "クチバシティと\nななしまを　いどうする\nふねに　のれる"
+    en: "For ferries serving\nVERMILION and the\nSEVII ISLANDS."
+    fr: "Passe pour le ferry\nde CARMIN SUR MER\naux ILES SEVII."
+    it: "Pass per viaggiare\ntra ARANCIOPOLI\ne il SETTIPELAGO."
+    de: "Pass für die Fähren\nzwischen ORANIA/ \nSEVII EILANDEN."
+    es: "Ticket del ferry\nde CARMÍN y ARCHI7."
+rare_candy:
+  names:
+    jp_kana: ふしぎなアメ
+    en: RARE CANDY
+    fr: SUPER BONBON
+    it: CARAM. RARA
+    de: SONDERBONBON
+    es: CARAMELORARO
+  descriptions:
+    jp_kana: "ポケモンの　レベルを\n１　あげる"
+    en: "Raises the level\nof a POKéMON by\none."
+    fr: "Fait progresser un\nPOKéMON d’un\nniveau."
+    it: "Fa salire un\nPOKéMON di\nun livello."
+    de: "Hebt den Level\neines POKéMON\num eins an."
+    es: "Aumenta 1 nivel\na un POKéMON."
+rawst_berry:
+  names:
+    jp_kana: チーゴのみ
+    en: RAWST BERRY
+    fr: BAIE FRAIVE
+    it: BACCAFRAGO
+    de: FRAGIABEERE
+    es: BAYA SAFRE
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nやけど　じょうたいを\nかいふくする"
+    en: "A hold item that\nheals a burn in\nbattle."
+    fr: "Objet tenu qui\nsoigne une brûlure\npendant un combat."
+    it: "Strumento tenuto:\ncura scottatura\nnella lotta."
+    de: "Item (Tragen) be-\nwirkt Selbstheilung\nbei Verbrennung."
+    es: "Al llevarla, cura\nlas quemaduras\nen el combate."
+razz_berry:
+  names:
+    jp_kana: ズリのみ
+    en: RAZZ BERRY
+    fr: BAIE FRAMBY
+    it: BACCALAMPON
+    de: HIMMIHBEERE
+    es: BAYA FRAMBU
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nズリが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow RAZZ."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un FRAMBY."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nHIMMIH wächst."
+    es: "En suelo fértil da\nFRAMBU. Sirve para\nhacer POKéCUBOS."
+red_flute:
+  names:
+    jp_kana: あかいビードロ
+    en: RED FLUTE
+    fr: FLUTE ROUGE
+    it: FLAUTO ROSSO
+    de: ROTE FLÖTE
+    es: FLAUTA ROJA
+  descriptions:
+    jp_kana: "ガラスで　できた　ふえ\nメロメロ　じょうたいを\nかいふくする"
+    en: "A glass flute that\nsnaps POKéMON\nout of attraction."
+    fr: "Une flûte en verre\nqui met fin à\nl’attirance."
+    it: "Flauto di vetro che\nlibera un POKéMON\ndall’attrazione."
+    de: "Eine gläserne\nFlöte, die PKMN von\nAnziehung heilt."
+    es: "Flauta de cristal\nque pone fin\na la atracción."
+red_orb:
+  names:
+    jp_kana: べにいろのたま
+    en: RED ORB
+    fr: ORBE ROUGE
+    it: SFERA ROSSA
+    de: ROTE KUGEL
+    es: ESFERA ROJA
+  descriptions:
+    jp_kana: "おおむかしの　ちからが\nこめられている　という\nあかく　かがやく　たま"
+    en: "A red, glowing orb\nsaid to contain an\nancient power."
+    fr: "Un globe rouge\ncensé abriter un\npouvoir antique."
+    it: "Sfera rossa\nluminosa con\nun antico potere."
+    de: "Rot glühende Kugel,\ndie eine uralte\nMacht bergen soll."
+    es: "Es roja y brillante.\nDicen que posee\nun poder ancestral."
+red_scarf:
+  names:
+    jp_kana: あかいバンダナ
+    en: RED SCARF
+    fr: FOUL. ROUGE
+    it: FASCIA ROSSA
+    de: ROTER SCHAL
+    es: PAÑUELO ROJO
+  descriptions:
+    jp_kana: "もたせて　コンテストに\nさんかすると　いつもより\nかっこよく　みられる"
+    en: "A hold item that\nraises COOL in\nCONTESTS."
+    fr: "Objet tenu montant\nla stat SANG-FROID\ndans les CONCOURS."
+    it: "Strumento tenuto:\ndà più CLASSE nelle\nGARE."
+    de: "Item (Tragen) hebt\nCOOL.-Wert für den\nWETTBEWERB."
+    es: "Al llevarlo en los\nCONCURSOS,\nsube el CARISMA."
+red_shard:
+  names:
+    jp_kana: あかいかけら
+    en: RED SHARD
+    fr: TESSON ROUGE
+    it: COCCIO ROSSO
+    de: PURPURSTÜCK
+    es: PARTE ROJA
+  descriptions:
+    jp_kana: "むかしに　つくられた\nどうぐの　かけら　らしい\nやすく　うれる"
+    en: "A shard from an\nancient item. Can\nbe sold cheaply."
+    fr: "Fragment d’objet\nantique. Peut être\nvendu à bas prix."
+    it: "Coccio di un antico\nstrumento. Si vende\na basso prezzo."
+    de: "Scherbe eines\nantiken Relikts\nvon geringem Wert."
+    es: "Parte de un objeto\nantiguo. Se vende\na bajo precio."
+repeat_ball:
+  names:
+    jp_kana: リピートボール
+    en: REPEAT BALL
+    fr: BIS BALL
+    it: BIS BALL
+    de: WIEDERBALL
+    es: ACOPIO BALL
+  descriptions:
+    jp_kana: "つかまえた　ことが　ある\nポケモンが　つかまえ\nやすくなる　ボール"
+    en: "A BALL that works\nbetter on POKéMON\ncaught before."
+    fr: "Une BALL qui marche\nbien sur un POKéMON\ndéjà capturé."
+    it: "BALL più efficace\nsui POKéMON già\ncatturati prima."
+    de: "BALL fängt besser\nbereits gefangene\nPOKéMON."
+    es: "Funciona mejor con\nlos que son iguales\na los que ya tienes."
+repel:
+  names:
+    jp_kana: むしよけスプレー
+    en: REPEL
+    fr: REPOUSSE
+    it: REPELLENTE
+    de: SCHUTZ
+    es: REPELENTE
+  descriptions:
+    jp_kana: "１００ぽ　すすむ　あいだ\nよわい　ポケモンと\nそうぐう　しなくなる"
+    en: "Repels weak wild\nPOKéMON for 100\nsteps."
+    fr: "Repousse les PKMN\nsauvages faibles \ndurant 100 pas."
+    it: "Allontana i POKéMON\nselvatici deboli\nper 100 passi."
+    de: "Hält 100 Schritte\nlang schwache,\nwilde POKéMON ab."
+    es: "Repele POKéMON\nsalvajes débiles\n100 pasos."
+retro_mail:
+  names:
+    jp_kana: レトロメール
+    en: RETRO MAIL
+    fr: LETTRE RETRO
+    it: MESS. RÉTRO
+    de: RETROBRIEF
+    es: CARTA RETRO.
+  descriptions:
+    jp_kana: "３ひきの　ポケモンが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "MAIL featuring the\ndrawings of three\nPOKéMON."
+    fr: "Du papier avec\nles dessins de\ntrois POKéMON."
+    it: "MESSAGGIO con\nl’immagine di tre\nPOKéMON."
+    de: "BRIEF mit den Ab-\nbildungen dreier\nPOKéMON-Gesichter."
+    es: "Carta con las\nimágenes de tres\nPOKéMON."
+revival_herb:
+  names:
+    jp_kana: ふっかつそう
+    en: REVIVAL HERB
+    fr: HERBE RAPPEL
+    it: VITALERBA
+    de: VITALKRAUT
+    es: HIERBA REV.
+  descriptions:
+    jp_kana: "とても　にがい　くさ\nひんし　じょうたいから\nふっかつする"
+    en: "A very bitter herb\nthat revives a\nfainted POKéMON."
+    fr: "Une herbe très\namère qui réanime\nun POKéMON K.O."
+    it: "Erba molto amara\nche rianima un\nPOKéMON esausto."
+    de: "Ein bitteres Kraut,\ndas besiegte\nPOKéMON belebt."
+    es: "Hierba amarga que\nhace revivir a un\nPOKéMON debilitado."
+revive:
+  names:
+    jp_kana: げんきのかけら
+    en: REVIVE
+    fr: RAPPEL
+    it: REVITALIZ.
+    de: BELEBER
+    es: REVIVIR
+  descriptions:
+    jp_kana: "ひんし　じょうたいから\nたいりょく　はんぶんまで\nかいふくする"
+    en: "Revives a fainted\nPOKéMON with half\nits HP."
+    fr: "Réanime un POKéMON\nK.O. et restaure la\nmoitié de ses PV."
+    it: "Un POKéMON\nesausto recupera\nmetà dei PS."
+    de: "Belebt POKéMON\nund füllt die KP zur\nHälfte wieder auf."
+    es: "Hace revivir a un\nPOKéMON. Le da\nla mitad de los PS."
+root_fossil:
+  names:
+    jp_kana: ねっこのカセキ
+    en: ROOT FOSSIL
+    fr: FOSS. RACINE
+    it: RADIFOSSILE
+    de: WURZELFOSSIL
+    es: FÓSIL RAÍZ
+  descriptions:
+    jp_kana: "おおむかし　かいていで\nくらしていた　ポケモンの\nカセキと　いわれている"
+    en: "A fossil of an\nancient, seafloor-\ndwelling POKéMON."
+    fr: "Fossile d’un très\nvieux POKéMON\nsous-marin."
+    it: "Fossile di un\nantico POKéMON che\nviveva sui fondali."
+    de: "Fossil eines ural-\nten POKéMON, das in\nder Tiefsee lebte."
+    es: "Fósil de un POKéMON\nancestral que moró\nen el fondo del mar."
+ruby:
+  names:
+    jp_kana: ルビー
+    en: RUBY
+    fr: RUBIS
+    it: RUBINO
+    de: RUBIN
+    es: RUBÍ
+  descriptions:
+    jp_kana: "じょうねつを　あらわす\nうつくしい　ほうせき\nあかく　ひかり　かがやく"
+    en: "An exquisite, red-\nglowing gem that\nsymbolizes passion."
+    fr: "Une pierre rouge\nqui symbolise\nla passion."
+    it: "Gemma rosso\nacceso, simbolo\ndi passione."
+    de: "Rotes Juwel, das\nLeidenschaft \nsymbolisiert."
+    es: "Bella gema de brillo\nrojizo. Simboliza\nel entusiasmo."
+sacred_ash:
+  names:
+    jp_kana: せいなるはい
+    en: SACRED ASH
+    fr: CENDRESACREE
+    it: CENEREMAGICA
+    de: ZAUBERASCHE
+    es: CEN. SAGRADA
+  descriptions:
+    jp_kana: "ひんししている　ポケモン\nすべてを　せいじょうな\nじょうたいに　する"
+    en: "Fully revives and\nrestores all\nfainted POKéMON."
+    fr: "Réanime tous les\nPOKéMON K.O. et\nrestaure leurs PV."
+    it: "Ristabilisce\ncompletamente ogni\nPOKéMON esausto."
+    de: "Belebt und\nerfrischt alle\nbesiegten POKéMON."
+    es: "Recupera del todo\na los POKéMON\ndebilitados."
+safari_ball:
+  names:
+    jp_kana: サファリボール
+    en: SAFARI BALL
+    fr: SAFARI BALL
+    it: SAFARI BALL
+    de: SAFARIBALL
+    es: SAFARI BALL
+  descriptions:
+    jp_kana: "サファリゾーンで　のみ\nつかうことが　できる\nとくしゅな　ボール"
+    en: "A special BALL that\nis used only in the\nSAFARI ZONE."
+    fr: "Une BALL spéciale\nutilisée juste\nau PARC SAFARI."
+    it: "BALL speciale,\nusata soltanto\nnella ZONA SAFARI."
+    de: "Ein BALL, der nur\nin der SAFARI-ZONE\neingesetzt wird."
+    es: "Tiene una función\nespecial. Se usa\nen la ZONA SAFARI."
+salac_berry:
+  names:
+    jp_kana: カムラのみ
+    en: SALAC BERRY
+    fr: BAIE SAILAK
+    it: BACCASALAK
+    de: SALKABEERE
+    es: BAYA ASLAC
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nすばやさが　あがる"
+    en: "A hold item that\nraises SPEED in\na pinch."
+    fr: "Objet tenu qui\nmonte la VITESSE\nsi nécessaire."
+    it: "Strumento tenuto:\nin difficoltà au-\nmenta la VELOCITÀ."
+    de: "Item (Tragen) hebt\nINIT.-Wert in einer\nNotlage."
+    es: "Al llevarla, subirá\nla VELOCIDAD en un\nmomento de apuro."
+sapphire:
+  names:
+    jp_kana: サファイア
+    en: SAPPHIRE
+    fr: SAPHIR
+    it: ZAFFIRO
+    de: SAPHIR
+    es: ZAFIRO
+  descriptions:
+    jp_kana: "せいじつを　あらわす\nうつくしい　ほうせき\nあおく　ひかり　かがやく"
+    en: "A brilliant blue gem\nthat symbolizes\nhonesty."
+    fr: "Une pierre bleue\nqui symbolise\nl’honnêteté."
+    it: "Gemma blu\nintenso, simbolo\nd’onestà."
+    de: "Blaues Juwel, das\nEhrlichkeit\nsymbolisiert."
+    es: "Bella gema de brillo\nazulado. Simboliza\nla sinceridad."
+scanner:
+  names:
+    jp_kana: たんちき
+    en: SCANNER
+    fr: SCANNER
+    it: SCANNER
+    de: SCANNER
+    es: ESCÁNER
+  descriptions:
+    jp_kana: "すてられぶねの　なかで\nみつけた　どうぐ"
+    en: "A device found\ninside the\nABANDONED SHIP."
+    fr: "Un appareil trouvé\ndans l’EPAVE."
+    it: "Strumento trovato\nnella VECCHIA\nNAVE."
+    de: "Ein Gerät, das\nim SCHIFFSWRACK\ngefunden wurde."
+    es: "Dispositivo encon-\ntrado en la NAO\nABANDONADA."
+scope_lens:
+  names:
+    jp_kana: ピントレンズ
+    en: SCOPE LENS
+    fr: LENTILSCOPE
+    it: MIRINO
+    de: SCOPE-LINSE
+    es: PERISCOPIO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nきゅうしょに\nあたり　やすくなる"
+    en: "A hold item that\nimproves the\ncritical-hit rate."
+    fr: "Objet tenu pour\nmonter le taux de\ncritiques."
+    it: "Strumento tenuto:\nbrutti colpi più\nprobabili."
+    de: "Item (Tragen)\nerhöht die\nVolltrefferquote."
+    es: "Al llevarlo, aumenta\nla posibilidad\nde golpe crítico."
+sea_incense:
+  names:
+    jp_kana: うしおのおこう
+    en: SEA INCENSE
+    fr: ENCENS MER
+    it: MAREAROMA
+    de: SEERAUCH
+    es: INCIE. MAR.
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nすこしだけ　みずタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nslightly boosts\nWATER-type moves."
+    fr: "Objet tenu montant\nun peu la puissance\ndes attaques EAU."
+    it: "Strumento tenuto:\npotenzia di poco le\nmosse ACQUA."
+    de: "Item (Tragen)\nverstärkt WASSER-\nAttacken."
+    es: "Al llevarlo, forta-\nlece algo los\nataques tipo AGUA."
+secret_key:cinnabar_island_gym:
+  names:
+    jp_kana: ひみつのカギ
+    en: SECRET KEY
+    fr: CLE SECRETE
+    it: CHIAVE SEGR.
+    de: ?-ÖFFNER
+    es: LL. SECRETA
+  descriptions:
+    jp_kana: "グレンじま　ジムの\nいりぐちを　あける　カギ"
+    en: "The key to the\nCINNABAR ISLAND\nGYM’s entrance."
+    fr: "La clé de l’entrée\nde l’ARENE de\nCRAMOIS’ILE."
+    it: "Chiave della\nPALESTRA dell’\nISOLA CANNELLA."
+    de: "Schlüssel zur \nARENA der\nZINNOBERINSEL."
+    es: "Abre el GIMNASIO\nde ISLA CANELA."
+shadow_mail:
+  names:
+    jp_kana: シャドーメール
+    en: SHADOW MAIL
+    fr: LETTRE OMBRE
+    it: MESS. OMBRA
+    de: DUNKELBRIEF
+    es: CARTA SOMBRA
+  descriptions:
+    jp_kana: "ヨマワルの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A DUSKULL-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier SKELENOX\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi DUSKULL."
+    de: "BRIEF (Tragen) mit \nZWIRRLICHT-\nAufdruck."
+    es: "Sale DUSKULL.\nDebe llevarla\nun POKéMON."
+sharp_beak:
+  names:
+    jp_kana: するどいくちばし
+    en: SHARP BEAK
+    fr: BEC POINTU
+    it: BECCAFFILATO
+    de: HACKATTACK
+    es: PICO AFILADO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nひこうタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nFLYING-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques VOL."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo VOLANTE."
+    de: "Item (Tragen)\nverstärkt FLUG-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo VOLADOR."
+shell_bell:
+  names:
+    jp_kana: かいがらのすず
+    en: SHELL BELL
+    fr: GRELOT COQUE
+    it: CONCHINELLA
+    de: SEEGESANG
+    es: CAMP. CONCHA
+  descriptions:
+    jp_kana: "もたせると　てきに\nダメージを　あたえたとき\nたいりょくが　かいふく"
+    en: "A hold item that\nrestores HP upon\nstriking the foe."
+    fr: "Objet tenu qui res-\ntaure les PV en\nfrappant l’ennemi."
+    it: "Strumento tenuto:\nridà PS quando si\ncolpisce un nemico."
+    de: "Item (Tragen) füllt\nim Kampf langsam \nKP wieder auf."
+    es: "Al llevarla y\ngolpear al rival,\nrecuperas PS."
+shoal_salt:
+  names:
+    jp_kana: あさせのしお
+    en: SHOAL SALT
+    fr: SEL TREFONDS
+    it: SALE ONDOSO
+    de: KÜSTENSALZ
+    es: SAL CARDUMEN
+  descriptions:
+    jp_kana: "あさせのほらあなで\nみつけた　しお"
+    en: "Salt obtained from\ndeep inside the\nSHOAL CAVE."
+    fr: "Sel obtenu dans les\nprofondeurs de la\nGROTTE TREFONDS."
+    it: "Sale che si trova\nin fondo alla\nGROTTA ONDOSA."
+    de: "Salz, das sich tief\nin der KÜSTEN- \nHÖHLE befand."
+    es: "Sal procedente de\nlo más profundo de\nla CUEVA CARDUMEN."
+shoal_shell:
+  names:
+    jp_kana: あさせのかいがら
+    en: SHOAL SHELL
+    fr: CO. TREFONDS
+    it: GUSCIONDOSO
+    de: KÜSTENSCHALE
+    es: C. CARDUMEN
+  descriptions:
+    jp_kana: "あさせのほらあなで\nみつけた　かいがら"
+    en: "A seashell found\ndeep inside the\nSHOAL CAVE."
+    fr: "Coquillage trouvé\nau fin fond de la\nGROTTE TREFONDS."
+    it: "Guscio che si trova\nin fondo alla\nGROTTA ONDOSA."
+    de: "Muschelschale, aus\nder KÜSTENHÖHLE."
+    es: "Concha marina de\nlo más profundo de\nla CUEVA CARDUMEN."
+silk_scarf:
+  names:
+    jp_kana: シルクのスカーフ
+    en: SILK SCARF
+    fr: MOUCH. SOIE
+    it: SCIARPA SETA
+    de: SEIDENSCHAL
+    es: PAÑUELO SEDA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nノーマルタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nNORMAL-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques NORMAL."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo NORMALE."
+    de: "Item (Tragen)\nverstärkt NORMAL-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo NORMAL."
+silph_scope:
+  names:
+    jp_kana: シルフスコープ
+    en: SILPH SCOPE
+    fr: SCOPE SYLPHE
+    it: SPETTROSONDA
+    de: SILPH SCOPE
+    es: SCOPE SILPH
+  descriptions:
+    jp_kana: "めに　みえない　ものを\nみられる　スコープ\nシルフ　カンパニーせい"
+    en: "SILPH CO’s scope\nmakes unseeable\nPOKéMON visible."
+    fr: "Un appareil de la\nSYLPHE pour voir\nles PKMN invisibles."
+    it: "Sonda della SILPH\nSpA che rivela i\nPOKéMON invisibili."
+    de: "Linse, mit der\nunsichtbare PKMN\nsichtbar werden."
+    es: "Dispositivo de\nSILPH S.A. para ver\nPOKéMON invisibles."
+silver_powder:
+  names:
+    jp_kana: ぎんのこな
+    en: SILVERPOWDER
+    fr: POUDRE ARG.
+    it: ARGENPOLVERE
+    de: SILBERSTAUB
+    es: POLVO PLATA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nむしタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nBUG-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques INSECTE."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo COLEOT."
+    de: "Item (Tragen) ver-\nbessert KÄFER-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo BICHO."
+sitrus_berry:
+  names:
+    jp_kana: オボンのみ
+    en: SITRUS BERRY
+    fr: BAIE SITRUS
+    it: BACCACEDRO
+    de: TSITRUBEERE
+    es: BAYA ZIDRA
+  descriptions:
+    jp_kana: "もたせると　じぶんで\nたいりょくを\n３０　かいふくする"
+    en: "A hold item that\nrestores 30 HP in\nbattle."
+    fr: "Objet tenu qui\nrestaure 30 PV\npendant un combat."
+    it: "Strumento tenuto:\nrestituisce 30 PS\nnella lotta."
+    de: "Item (Tragen) füllt\nKP im Kampf um\n30 Punkte auf."
+    es: "Al llevarla, \nte restaura 30 PS\nen el combate."
+smoke_ball:
+  names:
+    jp_kana: けむりだま
+    en: SMOKE BALL
+    fr: BOULE FUMEE
+    it: PALLA FUMO
+    de: RAUCHBALL
+    es: BOLA HUMO
+  descriptions:
+    jp_kana: "そうぐうした　やせいの\nポケモンから　かならず\nにげられる"
+    en: "A hold item that\nassures fleeing\nfrom wild POKéMON."
+    fr: "Objet tenu, utilisé\npour fuir un\nPOKéMON sauvage."
+    it: "Strumento tenuto:\nper fuggire da un\nPOKéMON selvatico."
+    de: "Item (Tragen) er-\nmöglicht Flucht vor\nwilden POKéMON."
+    es: "Se usa para huir de\ncombates contra\nPOKéMON salvajes."
+soda_pop:
+  names:
+    jp_kana: サイコソーダ
+    en: SODA POP
+    fr: SODA COOL
+    it: GASSOSA
+    de: SPRUDEL
+    es: REFRESCO
+  descriptions:
+    jp_kana: "ジュワーっと　そうかい\nポケモンの　たいりょくを\n６０　かいふくする"
+    en: "A fizzy soda drink\nthat restores HP\nby 60 points."
+    fr: "Une boisson\npétillante qui\nrestaure 60 PV."
+    it: "Bevanda frizzante\nche restituisce\n60 PS."
+    de: "Ein Mineralwasser,\ndas die KP um 60\nPunkte auffüllt."
+    es: "Bebida gaseosa que\nrestaura 60 PS."
+soft_sand:
+  names:
+    jp_kana: やわらかいすな
+    en: SOFT SAND
+    fr: SABLE DOUX
+    it: SABBIA SOFF.
+    de: PUDERSAND
+    es: ARENA FINA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nじめんタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nGROUND-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques SOL."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo TERRA."
+    de: "Item (Tragen)\nverstärkt BODEN-\nAttacken."
+    es: "Al llevarla, forta-\nlece los ataques\nde tipo TIERRA."
+soot_sack:
+  names:
+    jp_kana: はいぶくろ
+    en: SOOT SACK
+    fr: SAC A SUIE
+    it: SACCO CENERE
+    de: ASCHETASCHE
+    es: SACO HOLLÍN
+  descriptions:
+    jp_kana: "つもった　かざんばいを\nあつめるための　ふくろ"
+    en: "A sack used to\ngather and hold\nvolcanic ash."
+    fr: "Un sac utilisé pour\nramasser des cen-\ndres volcaniques."
+    it: "Sacco usato per\nraccogliere cenere\nvulcanica."
+    de: "Beutel zum Sammeln\nund Aufbewahren\nvon Vulkanasche."
+    es: "Saco usado para\nrecoger y guardar\ncenizas volcánicas."
+soothe_bell:
+  names:
+    jp_kana: やすらぎのすず
+    en: SOOTHE BELL
+    fr: GRELOT ZEN
+    it: CALMANELLA
+    de: SANFTGLOCKE
+    es: CAMP. ALIVIO
+  descriptions:
+    jp_kana: "もたせると　ポケモンが\nとっても　やすらいで　\nなつき　やすくなる"
+    en: "A hold item that\ncalms spirits and\nfosters friendship."
+    fr: "Objet tenu calmant\nles esprits.\nFavorise l’amitié."
+    it: "Strumento tenuto:\nplaca gli animi e\ncementa l’amicizia."
+    de: "Item (Tragen) be-\nsänftigt und för-\ndert Sympathie."
+    es: "Al llevarla, calma\nlos ánimos y\nfomenta la amistad."
+soul_dew:
+  names:
+    jp_kana: こころのしずく
+    en: SOUL DEW
+    fr: ROSEE AME
+    it: CUORUGIADA
+    de: SEELENTAU
+    es: ROCÍO BONDAD
+  descriptions:
+    jp_kana: "ラティオス　ラティアスに\nもたせると　とくこうと\nとくぼうが　あがる"
+    en: "Hold item: raises\nSP. ATK & SP. DEF of\nLATIOS & LATIAS."
+    fr: "Objet tenu montant\nATQ SP et DEF SP de\nLATIOS & LATIAS."
+    it: "Strumento tenuto:\naumenta stat. SP.\ndi LATIOS e LATIAS."
+    de: "Item (Tragen) hebt\nSP.ANG & SP.VER von\nLATIOS & LATIAS."
+    es: "Al llevarlo, suben\nel AT. y la DEF. ESP.\nde LATIOS y LATIAS."
+spell_tag:
+  names:
+    jp_kana: のろいのおふだ
+    en: SPELL TAG
+    fr: RUNE SORT
+    it: SPETTROTARGA
+    de: BANNSTICKER
+    es: HECHIZO
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nゴーストタイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nraises the power of\nGHOST-type moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques SPECTRE."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo SPETTRO."
+    de: "Item (Tragen)\nverstärkt GEIST-\nAttacken."
+    es: "Al llevarlo, forta-\nlece los ataques\nde tipo FANTASMA."
+spelon_berry:
+  names:
+    jp_kana: ノワキのみ
+    en: SPELON BERRY
+    fr: BAIE KIWAN
+    it: BACCAMELOS
+    de: KIWANBEERE
+    es: BAYA WIKANO
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nノワキが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow SPELON."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un KIWAN."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nKIWAN wächst."
+    es: "En suelo fértil da\nWIKANO. Sirve para\nhacer POKéCUBOS."
+ss_ticket:ss_tidal:
+  names:
+    jp_kana: ふねのチケット
+    en: S.S. TICKET
+    fr: PASSE BATEAU
+    it: BIGL. NAVE
+    de: BOOTSTICKET
+    es: TICKET BARCO
+  descriptions:
+    jp_kana: "れんらくせんに\nのるとき　ひつよう"
+    en: "The ticket required\nfor sailing on a\nferry."
+    fr: "Un ticket requis\npour embarquer\nà bord d’un ferry."
+    it: "Biglietto per\nsalire su un\ntraghetto."
+    de: "Ein Ticket zur\nFahrt auf\neiner Fähre."
+    es: "Es el billete válido\npara embarcar."
+star_piece:
+  names:
+    jp_kana: ほしのかけら
+    en: STAR PIECE
+    fr: MORC. ETOILE
+    it: PEZZO STELLA
+    de: STERNENSTÜCK
+    es: TR. ESTRELLA
+  descriptions:
+    jp_kana: "あかくて　きれいな\nほうせきの　かけら\nとても　たかく　うれる"
+    en: "A red gem shard.\nIt would sell for a\nvery high price."
+    fr: "Fragment de gemme\nrouge. Peut se ven-\ndre à très bon prix."
+    it: "Frammento di gemma\nrossa. Si vende a\ncarissimo prezzo."
+    de: "Roter Edelstein,\nder einen hohen\nPreis erzielt."
+    es: "Trozo de gema roja\nque se vende a alto\nprecio."
+stardust:
+  names:
+    jp_kana: ほしのすな
+    en: STARDUST
+    fr: POUSS.ETOILE
+    it: POLVOSTELLA
+    de: STERNENSTAUB
+    es: POLVOESTELAR
+  descriptions:
+    jp_kana: "あかくて　きれいな　すな\nたかく　うれる"
+    en: "Beautiful red sand.\nCan be sold at a\nhigh price."
+    fr: "Sable rouge très\nfin. Peut être\nvendu à bon prix."
+    it: "Bella sabbia rossa.\nSi può vendere\na caro prezzo."
+    de: "Schöner, roter\nSand, der von\ngroßem Wert ist."
+    es: "Bonita arena roja\nque se vende a alto\nprecio."
+starf_berry:
+  names:
+    jp_kana: スターのみ
+    en: STARF BERRY
+    fr: BAIE FRISTA
+    it: BACCAMBOLA
+    de: KRAMBOBEERE
+    es: BAYA ARABOL
+  descriptions:
+    jp_kana: "もたせると　ピンチのとき\nのうりょくの　どれか\n１つが　ぐーんと　あがる"
+    en: "A hold item that\nsharply boosts a\nstat in a pinch."
+    fr: "Objet tenu qui\nbooste une stat\nsi nécessaire."
+    it: "Strumento tenuto:\naumenta di molto 1\nstat. in difficoltà."
+    de: "Item (Tragen) hebt\neinen Statuswert\nin einer Notlage."
+    es: "Al llevarla, subirá\nuna caract. en un\nmomento de apuro."
+storage_key:sea_mauville:
+  names:
+    jp_kana: そうこのカギ
+    en: STORAGE KEY
+    fr: CLE STOCKAGE
+    it: CHIAVE STIVA
+    de: L.-SCHLÜSSEL
+    es: LL. ALMACÉN
+  descriptions:
+    jp_kana: "すてられぶねの　そうこに\nはいる　ための　カギ"
+    en: "The key to the\nstorage inside the\nABANDONED SHIP."
+    fr: "La clé de\nl’entrepôt\nde l’EPAVE."
+    it: "Apre la STIVA\nnella VECCHIA\nNAVE."
+    de: "Schlüssel zum\nLagerraum auf\ndem SCHIFFSWRACK."
+    es: "Llave del ALMACÉN\nde la NAO ABAN-\nDONADA."
+sun_stone:
+  names:
+    jp_kana: たいようのいし
+    en: SUN STONE
+    fr: PIERRESOLEIL
+    it: PIETRASOLARE
+    de: SONNENSTEIN
+    es: PIEDRA SOLAR
+  descriptions:
+    jp_kana: "とくていの　ポケモンを\nしんかさせる"
+    en: "Makes certain\nspecies of POKéMON\nevolve."
+    fr: "Fait évoluer\ncertaines espèces\nde POKéMON."
+    it: "Fa evolvere\ndeterminate specie\ndi POKéMON."
+    de: "Löst bei bestimm-\nten POKéMON die\nEntwicklung aus."
+    es: "Hace evolucionar\na varias especies\nde POKéMON."
+super_potion:
+  names:
+    jp_kana: いいキズぐすり
+    en: SUPER POTION
+    fr: SUPER POTION
+    it: SUPERPOZIONE
+    de: SUPERTRANK
+    es: SUPERPOCIÓN
+  descriptions:
+    jp_kana: "ポケモンの　たいりょくを\n５０　かいふくする"
+    en: "Restores the HP of\na POKéMON by\n50 points."
+    fr: "Restaure les PV\nd’un POKéMON\nde 50 points."
+    it: "Restituisce ad un\nPOKéMON 50 PS."
+    de: "Füllt die KP eines\nPOKéMON um\n50 Punkte auf."
+    es: "Restaura 50 PS\nde un POKéMON."
+super_repel:
+  names:
+    jp_kana: シルバースプレー
+    en: SUPER REPEL
+    fr: SUPEREPOUSSE
+    it: SUPERREPELL.
+    de: SUPERSCHUTZ
+    es: SUPERREPEL
+  descriptions:
+    jp_kana: "２００ぽ　すすむ　あいだ\nよわい　ポケモンと\nそうぐう　しなくなる"
+    en: "Repels weak wild\nPOKéMON for 200\nsteps."
+    fr: "Repousse les PKMN\nsauvages faibles \ndurant 200 pas."
+    it: "Allontana i POKéMON\nselvatici deboli\nper 200 passi."
+    de: "Hält 200 Schritte\nlang schwache,\nwilde POKéMON ab."
+    es: "Repele POKéMON\nsalvajes débiles\n200 pasos."
+super_rod:
+  names:
+    jp_kana: すごいつりざお
+    en: SUPER ROD
+    fr: MEGA CANNE
+    it: SUPER AMO
+    de: SUPERANGEL
+    es: SUPERCAÑA
+  descriptions:
+    jp_kana: "ポケモンを　つるどうぐ\nさいこうの　つりざおと\nいわれている"
+    en: "The best fishing\nrod for catching\nwild POKéMON."
+    fr: "La meilleure canne\npour pêcher des\nPOKéMON sauvages."
+    it: "L’amo migliore\nper pescare\nPOKéMON selvatici."
+    de: "Die beste Angel,\num nach POKéMON\nzu fischen."
+    es: "Es la mejor caña\npara pescar\nPOKéMON salvajes."
+tamato_berry:
+  names:
+    jp_kana: マトマのみ
+    en: TAMATO BERRY
+    fr: BAIE TAMATO
+    it: BACCAMODORO
+    de: TAMOTBEERE
+    es: BAYA TAMATE
+  descriptions:
+    jp_kana: "ポケモンが　ちょっと\nなつくが　すばやさの\nきそポイントが　さがる"
+    en: "Makes a POKéMON\nfriendly but lowers\nbase SPEED."
+    fr: "Rend un POKéMON\namical, baisse la\nVITESSE de base."
+    it: "Rende un POKéMON\namichevole, ma\nriduce la VELOCITÀ."
+    de: "PKMN wird freund-\nlicher, aber Grund-\nINIT.-Wert sinkt."
+    es: "Hace amable al\nPOKéMON, pero\nbaja la VELOCID."
+tea:
+  names:
+    jp_kana: おちゃ
+    en: TEA
+    fr: THE
+    it: TÈ
+    de: TEE
+    es: TÉ
+  descriptions:
+    jp_kana: "おばあさんが　いれた\nおいしい　おちゃ\nかわきを　うるおす"
+    en: "A thirst-quenching\ntea prepared by an\nold lady."
+    fr: "Un thé préparé par\nune vieille femme.\nEtanche la soif."
+    it: "Tè dissetante\npreparato da\nun’anziana signora."
+    de: "TEE, der von einer\nalten Dame\nzubereitet wird."
+    es: "Té preparado por\nuna señora mayor.\nApaga la sed."
+teachy_tv:
+  names:
+    jp_kana: おしえテレビ
+    en: TEACHY TV
+    fr: TV ABC
+    it: POKéTIVÙ
+    de: LEHRKANAL
+    es: POKé TELE
+  descriptions:
+    jp_kana: "トレーナーの　やくにたつ\nばんぐみを　みることが\nできる　テレビ"
+    en: "A TV set tuned to\nan advice program\nfor TRAINERS."
+    fr: "Un programme qui\ndonne des conseils\naux DRESSEURS."
+    it: "TV che mostra un\ncanale informativo\nper gli ALLENATORI."
+    de: "Sendung, die dem\nAnfänger-TRAINER\nTipps gibt."
+    es: "Tele que emite\nútiles consejos\npara ENTRENADORES."
+thick_club:
+  names:
+    jp_kana: ふといホネ
+    en: THICK CLUB
+    fr: MASSE OS
+    it: OSSOSPESSO
+    de: KAMPFKNOCHEN
+    es: HUESO GRUESO
+  descriptions:
+    jp_kana: "カラカラや　ガラガラに\nもたせると　こうげきの\nいりょくが　あがる"
+    en: "A hold item that \nraises CUBONE or\nMAROWAK’s ATTACK."
+    fr: "Objet tenu montant\nl’ATQ. d’OSSELAIT\net d’OSSATUEUR."
+    it: "Strumento tenuto:\naumenta ATTACCO di\nCUBONE e MAROWAK."
+    de: "Item (Tragen) er-\nhöht ANGR.-Wert v.\nTRAGOSSO/KNOGGA."
+    es: "Al llevarlo, CUBONE\no MAROWAK tendrán\nmejor ATAQUE."
+thunder_stone:
+  names:
+    jp_kana: かみなりのいし
+    en: THUNDERSTONE
+    fr: PIERREFOUDRE
+    it: PIETRATUONO
+    de: DONNERSTEIN
+    es: PIEDRATRUENO
+  descriptions:
+    jp_kana: "とくていの　ポケモンを\nしんかさせる"
+    en: "Makes certain\nspecies of POKéMON\nevolve."
+    fr: "Fait évoluer\ncertaines espèces\nde POKéMON."
+    it: "Fa evolvere\ndeterminate specie\ndi POKéMON."
+    de: "Löst bei bestimm-\nten POKéMON die\nEntwicklung aus."
+    es: "Hace evolucionar\na varias especies\nde POKéMON."
+timer_ball:
+  names:
+    jp_kana: タイマーボール
+    en: TIMER BALL
+    fr: CHRONO BALL
+    it: TIMER BALL
+    de: TIMERBALL
+    es: TURNO BALL
+  descriptions:
+    jp_kana: "ターンすうが　かかれば\nかかるほど　つかまえ\nやすくなる　ボール"
+    en: "A BALL that gains\npower in battles\ntaking many turns."
+    fr: "Plus efficace\npendant les\ncombats longs."
+    it: "BALL più efficace\nse la lotta dura da\nmolti turni."
+    de: "BALL wird effek-\ntiver, je länger der\nKampf dauert."
+    es: "Funciona mejor al\navanzar el combate."
+tiny_mushroom:
+  names:
+    jp_kana: ちいさなキノコ
+    en: TINYMUSHROOM
+    fr: PETIT CHAMPI
+    it: MINIFUNGO
+    de: MINIPILZ
+    es: MINI SETA
+  descriptions:
+    jp_kana: "ふつうの　キノコ\nやすく　うれる"
+    en: "A plain mushroom\nthat would sell\nat a cheap price."
+    fr: "Un champignon or-\ndinaire. Peut être\nvendu à bas prix."
+    it: "Un normale fungo\nche si vende a\nbasso prezzo."
+    de: "Ein gemeiner\nPilz von \ngeringem Wert."
+    es: "Seta común.\nSe vende\na bajo precio."
+tm001:
+  names:
+    jp_kana: わざマシン０１
+    en: TM01
+    fr: CT01
+    it: MT01
+    de: TM01
+    es: MT01
+  descriptions:
+    jp_kana: "てきに　だいダメージを\nあたえるが　こうげきを\nうけると　ひるんでしまう"
+    en: "Powerful, but makes\nthe user flinch if\nhit by the foe."
+    fr: "Puissant, mais peut\napeurer le lanceur\ns’il est touché."
+    it: "Potente, ma chi la\nusa tentenna se\ncolpito dal nemico."
+    de: "Stark. POKéMON er-\nschrickt vielleicht\nbei gegn. Attacke."
+    es: "Es potente, pero\nhiere al atacante\nsi el rival le atiza."
+tm002:
+  names:
+    jp_kana: わざマシン０２
+    en: TM02
+    fr: CT02
+    it: MT02
+    de: TM02
+    es: MT02
+  descriptions:
+    jp_kana: "ながく　するどい　ツメで\nてきを　ひっかけて\nこうげきする"
+    en: "Hooks and slashes\nthe foe with long,\nsharp claws."
+    fr: "Attrape l’ennemi et\nle lacère d’un féro-\nce coup de griffe."
+    it: "Lunghi artigli\naffilati sferzano\nil nemico."
+    de: "Gegner wird mit\nlangen, scharfen\nKrallen attackiert."
+    es: "Engancha y araña\nal rival con garras\nafiladas."
+tm003:
+  names:
+    jp_kana: わざマシン０３
+    en: TM03
+    fr: CT03
+    it: MT03
+    de: TM03
+    es: MT03
+  descriptions:
+    jp_kana: "ちょうおんぱ　こうげきで\nてきを　こんらんさせる\nことがある"
+    en: "Generates an\nultrasonic wave\nthat may confuse."
+    fr: "Génère des ultra-\nsons qui rendent\nconfus."
+    it: "Onde ultrasoniche\nche possono con-\nfondere il nemico."
+    de: "Eine Ultraschall-\nwelle, die den Geg-\nner verwirren kann."
+    es: "Emite una onda\nultrasónica que\npuede confundir."
+tm004:
+  names:
+    jp_kana: わざマシン０４
+    en: TM04
+    fr: CT04
+    it: MT04
+    de: TM04
+    es: MT04
+  descriptions:
+    jp_kana: "せいしんを　しゅうちゅう\nさせて　とくこうと\nとくぼうを　あげる"
+    en: "Raises SP. ATK and\nSP. DEF by focusing\nthe mind."
+    fr: "Concentration pour\nmonter l’ATQ. SPE.\net la DEF. SPE."
+    it: "Concentrazione che\naumenta l’ATT. SP.\ne la DIF. SP."
+    de: "Verstärkt SP. ANGR.\nund SP. VERT. durch\nKonzentration."
+    es: "Se concentra para\nsubir el AT. ESP.\ny la DEF. ESP."
+tm005:
+  names:
+    jp_kana: わざマシン０５
+    en: TM05
+    fr: CT05
+    it: MT05
+    de: TM05
+    es: MT05
+  descriptions:
+    jp_kana: "ほえて　てきを　にがす\nてきが　にげると\nせんとうは　おわる"
+    en: "A savage roar that\nmakes the foe flee \nto end the battle."
+    fr: "Un horrible hurle-\nment. Fait fuir pour\nterminer le combat."
+    it: "Mette in fuga il \nnemico per porre \ntermine alla lotta."
+    de: "Brüller schlägt\nGegn. in die Flucht \nund beendet Kampf."
+    es: "Tremendo rugido\nque hace huir del\ncombate al rival."
+tm006:
+  names:
+    jp_kana: わざマシン０６
+    en: TM06
+    fr: CT06
+    it: MT06
+    de: TM06
+    es: MT06
+  descriptions:
+    jp_kana: "じょじょに　ダメージが\nふえる　もうどくを\nてきに　あたえる"
+    en: "Poisons the foe\nwith a toxin that\ngradually worsens."
+    fr: "Empoisonne l’ennemi\navec une toxine de\nplus en plus forte."
+    it: "Avvelena il nemico\ncon intensità\ncrescente."
+    de: "Vergiftet den Geg-\nner und schadet \nihm zunehmend."
+    es: "Envenena con una\ntoxina que se va\nintensificando."
+tm007:
+  names:
+    jp_kana: わざマシン０７
+    en: TM07
+    fr: CT07
+    it: MT07
+    de: TM07
+    es: MT07
+  descriptions:
+    jp_kana: "あられを　ふらして\nこおりタイプ　いがいに\nダメージを　あたえる"
+    en: "Creates a hailstorm\nthat damages all\ntypes except ICE."
+    fr: "Lance une tempête\nde grêle. Ne blesse\npas le type GLACE."
+    it: "Grandinata: il tipo\nGHIACCIO è l’unico\na esserne immune."
+    de: "Hagelsturm schadet\nallen PKMN außer\ndenen des Typs EIS."
+    es: "Tormenta de gra-\nnizo dañina salvo\npara el tipo HIELO."
+tm008:
+  names:
+    jp_kana: わざマシン０８
+    en: TM08
+    fr: CT08
+    it: MT08
+    de: TM08
+    es: MT08
+  descriptions:
+    jp_kana: "からだを　きたえて\nこうげきと　ぼうぎょの\nちからを　あげる"
+    en: "Bulks up the body\nto boost both\nATTACK & DEFENSE."
+    fr: "Se gonfle pour\nmonter l’ATTAQUE\net la DEFENSE."
+    it: "Il corpo s’ingrossa \ne salgono ATTACCO \ne DIFESA."
+    de: "Stärkt den Körper.\nSo steigen ANGR.-\nund VERT.-Wert."
+    es: "Robustece el\ncuerpo para subir\nATAQUE y DEFENSA."
+tm009:
+  names:
+    jp_kana: わざマシン０９
+    en: TM09
+    fr: CT09
+    it: MT09
+    de: TM09
+    es: MT09
+  descriptions:
+    jp_kana: "タネを　２ー５かい\nれんぞくで　はっしゃして\nてきを　こうげきする"
+    en: "Shoots 2 to 5 seeds\nin a row to strike\nthe foe."
+    fr: "Mitraille l’ennemi\navec 2 à 5 graines\nde suite."
+    it: "Da 2 a 5 raffiche\ndi semi sul nemico."
+    de: "Beschießt den\nGegner mit 2 bis 5\nSamen auf einmal."
+    es: "Dispara de 2 a 5\nráfagas de semillas\nseguidas."
+tm010:
+  names:
+    jp_kana: わざマシン１０
+    en: TM10
+    fr: CT10
+    it: MT10
+    de: TM10
+    es: MT10
+  descriptions:
+    jp_kana: "ポケモンによって　てきに\nあたえる　ダメージの\nりょうが　へんかする"
+    en: "The attack power\nvaries among\ndifferent POKéMON."
+    fr: "La puissance de\nl’attaque dépend\ndu POKéMON lanceur."
+    it: "La potenza\ndell’attacco varia\nsecondo il POKéMON."
+    de: "Die Stärke dieser\nAttacke hängt vom \njew. POKéMON ab."
+    es: "La fuerza del\nataque varía según\nel POKéMON."
+tm011:
+  names:
+    jp_kana: わざマシン１１
+    en: TM11
+    fr: CT11
+    it: MT11
+    de: TM11
+    es: MT11
+  descriptions:
+    jp_kana: "５ターンの　あいだ\nほのおタイプの\nわざのいりょくが　あがる"
+    en: "Raises the power of\nFIRE-type moves\nfor 5 turns."
+    fr: "Améliore les\nattaques FEU\npendant 5 tours."
+    it: "Potenzia per 5\nturni le mosse\ndi tipo FUOCO."
+    de: "Verstärkt FEUER-\nAttacken über \n5 Runden."
+    es: "Sube los ataques\nde tipo FUEGO\ndurante 5 turnos."
+tm012:
+  names:
+    jp_kana: わざマシン１２
+    en: TM12
+    fr: CT12
+    it: MT12
+    de: TM12
+    es: MT12
+  descriptions:
+    jp_kana: "あいてを　おこらせて\nこうげきわざ　しか\nだせない　ように　する"
+    en: "Enrages the foe so\nit can only use\nattack moves."
+    fr: "Provoque l’ennemi.\nL’oblige à utiliser\ndes attaques."
+    it: "Provoca il nemico\nperché usi solo\nmosse d’attacco."
+    de: "Reizt Geg. so, dass\ner nur Angriffs-\nattacken einsetzt."
+    es: "Enfada al rival\npara que sólo\nuse ATAQUES."
+tm013:
+  names:
+    jp_kana: わざマシン１３
+    en: TM13
+    fr: CT13
+    it: MT13
+    de: TM13
+    es: MT13
+  descriptions:
+    jp_kana: "れいきを　はっしゃして\nてきを　こうげきする\nこおらせる　ことがある"
+    en: "Fires an icy cold\nbeam that may\nfreeze the foe."
+    fr: "Envoie un rayon\nde glace pouvant\ngeler l’ennemi."
+    it: "Un raggio gelido\nche può congelare\nil nemico."
+    de: "Eisig kalter Strahl,\nder den Gegner\neinfrieren kann."
+    es: "Rayo de hielo\nque puede llegar\na congelar."
+tm014:
+  names:
+    jp_kana: わざマシン１４
+    en: TM14
+    fr: CT14
+    it: MT14
+    de: TM14
+    es: MT14
+  descriptions:
+    jp_kana: "ゆきを　つよいかぜに\nのせて　こうげきする\nこおらせる　ことがある"
+    en: "A brutal snow-and-\nwind attack that\nmay freeze the foe."
+    fr: "Violente tempête\nde neige pouvant\ngeler l’ennemi."
+    it: "Attacco di neve e\nvento che può\ncongelare il nemico."
+    de: "EIS- und Schnee- \nAttacke, die Gegner\neinfrieren kann."
+    es: "Tormenta de viento\ny nieve que puede\nllegar a congelar."
+tm015:
+  names:
+    jp_kana: わざマシン１５
+    en: TM15
+    fr: CT15
+    it: MT15
+    de: TM15
+    es: MT15
+  descriptions:
+    jp_kana: "ダメージは　おおきいが\nつかうと　つぎのターン\nうごけなく　なってしまう"
+    en: "Powerful, but needs\nrecharging the\nnext turn."
+    fr: "Puissant. Oblige le\nlanceur à rechar-\nger le tour suivant."
+    it: "È potente, ma chi la\nusa perde il turno \nsuccessivo."
+    de: "Stark, muss sich\nin der nächsten\nRunde aufladen."
+    es: "Es eficaz, pero\nnecesita 1 turno\npara recargarse."
+tm016:
+  names:
+    jp_kana: わざマシン１６
+    en: TM16
+    fr: CT16
+    it: MT16
+    de: TM16
+    es: MT16
+  descriptions:
+    jp_kana: "ひかりのかべを　つくり\nとくこうの　ダメージを\nよわめる"
+    en: "Creates a wall of\nlight that lowers\nSP. ATK damage."
+    fr: "Crée un mur lumi-\nneux. Baisse les\ndégâts d’ATQ. SPE."
+    it: "Parete di luce che\nriduce i danni\ndell’ATT. SP."
+    de: "Wand aus Licht, die\nSchaden des SP.\nANGR. verringert."
+    es: "Pared de luz que\nreduce el daño del\nAT. ESP."
+tm017:
+  names:
+    jp_kana: わざマシン１７
+    en: TM17
+    fr: CT17
+    it: MT17
+    de: TM17
+    es: MT17
+  descriptions:
+    jp_kana: "そのターンの　こうげきを\nうけないが　れんぞくして\nだすと　しっぱいしやすい"
+    en: "Negates all damage,\nbut may fail if used\nin succession."
+    fr: "Ignore les dégâts,\nmais peut échouer\nsi réutilisée."
+    it: "Elude gli attacchi:\nse usato ripetuta-\nmente può fallire."
+    de: "Schützt, könnte\naber bei häufigem\nEinsatz versagen."
+    es: "Anula los daños,\npero puede fallar\nsi se usa sin parar."
+tm018:
+  names:
+    jp_kana: わざマシン１８
+    en: TM18
+    fr: CT18
+    it: MT18
+    de: TM18
+    es: MT18
+  descriptions:
+    jp_kana: "５ターンの　あいだ\nみずタイプの\nわざのいりょくが　あがる"
+    en: "Raises the power of\nWATER-type moves\nfor 5 turns."
+    fr: "Améliore les\nattaques EAU\npendant 5 tours."
+    it: "Potenzia per 5\nturni le mosse\ndi tipo ACQUA."
+    de: "Verstärkt WASSER-\nAttacken über\n5 Runden."
+    es: "Sube los ataques\nde tipo AGUA\ndurante 5 turnos."
+tm019:
+  names:
+    jp_kana: わざマシン１９
+    en: TM19
+    fr: CT19
+    it: MT19
+    de: TM19
+    es: MT19
+  descriptions:
+    jp_kana: "あたえた　ダメージの\nはんぶんの　たいりょくを\nかいふく　できる"
+    en: "Recovers half the\nHP of the damage \nthis move inflicts."
+    fr: "Une attaque qui\naspire la moitié des\ndégâts infligés."
+    it: "Assorbe metà dei\nPS sottratti al\nnemico."
+    de: "Füllt KP um die\nHälfte der zuge-\nfügten SP auf."
+    es: "Recupera la mitad\nde PS del daño\nque produce."
+tm020:
+  names:
+    jp_kana: わざマシン２０
+    en: TM20
+    fr: CT20
+    it: MT20
+    de: TM20
+    es: MT20
+  descriptions:
+    jp_kana: "ふしぎな　ちからに\nまもられて　とくしゅ\nじょうたいに　ならない"
+    en: "Prevents status\nabnormality with a\nmystical power."
+    fr: "Force mystique em-\npêchant tout chan-\ngement de statut."
+    it: "Forza magica:\nevita i problemi\ndi stato."
+    de: "Mystische Macht,\nverhindert Status-\nveränderungen."
+    es: "Evita alteraciones\nde estado usando\nun poder secreto."
+tm021:
+  names:
+    jp_kana: わざマシン２１
+    en: TM21
+    fr: CT21
+    it: MT21
+    de: TM21
+    es: MT21
+  descriptions:
+    jp_kana: "ポケモンが　なついて\nいないほど　あたえる\nダメージが　あがる"
+    en: "The less the user\nlikes you, the more\npowerful this move."
+    fr: "Attaque plus puis-\nsante si le lanceur\nvous déteste."
+    it: "Più efficace se chi\nla usa non gradisce\nil suo ALLENATORE."
+    de: "Je unbeliebter der\nTrainer, desto grö-\nßer die Wirkung."
+    es: "Cuanto menos le\ngustes al POKéMON,\nmás fuerte ataca."
+tm022:
+  names:
+    jp_kana: わざマシン２２
+    en: TM22
+    fr: CT22
+    it: MT22
+    de: TM22
+    es: MT22
+  descriptions:
+    jp_kana: "１ターンめで　ひかりを\nきゅうしゅうして　つぎの\nターンに　こうげきする"
+    en: "Absorbs sunlight in\nthe 1st turn, then\nattacks next turn."
+    fr: "Absorbe la lumière\net attaque le tour\nsuivant."
+    it: "Al primo turno\nassorbe la luce, al\nsecondo attacca."
+    de: "Erst wird Sonnen-\nlicht absorbiert,\ndann erfolgt Angr."
+    es: "1.ᵉʳ turno: toma\nluz.\n2.º turno: ataca."
+tm023:
+  names:
+    jp_kana: わざマシン２３
+    en: TM23
+    fr: CT23
+    it: MT23
+    de: TM23
+    es: MT23
+  descriptions:
+    jp_kana: "かたいシッポで　こうげき\nてきの　ぼうぎょを\nさげる　ことがある"
+    en: "Slams the foe with\na hard tail. It may\nlower DEFENSE."
+    fr: "Frappe l’ennemi\navec sa queue. Peut\nbaisser la DEFENSE."
+    it: "Coda coriacea che\ncolpisce il nemico.\nPuò ridurre DIFESA."
+    de: "Schlag mit harter\nRute. Kann gleichz.\nVERT.-Wert senken."
+    es: "Golpea con un gran\ncoletazo y puede\nbajar la DEFENSA."
+tm024:
+  names:
+    jp_kana: わざマシン２４
+    en: TM24
+    fr: CT24
+    it: MT24
+    de: TM24
+    es: MT24
+  descriptions:
+    jp_kana: "でんげきを　あびせる\nあたった　てきを\nまひさせる　ことがある"
+    en: "A powerful electric\nattack that may\ncause paralysis."
+    fr: "Forte attaque\nélectrique pouvant\nparalyser l’ennemi."
+    it: "Potente attacco\nelettrico che può\ncausare paralisi."
+    de: "Starke ELEKTRO-\nAttacke. Kann\nParalyse bewirken."
+    es: "Duro ataque eléc-\ntrico que puede\nparalizar al rival."
+tm025:
+  names:
+    jp_kana: わざマシン２５
+    en: TM25
+    fr: CT25
+    it: MT25
+    de: TM25
+    es: MT25
+  descriptions:
+    jp_kana: "かみなりを　おとす\nあたった　てきを\nまひさせる　ことがある"
+    en: "Strikes the foe\nwith a thunderbolt.\nIt may paralyze."
+    fr: "Une attaque fou-\ndroyante pouvant\nparalyser l’ennemi."
+    it: "Il nemico è colpito\nda un tuono.\nPuò paralizzare."
+    de: "Mächtiger Donner-\nschlag, der Paraly-\nse bewirken kann."
+    es: "Ataca con un\nrayo que puede\nparalizar al rival."
+tm026:
+  names:
+    jp_kana: わざマシン２６
+    en: TM26
+    fr: CT26
+    it: MT26
+    de: TM26
+    es: MT26
+  descriptions:
+    jp_kana: "じめんを　つよく　ゆらす\nとんでいる　てきいがいに\nだいダメージを　あたえる"
+    en: "Causes a quake\nthat has no effect\non flying foes."
+    fr: "Séisme sans effet\nsur les adversaires\nvolants."
+    it: "Terremoto. Non ha\neffetto sui nemici\nvolanti."
+    de: "Starkes Beben. Hat\nkeinen Einfluss auf\nfliegende Gegner."
+    es: "Provoca un temblor\nque no afecta a los\nvoladores."
+tm027:
+  names:
+    jp_kana: わざマシン２７
+    en: TM27
+    fr: CT27
+    it: MT27
+    de: TM27
+    es: MT27
+  descriptions:
+    jp_kana: "ポケモンが　なついて\nいるほど　あたえる\nダメージが　あがる"
+    en: "The more the user\nlikes you, the more\npowerful this move."
+    fr: "Attaque dont la\npuissance dépend\nde l’amitié."
+    it: "Più potente se il\nPOKéMON è amico\ndell’ALLENATORE."
+    de: "Je beliebter der\nTrainer, desto grö-\nßer die Wirkung."
+    es: "Cuanto más le\ngustes al POKéMON,\nmás fuerte ataca."
+tm028:
+  names:
+    jp_kana: わざマシン２８
+    en: TM28
+    fr: CT28
+    it: MT28
+    de: TM28
+    es: MT28
+  descriptions:
+    jp_kana: "１ターンめで　じめんに\nもぐり　つぎのターンに\nてきを　こうげきする"
+    en: "Digs underground\nthe 1st turn, then\nstrikes next turn."
+    fr: "Creuse sous terre\nau 1ᵉʳ tour et\nfrappe au 2ᵉ."
+    it: "Al primo turno\nscava, per attac-\ncare al secondo."
+    de: "Erst gräbt sich An-\ngreifer ein, dann\nerfolgt Angriff."
+    es: "1.ᵉʳ turno: cava.\n2.º turno: ataca."
+tm029:
+  names:
+    jp_kana: わざマシン２９
+    en: TM29
+    fr: CT29
+    it: MT29
+    de: TM29
+    es: MT29
+  descriptions:
+    jp_kana: "つよい　ねんりきを　だす\nてきの　とくぼうを\nさげる　ことがある"
+    en: "A powerful psychic\nattack that may\nlower SP. DEF."
+    fr: "Puissante attaque\nPSY pouvant\nbaisser la DEF. SPE."
+    it: "Potente attacco\npsichico: può\nridurre la DIF. SP."
+    de: "Starke PSYCHO-At-\ntacke, die SP. VERT.\nsenken kann."
+    es: "Fuerte ataque psí-\nquico que puede\nbajar la DEF. ESP."
+tm030:
+  names:
+    jp_kana: わざマシン３０
+    en: TM30
+    fr: CT30
+    it: MT30
+    de: TM30
+    es: MT30
+  descriptions:
+    jp_kana: "くろいかたまりを　なげる\nてきの　とくぼうを\nさげる　ことがある"
+    en: "Hurls a dark lump\nat the foe. It may\nlower SP. DEF."
+    fr: "Projette une gran-\nde tache qui peut\nbaisser la DEF. SPE."
+    it: "Una sfera oscura si\nabbatte sul nemico.\nPuò ridurre DIF. SP."
+    de: "Dunkler Klumpen,\nder SP. VERT.\nsenken kann."
+    es: "Lanza una bola\nnegra que puede\nbajar la DEF. ESP."
+tm031:
+  names:
+    jp_kana: わざマシン３１
+    en: TM31
+    fr: CT31
+    it: MT31
+    de: TM31
+    es: MT31
+  descriptions:
+    jp_kana: "ひかりのかべ　などを\nこわして　てきに　　\nダメージを　あたえられる"
+    en: "Destroys barriers\nlike LIGHT SCREEN\nand causes damage."
+    fr: "Détruit les barriè-\nres comme MUR\nLUMIERE et blesse."
+    it: "Arreca danno e\ndistrugge barriere\ncome RIFLESSO."
+    de: "Zerstört Barrieren\nwie SCHUTZSCHILD,\nfügt Schaden zu."
+    es: "Destruye barreras\ncomo PANTALLA LUZ\ny causa daño."
+tm032:
+  names:
+    jp_kana: わざマシン３２
+    en: TM32
+    fr: CT32
+    it: MT32
+    de: TM32
+    es: MT32
+  descriptions:
+    jp_kana: "ぶんしんを　つくって\nてきを　まどわせて\nかいひりつを　あげる"
+    en: "Creates illusory\ncopies to enhance\nelusiveness."
+    fr: "Crée de fausses\ncopies pour aug-\nmenter l’esquive."
+    it: "Copie illusorie\naumentano \nl’elusione."
+    de: "Virtueller Doppel-\ngänger. Erhöht\nden Flucht-Wert."
+    es: "Crea ilusiones\npara mejorar la\nEVASIÓN."
+tm033:
+  names:
+    jp_kana: わざマシン３３
+    en: TM33
+    fr: CT33
+    it: MT33
+    de: TM33
+    es: MT33
+  descriptions:
+    jp_kana: "ひかりのかべを　つくり\nぶつり　こうげきの\nダメージを　よわめる"
+    en: "Creates a wall of\nlight that weakens\nphysical attacks."
+    fr: "Crée un mur lumi-\nneux. Affaiblit les\natt. physiques."
+    it: "Parete di luce che\nindebolisce gli\nattacchi fisici."
+    de: "Wand aus Licht, die\nphysische Atta-\ncken schwächt."
+    es: "Pared de luz que\nbaja los ataques\nfísicos."
+tm034:
+  names:
+    jp_kana: わざマシン３４
+    en: TM34
+    fr: CT34
+    it: MT34
+    de: TM34
+    es: MT34
+  descriptions:
+    jp_kana: "ぜったいに　よけられない\nすばやさで　てきに\nでんげきを　あびせる"
+    en: "Zaps the foe with a\njolt of electricity\nthat never misses."
+    fr: "Envoie un choc\nélectrique impos-\nsible à esquiver."
+    it: "Infallibile scarica\nelettrica contro\nil nemico."
+    de: "Fügt Gegner einen\nStromschlag zu,\nder nie verfehlt."
+    es: "Propina un ataque\neléctrico rápido\ne ineludible."
+tm035:
+  names:
+    jp_kana: わざマシン３５
+    en: TM35
+    fr: CT35
+    it: MT35
+    de: TM35
+    es: MT35
+  descriptions:
+    jp_kana: "ほのおを　まきちらす\nあたった　てきを\nやけどさせる　ことがある"
+    en: "Looses a stream of\nfire that may burn\nthe foe."
+    fr: "Envoie un torrent\nde flammes pouvant\nbrûler l’ennemi."
+    it: "Un flusso di fuoco\nche può scottare\nil nemico."
+    de: "Entfesselt Feuer-\nstrahl, der Gegner\nverbrennen kann."
+    es: "Lanza un chorro de\nfuego que puede\ncausar quemaduras."
+tm036:
+  names:
+    jp_kana: わざマシン３６
+    en: TM36
+    fr: CT36
+    it: MT36
+    de: TM36
+    es: MT36
+  descriptions:
+    jp_kana: "ヘドロを　なげつける\nあたった　てきに　どくを\nあたえることが　ある"
+    en: "Hurls sludge at the\nfoe. It may poison\nthe foe."
+    fr: "Envoie des détri-\ntus pour blesser.\nPeut empoisonner."
+    it: "Fango lanciato sul\nnemico. Può\navvelenarlo."
+    de: "Bewirft Gegner mit\nMatsch, der ihn\nvergiften kann."
+    es: "Descarga de lodo\nque puede llegar\na envenenar."
+tm037:
+  names:
+    jp_kana: わざマシン３７
+    en: TM37
+    fr: CT37
+    it: MT37
+    de: TM37
+    es: MT37
+  descriptions:
+    jp_kana: "すなあらしを　おこして\nまいターン　てきに\nダメージを　あたえる"
+    en: "Causes a sandstorm\nthat hits the foe\nover several turns."
+    fr: "Une tempête de\nsable qui dure\nplusieurs tours."
+    it: "Una tempesta di \nsabbia: colpisce\nper diversi turni."
+    de: "Sandsturm trifft\netliche Runden lang\ndie Kämpfenden."
+    es: "Tormenta de arena\nque dura varios\nturnos."
+tm038:
+  names:
+    jp_kana: わざマシン３８
+    en: TM38
+    fr: CT38
+    it: MT38
+    de: TM38
+    es: MT38
+  descriptions:
+    jp_kana: "だいの　もじで　すべてを\nやきつくす　こうげき\nやけどさせる　ことがある"
+    en: "A powerful fire\nattack that may\nburn the foe."
+    fr: "Puissante attaque\nenflammée pouvant\nbrûler l’ennemi."
+    it: "Potente attacco di\nfuoco che può\nscottare il nemico."
+    de: "Kraftvolle FEUER-\nAttacke, die Gegner\nverbrennen kann."
+    es: "Potente ataque de\nfuego que puede\nquemar al rival."
+tm039:
+  names:
+    jp_kana: わざマシン３９
+    en: TM39
+    fr: CT39
+    it: MT39
+    de: TM39
+    es: MT39
+  descriptions:
+    jp_kana: "いわで　てきの　うごきを\nふうじて　こうげき\nすばやさを　さげられる"
+    en: "Stops the foe from\nmoving with rocks.\nMay lower SPEED."
+    fr: "Bloque l’ennemi\navec des rocs. Peut\nbaisser la VITESSE."
+    it: "Rocce bloccano il\nnemico. Può ridurre\nla VELOCITÀ."
+    de: "Begräbt Gegner mit\nSteinen. Kann\nINIT.-Wert senken."
+    es: "Inmoviliza al rival\ncon rocas. Puede\nbajar la VELOCIDAD."
+tm040:
+  names:
+    jp_kana: わざマシン４０
+    en: TM40
+    fr: CT40
+    it: MT40
+    de: TM40
+    es: MT40
+  descriptions:
+    jp_kana: "すばやい　うごきで　\nぜったいに　よけられない\nこうげきを　する"
+    en: "An extremely fast\nattack that can’t\nbe avoided."
+    fr: "Une attaque\nextrêmement rapide\net inévitable."
+    it: "Attacco\nrapidissimo e\ninevitabile."
+    de: "Eine schnelle\nAttacke, die\nunausweichlich ist."
+    es: "Ataque tremen-\ndamente rápido\ne ineludible."
+tm041:
+  names:
+    jp_kana: わざマシン４１
+    en: TM41
+    fr: CT41
+    it: MT41
+    de: TM41
+    es: MT41
+  descriptions:
+    jp_kana: "てきが　おなじわざを\nれんぞくで　だせない\nようにする"
+    en: "Prevents the foe\nfrom using the same\nmove in a row."
+    fr: "Empêche la\nréutilisation\nd’une attaque."
+    it: "Impedisce al nemico\ndi usare la stessa\nmossa di seguito."
+    de: "Blockiert gerade\nverwendete Atta-\ncke des Gegners."
+    es: "Impide al rival que\nuse un ataque de\nforma continuada."
+tm042:
+  names:
+    jp_kana: わざマシン４２
+    en: TM42
+    fr: CT42
+    it: MT42
+    de: TM42
+    es: MT42
+  descriptions:
+    jp_kana: "どく　まひ　やけどのとき\nこうげきの　ちからを\nあげる　ことが　できる"
+    en: "Raises ATTACK when\npoisoned, burned,\nor paralyzed."
+    fr: "Améliore l’ATTAQUE\nsi brûlé, paralysé\nou empoisonné."
+    it: "Con paralisi, avve-\nlenam. o scottatura\nsale l’ATTACCO."
+    de: "Stärkt ANGR.-Wert\nbei Gift, Brand oder\nParalyse."
+    es: "Sube el ATAQUE al\nestar quemado, \nparaliz. o enven."
+tm043:
+  names:
+    jp_kana: わざマシン４３
+    en: TM43
+    fr: CT43
+    it: MT43
+    de: TM43
+    es: MT43
+  descriptions:
+    jp_kana: "たたかう　ばしょに　より\nてきに　あたえる\nついか　こうかが　かわる"
+    en: "Adds an effect to\nattack depending\non the location."
+    fr: "Les effets\nde l’attaque\ndépendent du lieu."
+    it: "L’attacco ha un\neffetto in più a\nseconda del luogo."
+    de: "Die Umgebung\nbeeinflusst die Art\nder Attacke."
+    es: "Tiene efectos\ndistintos según\nla zona."
+tm044:
+  names:
+    jp_kana: わざマシン４４
+    en: TM44
+    fr: CT44
+    it: MT44
+    de: TM44
+    es: MT44
+  descriptions:
+    jp_kana: "２ターンねむり　からだの\nいじょうと　たいりょくを\nぜんかいふく　する"
+    en: "The user sleeps for\n2 turns to restore\nhealth and status."
+    fr: "Le lanceur dort 2\ntours et regagne\nPV et statut."
+    it: "Chi la usa dorme \nper 2 turni e re- \ncupera PS e stato."
+    de: "POKéMON schläft\n2 Runden. Füllt KP\nund heilt Status."
+    es: "El POKéMON duerme\n2 turnos y restaura\nsu salud y estado."
+tm045:
+  names:
+    jp_kana: わざマシン４５
+    en: TM45
+    fr: CT45
+    it: MT45
+    de: TM45
+    es: MT45
+  descriptions:
+    jp_kana: "オスなら　メスに\nメスなら　オスに\nわざが　だしにくくなる"
+    en: "Makes it tough to\nattack a foe of the\nopposite gender."
+    fr: "Le genre opposé\na moins de chances\nd’attaquer."
+    it: "Nemici del sesso \nopposto attaccano\nmeno facilmente."
+    de: "Erschwert Angriff\nauf Gegner des an-\nderen Geschlechts."
+    es: "Hace difícil atacar\na un rival del otro\ngénero."
+tm046:
+  names:
+    jp_kana: わざマシン４６
+    en: TM46
+    fr: CT46
+    it: MT46
+    de: TM46
+    es: MT46
+  descriptions:
+    jp_kana: "こうげきちゅうに　すきを\nみて　てきが　もっている\nどうぐを　ぬすむ"
+    en: "While attacking,\nit may steal the\nfoe’s held item."
+    fr: "Peut voler l’objet\ntenu par l’ennemi\npendant l’attaque."
+    it: "Può rubare lo \nstrumento tenuto\ndal nemico."
+    de: "Beim Angriff wird\nItem des Gegners\nevtl. gestohlen."
+    es: "Al atacar, puede\nquitar al rival\nel objeto que lleve."
+tm047:
+  names:
+    jp_kana: わざマシン４７
+    en: TM47
+    fr: CT47
+    it: MT47
+    de: TM47
+    es: MT47
+  descriptions:
+    jp_kana: "かたいつばさを　おおきく\nひろげて　そのまま\nてきに　たいあたりする"
+    en: "Spreads hard-\nedged wings and\nslams into the foe."
+    fr: "Frappe l’ennemi en\ndéployant ses ailes\nd’acier."
+    it: "Si lancia ad ali\nspiegate contro\nil nemico."
+    de: "Den Gegner\ntreffen stählerne\nFlügelschläge."
+    es: "Bate las rígidas\nalas para golpear\nal rival."
+tm048:
+  names:
+    jp_kana: わざマシン４８
+    en: TM48
+    fr: CT48
+    it: MT48
+    de: TM48
+    es: MT48
+  descriptions:
+    jp_kana: "わざを　だした　ターンに\nじぶんと　てきの\nとくせいを　いれかえる"
+    en: "Switches abilities\nwith the foe on the\nturn this is used."
+    fr: "Le lanceur et\nla cible échangent\nleurs capacités."
+    it: "Chi la usa scambia\nabilità speciali con\nun altro POKéMON."
+    de: "Austausch der\nFähigkeiten bei der\nnächsten Attacke."
+    es: "Intercambia la\nhabilidad especial\ndurante 1 turno."
+tm049:
+  names:
+    jp_kana: わざマシン４９
+    en: TM49
+    fr: CT49
+    it: MT49
+    de: TM49
+    es: MT49
+  descriptions:
+    jp_kana: "てきが　つかおうとした\nわざを　うばって\nじぶんに　つかう"
+    en: "Steals the effects\nof the move the foe\nis trying to use."
+    fr: "Vole les effets de\nla prochaine\nattaque ennemie."
+    it: "Ruba l’effetto\ndella mossa che il\nnemico vuole usare."
+    de: "Stiehlt die\nEffekte der gegne-\nrischen Attacke."
+    es: "Roba el efecto del\nataque que el rival\nintenta usar."
+tm050:
+  names:
+    jp_kana: わざマシン５０
+    en: TM50
+    fr: CT50
+    it: MT50
+    de: TM50
+    es: MT50
+  descriptions:
+    jp_kana: "フルパワーで　こうげき\nできるが　とくこうが\nガクッと　さがってしまう"
+    en: "Enables full-power\nattack, but sharply\nlowers SP. ATK."
+    fr: "Attaque à pleine\npuissance, mais\nbaisse ATQ. SPE."
+    it: "Potente attacco, \nma riduce di\nmolto l’ATT. SP."
+    de: "Höchste Kraft,\naber senkt SP.\nANGR. enorm."
+    es: "Ataca con toda la\nfuerza, pero baja\nmucho el AT. ESP."
+tm_case:
+  names:
+    jp_kana: わざマシンケース
+    en: TM CASE
+    fr: BOITE CT
+    it: PORTA-MT
+    de: VM/TM-BOX
+    es: TUBO MT-MO
+  descriptions:
+    jp_kana: "わざマシンを　ほかんする\nべんりな　いれもの"
+    en: "A convenient case \nthat holds TMs and\nHMs."
+    fr: "Une boîte pour\nranger les CT et\nles CS."
+    it: "Contenitore utile\nper le MT e\nle MN."
+    de: "Box, in der VMs und\nTMs aufbewahrt\nwerden."
+    es: "Tubo que contiene\nlas MT y MO.\nEs muy útil."
+town_map:
+  names:
+    jp_kana: タウンマップ
+    en: TOWN MAP
+    fr: CARTE
+    it: MAPPA CITTÀ
+    de: KARTE
+    es: MAPA
+  descriptions:
+    jp_kana: "いつでも　みることが\nできる　べんりな　ちず\nじぶんの　いちも　わかる"
+    en: "Can be viewed\nanytime. Shows your\npresent location."
+    fr: "Carte pouvant être\nlue partout. Montre\nla position."
+    it: "Comoda mappa,\nconsultabile in\nogni situazione."
+    de: "Kann stets aufge-\nrufen werden.\nZeigt Standort."
+    es: "Puede consultarse\ncuando sea. Indica\ndónde estás."
+tri_pass:
+  names:
+    jp_kana: トライパス
+    en: TRI-PASS
+    fr: TRI-PASSE
+    it: TRIS PASS
+    de: TRI-PASS
+    es: TRI-TICKET
+  descriptions:
+    jp_kana: "１のしまと　２のしまと\n３のしまを　いどうする\nふねに　のれる"
+    en: "A pass for ferries\nbetween ONE, TWO,\nand THREE ISLAND."
+    fr: "Un passe pour\naccéder aux\nILES 1, 2 et 3."
+    it: "Pass per PRIMISO-\nLA, SECONDISOLA\ne TERZISOLA."
+    de: "Pass für die Fähren\nzwischen EILAND\nEINS, ZWEI, DREI."
+    es: "Ticket del ferry\nde ISLA PRIMA,\nSECUNDA y TERA."
+tropic_mail:
+  names:
+    jp_kana: トロピカルメール
+    en: TROPIC MAIL
+    fr: LETTRE TROPI
+    it: MESS. TROPIC
+    de: TROPENBRIEF
+    es: CAR. TROPIC.
+  descriptions:
+    jp_kana: "キレイハナの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A BELLOSSOM-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier JOLIFLOR\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi BELLOSSOM."
+    de: "BRIEF (Tragen) mit \nBLUBELLA-\nAufdruck."
+    es: "Sale BELLOSSOM.\nDebe llevarla\nun POKéMON."
+twisted_spoon:
+  names:
+    jp_kana: まがったスプーン
+    en: TWISTEDSPOON
+    fr: CUILLERTORDU
+    it: CUCCH. TORTO
+    de: KRÜMMLÖFFEL
+    es: CUCHARA TOR
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nエスパータイプの\nわざのいりょくが　あがる"
+    en: "A hold item that\nboosts PSYCHIC-\ntype moves."
+    fr: "Objet tenu montant\nla puissance des\nattaques PSY."
+    it: "Strumento tenuto:\npotenzia le mosse\ndi tipo PSICO."
+    de: "Item (Tragen)\nverstärkt PSYCHO-\nAttacken."
+    es: "Al llevarla, forta-\nlece los ataques\nde tipo PSÍQUICO."
+ultra_ball:
+  names:
+    jp_kana: ハイパーボール
+    en: ULTRA BALL
+    fr: HYPER BALL
+    it: ULTRA BALL
+    de: HYPERBALL
+    es: ULTRABALL
+  descriptions:
+    jp_kana: "スーパーボール　より\nつかまえ　やすくなった\nとても　すごい　ボール"
+    en: "A better BALL with\na higher catch rate\nthan a GREAT BALL."
+    fr: "BALL au taux de\nréussite supérieur\nà la SUPER BALL."
+    it: "BALL molto buona,\npiù efficace della\nMEGA BALL."
+    de: "BALL mit hoher Er-\nfolgsquote. Besser\nals ein SUPERBALL."
+    es: "Es muy buena. Tiene\nmás índice de éxito\nque la SUPERBALL."
+upgrade:
+  names:
+    jp_kana: アップグレード
+    en: UP-GRADE
+    fr: AMELIORATOR
+    it: UPGRADE
+    de: UP-GRADE
+    es: MEJORA
+  descriptions:
+    jp_kana: "ふしぎな　はこ\nシルフ　カンパニーせい"
+    en: "A peculiar box made\nby SILPH CO."
+    fr: "Une drôle de boîte\nfabriquée par la\nSYLPHE SARL."
+    it: "Scatola speciale\nprodotta dalla\nSILPH SpA."
+    de: "Eine mysteriöse\nBox der SILPH CO."
+    es: "Peculiar caja\nhecha en\nSILPH S.A."
+vs_seeker:
+  names:
+    jp_kana: バトルサーチャー
+    en: VS SEEKER
+    fr: CHERCHE VS
+    it: CERCASFIDE
+    de: KAMPFFAHNDER
+    es: BUSCAPELEA
+  descriptions:
+    jp_kana: "たたかえる　トレーナーを\nおしえてくれる　きかい\nじゅうでんして　つかう"
+    en: "A rechargeable unit\nthat flags battle-\nready TRAINERS."
+    fr: "Montre ceux qui\nveulent se battre.\nRechargeable."
+    it: "Apparecchio a\nricarica scova-\nALLENATORI."
+    de: "Gerät, das rück-\nkampfwillige\nTRAINER anzeigt."
+    es: "Indica qué ENTRE-\nNADORES quieren\nluchar. Se recarga."
+wailmer_pail:
+  names:
+    jp_kana: ホエルコじょうろ
+    en: WAILMER PAIL
+    fr: SEAU WAILMER
+    it: VASO WAILMER
+    de: WAILMERKANNE
+    es: CUBO WAILMER
+  descriptions:
+    jp_kana: "みずを　かける　どうぐ\nつちに　うめた　きのみを\nすくすく　そだてる"
+    en: "A tool used for\nwatering BERRIES\nand plants."
+    fr: "Outil utilisé pour\narroser les BAIES\net les plantes."
+    it: "Si usa per\nannaffiare BACCHE\ne piante."
+    de: "Ein Gegenstand zum\nGießen von Pflan-\nzen wie BEEREn."
+    es: "Sirve para regar\nlas BAYAS y las\nplantas."
+water_stone:
+  names:
+    jp_kana: みずのいし
+    en: WATER STONE
+    fr: PIERRE EAU
+    it: PIETRAIDRICA
+    de: WASSERSTEIN
+    es: PIEDRA AGUA
+  descriptions:
+    jp_kana: "とくていの　ポケモンを\nしんかさせる"
+    en: "Makes certain\nspecies of POKéMON\nevolve."
+    fr: "Fait évoluer\ncertaines espèces\nde POKéMON."
+    it: "Fa evolvere\ndeterminate specie\ndi POKéMON."
+    de: "Löst bei bestimm-\nten POKéMON die\nEntwicklung aus."
+    es: "Hace evolucionar\na varias especies\nde POKéMON."
+watmel_berry:
+  names:
+    jp_kana: カイスのみ
+    en: WATMEL BERRY
+    fr: BAIE STEKPA
+    it: BACCACOMERO
+    de: WASMELBEERE
+    es: BAYA SAMBIA
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nカイスが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow WATMEL."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un STEKPA."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nWASMEL wächst."
+    es: "En suelo fértil da\nSAMBIA. Sirve para\nhacer POKéCUBOS."
+wave_mail:
+  names:
+    jp_kana: クロスメール
+    en: WAVE MAIL
+    fr: LETTRE VAGUE
+    it: MESS. ONDA
+    de: WELLENBRIEF
+    es: CARTA OLA
+  descriptions:
+    jp_kana: "ホエルコの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A WAILMER-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier WAILMER\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi WAILMER."
+    de: "BRIEF (Tragen) mit \nWAILMER-\nAufdruck."
+    es: "Sale WAILMER.\nDebe llevarla\nun POKéMON."
+wepear_berry:
+  names:
+    jp_kana: セシナのみ
+    en: WEPEAR BERRY
+    fr: BAIE REPOI
+    it: BACCAPERA
+    de: NIRBEBEERE
+    es: BAYA PERAGU
+  descriptions:
+    jp_kana: "ポロックの　ざいりょう\nつちのなかに　うめると\nセシナが　そだつ"
+    en: "POKéBLOCK ingredient.\nPlant in loamy soil\nto grow WEPEAR."
+    fr: "Ingrédient POKéBLOC.\nPlantez-la pour\navoir un REPOI."
+    it: "Ingrediente per le\nPOKéMELLE. Piantala in\nun terreno fertile."
+    de: "Säe POKéRIEGEL-Zutat\nin Lehmboden, damit\nNIRBE wächst."
+    es: "En suelo fértil da \nPERAGU. Sirve para\nhacer POKéCUBOS."
+white_flute:
+  names:
+    jp_kana: しろいビードロ
+    en: WHITE FLUTE
+    fr: FLUTEBLANCHE
+    it: FLAUTO B.NCO
+    de: WEISSE FLÖTE
+    es: FL. BLANCA
+  descriptions:
+    jp_kana: "ガラスで　できた　ふえ\nやせい　ポケモンと\nそうぐう　しやすくなる"
+    en: "A glass flute that\nlures wild POKéMON."
+    fr: "Une flûte en verre\nqui attire les\nPOKéMON sauvages."
+    it: "Flauto di vetro che\nattrae i POKéMON\nselvatici."
+    de: "Eine gläserne\nFlöte, die wilde\nPOKéMON anzieht."
+    es: "Flauta de cristal\nque atrae a los\nPOKéMON salvajes."
+white_herb:
+  names:
+    jp_kana: しろいハーブ
+    en: WHITE HERB
+    fr: HERBEBLANCHE
+    it: ERBACHIARA
+    de: SCHLOHKRAUT
+    es: HIER. BLANCA
+  descriptions:
+    jp_kana: "ポケモンに　もたせると\nさがった　のうりょくを\nもとにもどす"
+    en: "A hold item that\nrestores any\nlowered stat."
+    fr: "Objet tenu qui\nrestaure les stats\nbaissées."
+    it: "Strumento tenuto:\nannulla diminuzione\ndelle statistiche."
+    de: "Item (Tragen) hebt\njede Statusverän-\nderung auf."
+    es: "Al llevarla, restau-\nra características\ndebilitadas."
+wiki_berry:
+  names:
+    jp_kana: ウイのみ
+    en: WIKI BERRY
+    fr: BAIE WIKI
+    it: BACCAKIWI
+    de: WIKIBEERE
+    es: BAYA WIKI
+  descriptions:
+    jp_kana: "もたせると　たいりょくを\nかいふく　できるが\nこんらんする　ことがある"
+    en: "A hold item that\nrestores HP but\nmay confuse."
+    fr: "Objet tenu qui res-\ntaure les PV. Peut\nrendre confus."
+    it: "Strumento tenuto:\nrestituisce PS, ma\npuò confondere."
+    de: "Item (Tragen) füllt\nKP auf, bewirkt\nevtl. Verwirrung."
+    es: "Al llevarla, te\nrestaura PS, pero\npuede confundirte."
+wood_mail:
+  names:
+    jp_kana: ウッディメール
+    en: WOOD MAIL
+    fr: LETTRE BOIS
+    it: MESS. BOSCO
+    de: WALDBRIEF
+    es: CARTA MADERA
+  descriptions:
+    jp_kana: "ナマケロの　すがたが\nプリントされた　びんせん\nポケモンに　もたせる"
+    en: "A SLAKOTH-print\nMAIL to be held by\na POKéMON."
+    fr: "Papier PARECOOL\npouvant être tenu\npar un POKéMON."
+    it: "MESSAGGIO tenuto:\npresenta l’immagine\ndi SLAKOTH."
+    de: "BRIEF (Tragen) mit \nBUMMELZ-\nAufdruck."
+    es: "Sale SLAKOTH.\nDebe llevarla\nun POKéMON."
+x_accuracy:
+  names:
+    jp_kana: ヨクアタール
+    en: X ACCURACY
+    fr: PRECISION +
+    it: PRECISIONE X
+    de: X-TREFFER
+    es: PRECISIÓN X
+  descriptions:
+    jp_kana: "つかった　せんとうちゅう\nわざが　あたりやすくなる"
+    en: "Raises accuracy\nof attack moves\nduring one battle."
+    fr: "Monte la précision\ndes attaques\npendant un combat."
+    it: "Mosse d’attacco\npiù precise per\nuna lotta."
+    de: "Hebt die\nGENAUIGKEIT\nfür einen Kampf."
+    es: "Sube la PRECISIÓN\nde los ataques\nen un combate."
+x_attack:
+  names:
+    jp_kana: プラスパワー
+    en: X ATTACK
+    fr: ATTAQUE +
+    it: ATTACCO X
+    de: X-ANGRIFF
+    es: ATAQUE X
+  descriptions:
+    jp_kana: "つかった　せんとうちゅう\nこうげきりょくが　あがる"
+    en: "Raises the stat\nATTACK during one\nbattle."
+    fr: "Monte l’ATTAQUE\npendant un combat."
+    it: "Aumenta\nl’ATTACCO\nper una lotta."
+    de: "Hebt den\nANGR.-Wert\nfür einen Kampf."
+    es: "Aumenta el\nATAQUE durante\nun combate."
+x_defense:
+  names:
+    jp_kana: ディフェンダー
+    en: X DEFEND
+    fr: DEFENSE +
+    it: DIFESA X
+    de: X-ABWEHR
+    es: DEFENSA X
+  descriptions:
+    jp_kana: "つかった　せんとうちゅう\nぼうぎょりょくが　あがる"
+    en: "Raises the stat\nDEFENSE during one\nbattle."
+    fr: "Monte la DEFENSE\npendant un combat."
+    it: "Aumenta la\nDIFESA\nper una lotta."
+    de: "Hebt den\nVERT.-Wert\nfür einen Kampf."
+    es: "Aumenta la\nDEFENSA durante\nun combate."
+x_sp_atk:
+  names:
+    jp_kana: スペシャルアップ
+    en: X SPECIAL
+    fr: SPECIAL +
+    it: SPECIAL X
+    de: X-SPEZIAL
+    es: ESPECIAL X
+  descriptions:
+    jp_kana: "つかった　せんとうちゅう\nとくこうの　いりょくが\nあがる"
+    en: "Raises the stat\nSP. ATK during one\nbattle."
+    fr: "Monte l’ATQ. SPE.\npendant un combat."
+    it: "Aumenta l’ATT. SP.\nper una lotta."
+    de: "Hebt den\nSP. ANGR.-Wert\nfür einen Kampf."
+    es: "Aumenta el AT. ESP.\nen un combate."
+x_speed:
+  names:
+    jp_kana: スピーダー
+    en: X SPEED
+    fr: VITESSE +
+    it: VELOCITÀ X
+    de: X-TEMPO
+    es: VELOCIDAD X
+  descriptions:
+    jp_kana: "つかった　せんとうちゅう\nすばやさが　あがる"
+    en: "Raises the stat\nSPEED during one\nbattle."
+    fr: "Monte la VITESSE\npendant un combat."
+    it: "Aumenta la\nVELOCITÀ\nper una lotta."
+    de: "Hebt den\nINIT.-Wert\nfür einen Kampf."
+    es: "Aumenta la\nVELOCIDAD durante\nun combate."
+yellow_flute:
+  names:
+    jp_kana: きいろビードロ
+    en: YELLOW FLUTE
+    fr: FLUTE JAUNE
+    it: FLAUTO GIAL.
+    de: GELBE FLÖTE
+    es: FL. AMARILLA
+  descriptions:
+    jp_kana: "ガラスで　できた　ふえ\nこんらん　じょうたいを\nかいふくする"
+    en: "A glass flute that\nsnaps POKéMON\nout of confusion."
+    fr: "Une flûte en verre\nqui sort un POKéMON\nde sa confusion."
+    it: "Flauto di vetro che\nlibera un POKéMON\ndalla confusione."
+    de: "Eine gläserne\nFlöte, die verwirrte\nPOKéMON heilt."
+    es: "Flauta de cristal\nque espabila a los\nPOKéMON confusos."
+yellow_scarf:
+  names:
+    jp_kana: きいろのバンダナ
+    en: YELLOW SCARF
+    fr: FOUL. JAUNE
+    it: FASCIA GIAL.
+    de: GELBER SCHAL
+    es: P. AMARILLO
+  descriptions:
+    jp_kana: "もたせて　コンテストに\nさんかすると　いつもより\nたくましく　みられる"
+    en: "A hold item that\nraises TOUGH in\nCONTESTS."
+    fr: "Objet tenu montant\nla stat ROBUSTESSE\ndans les CONCOURS."
+    it: "Strumento tenuto:\ndà più GRINTA nelle\nGARE."
+    de: "Item (Tragen) hebt\nSTÄRKE-Wert für\nden WETTBEWERB."
+    es: "Al llevarlo en los\nCONCURSOS,\naumenta la DUREZA."
+yellow_shard:
+  names:
+    jp_kana: きいろいかけら
+    en: YELLOW SHARD
+    fr: TESSON JAUNE
+    it: COCCIO GIAL.
+    de: GELBSTÜCK
+    es: P. AMARILLA
+  descriptions:
+    jp_kana: "むかしに　つくられた\nどうぐの　かけら　らしい\nやすく　うれる"
+    en: "A shard from an\nancient item. Can\nbe sold cheaply."
+    fr: "Fragment d’objet\nantique. Peut être\nvendu à bas prix."
+    it: "Coccio di un antico\nstrumento. Si vende\na basso prezzo."
+    de: "Scherbe eines\nantiken Relikts\nvon geringem Wert."
+    es: "Parte de un objeto\nantiguo. Se vende\na bajo precio."
+zinc:
+  names:
+    jp_kana: キトサン
+    en: ZINC
+    fr: ZINC
+    it: ZINCO
+    de: ZINK
+    es: ZINC
+  descriptions:
+    jp_kana: "とくぼうの\nきそポイントを　あげる"
+    en: "Raises the base\nSP. DEF stat of one\nPOKéMON."
+    fr: "Monte la DEF. SPE.\nd’un POKéMON."
+    it: "Aumenta la\nDIF. SP. di\nun POKéMON."
+    de: "Hebt den\nSP. VERT.-Wert\neines POKéMON."
+    es: "Aumenta la DEF.\nESP. de un\nPOKéMON."

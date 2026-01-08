@@ -1,0 +1,170 @@
+bug:
+  names:
+    jp_kana: むし
+    jp_kanji: むし
+    en: Bug
+    fr: Insecte
+    it: Coleott.
+    de: Käfer
+    es: Bicho
+    ko: 벌레
+dark:
+  names:
+    jp_kana: あく
+    jp_kanji: あく
+    en: Dark
+    fr: Ténèbres
+    it: Buio
+    de: Unlicht
+    es: Siniestro
+    ko: 악
+dragon:
+  names:
+    jp_kana: ドラゴン
+    jp_kanji: ドラゴン
+    en: Dragon
+    fr: Dragon
+    it: Drago
+    de: Drachen
+    es: Dragón
+    ko: 드래곤
+electric:
+  names:
+    jp_kana: でんき
+    jp_kanji: でんき
+    en: Electric
+    fr: Électrik
+    it: Elettro
+    de: Elektro
+    es: Eléctrico
+    ko: 전기
+fighting:
+  names:
+    jp_kana: かくとう
+    jp_kanji: かくとう
+    en: Fighting
+    fr: Combat
+    it: Lotta
+    de: Kampf
+    es: Lucha
+    ko: 격투
+fire:
+  names:
+    jp_kana: ほのお
+    jp_kanji: ほのお
+    en: Fire
+    fr: Feu
+    it: Fuoco
+    de: Feuer
+    es: Fuego
+    ko: 불꽃
+flying:
+  names:
+    jp_kana: ひこう
+    jp_kanji: ひこう
+    en: Flying
+    fr: Vol
+    it: Volante
+    de: Flug
+    es: Volador
+    ko: 비행
+ghost:
+  names:
+    jp_kana: ゴースト
+    jp_kanji: ゴースト
+    en: Ghost
+    fr: Spectre
+    it: Spettro
+    de: Geist
+    es: Fantasma
+    ko: 고스트
+grass:
+  names:
+    jp_kana: くさ
+    jp_kanji: くさ
+    en: Grass
+    fr: Plante
+    it: Erba
+    de: Pflanze
+    es: Planta
+    ko: 풀
+ground:
+  names:
+    jp_kana: じめん
+    jp_kanji: じめん
+    en: Ground
+    fr: Sol
+    it: Terra
+    de: Boden
+    es: Tierra
+    ko: 땅
+ice:
+  names:
+    jp_kana: こおり
+    jp_kanji: こおり
+    en: Ice
+    fr: Glace
+    it: Ghiaccio
+    de: Eis
+    es: Hielo
+    ko: 얼음
+normal:
+  names:
+    jp_kana: ノーマル
+    jp_kanji: ノーマル
+    en: Normal
+    fr: Normal
+    it: Normale
+    de: Normal
+    es: Normal
+    ko: 노말
+poison:
+  names:
+    jp_kana: どく
+    jp_kanji: どく
+    en: Poison
+    fr: Poison
+    it: Veleno
+    de: Gift
+    es: Veneno
+    ko: 독
+psychic:
+  names:
+    jp_kana: エスパー
+    jp_kanji: エスパー
+    en: Psychic
+    fr: Psy
+    it: Psico
+    de: Psycho
+    es: Psíquico
+    ko: 에스퍼
+rock:
+  names:
+    jp_kana: いわ
+    jp_kanji: いわ
+    en: Rock
+    fr: Roche
+    it: Roccia
+    de: Gestein
+    es: Roca
+    ko: 바위
+steel:
+  names:
+    jp_kana: はがね
+    jp_kanji: はがね
+    en: Steel
+    fr: Acier
+    it: Acciaio
+    de: Stahl
+    es: Acero
+    ko: 강철
+water:
+  names:
+    jp_kana: みず
+    jp_kanji: みず
+    en: Water
+    fr: Eau
+    it: Acqua
+    de: Wasser
+    es: Agua
+    ko: 물

@@ -1,0 +1,120 @@
+amorphous:
+  names:
+    jp_kana: ふていけい
+    en: Amorphous
+    fr: Amorphe
+    it: Amorfo
+    de: Amorph
+    es: Amorfo
+bug:
+  names:
+    jp_kana: むし
+    en: Bug
+    fr: Insectoïde
+    it: Coleottero
+    de: Käfer
+    es: Bicho
+ditto:
+  names:
+    jp_kana: メタモン
+    en: Ditto
+    fr: Métamorph
+    it: Ditto
+    de: Ditto
+    es: Ditto
+dragon:
+  names:
+    jp_kana: ドラゴン
+    en: Dragon
+    fr: Draconique
+    it: Drago
+    de: Drache
+    es: Dragón
+fairy:
+  names:
+    jp_kana: ようせい
+    en: Fairy
+    fr: Féerique
+    it: Magico
+    de: Fee
+    es: Hada
+field:
+  names:
+    jp_kana: りくじょう
+    en: Field
+    fr: Terrestre
+    it: Campo
+    de: Feld
+    es: Campo
+flying:
+  names:
+    jp_kana: ひこう
+    en: Flying
+    fr: Aérien
+    it: Volante
+    de: Flug
+    es: Volador
+grass:
+  names:
+    jp_kana: しょくぶつ
+    en: Grass
+    fr: Végétal
+    it: Erba
+    de: Pflanze
+    es: Planta
+human_like:
+  names:
+    jp_kana: ひとがた
+    en: Human-Like
+    fr: Humanoïde
+    it: Umanoide
+    de: Humanotyp
+    es: Humanoide
+mineral:
+  names:
+    jp_kana: こうぶつ
+    en: Mineral
+    fr: Minéral
+    it: Minerale
+    de: Mineral
+    es: Mineral
+monster:
+  names:
+    jp_kana: かいじゅう
+    en: Monster
+    fr: Monstrueux
+    it: Mostro
+    de: Monster
+    es: Monstru
+undiscovered:
+  names:
+    jp_kana: タマゴみはっけん
+    en: Undiscovered
+    fr: Inconnu
+    it: Non ancora scoperto
+    de: Unbekannt
+    es: Desconocido
+water_1:
+  names:
+    jp_kana: すいちゅう１
+    en: Water 1
+    fr: Aquatique 1
+    it: Acqua 1
+    de: Wasser 1
+    es: Agua 1
+water_2:
+  names:
+    jp_kana: すいちゅう２
+    en: Water 2
+    fr: Aquatique 2
+    it: Acqua 2
+    de: Wasser 2
+    es: Agua 2
+water_3:
+  names:
+    jp_kana: すいちゅう 3
+    en: Water 3
+    fr: Aquatique 3
+    it: Acqua 3
+    de: Wasser 3
+    es: Agua 3
