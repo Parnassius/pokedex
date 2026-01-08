@@ -1,6 +1,7 @@
 from __future__ import annotations
 
-from typing import TYPE_CHECKING, Annotated, ClassVar
+from collections.abc import Collection
+from typing import Annotated, ClassVar
 
 from sqlalchemy import CheckConstraint, Enum, ForeignKey, UniqueConstraint
 from sqlalchemy.ext.associationproxy import AssociationProxy, association_proxy
@@ -13,9 +14,6 @@ from sqlalchemy.orm import (
 )
 
 from pokedex import enums, mixins
-
-if TYPE_CHECKING:
-    from collections.abc import Collection
 
 intpk = Annotated[int, mapped_column(primary_key=True)]
 strpk = Annotated[str, mapped_column(primary_key=True)]
