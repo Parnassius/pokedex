@@ -1,0 +1,1155 @@
+air_lock:
+  names:
+    jp_kana: エアロック
+    en: AIR LOCK
+    fr: AIR LOCK
+    it: RIPARO
+    de: KLIMASCHUTZ
+    es: BUCLE AIRE
+  descriptions:
+    jp_kana: てんきの　えいきょうが　なくなる
+    en: Negates weather effects.
+    fr: Ignore les effets du climat.
+    it: Neutralizza effetti meteo.
+    de: Kehrt Wetter-Effekte um.
+    es: Anula los efectos del clima.
+arena_trap:
+  names:
+    jp_kana: ありじごく
+    en: ARENA TRAP
+    fr: PIEGE
+    it: TRAPPOARENA
+    de: AUSWEGSLOS
+    es: TRAMPA ARENA
+  descriptions:
+    jp_kana: あいてを　にげられなくする
+    en: Prevents fleeing.
+    fr: Empêche la fuite.
+    it: Evita la fuga.
+    de: Verhindert Flucht.
+    es: Evita la huida.
+battle_armor:
+  names:
+    jp_kana: カブトアーマー
+    en: BATTLE ARMOR
+    fr: ARMURBASTON
+    it: LOTTASCUDO
+    de: KAMPFPANZER
+    es: ARMAD. BAT.
+  descriptions:
+    jp_kana: わざを　きゅうしょに　うけない
+    en: Blocks critical hits.
+    fr: Bloque les coups critiques.
+    it: Evita i brutti colpi.
+    de: Wehrt Volltreffer ab.
+    es: Bloquea golpes críticos.
+blaze:
+  names:
+    jp_kana: もうか
+    en: BLAZE
+    fr: BRASIER
+    it: AIUTOFUOCO
+    de: GROSSBRAND
+    es: MAR LLAMAS
+  descriptions:
+    jp_kana: ピンチに　ほのおが　つよくなる
+    en: Ups FIRE moves in a pinch.
+    fr: Augmente attaques FEU.
+    it: Mosse FUOCO + forti in diff.
+    de: Erhöht FEUER-Att. in Not.
+    es: Sube ataques tipo FUEGO.
+cacophony:
+  names:
+    jp_kana: そうおん
+    en: CACOPHONY
+    fr: CACOPHONIE
+    it: CACOFONIA
+    de: KAKOPHONY
+    es: CACOFONÍA
+  descriptions:
+    jp_kana: おとの　わざを　うけない
+    en: Avoids sound-based moves.
+    fr: Evite les attaques sonores.
+    it: Evita mosse sonore.
+    de: Immun gg. Lärm-Attacken.
+    es: Evita ataques de sonido.
+chlorophyll:
+  names:
+    jp_kana: ようりょくそ
+    en: CHLOROPHYLL
+    fr: CHLOROPHYLE
+    it: CLOROFILLA
+    de: CHLOROPHYLL
+    es: CLOROFILA
+  descriptions:
+    jp_kana: はれのとき　すばやさが　はやくなる
+    en: Raises SPEED in sunshine.
+    fr: Augmente VITESSE au soleil.
+    it: Più VELOCITÀ sotto il sole.
+    de: INIT. + bei Sonnenschein.
+    es: Con sol, sube la VELOCIDAD.
+clear_body:
+  names:
+    jp_kana: クリアボディ
+    en: CLEAR BODY
+    fr: CORPS SAIN
+    it: CORPOCHIARO
+    de: NEUTRALTORSO
+    es: CUERPO PURO
+  descriptions:
+    jp_kana: あいてに　のうりょくを　さげられない
+    en: Prevents ability reduction.
+    fr: Empêche réduction de cap.
+    it: Evita riduzione stat.
+    de: Verhindert Fähigk.-Reduk.
+    es: Evita que baje la habilidad.
+cloud_nine:
+  names:
+    jp_kana: ノーてんき
+    en: CLOUD NINE
+    fr: CIEL GRIS
+    it: ANTIMETEO
+    de: WOLKE SIEBEN
+    es: ACLIMATACIÓN
+  descriptions:
+    jp_kana: てんきの　えいきょうが　なくなる
+    en: Negates weather effects.
+    fr: Ignore les effets du climat.
+    it: Neutralizza effetti meteo.
+    de: Keine Wetter-Effekte.
+    es: Anula los efectos del clima.
+color_change:
+  names:
+    jp_kana: へんしょく
+    en: COLOR CHANGE
+    fr: DEGUISEMENT
+    it: CAMBIACOLORE
+    de: FARBWECHSEL
+    es: CAMBIO COLOR
+  descriptions:
+    jp_kana: うけた　わざの　タイプに　へんかする
+    en: Changes type to foe’s move.
+    fr: S’adapte au type ennemi.
+    it: Cambia tipo in mossa nemico
+    de: Ändert Att.-Typ d. Gegners.
+    es: Toma el tipo del mov. rival.
+compound_eyes:
+  names:
+    jp_kana: ふくがん
+    en: COMPOUNDEYES
+    fr: OEIL COMPOSE
+    it: INSETTOCCHI
+    de: FACETTENAUGE
+    es: OJOCOMPUESTO
+  descriptions:
+    jp_kana: わざの　めいちゅうりつが　あがる
+    en: Raises accuracy.
+    fr: Augmente la précision.
+    it: Aumenta la precisione.
+    de: Steigert Genauigkeit.
+    es: Aumenta la PRECISIÓN.
+cute_charm:
+  names:
+    jp_kana: メロメロボディ
+    en: CUTE CHARM
+    fr: JOLI SOURIRE
+    it: INCANTEVOLE
+    de: CHARMEBOLZEN
+    es: GRAN ENCANTO
+  descriptions:
+    jp_kana: さわった　あいてを　メロメロにする
+    en: Infatuates on contact.
+    fr: Séduit quand touché.
+    it: Fa infatuare al contatto.
+    de: Wirkt bei Kontakt betörend.
+    es: Emboba al mínimo contacto.
+damp:
+  names:
+    jp_kana: しめりけ
+    en: DAMP
+    fr: MOITEUR
+    it: UMIDITÀ
+    de: FEUCHTIGKEIT
+    es: HUMEDAD
+  descriptions:
+    jp_kana: だれも　じばくが　できなくなる
+    en: Prevents self-destruction.
+    fr: Empêche auto-destruction.
+    it: Evita autodistruzione.
+    de: Gegen Selbstzerstörung.
+    es: Evita la autodestrucción.
+drizzle:
+  names:
+    jp_kana: あめふらし
+    en: DRIZZLE
+    fr: CRACHIN
+    it: PIOVISCHIO
+    de: NIESEL
+    es: LLOVIZNA
+  descriptions:
+    jp_kana: せんとうに　でると　あめを　ふらす
+    en: Summons rain in battle.
+    fr: Invoque la pluie en combat.
+    it: Nella lotta attira pioggia.
+    de: Ruft im Kampf Regen herbei.
+    es: Hace que llueva en combate.
+drought:
+  names:
+    jp_kana: ひでり
+    en: DROUGHT
+    fr: SECHERESSE
+    it: SICCITÀ
+    de: DÜRRE
+    es: SEQUÍA
+  descriptions:
+    jp_kana: せんとうで　ひざしを　つよくする
+    en: Summons sunlight in battle.
+    fr: Invoque le soleil.
+    it: Attira il sole nella lotta.
+    de: Erzeugt Sonne im Kampf.
+    es: Toma luz solar en batalla.
+early_bird:
+  names:
+    jp_kana: はやおき
+    en: EARLY BIRD
+    fr: MATINAL
+    it: SVEGLIALAMPO
+    de: FRÜHWECKER
+    es: MADRUGAR
+  descriptions:
+    jp_kana: おきるのが　はやくなる
+    en: Awakens quickly from sleep.
+    fr: Se réveille rapidement.
+    it: Rapido risveglio dal sonno.
+    de: Schnelles Aufwachen.
+    es: Despierta rápido al PKMN.
+effect_spore:
+  names:
+    jp_kana: ほうし
+    en: EFFECT SPORE
+    fr: POSE SPORE
+    it: SPARGISPORA
+    de: SPORENWIRT
+    es: EFEC. ESPORA
+  descriptions:
+    jp_kana: さわった　あいてに　ほうしがつく
+    en: Leaves spores on contact.
+    fr: Laisse spores si touché.
+    it: Lascia spore al contatto.
+    de: Gibt bei Kontakt Sporen ab.
+    es: Deja esporas al contacto.
+flame_body:
+  names:
+    jp_kana: ほのおのからだ
+    en: FLAME BODY
+    fr: CORPS ARDENT
+    it: CORPODIFUOCO
+    de: FLAMMKÖRPER
+    es: CUERPO LLAMA
+  descriptions:
+    jp_kana: さわった　あいてを　やけど　させる
+    en: Burns the foe on contact.
+    fr: Brûle l’ennemi quand touché.
+    it: Scotta al contatto.
+    de: Verbrennt bei Berührung.
+    es: Quema al mínimo contacto.
+flash_fire:
+  names:
+    jp_kana: もらいび
+    en: FLASH FIRE
+    fr: TORCHE
+    it: FUOCARDORE
+    de: FEUERFÄNGER
+    es: ABSOR. FUEGO
+  descriptions:
+    jp_kana: ほのおを　うけると　つよくなる
+    en: Powers up if hit by fire.
+    fr: Puissance monte si brûlé.
+    it: Il fuoco rende più forti.
+    de: Steigt, wenn v. Feuer getr.
+    es: Se carga si recibe fuego.
+forecast:
+  names:
+    jp_kana: てんきや
+    en: FORECAST
+    fr: METEO
+    it: PREVISIONI
+    de: PROGNOSE
+    es: PREDICCIÓN
+  descriptions:
+    jp_kana: てんきで　ポワルンが　へんかする
+    en: Changes with the weather.
+    fr: Change selon le climat.
+    it: Muta col tempo che fa.
+    de: Ist vom Wetter abhängig.
+    es: Cambia con el clima.
+guts:
+  names:
+    jp_kana: こんじょう
+    en: GUTS
+    fr: CRAN
+    it: DENTISTRETTI
+    de: ADRENALIN
+    es: AGALLAS
+  descriptions:
+    jp_kana: いじょうのとき　こうげきが　あがる
+    en: Ups ATTACK if suffering.
+    fr: Augmente ATT. quand blessé.
+    it: Sale ATTACCO in difficoltà.
+    de: Steigert ANGR. bei Leiden.
+    es: Sube el ATAQUE si sufre.
+huge_power:
+  names:
+    jp_kana: ちからもち
+    en: HUGE POWER
+    fr: COLOFORCE
+    it: MACROFORZA
+    de: KRAFTKOLOSS
+    es: POTENCIA
+  descriptions:
+    jp_kana: こうげきりょくが　たかい
+    en: Raises ATTACK.
+    fr: Augmente l’ATTAQUE.
+    it: Migliora l’ATTACCO.
+    de: Steigert ANGR.
+    es: Aumenta el ATAQUE.
+hustle:
+  names:
+    jp_kana: はりきり
+    en: HUSTLE
+    fr: AGITATION
+    it: TUTTAFRETTA
+    de: ÜBEREIFER
+    es: ENTUSIASMO
+  descriptions:
+    jp_kana: こうげきは　たかいが　はずれやすい
+    en: Trades accuracy for power.
+    fr: Substitue préc. par puiss.
+    it: Più forza, meno precisione.
+    de: Tauscht Genauigk. u. Kraft.
+    es: Cambia PRECIS. por energía.
+hyper_cutter:
+  names:
+    jp_kana: かいりきバサミ
+    en: HYPER CUTTER
+    fr: HYPER CUTTER
+    it: IPERTAGLIO
+    de: SCHERENMACHT
+    es: CORTE FUERTE
+  descriptions:
+    jp_kana: あいてに　こうげきを　さげられない
+    en: Prevents ATTACK reduction.
+    fr: Empêche réduction ATTAQUE.
+    it: Evita riduzione ATTACCO.
+    de: Verhindert ANGR.-Reduz.
+    es: Evita que baje el ATAQUE.
+illuminate:
+  names:
+    jp_kana: はっこう
+    en: ILLUMINATE
+    fr: LUMIATIRANCE
+    it: RISPLENDI
+    de: ERLEUCHTUNG
+    es: ILUMINACIÓN
+  descriptions:
+    jp_kana: ポケモンに　そうぐう　しやすくなる
+    en: Encounter rate increases.
+    fr: Augmente les rencontres.
+    it: S’incontrano più POKéMON.
+    de: Mehr PKMN-Begegnungen.
+    es: Facilita el encuentro.
+immunity:
+  names:
+    jp_kana: めんえき
+    en: IMMUNITY
+    fr: VACCIN
+    it: IMMUNITÀ
+    de: IMMUNITÄT
+    es: INMUNIDAD
+  descriptions:
+    jp_kana: どく　じょうたいに　ならない
+    en: Prevents poisoning.
+    fr: Empêche l’empoisonnement.
+    it: Evita l’avvelenamento.
+    de: Verhindert Vergiftungen.
+    es: Evita el envenenamiento.
+inner_focus:
+  names:
+    jp_kana: せいしんりょく
+    en: INNER FOCUS
+    fr: ATTENTION
+    it: FUOCODENTRO
+    de: KONZENTRATOR
+    es: FOCO INTERNO
+  descriptions:
+    jp_kana: ひるまない
+    en: Prevents flinching.
+    fr: Empêche la peur.
+    it: Evita il tentennamento.
+    de: Verhindert Zurückschreck.
+    es: Evita el retroceso.
+insomnia:
+  names:
+    jp_kana: ふみん
+    en: INSOMNIA
+    fr: INSOMNIA
+    it: INSONNIA
+    de: INSOMNIA
+    es: INSOMNIO
+  descriptions:
+    jp_kana: ねむり　じょうたいに　ならない
+    en: Prevents sleep.
+    fr: Empêche de s’endormir.
+    it: Evita il sonno.
+    de: Verhindert Einschlafen.
+    es: Evita el quedarse dormido.
+intimidate:
+  names:
+    jp_kana: いかく
+    en: INTIMIDATE
+    fr: INTIMIDATION
+    it: PREPOTENZA
+    de: BEDROHER
+    es: INTIMIDACIÓN
+  descriptions:
+    jp_kana: あいての　こうげきを　さげる
+    en: Lowers the foe’s ATTACK.
+    fr: Baisse l’ATTAQUE ennemie.
+    it: Riduce ATTACCO nemico.
+    de: Senkt ANGR. des Gegners.
+    es: Baja el ATAQUE del rival.
+keen_eye:
+  names:
+    jp_kana: するどいめ
+    en: KEEN EYE
+    fr: REGARD VIF
+    it: SGUARDOFERMO
+    de: ADLERAUGE
+    es: VISTA LINCE
+  descriptions:
+    jp_kana: あいてに　めいちゅうを　さげられない
+    en: Prevents loss of accuracy.
+    fr: Empêche perte de précision.
+    it: Evita cali di precisione.
+    de: Verhindert Verl. d. Genauig.
+    es: Evita que baje PRECISIÓN.
+levitate:
+  names:
+    jp_kana: ふゆう
+    en: LEVITATE
+    fr: LEVITATION
+    it: LEVITAZIONE
+    de: SCHWEBE
+    es: LEVITACIÓN
+  descriptions:
+    jp_kana: じめんタイプの　わざを　うけない
+    en: Not hit by GROUND attacks.
+    fr: Ignore les attaques SOL.
+    it: Evita attacchi tipo TERRA.
+    de: Kein Treffer b. BODEN-Att.
+    es: No sufre at. tipo TIERRA.
+lightning_rod:
+  names:
+    jp_kana: ひらいしん
+    en: LIGHTNINGROD
+    fr: PARATONNERRE
+    it: PARAFULMINE
+    de: BLITZFÄNGER
+    es: PARARRAYOS
+  descriptions:
+    jp_kana: でんきタイプの　わざが　じぶんにくる
+    en: Draws electrical moves.
+    fr: Attire attaques élec.
+    it: Attira mosse ELETTRO.
+    de: Zieht Elektro-Attacken an.
+    es: Frena ataques eléctricos.
+limber:
+  names:
+    jp_kana: じゅうなん
+    en: LIMBER
+    fr: ECHAUFFEMENT
+    it: SCIOLTEZZA
+    de: FLEXIBILITÄT
+    es: FLEXIBILIDAD
+  descriptions:
+    jp_kana: まひ　じょうたいに　ならない
+    en: Prevents paralysis.
+    fr: Empêche la paralysie.
+    it: Evita la paralisi.
+    de: Verhindert Paralyse.
+    es: Evita la parálisis.
+liquid_ooze:
+  names:
+    jp_kana: ヘドロえき
+    en: LIQUID OOZE
+    fr: SUINTEMENT
+    it: MELMA
+    de: KLOAKENSOSSE
+    es: LODO LÍQUIDO
+  descriptions:
+    jp_kana: すいとると　たいりょくが　へる
+    en: Draining causes injury.
+    fr: Blesse quand drainé.
+    it: Il drenaggio arreca danno.
+    de: Saug-Attacken schädigen.
+    es: Al verterlo, hiere.
+magma_armor:
+  names:
+    jp_kana: マグマのよろい
+    en: MAGMA ARMOR
+    fr: ARMUMAGMA
+    it: MAGMASCUDO
+    de: MAGMAPANZER
+    es: ESCUDO MAGMA
+  descriptions:
+    jp_kana: こおり　じょうたいに　ならない
+    en: Prevents freezing.
+    fr: Empêche le gel.
+    it: Evita il congelamento.
+    de: Verhindert Einfrieren.
+    es: Evita el congelamiento.
+magnet_pull:
+  names:
+    jp_kana: じりょく
+    en: MAGNET PULL
+    fr: MAGNEPIEGE
+    it: MAGNETISMO
+    de: MAGNETFALLE
+    es: IMÁN
+  descriptions:
+    jp_kana: はがねタイプが　にげられなくなる
+    en: Traps STEEL-type POKéMON.
+    fr: Piège les POKéMON ACIER.
+    it: Irretisce POKéMON ACCIAIO.
+    de: Fängt STAHL-POKéMON.
+    es: Atrapa POKéMON de ACERO.
+marvel_scale:
+  names:
+    jp_kana: ふしぎなうろこ
+    en: MARVEL SCALE
+    fr: ECAILLE SPE.
+    it: PELLEDURA
+    de: NOTSCHUTZ
+    es: ESCAMA ESP.
+  descriptions:
+    jp_kana: いじょうのとき　ぼうぎょが　あがる
+    en: Ups DEFENSE if suffering.
+    fr: Augmente DEF. quand blessé.
+    it: Sale DIFESA in difficoltà.
+    de: Steigert VERT. bei Leiden.
+    es: Sube la DEFENSA si sufre.
+minus:
+  names:
+    jp_kana: マイナス
+    en: MINUS
+    fr: MINUS
+    it: MENO
+    de: MINUS
+    es: MENOS
+  descriptions:
+    jp_kana: プラスが　いると　つよくなる
+    en: Powers up with PLUS.
+    fr: Puissance + avec PLUS.
+    it: Si potenzia con PIÙ.
+    de: Bildet ein Team mit PLUSLE.
+    es: Mejora con habilidad MÁS.
+natural_cure:
+  names:
+    jp_kana: しぜんかいふく
+    en: NATURAL CURE
+    fr: MEDIC NATURE
+    it: ALTERNACURA
+    de: INNERE KRAFT
+    es: CURA NATURAL
+  descriptions:
+    jp_kana: ひっこむと　いじょうが　なおる
+    en: Heals upon switching out.
+    fr: Soigne POKéMON changeant.
+    it: Cura chi viene sostituito.
+    de: Heilt bei Austausch.
+    es: Se cura al salir.
+oblivious:
+  names:
+    jp_kana: どんかん
+    en: OBLIVIOUS
+    fr: BENET
+    it: INDIFFERENZA
+    de: DÖSIGKEIT
+    es: DESPISTE
+  descriptions:
+    jp_kana: メロメロ　じょうたいに　ならない
+    en: Prevents attraction.
+    fr: Empêche l’attirance.
+    it: Evita l’attrazione.
+    de: Verhindert Anziehung.
+    es: Evita la atracción.
+overgrow:
+  names:
+    jp_kana: しんりょく
+    en: OVERGROW
+    fr: ENGRAIS
+    it: ERBAIUTO
+    de: NOTDÜNGER
+    es: ESPESURA
+  descriptions:
+    jp_kana: ピンチに　くさの　いりょくが　あがる
+    en: Ups GRASS moves in a pinch.
+    fr: Augmente attaques PLANTE.
+    it: Mosse ERBA + forti in diff.
+    de: Erhöht PFL.-Att. i. d. Not.
+    es: Sube ataques tipo PLANTA.
+own_tempo:
+  names:
+    jp_kana: マイペース
+    en: OWN TEMPO
+    fr: TEMPO PERSO
+    it: MENTE LOCALE
+    de: TEMPOMACHER
+    es: RITMO PROPIO
+  descriptions:
+    jp_kana: こんらん　じょうたいに　ならない
+    en: Prevents confusion.
+    fr: Empêche la confusion.
+    it: Evita la confusione.
+    de: Verhindert Verwirrung.
+    es: Evita la confusión.
+pickup:
+  names:
+    jp_kana: ものひろい
+    en: PICKUP
+    fr: RAMASSAGE
+    it: RACCOLTA
+    de: MITNAHME
+    es: RECOGIDA
+  descriptions:
+    jp_kana: どうぐを　ひろってくる　ことがある
+    en: May pick up items.
+    fr: Peut ramasser des objets.
+    it: Può raccogliere strumenti.
+    de: Kann Objekte aufnehmen.
+    es: Puede tomar objetos.
+plus:
+  names:
+    jp_kana: プラス
+    en: PLUS
+    fr: PLUS
+    it: PIÙ
+    de: PLUS
+    es: MÁS
+  descriptions:
+    jp_kana: マイナスが　いると　つよくなる
+    en: Powers up with MINUS.
+    fr: Puissance + avec MINUS.
+    it: Si potenzia con MENO.
+    de: Bildet ein Team mit MINUN.
+    es: Mejora con habilidad MENOS.
+poison_point:
+  names:
+    jp_kana: どくのトゲ
+    en: POISON POINT
+    fr: POINT POISON
+    it: VELENOPUNTO
+    de: GIFTDORN
+    es: PUNTO TÓXICO
+  descriptions:
+    jp_kana: さわったあいてに　どくをあたえる
+    en: Poisons foe on contact.
+    fr: Empoisonne quand touché.
+    it: Avvelena al contatto.
+    de: Vergiftet bei Berührung.
+    es: Envenena al mín. contacto.
+pressure:
+  names:
+    jp_kana: プレッシャー
+    en: PRESSURE
+    fr: PRESSION
+    it: PRESSIONE
+    de: ERZWINGER
+    es: PRESIÓN
+  descriptions:
+    jp_kana: あいての　ＰＰが　へりやすくなる
+    en: Raises foe’s PP usage.
+    fr: Ennemi dépense plus de PP.
+    it: Il nemico usa più PP.
+    de: Steigert AP des Gegners.
+    es: Baja los PP del enemigo.
+pure_power:
+  names:
+    jp_kana: ヨガパワー
+    en: PURE POWER
+    fr: FORCE PURE
+    it: FORZAPURA
+    de: MENTALKRAFT
+    es: ENERGÍA PURA
+  descriptions:
+    jp_kana: こうげきりょくが　たかい
+    en: Raises ATTACK.
+    fr: Augmente l’ATTAQUE.
+    it: Aumenta l’ATTACCO.
+    de: Steigert ANGR.
+    es: Aumenta el ATAQUE.
+rain_dish:
+  names:
+    jp_kana: あめうけざら
+    en: RAIN DISH
+    fr: CUVETTE
+    it: COPRIPIOGGIA
+    de: REGENGENUSS
+    es: CURA LLUVIA
+  descriptions:
+    jp_kana: あめのとき　すこしずつ　かいふく
+    en: Slight HP recovery in rain.
+    fr: Gagne quelques PV si pluie.
+    it: Lieve recupero PS se piove.
+    de: KP-Anstieg bei Regen.
+    es: Sube PS cuando llueve.
+rock_head:
+  names:
+    jp_kana: いしあたま
+    en: ROCK HEAD
+    fr: TETE DE ROC
+    it: TESTADURA
+    de: STEINHAUPT
+    es: CABEZA ROCA
+  descriptions:
+    jp_kana: ぶつかっても　はんどうを　うけない
+    en: Prevents recoil damage.
+    fr: Empêche dégâts du recul.
+    it: Evita contraccolpi.
+    de: Verh. Rückstoß-Schaden.
+    es: Evita volver a ser golpeado.
+rough_skin:
+  names:
+    jp_kana: さめはだ
+    en: ROUGH SKIN
+    fr: PEAU DURE
+    it: CARTAVETRO
+    de: RAUHAUT
+    es: PIEL TOSCA
+  descriptions:
+    jp_kana: さわった　あいてを　キズつける
+    en: Hurts to touch.
+    fr: Blesse quand touché.
+    it: Danneggia al contatto.
+    de: Verletzt bei Berührung.
+    es: Hiere al tacto.
+run_away:
+  names:
+    jp_kana: にげあし
+    en: RUN AWAY
+    fr: FUITE
+    it: FUGAFACILE
+    de: ANGSTHASE
+    es: FUGA
+  descriptions:
+    jp_kana: せんとうから　にげやすい
+    en: Makes escaping easier.
+    fr: Améliore chances de fuite.
+    it: Rende più facile la fuga.
+    de: Erleichtert das Entkommen.
+    es: Facilita la huida.
+sand_stream:
+  names:
+    jp_kana: すなおこし
+    en: SAND STREAM
+    fr: SABLE VOLANT
+    it: SABBIAFIUME
+    de: SANDSTURM
+    es: CHORRO ARENA
+  descriptions:
+    jp_kana: せんとうで　すなあらしを　おこす
+    en: Summons a sandstorm.
+    fr: Lance une tempête de sable.
+    it: Causa tempesta di sabbia.
+    de: Erzeugt einen Sandsturm.
+    es: Crea una tormenta de arena.
+sand_veil:
+  names:
+    jp_kana: すながくれ
+    en: SAND VEIL
+    fr: VOILE SABLE
+    it: SABBIAVELO
+    de: SANDSCHLEIER
+    es: VELO ARENA
+  descriptions:
+    jp_kana: すなあらしで　かいひりつが　あがる
+    en: Ups evasion in a sandstorm.
+    fr: Evasion si tempête sable.
+    it: Sale evasione nella sabbia.
+    de: Erh. Fluchtw. i. Sandsturm.
+    es: Más EVASIÓN en torm. arena.
+serene_grace:
+  names:
+    jp_kana: てんのめぐみ
+    en: SERENE GRACE
+    fr: SERENITE
+    it: LEGGIADRO
+    de: EDELMUT
+    es: DICHA
+  descriptions:
+    jp_kana: わざの　ついかこうかが　でやすい
+    en: Promotes added effects.
+    fr: Favorise le cumul d’effets.
+    it: Più effetti aggiuntivi.
+    de: Verstärkt Zusatz-Effekte.
+    es: Añade efectos secundarios.
+shadow_tag:
+  names:
+    jp_kana: かげふみ
+    en: SHADOW TAG
+    fr: MARQUE OMBRE
+    it: PEDINOMBRA
+    de: WEGSPERRE
+    es: SOMBRATRAMPA
+  descriptions:
+    jp_kana: あいてを　にげられなくする
+    en: Prevents the foe’s escape.
+    fr: Empêche la fuite ennemie.
+    it: Impedisce la fuga al nemico.
+    de: Hindert Gegner an Flucht.
+    es: Evita que el enemigo huya.
+shed_skin:
+  names:
+    jp_kana: だっぴ
+    en: SHED SKIN
+    fr: MUE
+    it: MUTA
+    de: EXPIDERMIS
+    es: MUDAR
+  descriptions:
+    jp_kana: だっぴして　からだを　なおす
+    en: Heals the body by shedding.
+    fr: Mue pour se soigner.
+    it: Una muta che guarisce.
+    de: Heilt durch Häutung.
+    es: Se cura mudando la piel.
+shell_armor:
+  names:
+    jp_kana: シェルアーマー
+    en: SHELL ARMOR
+    fr: COQUE ARMURE
+    it: GUSCIOSCUDO
+    de: PANZERHAUT
+    es: CAPARAZÓN
+  descriptions:
+    jp_kana: わざを　きゅうしょに　うけない
+    en: Blocks critical hits.
+    fr: Bloque les coups critiques.
+    it: Blocca i brutti colpi.
+    de: Wehrt Volltreffer ab.
+    es: Bloquea golpes críticos.
+shield_dust:
+  names:
+    jp_kana: りんぷん
+    en: SHIELD DUST
+    fr: ECRAN POUDRE
+    it: POLVOSCUDO
+    de: PUDERABWEHR
+    es: POLVO ESCUDO
+  descriptions:
+    jp_kana: わざの　ついかこうかを　うけない
+    en: Prevents added effects.
+    fr: Empêche le cumul d’effets.
+    it: Blocca effetti aggiuntivi.
+    de: Gegen Zusatz-Effekte.
+    es: Evita efectos secundarios.
+soundproof:
+  names:
+    jp_kana: ぼうおん
+    en: SOUNDPROOF
+    fr: ANTI-BRUIT
+    it: ANTISUONO
+    de: LÄRMSCHUTZ
+    es: INSONORIZAR
+  descriptions:
+    jp_kana: おとの　わざを　うけない
+    en: Avoids sound-based moves.
+    fr: Evite les attaques sonores.
+    it: Evita mosse sonore.
+    de: Immun gg. Lärm-Attacken.
+    es: Evita ataques de sonido.
+speed_boost:
+  names:
+    jp_kana: かそく
+    en: SPEED BOOST
+    fr: TURBO
+    it: ACCELERATORE
+    de: TEMPOSCHUB
+    es: IMPULSO
+  descriptions:
+    jp_kana: ちょっとずつ　すばやく　なっていく
+    en: Gradually boosts SPEED.
+    fr: Améliore la VITESSE.
+    it: Graduale aumento VELOCITÀ.
+    de: Erhöht INIT. nach und nach.
+    es: Va subiendo la VELOCIDAD.
+static:
+  names:
+    jp_kana: せいでんき
+    en: STATIC
+    fr: STATIK
+    it: STATICO
+    de: STATIK
+    es: ELEC. ESTÁT.
+  descriptions:
+    jp_kana: さわった　あいてを　まひさせる
+    en: Paralyzes on contact.
+    fr: Paralyse au toucher.
+    it: Paralizza al contatto.
+    de: Paralysiert bei Berührung.
+    es: Paraliza al mín. contacto.
+stench:
+  names:
+    jp_kana: あくしゅう
+    en: STENCH
+    fr: PUANTEUR
+    it: TANFO
+    de: DUFTNOTE
+    es: HEDOR
+  descriptions:
+    jp_kana: ポケモンが　よりつき　にくくなる
+    en: Helps repel wild POKéMON.
+    fr: Repousse POKéMON sauvage.
+    it: Allontana POKéMON selvat.
+    de: Wehrt wilde POKéMON ab.
+    es: Aleja a POKéMON salvajes.
+sticky_hold:
+  names:
+    jp_kana: ねんちゃく
+    en: STICKY HOLD
+    fr: GLUE
+    it: ANTIFURTO
+    de: WERTEHALTER
+    es: VISCOSIDAD
+  descriptions:
+    jp_kana: どうぐを　とられない
+    en: Prevents item theft.
+    fr: Empêche le vol d’objets.
+    it: Evita il furto di strumenti.
+    de: Verhindert ITEM-Diebstahl.
+    es: Evita el robo de objetos.
+sturdy:
+  names:
+    jp_kana: がんじょう
+    en: STURDY
+    fr: FERMETE
+    it: VIGORE
+    de: ROBUSTHEIT
+    es: ROBUSTEZ
+  descriptions:
+    jp_kana: いちげきひっさつが　きかない
+    en: Negates 1-hit KO attacks.
+    fr: Ignore les K.O. en un coup.
+    it: Evita i KO in una mossa.
+    de: Keine 1-Treffer-K.O.-Att.
+    es: Anula golpes fulminantes.
+suction_cups:
+  names:
+    jp_kana: きゅうばん
+    en: SUCTION CUPS
+    fr: VENTOUSE
+    it: VENTOSE
+    de: SAUGNAPF
+    es: VENTOSAS
+  descriptions:
+    jp_kana: きゅうばんで　じめんに　はりつく
+    en: Firmly anchors the body.
+    fr: Fixe solidement le corps.
+    it: Fissa il corpo a terra.
+    de: Verankert den Körper.
+    es: Fija el cuerpo con firmeza.
+swarm:
+  names:
+    jp_kana: むしのしらせ
+    en: SWARM
+    fr: ESSAIM
+    it: AIUTINSETTO
+    de: HEXAPLAGA
+    es: ENJAMBRE
+  descriptions:
+    jp_kana: ピンチに　むしの　いりょくが　あがる
+    en: Ups BUG moves in a pinch.
+    fr: Augmente attaques INSECT.
+    it: Mos. COLEOT. + forti in diff.
+    de: Erhöht KÄFER-Att. in Not.
+    es: Sube ataques tipo BICHO.
+swift_swim:
+  names:
+    jp_kana: すいすい
+    en: SWIFT SWIM
+    fr: GLISSADE
+    it: NUOTOVELOX
+    de: WASSERTEMPO
+    es: NADO RÁPIDO
+  descriptions:
+    jp_kana: あめのとき　すばやさが　はやくなる
+    en: Raises SPEED in rain.
+    fr: Monte VITESSE s’il pleut.
+    it: Più VELOCITÀ nella pioggia.
+    de: Steigert INIT. bei Regen.
+    es: Con lluvia, sube VELOCIDAD.
+synchronize:
+  names:
+    jp_kana: シンクロ
+    en: SYNCHRONIZE
+    fr: SYNCHRO
+    it: SINCRONISMO
+    de: SYNCHRO
+    es: SINCRONÍA
+  descriptions:
+    jp_kana: どく　まひ　やけどを　あいてにうつす
+    en: Passes on status problems.
+    fr: Transfère statuts.
+    it: Trasmette problemi stato.
+    de: Gibt Stat.-Probleme weiter.
+    es: Transmite problem. estado.
+thick_fat:
+  names:
+    jp_kana: あついしぼう
+    en: THICK FAT
+    fr: ISOGRAISSE
+    it: GRASSOSPESSO
+    de: SPECKSCHICHT
+    es: SEBO
+  descriptions:
+    jp_kana: ほのお　こおりに　つよい
+    en: Heat-and-cold protection.
+    fr: Contre chaleur et froid.
+    it: Protegge da caldo e freddo.
+    de: Schutz vor Hitze und Kälte.
+    es: Protege del frío y calor.
+torrent:
+  names:
+    jp_kana: げきりゅう
+    en: TORRENT
+    fr: TORRENT
+    it: ACQUAIUTO
+    de: STURZBACH
+    es: TORRENTE
+  descriptions:
+    jp_kana: ピンチに　みずの　いりょくが　あがる
+    en: Ups WATER moves in a pinch.
+    fr: Augmente attaques EAU.
+    it: Mos. ACQUA + forti in diff.
+    de: Erhöht WASSER-Att. in Not.
+    es: Sube ataques tipo AGUA.
+trace:
+  names:
+    jp_kana: トレース
+    en: TRACE
+    fr: CALQUE
+    it: TRACCIA
+    de: FÄHRTE
+    es: RASTRO
+  descriptions:
+    jp_kana: あいてと　おなじ　とくせいになる
+    en: Copies special ability.
+    fr: Imite la capacité spéciale.
+    it: Copia abilità speciale.
+    de: Kopiert Spezial-Attacke.
+    es: Copia habilidad especial.
+truant:
+  names:
+    jp_kana: なまけ
+    en: TRUANT
+    fr: ABSENTEISME
+    it: PIGRONE
+    de: SCHNARCHNASE
+    es: AUSENTE
+  descriptions:
+    jp_kana: こうげきが　れんぞくで　だせない
+    en: Moves only every two turns.
+    fr: Frappe tous les 2 tours.
+    it: Si muove solo ogni 2 turni.
+    de: Greift in jedem 2. Zug an.
+    es: Interviene cada 2 rondas.
+vital_spirit:
+  names:
+    jp_kana: やるき
+    en: VITAL SPIRIT
+    fr: ESPRIT VITAL
+    it: SPIRITOVIVO
+    de: MUNTERKEIT
+    es: ESPÍR. VITAL
+  descriptions:
+    jp_kana: ねむらない
+    en: Prevents sleep.
+    fr: Empêche le sommeil.
+    it: Evita il sonno.
+    de: Verhindert Einschlafen.
+    es: Evita quedarse dormido.
+volt_absorb:
+  names:
+    jp_kana: ちくでん
+    en: VOLT ABSORB
+    fr: ABSORB VOLT
+    it: ASSORBIVOLT
+    de: VOLTABSORBER
+    es: ABSOR. ELEC.
+  descriptions:
+    jp_kana: でんきを　うけると　かいふくする
+    en: Turns electricity into HP.
+    fr: Change l’électricité en PV.
+    it: Muta l’elettricità in PS.
+    de: Wandelt Elektriz. in KP um.
+    es: Cambia electricidad en PS.
+water_absorb:
+  names:
+    jp_kana: ちょすい
+    en: WATER ABSORB
+    fr: ABSORB EAU
+    it: ASSORBACQUA
+    de: H2O-ABSORBER
+    es: ABSOR. AGUA
+  descriptions:
+    jp_kana: みずを　うけると　かいふくする
+    en: Changes water into HP.
+    fr: Change l’eau en PV.
+    it: Muta l’acqua in PS.
+    de: Wandelt Wasser in KP um.
+    es: Convierte el agua en PS.
+water_veil:
+  names:
+    jp_kana: みずのベール
+    en: WATER VEIL
+    fr: IGNIFU-VOILE
+    it: IDROVELO
+    de: AQUAHÜLLE
+    es: VELO AGUA
+  descriptions:
+    jp_kana: やけど　じょうたいに　ならない
+    en: Prevents burns.
+    fr: Empêche les brûlures.
+    it: Evita le scottature.
+    de: Verhindert Verbrennungen.
+    es: Evita las quemaduras.
+white_smoke:
+  names:
+    jp_kana: しろいけむり
+    en: WHITE SMOKE
+    fr: ECRAN FUMEE
+    it: FUMOCHIARO
+    de: PULVERRAUCH
+    es: HUMO BLANCO
+  descriptions:
+    jp_kana: あいてに　のうりょくを　さげられない
+    en: Prevents ability reduction.
+    fr: Empêche réduction des cap.
+    it: Evita riduzione delle stat.
+    de: Verhindert Fähigk.-Reduz.
+    es: Evita que baje la habilidad.
+wonder_guard:
+  names:
+    jp_kana: ふしぎなまもり
+    en: WONDER GUARD
+    fr: GARDE MYSTIK
+    it: MAGIDIFESA
+    de: WUNDERWACHE
+    es: SUPERGUARDA.
+  descriptions:
+    jp_kana: こうか　ばつぐん　しか　あたらない
+    en: “Super effective” hits.
+    fr: Reçoit seul. «sup. eff.».
+    it: Colpito solo da “supereff.”.
+    de: Nur sehr eff. Treff. schad.
+    es: Cuesta mucho hacerle daño.

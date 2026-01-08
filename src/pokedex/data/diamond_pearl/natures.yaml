@@ -1,0 +1,225 @@
+adamant:
+  names:
+    jp_kana: いじっぱり
+    en: Adamant
+    fr: Rigide
+    it: N. Decisa
+    de: Hart
+    es: Firme
+    ko: 고집
+bashful:
+  names:
+    jp_kana: てれや
+    en: Bashful
+    fr: Pudique
+    it: N. Ritrosa
+    de: Zaghaft
+    es: Tímida
+    ko: 수줍음
+bold:
+  names:
+    jp_kana: ずぶとい
+    en: Bold
+    fr: Assuré
+    it: N. Sicura
+    de: Kühn
+    es: Osada
+    ko: 대담
+brave:
+  names:
+    jp_kana: ゆうかん
+    en: Brave
+    fr: Brave
+    it: N. Audace
+    de: Mutig
+    es: Audaz
+    ko: 용감
+calm:
+  names:
+    jp_kana: おだやか
+    en: Calm
+    fr: Calme
+    it: N. Calma
+    de: Still
+    es: Serena
+    ko: 차분
+careful:
+  names:
+    jp_kana: しんちょう
+    en: Careful
+    fr: Prudent
+    it: N. Cauta
+    de: Sacht
+    es: Cauta
+    ko: 신중
+docile:
+  names:
+    jp_kana: すなお
+    en: Docile
+    fr: Docile
+    it: N. Docile
+    de: Sanft
+    es: Dócil
+    ko: 온순
+gentle:
+  names:
+    jp_kana: おとなしい
+    en: Gentle
+    fr: Gentil
+    it: N. Gentile
+    de: Zart
+    es: Amable
+    ko: 얌전
+hardy:
+  names:
+    jp_kana: がんばりや
+    en: Hardy
+    fr: Hardi
+    it: N. Ardita
+    de: Robust
+    es: Fuerte
+    ko: 노력
+hasty:
+  names:
+    jp_kana: せっかち
+    en: Hasty
+    fr: Pressé
+    it: N. Lesta
+    de: Hastig
+    es: Activa
+    ko: 성급
+impish:
+  names:
+    jp_kana: わんぱく
+    en: Impish
+    fr: Malin
+    it: N. Scaltra
+    de: Pfiffig
+    es: Agitada
+    ko: 장난꾸러기
+jolly:
+  names:
+    jp_kana: ようき
+    en: Jolly
+    fr: Jovial
+    it: N. Allegra
+    de: Froh
+    es: Alegre
+    ko: 명랑
+lax:
+  names:
+    jp_kana: のうてんき
+    en: Lax
+    fr: Lâche
+    it: N. Fiacca
+    de: Lasch
+    es: Floja
+    ko: 촐랑
+lonely:
+  names:
+    jp_kana: さみしがり
+    en: Lonely
+    fr: Solo
+    it: N. Schiva
+    de: Solo
+    es: Huraña
+    ko: 외로움
+mild:
+  names:
+    jp_kana: おっとり
+    en: Mild
+    fr: Doux
+    it: N. Mite
+    de: Mild
+    es: Afable
+    ko: 의젓
+modest:
+  names:
+    jp_kana: ひかえめ
+    en: Modest
+    fr: Modeste
+    it: N. Modesta
+    de: Mäßig
+    es: Modesta
+    ko: 조심
+naive:
+  names:
+    jp_kana: むじゃき
+    en: Naive
+    fr: Naïf
+    it: N. Ingenua
+    de: Naiv
+    es: Ingenua
+    ko: 천진난만
+naughty:
+  names:
+    jp_kana: やんちゃ
+    en: Naughty
+    fr: Mauvais
+    it: N. Birbona
+    de: Frech
+    es: Pícara
+    ko: 개구쟁이
+quiet:
+  names:
+    jp_kana: れいせい
+    en: Quiet
+    fr: Discret
+    it: N. Quieta
+    de: Ruhig
+    es: Mansa
+    ko: 냉정
+quirky:
+  names:
+    jp_kana: きまぐれ
+    en: Quirky
+    fr: Bizarre
+    it: N. Furba
+    de: Kauzig
+    es: Rara
+    ko: 변덕
+rash:
+  names:
+    jp_kana: うっかりや
+    en: Rash
+    fr: Foufou
+    it: N. Ardente
+    de: Hitzig
+    es: Alocada
+    ko: 덜렁
+relaxed:
+  names:
+    jp_kana: のんき
+    en: Relaxed
+    fr: Relax
+    it: N. Placida
+    de: Locker
+    es: Plácida
+    ko: 무사태평
+sassy:
+  names:
+    jp_kana: なまいき
+    en: Sassy
+    fr: Malpoli
+    it: N. Vivace
+    de: Forsch
+    es: Grosera
+    ko: 건방
+serious:
+  names:
+    jp_kana: まじめ
+    en: Serious
+    fr: Sérieux
+    it: N. Seria
+    de: Ernst
+    es: Seria
+    ko: 성실
+timid:
+  names:
+    jp_kana: おくびょう
+    en: Timid
+    fr: Timide
+    it: N. Timida
+    de: Scheu
+    es: Miedosa
+    ko: 겁쟁이

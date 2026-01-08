@@ -1,0 +1,5310 @@
+absorb:
+  names:
+    jp_kana: すいとる
+    en: ABSORB
+    fr: VOL-VIE
+    it: ASSORBIMENTO
+    de: ABSORBER
+    es: ABSORBER
+  descriptions:
+    jp_kana: "てきに　あたえた　ダメージの\nはんぶん　たいりょくを　かいふくする"
+    en: "An attack that absorbs\nhalf the damage inflicted."
+    fr: "Une attaque absorbant la\nmoitié des dégâts infligés."
+    it: "Assorbe metà dei PS\nsottratti al nemico."
+    de: "Attacke, die die Hälfte des\nSchadens absorbiert."
+    es: "Absorbe la mitad del daño\nproducido."
+acid:
+  names:
+    jp_kana: ようかいえき
+    en: ACID
+    fr: ACIDE
+    it: ACIDO
+    de: SÄURE
+    es: ÁCIDO
+  descriptions:
+    jp_kana: "つよいさんで　てきの　ひふを　とかす\nぼうぎょを　さげることがある"
+    en: "Sprays a hide-melting acid.\nMay lower DEFENSE."
+    fr: "Pulvérise un acide. Peut\nbaisser la DEFENSE ennemie."
+    it: "Acido che corrode la pelle\ne può ridurre la DIFESA."
+    de: "Versprüht ätzende Flüssig-\nkeit, senkt evtl. VERT."
+    es: "Rocía corrosivo ácido.\nPuede bajar la DEFENSA."
+acid_armor:
+  names:
+    jp_kana: とける
+    en: ACID ARMOR
+    fr: ACIDARMURE
+    it: SCUDO ACIDO
+    de: SÄUREPANZER
+    es: ARMAD. ÁCIDA
+  descriptions:
+    jp_kana: "からだを　えきじょうに　へんかさせて\nぼうぎょを　グーンとあげる"
+    en: "Liquifies the user’s body\nto sharply raise DEFENSE."
+    fr: "Liquéfie le corps du lanceur\net booste sa DEFENSE."
+    it: "Chi la usa diventa liquido:\nsale di molto la DIFESA."
+    de: "Verflüssigt Körper d. An-\nwenders. Erhört VERT."
+    es: "Te hace líquido y aumenta\nbastante tu DEFENSA."
+aerial_ace:
+  names:
+    jp_kana: つばめがえし
+    en: AERIAL ACE
+    fr: AEROPIQUE
+    it: AEROASSALTO
+    de: AERO-ASS
+    es: GOLPE AÉREO
+  descriptions:
+    jp_kana: "すばやさで　ほんろうする\nてきは　ぜったいに　よけられない"
+    en: "An extremely speedy and\nunavoidable attack."
+    fr: "Attaque extrêmement\nrapide et inévitable."
+    it: "Attacco estremamente\nrapido e inevitabile."
+    de: "Eine extrem schnelle und\nunausweichbare Attacke."
+    es: "Ataque tremendamente\nrápido e ineludible."
+aeroblast:
+  names:
+    jp_kana: エアロブラスト
+    en: AEROBLAST
+    fr: AEROBLAST
+    it: AEROCOLPO
+    de: LUFTSTOSS
+    es: AEROCHORRO
+  descriptions:
+    jp_kana: "しんくうはを　はっしゃして　こうげき\nきゅうしょに　あたりやすい"
+    en: "Launches a vacuumed blast.\nHigh critical-hit ratio."
+    fr: "Implosion à taux de\ncoups critiques élevé."
+    it: "Vuoto d’aria con una forte\nprobabilità di brutti colpi."
+    de: "Erzeugt ein Vakuum.\nHohe Volltrefferquote."
+    es: "Lanza un chorro de aire que\nsuele dar un golpe crítico."
+agility:
+  names:
+    jp_kana: こうそくいどう
+    en: AGILITY
+    fr: HATE
+    it: AGILITÀ
+    de: AGILITÄT
+    es: AGILIDAD
+  descriptions:
+    jp_kana: "ちからを　ぬいて　からだを　かるくし\nすばやさを　グーンとあげる"
+    en: "Relaxes the body to sharply\nboost SPEED."
+    fr: "Relaxation du corps pour\nbooster la VITESSE."
+    it: "Il corpo si rilassa e sale di\nmolto la VELOCITÀ."
+    de: "Entspannt den Körper, um\nINIT.-Wert. zu steigern."
+    es: "Relaja el cuerpo\npara ganar VELOCIDAD."
+air_cutter:
+  names:
+    jp_kana: エアカッター
+    en: AIR CUTTER
+    fr: TRANCH’AIR
+    it: AERASOIO
+    de: WINDSCHNITT
+    es: AIRE AFILADO
+  descriptions:
+    jp_kana: "するどい　かぜを　おこして　こうげき\nきゅうしょに　あたりやすい"
+    en: "Hacks with razorlike wind.\nHigh critical-hit ratio."
+    fr: "Déclenche vent tranchant.\nTaux de critiques élevé."
+    it: "Un vento falciante.\nProbabile brutto colpo."
+    de: "Greift mit heftigem Wind an.\nHohe Volltrefferquote."
+    es: "Viento cortante que azota.\nSuele ser un golpe crítico."
+amnesia:
+  names:
+    jp_kana: ドわすれ
+    en: AMNESIA
+    fr: AMNESIE
+    it: AMNESIA
+    de: AMNESIE
+    es: AMNESIA
+  descriptions:
+    jp_kana: "いっしゅん　なにかを　わすれることで\nとくぼうを　グーンとあげる"
+    en: "Forgets about something\nand sharply raises SP. DEF."
+    fr: "Oublie quelque chose et\nbooste la DEF. SPE."
+    it: "Vuoto di memoria che\naumenta la DIF. SP."
+    de: "Gedächtnisverlust, der\nSPEZ. VERT. deutlich erhöht."
+    es: "Olvida algo y aumenta mucho\nla DEFENSA ESP."
+ancient_power:
+  names:
+    jp_kana: げんしのちから
+    en: ANCIENTPOWER
+    fr: POUV.ANTIQUE
+    it: FORZANTICA
+    de: ANTIK-KRAFT
+    es: PODER PASADO
+  descriptions:
+    jp_kana: "げんしの　ちからを　よびさます\nのうりょくが　あがることがある"
+    en: "An attack that may raise\nall stats."
+    fr: "Une attaque pouvant aug-\nmenter toutes les stats."
+    it: "Attacco che può aumentare\ntutte le statistiche."
+    de: "Ein Angriff, der alle\nStatus-Werte erhöhen kann."
+    es: "Puede subir todas\nlas características."
+arm_thrust:
+  names:
+    jp_kana: つっぱり
+    en: ARM THRUST
+    fr: COGNE
+    it: SBERLETESE
+    de: ARMSTOSS
+    es: EMPUJÓN
+  descriptions:
+    jp_kana: "２ー５かい　れんぞくで　つっぱり\nてきを　こうげき"
+    en: "Straight-arm punches that\nstrike the foe 2 to 5 times."
+    fr: "Coups de poing arrêtés qui\nfrappent 2 à 5 fois."
+    it: "Da 2 a 5 schiaffi a\nbraccio teso."
+    de: "Schläge mit geradem Arm, die\nGegner 2 - 5-mal treffen."
+    es: "Se dan puñetazos directos\nde 2 a 5 turnos."
+aromatherapy:
+  names:
+    jp_kana: アロマセラピー
+    en: AROMATHERAPY
+    fr: AROMATHERAPI
+    it: AROMATERAPIA
+    de: AROMAKUR
+    es: AROMATERAPIA
+  descriptions:
+    jp_kana: "ここちよい　かおりを　かがせて\nすべての　じょうたいを　かいふくする"
+    en: "Heals all status problems\nwith a soothing scent."
+    fr: "Parfum apaisant soignant\nles changements de statut."
+    it: "Un dolce profumo risolve\ntutti i problemi di stato."
+    de: "Heilt alle Status-Probleme\nmit beruhigendem Duft."
+    es: "Cura todos los problemas de\nestado con un suave aroma."
+assist:
+  names:
+    jp_kana: ねこのて
+    en: ASSIST
+    fr: ASSISTANCE
+    it: ASSISTENTE
+    de: ZUSCHUSS
+    es: AYUDA
+  descriptions:
+    jp_kana: "みかた　ポケモンの　わざで　こうげき\nどの　わざが　でるかは　わからない"
+    en: "Attacks randomly with one\nof the partner’s moves."
+    fr: "Attaque au hasard avec un\ncoup d’un des partenaires."
+    it: "Attacca usando una a caso\ndelle mosse della squadra."
+    de: "Greift zufällig mit einem\nAngriff d. Partners an."
+    es: "Ataque elegido al azar\nde un miembro del equipo."
+astonish:
+  names:
+    jp_kana: おどろかす
+    en: ASTONISH
+    fr: ETONNEMENT
+    it: SGOMENTO
+    de: ERSTAUNER
+    es: IMPRESIONAR
+  descriptions:
+    jp_kana: "てきを　おどろかして　こうげき\nてきを　ひるませることがある"
+    en: "An attack that may shock\nthe foe into flinching."
+    fr: "Une attaque qui peut cho-\nquer et apeurer l’ennemi."
+    it: "Può sbalordire il nemico\nfacendolo tentennare."
+    de: "Angriff, der Gegner evtl.\nzurückschrecken lässt."
+    es: "Impresiona tanto que puede\nhacer retroceder al rival."
+attract:
+  names:
+    jp_kana: メロメロ
+    en: ATTRACT
+    fr: ATTRACTION
+    it: ATTRAZIONE
+    de: ANZIEHUNG
+    es: ATRACCIÓN
+  descriptions:
+    jp_kana: "オスなら　メスに　メスなら　オスに\nわざが　だしにくくなる"
+    en: "Makes the opposite gender\nless likely to attack."
+    fr: "Le genre opposé a moins de\nchances d’attaquer."
+    it: "Nemici del sesso opposto\nattaccano meno facilmente."
+    de: "Angriff des anderen Ge-\nschlechts unwahrscheinl."
+    es: "Reduce la posibilidad de que\nel enemigo ataque."
+aurora_beam:
+  names:
+    jp_kana: オーロラビーム
+    en: AURORA BEAM
+    fr: ONDE BOREALE
+    it: RAGGIAURORA
+    de: AURORASTRAHL
+    es: RAYO AURORA
+  descriptions:
+    jp_kana: "にじいろの　ひかりを　はっしゃする\nこうげきを　さげることがある"
+    en: "Fires a rainbow-colored\nbeam that may lower ATTACK."
+    fr: "Envoie un rayon arc-en-ciel\npouvant baisser l’ATTAQUE."
+    it: "Un raggio color dell’iride\nche può ridurre l’ATTACCO."
+    de: "Regenbogenfarbener Strahl,\nsenkt evtl. ANGR.-Wert."
+    es: "Rayo multicolor que\npuede reducir el ATAQUE."
+barrage:
+  names:
+    jp_kana: たまなげ
+    en: BARRAGE
+    fr: PILONNAGE
+    it: ATT. PIOGGIA
+    de: STAKKATO
+    es: PRESA
+  descriptions:
+    jp_kana: "まるいものを　てきに　なげつけて\n２ー５かい　れんぞくで　こうげき"
+    en: "Hurls round objects at the\nfoe 2 to 5 times."
+    fr: "Projette 2 à 5 fois des \nobjets vers l’ennemi."
+    it: "Lancio di sfere sul\nnemico da 2 a 5 volte."
+    de: "Wirft 2 - 5-mal runde Gegen-\nstände auf den Gegner."
+    es: "Arroja esferas al rival\nde 2 a 5 veces."
+barrier:
+  names:
+    jp_kana: バリアー
+    en: BARRIER
+    fr: BOUCLIER
+    it: BARRIERA
+    de: BARRIERE
+    es: BARRERA
+  descriptions:
+    jp_kana: "めのまえに　かべを　つくりだし\nぼうぎょを　グーンとあげる"
+    en: "Creates a barrier that\nsharply raises DEFENSE."
+    fr: "Crée une barrière pour\nbooster la DEFENSE."
+    it: "Una barriera aumenta di\nmolto la DIFESA."
+    de: "Erzeugt Barriere, die den\nVERT.-Wert stark erhöht."
+    es: "Crea una barrera para subir\nmucho la DEFENSA."
+baton_pass:
+  names:
+    jp_kana: バトンタッチ
+    en: BATON PASS
+    fr: RELAIS
+    it: STAFFETTA
+    de: STAFFETTE
+    es: RELEVO
+  descriptions:
+    jp_kana: "ついかこうかを　のこしたまま\nほかの　ポケモンと　いれかわる"
+    en: "Switches out the user while\nkeeping effects in play."
+    fr: "Change de lanceur, mais\ngarde les effets en cours."
+    it: "Chi la usa è sostituito, ma\ngli effetti permangono."
+    de: "Tauscht PKMN aus. Alle Än-\nderungen bleiben bestehen."
+    es: "Cambia de compañero y\nmantiene los estados."
+beat_up:
+  names:
+    jp_kana: ふくろだたき
+    en: BEAT UP
+    fr: BASTON
+    it: PICCHIADURO
+    de: PRÜGLER
+    es: PALIZA
+  descriptions:
+    jp_kana: "なかまの　ポケモンが\nこうげきに　さんか　してくれる"
+    en: "Summons party POKéMON to\njoin in the attack."
+    fr: "Appelle un POKéMON qui\nse joint à l’attaque."
+    it: "Chiama in aiuto i POKéMON \ndella squadra nell’attacco."
+    de: "Ruft POKéMON hinzu, um an\ndem Angriff teilzuhaben."
+    es: "Ataque de todo el\nequipo POKéMON."
+belly_drum:
+  names:
+    jp_kana: はらだいこ
+    en: BELLY DRUM
+    fr: COGNOBIDON
+    it: PANCIAMBURO
+    de: BAUCHTROMMEL
+    es: TAMBOR
+  descriptions:
+    jp_kana: "じぶんの　たいりょくを　けずって\nこうげきを　さいだいまで　あげる"
+    en: "Maximizes ATTACK while\nsacrificing HP."
+    fr: "Améliore l’ATTAQUE en\nsacrifiant des PV."
+    it: "Aumenta l’ATTACCO\nsacrificando PS."
+    de: "Erhöht ANGR.-Wert,\nopfert jedoch KP."
+    es: "Reduce tus PS para\nmejorar el ATAQUE."
+bide:
+  names:
+    jp_kana: がまん
+    en: BIDE
+    fr: PATIENCE
+    it: PAZIENZA
+    de: GEDULD
+    es: VENGANZA
+  descriptions:
+    jp_kana: "２ターン　こうげきに　たえて\nうけたダメージを　ばいにしてかえす"
+    en: "Endures attack for 2\nturns to retaliate double."
+    fr: "Encaisse les attaques sur 2\ntours et renvoie le double."
+    it: "Subisce per 2 turni, per poi\nrestituire il danno X 2."
+    de: "Erträgt 2 Runden Angriffe,\nschlägt doppelt zurück."
+    es: "Espera 2 turnos para\natacar con doble potencia."
+bind:
+  names:
+    jp_kana: しめつける
+    en: BIND
+    fr: ETREINTE
+    it: LEGATUTTO
+    de: KLAMMERGRIFF
+    es: ATADURA
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　ながいからだや\nつるを　つかって　てきを　しめつける"
+    en: "Binds and squeezes the foe\nfor 2 to 5 turns."
+    fr: "Ligote l’ennemi et l’écrase\npendant 2 à 5 tours."
+    it: "Lega e stringe il nemico\nda 2 a 5 turni."
+    de: "Umklammert und trifft den\nGegner 2 - 5-mal."
+    es: "Ata y oprime\nde 2 a 5 turnos."
+bite:
+  names:
+    jp_kana: かみつく
+    en: BITE
+    fr: MORSURE
+    it: MORSO
+    de: BISS
+    es: MORDISCO
+  descriptions:
+    jp_kana: "するどい　はで　かみついて　こうげき\nてきを　ひるませることがある"
+    en: "Bites with vicious fangs.\nMay cause flinching."
+    fr: "Mord méchamment l’ennemi\net peut l’apeurer."
+    it: "Un morso rabbioso che può\nfar tentennare il nemico."
+    de: "Beißt zu und lässt den Geg-\nner evtl. zurückschrecken."
+    es: "Un voraz bocado que\npuede causar el retroceso."
+blast_burn:
+  names:
+    jp_kana: ブラストバーン
+    en: BLAST BURN
+    fr: RAFALE FEU
+    it: INCENDIO
+    de: LOHEKANONADE
+    es: ANILLO ÍGNEO
+  descriptions:
+    jp_kana: "ダメージは　おおきいが　つかうと\nつぎのターン　うごけなくなってしまう"
+    en: "Powerful, but leaves the\nuser immobile the next turn."
+    fr: "Puissant, mais immobilise\nle lanceur le tour suivant."
+    it: "È potente, ma chi la usa\nperde il turno successivo."
+    de: "Starker Angriff. Angreifer\nmuss eine Runde aussetzen."
+    es: "Es muy eficaz, pero\nte inmoviliza 1 turno."
+blaze_kick:
+  names:
+    jp_kana: ブレイズキック
+    en: BLAZE KICK
+    fr: PIED BRULEUR
+    it: CALCIARDENTE
+    de: FEUERFEGER
+    es: PATADA ÍGNEA
+  descriptions:
+    jp_kana: "きゅうしょに　あたり　やすく\nたまに　やけど　じょうたいに　する"
+    en: "A kick with a high critical-\nhit ratio. May cause a burn."
+    fr: "Coup de pied à taux de cri-\ntiques élevé. Peut brûler."
+    it: "Può causare scottature.\nProbabile brutto colpo."
+    de: "Hohe Volltrefferquote. Ver-\nursacht evtl. Verbrennung."
+    es: "Suele ser un golpe crítico\ny causar quemaduras."
+blizzard:
+  names:
+    jp_kana: ふぶき
+    en: BLIZZARD
+    fr: BLIZZARD
+    it: BORA
+    de: BLIZZARD
+    es: VENTISCA
+  descriptions:
+    jp_kana: "ゆきを　つよいかぜにのせて　こうげき\nてきを　こおらせることがある"
+    en: "Hits the foe with an icy\nstorm that may freeze it."
+    fr: "Déclenche une tempête\npouvant geler l’ennemi."
+    it: "Una tempesta di ghiaccio\nche può congelare il nemico."
+    de: "Ein Schneesturm, der den\nGegner einfrieren kann."
+    es: "Tormenta de hielo que\npuede llegar a congelar."
+block:
+  names:
+    jp_kana: とおせんぼう
+    en: BLOCK
+    fr: BARRAGE
+    it: BLOCCO
+    de: RÜCKENTZUG
+    es: BLOQUEO
+  descriptions:
+    jp_kana: "にげみちを　ふさいで\nてきを　にげられなく　してしまう"
+    en: "Blocks the foe’s way to\nprevent escape."
+    fr: "Bloque la route de l’ennemi\npour empêcher sa fuite."
+    it: "Sbarra la strada al nemico\nimpedendo la sostituzione."
+    de: "Versperrt den Fluchtweg\ndes Gegners."
+    es: "Le corta el paso al rival\npara que no pueda escapar."
+body_slam:
+  names:
+    jp_kana: のしかかり
+    en: BODY SLAM
+    fr: PLAQUAGE
+    it: CORPOSCONTRO
+    de: BODYSLAM
+    es: GOLPE CUERPO
+  descriptions:
+    jp_kana: "からだごと　たおれこんで　こうげき\nてきを　まひさせることがある"
+    en: "A full-body slam that may\ncause paralysis."
+    fr: "Une attaque en charge.\nPeut paralyser l’ennemi."
+    it: "Una carica con tutto il\ncorpo che può paralizzare."
+    de: "Körper-Ramme, kann\nParalyse hervorrufen."
+    es: "Ataque corporal\nque puede paralizar."
+bone_club:
+  names:
+    jp_kana: ホネこんぼう
+    en: BONE CLUB
+    fr: MASSD’OS
+    it: OSSOCLAVA
+    de: KNOCHENKEULE
+    es: HUESO PALO
+  descriptions:
+    jp_kana: "てにもった　ホネで　てきを　こうげき\nてきを　ひるませることがある"
+    en: "Clubs the foe with a bone.\nMay cause flinching."
+    fr: "Cogne l’ennemi avec un os.\nPeut apeurer l’ennemi."
+    it: "Un osso colpisce il nemico e\npuò farlo tentennare."
+    de: "Schlägt Gegner mit Keule\nund verschreckt ihn evtl."
+    es: "Aporrea con un hueso.\nPuede causar el retroceso."
+bone_rush:
+  names:
+    jp_kana: ボーンラッシュ
+    en: BONE RUSH
+    fr: CHARGE-OS
+    it: OSSORAFFICA
+    de: KNOCHENHATZ
+    es: ATAQUE ÓSEO
+  descriptions:
+    jp_kana: "てにもった　ホネで　２ー５かい\nれんぞくで　てきを　こうげきする"
+    en: "Strikes the foe with a bone\nin hand 2 to 5 times."
+    fr: "Frappe l’ennemi 2 à 5 fois\navec un os."
+    it: "Colpisce il nemico con un\nosso da 2 a 5 volte."
+    de: "Greift Gegner 2 - 5-mal in\nFolge mit einem Knochen an."
+    es: "Hueso en ristre, aporrea\nal enemigo de 2 a 5 veces."
+bonemerang:
+  names:
+    jp_kana: ホネブーメラン
+    en: BONEMERANG
+    fr: OSMERANG
+    it: OSSOMERANG
+    de: KNOCHMERANG
+    es: HUESOMERANG
+  descriptions:
+    jp_kana: "ホネを　なげつけて　いきと　かえりで\n２かい　れんぞくで　こうげき"
+    en: "Throws a bone boomerang\nthat strikes twice."
+    fr: "Lance un boomerang en os\nqui frappe deux fois."
+    it: "Boomerang d’osso che\ncolpisce 2 volte."
+    de: "Ein Bumerang aus Knochen,\nder zweimal trifft."
+    es: "Lanza un hueso a modo de\nbumerán, que da 2 veces."
+bounce:
+  names:
+    jp_kana: とびはねる
+    en: BOUNCE
+    fr: REBOND
+    it: RIMBALZO
+    de: SPRUNGFEDER
+    es: BOTE
+  descriptions:
+    jp_kana: "１ターンめで　とびはね　２ターンめで\nおちる　たまに　てきを　まひさせる"
+    en: "Bounces up, then down the\nnext turn. May paralyze."
+    fr: "Saute et tombe le tour\nsuivant. Peut paralyser."
+    it: "Balza in alto e ricade dopo\n1 turno. Può paralizzare."
+    de: "Springt hoch u. landet in\nnächstem Zug. Evtl. Para."
+    es: "1.ᵉʳ turno: bota.\n2.º: golpea. Puede paralizar."
+brick_break:
+  names:
+    jp_kana: かわらわり
+    en: BRICK BREAK
+    fr: CASSE-BRIQUE
+    it: BRECCIA
+    de: DURCHBRUCH
+    es: DEMOLICIÓN
+  descriptions:
+    jp_kana: "リフレクター　などを　こわして\nあいてに　ダメージを　あたえる"
+    en: "Destroys barriers such as\nREFLECT and causes damage."
+    fr: "Détruit les barrières comme\nPROTECTION et blesse."
+    it: "Arreca danno e distrugge\nbarriere come RIFLESSO."
+    de: "Durchbricht Barrieren und\nverursacht Schaden."
+    es: "Destruye barreras como\nREFLEJO y causa daño."
+bubble:
+  names:
+    jp_kana: あわ
+    en: BUBBLE
+    fr: ECUME
+    it: BOLLA
+    de: BLUBBER
+    es: BURBUJA
+  descriptions:
+    jp_kana: "あわを　ふきかけて　こうげき\nてきの　すばやさを　さげることがある"
+    en: "An attack using bubbles.\nMay lower the foe’s SPEED."
+    fr: "Une attaque de bulles\npouvant baisser la VITESSE."
+    it: "Bolle che possono ridurre\nla VELOCITÀ del nemico."
+    de: "Angriff mit Blasen. INIT.-\nWert wird evtl. gesenkt."
+    es: "Usa burbujas para intentar\nbajar la VELOCIDAD."
+bubble_beam:
+  names:
+    jp_kana: バブルこうせん
+    en: BUBBLEBEAM
+    fr: BULLES D’O
+    it: BOLLARAGGIO
+    de: BLUBBSTRAHL
+    es: RAYO BURBUJA
+  descriptions:
+    jp_kana: "あわを　いきおいよく　はっしゃする\nてきの　すばやさを　さげることがある"
+    en: "Forcefully sprays bubbles\nthat may lower SPEED."
+    fr: "Envoie des bulles pouvant\nbaisser la VITESSE."
+    it: "Forte getto di bolle che\npuò ridurre la VELOCITÀ."
+    de: "Versprüht Blasen, die den\nINIT.-Wert evtl. senken."
+    es: "Diluvio de burbujas que\npuede bajar la VELOCIDAD."
+bulk_up:
+  names:
+    jp_kana: ビルドアップ
+    en: BULK UP
+    fr: GONFLETTE
+    it: GRANFISICO
+    de: PROTZER
+    es: CORPULENCIA
+  descriptions:
+    jp_kana: "からだを　きたえて\nこうげきと　ぼうぎょを　あげる"
+    en: "Bulks up the body to boost\nboth ATTACK and DEFENSE."
+    fr: "Se gonfle pour booster\nl’ATTAQUE et la DEFENSE."
+    it: "Il corpo s’ingrossa e\nsalgono ATTACCO e DIFESA."
+    de: "Pumpt den Körper auf. ANGR.\nu. VERT. werden erhöht."
+    es: "Robustece el cuerpo para\nsubir ATAQUE y DEFENSA."
+bullet_seed:
+  names:
+    jp_kana: タネマシンガン
+    en: BULLET SEED
+    fr: BALLE GRAINE
+    it: SEMITRAGLIA
+    de: KUGELSAAT
+    es: RECURRENTE
+  descriptions:
+    jp_kana: "タネを　２ー５かい　れんぞくで\nはっしゃして　てきを　こうげき"
+    en: "Shoots 2 to 5 seeds in a row\nto strike the foe."
+    fr: "Mitraille l’ennemi avec 2 à\n5 rafales à la suite."
+    it: "Da 2 a 5 raffiche di\nsemi sul nemico."
+    de: "Verschießt 2 bis 5 Samen\ngleichzeitig auf Gegner."
+    es: "Dispara de 2 a 5 ráfagas\nconsecutivas de semillas."
+calm_mind:
+  names:
+    jp_kana: めいそう
+    en: CALM MIND
+    fr: PLENITUDE
+    it: CALMAMENTE
+    de: GEDANKENGUT
+    es: PAZ MENTAL
+  descriptions:
+    jp_kana: "せいしんを　しゅうちゅう　させて\nとくこうと　とくぼうを　あげる"
+    en: "Raises SP. ATK and SP. DEF\nby focusing the mind."
+    fr: "Méditation pour augmenter\nl’ATQ. SPE. et la DEF. SPE."
+    it: "Concentrazione: aumenta\nl’ATT. SP. e la DIF. SP."
+    de: "Erhöht SPEZ. ANGR. u. SPEZ.\nVERT. durch Konzentration."
+    es: "Sube el AT. ESP. y la DEF.\nESP. con concentración."
+camouflage:
+  names:
+    jp_kana: ほごしょく
+    en: CAMOUFLAGE
+    fr: CAMOUFLAGE
+    it: CAMUFFAMENTO
+    de: TARNUNG
+    es: CAMUFLAJE
+  descriptions:
+    jp_kana: "ばしょに　あわせて　\nポケモンの　タイプが　へんかする"
+    en: "Alters the POKéMON’s type\ndepending on the location."
+    fr: "Change le type du POKéMON\nselon le lieu."
+    it: "Modifica il tipo del POKéMON\nsecondo il luogo."
+    de: "Die Elementklasse des\nPOKéMON hängt vom Ort ab."
+    es: "Modifica el tipo del POKéMON\nsegún la zona donde esté."
+charge:
+  names:
+    jp_kana: じゅうでん
+    en: CHARGE
+    fr: CHARGEUR
+    it: SOTTOCARICA
+    de: LADEVORGANG
+    es: CARGA
+  descriptions:
+    jp_kana: "でんきを　たくわえることによって\nつぎにだす　でんきの　つよさをあげる"
+    en: "Charges power to boost the\nelectric move used next."
+    fr: "Charge de la puissance pour\nl’att. électrique suivante."
+    it: "Potenzia la mossa elettrica\nusata successivamente."
+    de: "Lädt Energie für den kom-\nmenden Elektro-Angr. auf."
+    es: "Recarga energía y sube el\nataque eléctrico posterior."
+charm:
+  names:
+    jp_kana: あまえる
+    en: CHARM
+    fr: CHARME
+    it: FASCINO
+    de: CHARME
+    es: ENCANTO
+  descriptions:
+    jp_kana: "かわいくあまえて　てきを　ゆだんさせ\nこうげきを　ガクッとさげさせる"
+    en: "Charms the foe and sharply\nreduces its ATTACK."
+    fr: "Charme l’ennemi et baisse\nbrusquement son ATTAQUE."
+    it: "Ammalia il nemico per ridur-\nne di molto l’ATTACCO."
+    de: "Betört den Gegner u. redu-\nziert seinen ANGR. deutlich."
+    es: "Engatusa al rival y reduce\nbastante su ATAQUE."
+clamp:
+  names:
+    jp_kana: からではさむ
+    en: CLAMP
+    fr: CLAQUOIR
+    it: TENAGLIA
+    de: SCHNAPPER
+    es: TENAZA
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　てきを\nからに　はさみこんでしまう"
+    en: "Traps and squeezes the\nfoe for 2 to 5 turns."
+    fr: "Piège l’ennemi et l’écrase\npendant 2 à 5 tours."
+    it: "Intrappola e stringe il\nnemico da 2 a 5 turni."
+    de: "Fängt und drückt Gegner\nfür 2-5 Runden."
+    es: "Atrapa y atenaza con\nfuerza de 2 a 5 turnos."
+comet_punch:
+  names:
+    jp_kana: れんぞくパンチ
+    en: COMET PUNCH
+    fr: POING COMETE
+    it: COMETAPUGNO
+    de: KOMETENHIEB
+    es: PUÑO COMETA
+  descriptions:
+    jp_kana: "てきを　れんぞくで　なぐりつけ\n２ー５かい　れんぞくで　こうげき"
+    en: "Repeatedly punches the foe\n2 to 5 times."
+    fr: "Frappe rapidement l’ennemi\nde 2 à 5 fois."
+    it: "Da 2 a 5 pugni colpiscono\nripetutamente il nemico."
+    de: "Trifft den Gegner 2 - 5-mal\nhintereinander."
+    es: "Pega de 2 a 5\nveces seguidas."
+confuse_ray:
+  names:
+    jp_kana: あやしいひかり
+    en: CONFUSE RAY
+    fr: ONDE FOLIE
+    it: STORDIRAGGIO
+    de: KONFUSTRAHL
+    es: RAYO CONFUSO
+  descriptions:
+    jp_kana: "あやしいひかりで　てきを\nまどわし　こんらんさせてしまう"
+    en: "A sinister ray that\nconfuses the foe."
+    fr: "Un horrible rayon qui rend\nl’ennemi confus."
+    it: "Un raggio sinistro che\nconfonde il nemico."
+    de: "Ein fieser Strahl, der den\nGegner verwirrt."
+    es: "Rayo siniestro que\nconfunde al enemigo."
+confusion:
+  names:
+    jp_kana: ねんりき
+    en: CONFUSION
+    fr: CHOC MENTAL
+    it: CONFUSIONE
+    de: KONFUSION
+    es: CONFUSIÓN
+  descriptions:
+    jp_kana: "ちょうのうりょくで　こうげき\nてきを　こんらんさせることがある"
+    en: "A psychic attack that may\ncause confusion."
+    fr: "Une attaque PSY pouvant\nrendre l’ennemi confus."
+    it: "Attacco psichico che può\ncausare confusione."
+    de: "Psycho-Attacke, die den\nGegner evtl. verwirrt."
+    es: "Ataque psíquico que\npuede causar confusión."
+constrict:
+  names:
+    jp_kana: からみつく
+    en: CONSTRICT
+    fr: CONSTRICTION
+    it: LIMITAZIONE
+    de: UMKLAMMERUNG
+    es: RESTRICCIÓN
+  descriptions:
+    jp_kana: "てきに　からみついて　こうげきする\nてきの　すばやさを　さげることがある"
+    en: "Constricts to inflict pain.\nMay lower SPEED."
+    fr: "Etrangle pour blesser.\nPeut baisser la VITESSE."
+    it: "Impedimento che danneggia\ne può ridurre la VELOCITÀ."
+    de: "Schmerzvoller Klammergriff.\nSenkt evtl. INIT.-Wert."
+    es: "Constriñe para herir y\npuede bajar la VELOCIDAD."
+conversion:
+  names:
+    jp_kana: テクスチャー
+    en: CONVERSION
+    fr: ADAPTATION
+    it: CONVERSIONE
+    de: UMWANDLUNG
+    es: CONVERSIÓN
+  descriptions:
+    jp_kana: "おぼえている　わざの　タイプの\nどれかに　じぶんの　タイプを　かえる"
+    en: "Changes the user’s type\ninto an own move’s type."
+    fr: "Change le type du lanceur\nen celui d’une capacité."
+    it: "Il tipo di chi la usa muta\nin quello di una sua mossa."
+    de: "Wandelt Typ d. Anwenders in\neigenen Attacken-Typ."
+    es: "Cambia tu tipo por el tipo\nde un ataque que tengas."
+conversion_2:
+  names:
+    jp_kana: テクスチャー２
+    en: CONVERSION 2
+    fr: CONVERSION 2
+    it: CONVERSIONE2
+    de: UMWANDLUNG2
+    es: CONVERSIÓN2
+  descriptions:
+    jp_kana: "うけたわざの　タイプを　じぶんの\nていこうりょくに　かえる"
+    en: "Makes the user resistant\nto the last attack’s type."
+    fr: "Permet de résister au type\nde la dernière attaque."
+    it: "Chi la usa si fa resistente\nal tipo dell’ultimo attacco."
+    de: "Anwender wird resistent\ngegen letzten Angr.-Typ."
+    es: "Tu tipo se hace resistente\nal último tipo de ataque."
+cosmic_power:
+  names:
+    jp_kana: コスモパワー
+    en: COSMIC POWER
+    fr: FORCE COSMIK
+    it: COSMOFORZA
+    de: KOSMIK-KRAFT
+    es: MASA CÓSMICA
+  descriptions:
+    jp_kana: "しんぴてきな　ちからで\nぼうぎょと　とくぼうを　あげる"
+    en: "Raises DEFENSE and SP. DEF\nwith a mystic power."
+    fr: "Pouvoir mystique qui monte\nla DEFENSE et la DEF. SPE."
+    it: "Una forza magica aumenta\nla DIFESA e la DIF. SP."
+    de: "Erhöht VERT. u. SPEZ. VERT.\ndurch mystische Kraft."
+    es: "Sube la DEFENSA y la DEF.\nESP. con energía mística."
+cotton_spore:
+  names:
+    jp_kana: わたほうし
+    en: COTTON SPORE
+    fr: SPORE COTON
+    it: COTTONSPORA
+    de: BAUMWOLLSAAT
+    es: ESPORAGODÓN
+  descriptions:
+    jp_kana: "ほうしを　まとわりつかせ　てきの\nすばやさを　ガクッとさげさせる"
+    en: "Spores cling to the foe,\nsharply reducing SPEED."
+    fr: "Envoie des spores pour\nbaisser la VITESSE."
+    it: "Spore riducono di molto la\nVELOCITÀ del nemico."
+    de: "Sporen heften sich an den\nGegner. Senkt INIT.-Wert."
+    es: "Le pega esporas al rival\npara reducir su VELOCIDAD."
+counter:
+  names:
+    jp_kana: カウンター
+    en: COUNTER
+    fr: RIPOSTE
+    it: CONTATORE
+    de: KONTER
+    es: CONTADOR
+  descriptions:
+    jp_kana: "てきからうけた　ぶつりこうげきの\nダメージを　ばいにしてかえす"
+    en: "Retaliates any physical hit\nwith double the power."
+    fr: "Renvoie toute attaque\nphysique, 2 fois plus fort."
+    it: "Replica agli attacchi fisici\ncon forza raddoppiata."
+    de: "Kontert physischen Tref-\nfer mit doppelter Kraft."
+    es: "Devuelve un golpe físico\npor duplicado."
+covet:
+  names:
+    jp_kana: ほしがる
+    en: COVET
+    fr: IMPLORE
+    it: SUPPLICA
+    de: BEZIRZER
+    es: ANTOJO
+  descriptions:
+    jp_kana: "かわいく　あまえながら\nてきが　もっている　どうぐを　もらう"
+    en: "Cutely begs to obtain an\nitem held by the foe."
+    fr: "Demande gentiment un objet\ndétenu par l’ennemi."
+    it: "Supplica il nemico per\nottenerne lo strumento."
+    de: "Bittet charmant um das ge-\nhaltene Item des Gegners."
+    es: "Pide con ternura al rival\nel objeto que lleve."
+crabhammer:
+  names:
+    jp_kana: クラブハンマー
+    en: CRABHAMMER
+    fr: PINCE-MASSE
+    it: MARTELLATA
+    de: KRABBHAMMER
+    es: MARTILLAZO
+  descriptions:
+    jp_kana: "ハサミを　てきに　たたきつける\nきゅうしょに　あたりやすい"
+    en: "Hammers with a pincer. Has a\nhigh critical-hit ratio."
+    fr: "Cogne avec une pince.\nTaux de critiques élevé."
+    it: "Sferzata con tenaglie.\nProbabile brutto colpo."
+    de: "Schlägt mit Schere zu.\nVolltrefferchance hoch."
+    es: "Pinza con fuerza y suele\ndar un golpe crítico."
+cross_chop:
+  names:
+    jp_kana: クロスチョップ
+    en: CROSS CHOP
+    fr: COUP-CROIX
+    it: INCROCOLPO
+    de: KREUZHIEB
+    es: TAJO CRUZADO
+  descriptions:
+    jp_kana: "りょうてチョップで　てきを　こうげき\nきゅうしょに　あたりやすい"
+    en: "A double-chopping attack.\nHigh critical-hit ratio."
+    fr: "2 attaques tranchantes.\nTaux de critiques élevé."
+    it: "Doppio colpo netto:\nprobabile brutto colpo."
+    de: "Doppelter Hieb. Hohe \nVolltrefferquote."
+    es: "Corte doble que suele\npropinar un golpe crítico."
+crunch:
+  names:
+    jp_kana: かみくだく
+    en: CRUNCH
+    fr: MACHOUILLE
+    it: SGRANOCCHIO
+    de: KNIRSCHER
+    es: TRITURAR
+  descriptions:
+    jp_kana: "するどい　はで　てきを　かみくだく\nとくぼうを　さげることがある"
+    en: "Crunches with sharp fangs.\nMay lower SP. DEF."
+    fr: "Utilise ses crocs pointus.\nPeut baisser la DEF. SPE."
+    it: "Attacco con denti affilati.\nPuò ridurre la DIF. SP."
+    de: "Beißt mit Reißzähnen zu und\nsenkt evtl. SPEZ. VERT."
+    es: "Tritura con finos colmillos\ny puede bajar la DEF. ESP."
+crush_claw:
+  names:
+    jp_kana: ブレイククロー
+    en: CRUSH CLAW
+    fr: ECLATEGRIFFE
+    it: TRITARTIGLI
+    de: ZERMALMKLAUE
+    es: GARRA BRUTAL
+  descriptions:
+    jp_kana: "するどいツメで　てきを　きりさく\nぼうぎょを　さげることがある"
+    en: "Tears at the foe with sharp\nclaws. May lower DEFENSE."
+    fr: "Lacère avec des griffes.\nPeut baisser la DEFENSE."
+    it: "Artigli affilati che possono\nridurre la DIFESA."
+    de: "Angriff mit scharfen Klau-\nen. Senkt evtl. VERT.-Wert."
+    es: "Hace trizas al enemigo y\npuede bajar la DEFENSA."
+curse:
+  names:
+    jp_kana: のろい
+    en: CURSE
+    fr: MALEDICTION
+    it: MALEDIZIONE
+    de: FLUCH
+    es: MALDICIÓN
+  descriptions:
+    jp_kana: "ゴーストタイプと　それいがいとでは\nわざの　こうかが　ちがう"
+    en: "A move that functions\ndifferently for GHOSTS."
+    fr: "Coup qui fonctionne autre-\nment pour les SPECTRES."
+    it: "Per il tipo SPETTRO ha\nun effetto diverso."
+    de: "Ein Angriff, der bei GEIST-\nPKMN anders funktioniert."
+    es: "En el tipo FANTASMA\ntiene un efecto distinto."
+cut:
+  names:
+    jp_kana: いあいぎり
+    en: CUT
+    fr: COUPE
+    it: TAGLIO
+    de: ZERSCHNEIDER
+    es: CORTE
+  descriptions:
+    jp_kana: "するどいカマや　ツメなどを　つかって\nてきを　きりつけて　こうげき"
+    en: "Cuts the foe with sharp\nscythes, claws, etc."
+    fr: "Coupe l’ennemi avec des\nlames, des griffes, etc."
+    it: "Taglia il nemico con la forza\ndi artigli o falci affilate."
+    de: "Trifft den Gegner mit\nKlauen, Scheren o. ä."
+    es: "Corta con garras,\nguadañas, etc."
+defense_curl:
+  names:
+    jp_kana: まるくなる
+    en: DEFENSE CURL
+    fr: BOUL’ARMURE
+    it: RICCIOLSCUDO
+    de: EINIGLER
+    es: RIZO DEFENSA
+  descriptions:
+    jp_kana: "からだを　まるめて　きゅうしょを\nかくし　ぼうぎょを　あげる"
+    en: "Curls up to conceal weak\nspots and raise DEFENSE."
+    fr: "S’enroule, cache ses points\nfaibles. Monte la DEFENSE."
+    it: "Raggomitolandosi, chi la usa\naumenta la propria DIFESA."
+    de: "Verbirgt Schwächen durch\nEinrollen, VERT.-Wert hoch."
+    es: "Oculta su punto débil al\nrizarse. Sube la DEFENSA."
+destiny_bond:
+  names:
+    jp_kana: みちづれ
+    en: DESTINY BOND
+    fr: PRLVT DESTIN
+    it: DESTINOBBL.
+    de: ABGANGSBUND
+    es: MISMODESTINO
+  descriptions:
+    jp_kana: "このわざの　あとに　たおされると\nてきも　せんとうふのうになる"
+    en: "If the user faints, the foe\nis also made to faint."
+    fr: "Si le lanceur est mis K.O.,\nl’ennemi le sera également."
+    it: "Se chi la usa va KO, il nemico\nfa la stessa fine."
+    de: "Wird der Angreifer besiegt,\ngilt das auch für d. Gegner."
+    es: "Si te debilitas, el enemigo\nse debilita contigo."
+detect:
+  names:
+    jp_kana: みきり
+    en: DETECT
+    fr: DETECTION
+    it: INDIVIDUA
+    de: SCANNER
+    es: DETECCIÓN
+  descriptions:
+    jp_kana: "てきの　こうげきを　かならずよける\nれんぞくで　だすと　しっぱいしやすい"
+    en: "Evades attack, but may fail\nif used in succession."
+    fr: "Esquive l’attaque, mais\npeut échouer si réutilisé."
+    it: "Elude gli attacchi: se usato\nripetutamente può fallire."
+    de: "Wendet Attacken ab, Erfolg\nsinkt bei Wiederholung."
+    es: "Frena ataques, pero puede\nfallar si se usa sin parar."
+dig:
+  names:
+    jp_kana: あなをほる
+    en: DIG
+    fr: TUNNEL
+    it: FOSSA
+    de: SCHAUFLER
+    es: EXCAVAR
+  descriptions:
+    jp_kana: "１ターンめで　じめんに　もぐり\nつぎのターンで　てきを　こうげき"
+    en: "Digs underground the first\nturn and strikes next turn."
+    fr: "Creuse sous terre au 1ᵉʳ\ntour et frappe au 2ᵉ."
+    it: "Al primo turno scava, per\nattaccare al secondo."
+    de: "Gräbt sich in der 1. Runde\nein und trifft in der 2."
+    es: "1.ᵉʳ turno: cava.\n2.º: ataca."
+disable:
+  names:
+    jp_kana: かなしばり
+    en: DISABLE
+    fr: ENTRAVE
+    it: INIBITORE
+    de: AUSSETZER
+    es: ANULACIÓN
+  descriptions:
+    jp_kana: "ちょうのうりょくで　てきの　うごきを\nとめて　わざを　１つ　つかえなくする"
+    en: "Psychically disables one of\nthe foe’s moves."
+    fr: "Empêche l’utilisation d’une\ndes attaques de l’ennemi."
+    it: "Forza psichica: disattiva\nuna mossa del nemico."
+    de: "Psycho-Attacke. Blockiert\neine Attacke des Gegners."
+    es: "Desactiva un ataque\ndel contrincante."
+dive:
+  names:
+    jp_kana: ダイビング
+    en: DIVE
+    fr: PLONGEE
+    it: SUB
+    de: TAUCHER
+    es: BUCEO
+  descriptions:
+    jp_kana: "１ターンめで　みずに　もぐり\nつぎのターンで　てきを　こうげき"
+    en: "Dives underwater the first\nturn and strikes next turn."
+    fr: "Plonge en apnée au premier\ntour et frappe au second."
+    it: "Al primo turno si immerge e\nattacca in quello seguente."
+    de: "Taucht in der 1. Runde\nunter u. trifft in der 2."
+    es: "1.ᵉʳ turno: bucea.\n2.º: golpea."
+dizzy_punch:
+  names:
+    jp_kana: ピヨピヨパンチ
+    en: DIZZY PUNCH
+    fr: UPPERCUT
+    it: STORDIPUGNO
+    de: IRRSCHLAG
+    es: PUÑO MAREO
+  descriptions:
+    jp_kana: "リズミカルな　パンチで　こうげき\nてきを　こんらんさせることがある"
+    en: "A rhythmic punch that may\nconfuse the foe."
+    fr: "Un coup de poing cadencé.\nPeut rendre confus."
+    it: "Pugno ritmico che può\nconfondere il nemico."
+    de: "Rhythmischer Schlag, der\nden Gegner verwirren kann."
+    es: "Puño repetitivo que puede\ncausar confusión."
+doom_desire:
+  names:
+    jp_kana: はめつのねがい
+    en: DOOM DESIRE
+    fr: CARNAREKET
+    it: OBBLIDERIO
+    de: KISMETWUNSCH
+    es: DESEO OCULTO
+  descriptions:
+    jp_kana: "たくさんの　ひかりが　ふりそそぐ\n２ターンごに　てきを　こうげきする"
+    en: "Summons strong sunlight to\nattack 2 turns later."
+    fr: "Récupère la lumière pour\nfrapper 2 tours plus tard."
+    it: "Forte luce solare che\ncolpisce dopo 2 turni."
+    de: "Speichert Sonnenenergie.\nAngriff 2 Runden später."
+    es: "Concentra intensa luz solar\ny ataca 2 turnos después."
+double_edge:
+  names:
+    jp_kana: すてみタックル
+    en: DOUBLE-EDGE
+    fr: DAMOCLES
+    it: SDOPPIATORE
+    de: RISIKOTACKLE
+    es: DOBLE FILO
+  descriptions:
+    jp_kana: "いのちをかけて　てきに　たいあたり\nじぶんもすこし　ダメージをうける"
+    en: "A life-risking tackle that\nalso hurts the user."
+    fr: "Une dangereuse charge qui\nblesse aussi le lanceur."
+    it: "Carica molto pericolosa che\ndanneggia anche chi la fa."
+    de: "Lebensgefährlicher Angriff\nmit Selbstschädigung."
+    es: "Ataque arriesgado que\ntambién hiere al agresor."
+double_kick:
+  names:
+    jp_kana: にどげり
+    en: DOUBLE KICK
+    fr: DOUBLE PIED
+    it: DOPPIOCALCIO
+    de: DOPPELKICK
+    es: DOBLE PATADA
+  descriptions:
+    jp_kana: "２ほんの　あしをつかって　てきを\n２かい　れんぞくで　こうげき"
+    en: "A double-kicking attack\nthat strikes the foe twice."
+    fr: "Un double coup de pied qui\nfrappe l’ennemi deux fois."
+    it: "Il nemico è colpito da\nun doppio calcio."
+    de: "Doppeltritt. Der Gegner\nwird zweimal getroffen."
+    es: "Una patada doble.\nGolpea 2 veces."
+double_slap:
+  names:
+    jp_kana: おうふくビンタ
+    en: DOUBLESLAP
+    fr: TORGNOLES
+    it: DOPPIASBERLA
+    de: DUPLEXHIEB
+    es: DOBLEBOFETÓN
+  descriptions:
+    jp_kana: "てきを　おうふくビンタで\n２ー５かい　れんぞくで　こうげき"
+    en: "Repeatedly slaps the foe\n2 to 5 times."
+    fr: "Gifle rapidement l’ennemi\nde 2 à 5 fois."
+    it: "Da 2 a 5 schiaffi colpiscono\nripetutamente il nemico."
+    de: "Trifft den Gegner 2 - 5-mal\nhintereinander."
+    es: "Abofetea de 2 a 5\nveces seguidas."
+double_team:
+  names:
+    jp_kana: かげぶんしん
+    en: DOUBLE TEAM
+    fr: REFLET
+    it: DOPPIOTEAM
+    de: DOPPELTEAM
+    es: DOBLE EQUIPO
+  descriptions:
+    jp_kana: "ぶんしんで　てきを　まどわせ\nかいひりつを　あげる"
+    en: "Creates illusory copies to\nraise evasiveness."
+    fr: "Crée des images-miroirs\npour augmenter l’esquive."
+    it: "Copie illusorie aumentano la\ncapacità di elusione."
+    de: "Erzeugt Ebenbilder, um \nFluchtwert zu erhöhen."
+    es: "Crea espejismos para \nmejorar la EVASIÓN."
+dragon_breath:
+  names:
+    jp_kana: りゅうのいぶき
+    en: DRAGONBREATH
+    fr: DRACOSOUFFLE
+    it: DRAGOSPIRO
+    de: FEUERODEM
+    es: DRAGOALIENTO
+  descriptions:
+    jp_kana: "くちから　ものすごい　いきをはいて\nてきを　こうげき"
+    en: "Strikes the foe with an\nincredible blast of breath."
+    fr: "Frappe l’ennemi grâce à\nun souffle super puissant."
+    it: "Il nemico è investito da\nun soffio potentissimo."
+    de: "Fegt den Gegner mit zer-\nstörerisch heißem Atem weg."
+    es: "Fuerte ráfaga de aliento\nque golpea al enemigo."
+dragon_claw:
+  names:
+    jp_kana: ドラゴンクロー
+    en: DRAGON CLAW
+    fr: DRACOGRIFFE
+    it: DRAGARTIGLI
+    de: DRACHENKLAUE
+    es: GARRA DRAGÓN
+  descriptions:
+    jp_kana: "するどいツメを　つかい\nてきを　ひっかいて　こうげき"
+    en: "Slashes the foe with sharp\nclaws."
+    fr: "Tranche l’ennemi avec\ndes griffes acérées."
+    it: "Artigli affilati aggredi-\nscono il nemico."
+    de: "Der Gegner wird mit\nscharfen Klauen verletzt."
+    es: "Araña al rival con garras\nafiladas."
+dragon_dance:
+  names:
+    jp_kana: りゅうのまい
+    en: DRAGON DANCE
+    fr: DANSE DRACO
+    it: DRAGODANZA
+    de: DRACHENTANZ
+    es: DANZA DRAGÓN
+  descriptions:
+    jp_kana: "しんぴてきな　まいを　おどり\nこうげきと　すばやさを　あげる"
+    en: "A mystical dance that ups\nATTACK and SPEED."
+    fr: "Danse mystique augmentant\nl’ATTAQUE et la VITESSE."
+    it: "Danza magica che aumenta\nl’ATTACCO e la VELOCITÀ."
+    de: "Ein mystischer Tanz, der\nANGR.- u. INIT.-Wert erhöht."
+    es: "Danza mística que sube\nel ATAQUE y la VELOCIDAD."
+dragon_rage:
+  names:
+    jp_kana: りゅうのいかり
+    en: DRAGON RAGE
+    fr: DRACO-RAGE
+    it: IRA DI DRAGO
+    de: DRACHENWUT
+    es: FURIA DRAGÓN
+  descriptions:
+    jp_kana: "しょうげきはで　てきを　こうげき\n４０の　きまったダメージを　あたえる"
+    en: "Launches shock waves that\nalways inflict 40 HP damage."
+    fr: "Envoie des ondes de choc\ninfligeant 40 PV de dégâts."
+    it: "Fiammate che causano\nsempre un danno di 40 PS."
+    de: "Stößt Schockwellen aus, die\n40 KP Schaden anrichten."
+    es: "Cadena de ondas de\nchoque que quitan 40 PS."
+dream_eater:
+  names:
+    jp_kana: ゆめくい
+    en: DREAM EATER
+    fr: DEVOREVE
+    it: MANGIASOGNI
+    de: TRAUMFRESSER
+    es: COME SUEÑOS
+  descriptions:
+    jp_kana: "ねているてきに　あたえた　ダメージの\nはんぶん　たいりょくを　かいふくする"
+    en: "Takes one half the damage\ninflicted on a sleeping foe."
+    fr: "Aspire la moitié des dégâts\ninfligés à l’ennemi endormi."
+    it: "Assorbe metà dei PS persi\nda un nemico addormentato."
+    de: "Schlafendem Gegner wird\nhalber Schaden abgezogen."
+    es: "Roba la mitad del daño\ncausado a un rival dormido."
+drill_peck:
+  names:
+    jp_kana: ドリルくちばし
+    en: DRILL PECK
+    fr: BEC VRILLE
+    it: PERFORBECCO
+    de: BOHRSCHNABEL
+    es: PICO TALADRO
+  descriptions:
+    jp_kana: "くちばしを　ちゅうしんに　からだを\nかいてんさせて　てきに　とっしんする"
+    en: "A corkscrewing attack with\nthe beak acting as a drill."
+    fr: "Une attaque utilisant le\nbec comme une perceuse."
+    it: "Attacco a spirale con un\nbecco trapanante."
+    de: "Attacke, bei der der Schna-\nbel als Bohrer dient."
+    es: "Picotazo giratorio y\nperforador muy potente."
+dynamic_punch:
+  names:
+    jp_kana: ばくれつパンチ
+    en: DYNAMICPUNCH
+    fr: DYNAMOPOING
+    it: DINAMIPUGNO
+    de: WUCHTSCHLAG
+    es: PUÑODINÁMICO
+  descriptions:
+    jp_kana: "あたりにくいが　ダメージは　おおきい\nあたれば　かならず　こんらんさせる"
+    en: "Powerful and sure to cause\nconfusion, but inaccurate."
+    fr: "Puissant et rend confus, \nmais pas très précis."
+    it: "È potente e confonde\nsempre, ma impreciso."
+    de: "Kräftige Attacke, die ver-\nwirrt, aber ungenau ist."
+    es: "No es certero, pero\ncausa confusión si atina."
+earthquake:
+  names:
+    jp_kana: じしん
+    en: EARTHQUAKE
+    fr: SEISME
+    it: TERREMOTO
+    de: ERDBEBEN
+    es: TERREMOTO
+  descriptions:
+    jp_kana: "じめんを　ゆらして　こうげき\nとんでる　てきいがいに　だいダメージ"
+    en: "A powerful quake, but has\nno effect on flying foes."
+    fr: "Tremblement de terre sans\neffet sur les adv. volants."
+    it: "Potente sisma, che non ha\neffetto sui nemici volanti."
+    de: "Mächtiges Beben. Ist bei\nfliegenden Feinden nutzlos."
+    es: "Fuerte, pero inútil\ncontra voladores."
+egg_bomb:
+  names:
+    jp_kana: タマゴばくだん
+    en: EGG BOMB
+    fr: BOMB’OEUF
+    it: UOVOBOMBA
+    de: EIERBOMBE
+    es: BOMBA HUEVO
+  descriptions:
+    jp_kana: "タマゴを　おもいっきり　なげつけて\nてきを　こうげき"
+    en: "An egg is forcibly hurled at\nthe foe."
+    fr: "Envoie violemment un œuf\nen direction de l’ennemi."
+    it: "Un uovo scaraventato\ncontro il nemico."
+    de: "Ein Ei wird auf den Gegner\nabgefeuert."
+    es: "Arroja un huevo\nal enemigo."
+ember:
+  names:
+    jp_kana: ひのこ
+    en: EMBER
+    fr: FLAMMECHE
+    it: BRACIERE
+    de: GLUT
+    es: ASCUAS
+  descriptions:
+    jp_kana: "ちいさな　ほのおで　こうげき\nてきを　やけどさせることがある"
+    en: "A weak fire attack that may\ninflict a burn."
+    fr: "Une faible attaque de feu\npouvant brûler l’ennemi."
+    it: "Debole attacco di fuoco\nche può scottare."
+    de: "Schwache Feuer-Attacke.\nVerbrennt Gegner evtl."
+    es: "Ligero ataque que puede\ncausar quemaduras."
+encore:
+  names:
+    jp_kana: アンコール
+    en: ENCORE
+    fr: ENCORE
+    it: RIPETI
+    de: ZUGABE
+    es: OTRA VEZ
+  descriptions:
+    jp_kana: "てきが　さいごに　つかった　わざを\n２ー６かい　れんぞくで　ださせる"
+    en: "Makes the foe repeat its\nlast move over 2 to 6 turns."
+    fr: "Oblige l’ennemi à répéter sa\ndernière action 2 à 6 tours."
+    it: "Il nemico ripete l’ultima\nmossa da 2 a 6 turni."
+    de: "Gegner wiederholt letzten\nAngriff 2 - 6-mal."
+    es: "El rival repite el último\nataque de 2 a 6 veces."
+endeavor:
+  names:
+    jp_kana: がむしゃら
+    en: ENDEAVOR
+    fr: EFFORT
+    it: RIMONTA
+    de: NOTSITUATION
+    es: ESFUERZO
+  descriptions:
+    jp_kana: "じぶんの　たいりょくが　あいてより\nすくないほど　ダメージを　あたえる"
+    en: "Gains power if the user’s HP\nis lower than the foe’s HP."
+    fr: "Gagne en puissance si PV\ninférieurs aux PV ennemis."
+    it: "Più potente se chi la usa ha\nmeno PS del nemico."
+    de: "Wird stärker, wenn Anw.-KP\ngeringer als Gegner-KP ist."
+    es: "Gana fuerza si el atacante\ntiene menos PS que el rival."
+endure:
+  names:
+    jp_kana: こらえる
+    en: ENDURE
+    fr: TENACITE
+    it: RESISTENZA
+    de: AUSDAUER
+    es: AGUANTE
+  descriptions:
+    jp_kana: "そのターンで　こうげきを　うけても\nかならず　たいりょくが　１のこる"
+    en: "Endures any attack for\n1 turn, leaving at least 1HP."
+    fr: "Encaisse les attaques du\ntour et conserve 1 PV."
+    it: "Per un turno, chi la usa\nresiste con almeno 1 PS."
+    de: "Hält jeder Attacke 1 Runde\nstand. 1 KP bleibt stets."
+    es: "Resiste el ataque de 1\nturno y deja al menos 1 PS."
+eruption:
+  names:
+    jp_kana: ふんか
+    en: ERUPTION
+    fr: ERUPTION
+    it: ERUZIONE
+    de: ERUPTION
+    es: ESTALLIDO
+  descriptions:
+    jp_kana: "じぶんの　たいりょくが　おおいほど\nおおきな　ダメージを　あたえる"
+    en: "The higher the user’s HP,\nthe more damage caused."
+    fr: "Inflige plus de dégâts si PV\ndu lanceur sont élevés."
+    it: "Il danno dipende dai PS\ndi chi la usa."
+    de: "Je höher KP des Benutzers,\ndesto mehr Schaden."
+    es: "Cuanto mayor sea el número\nde tus PS, más daño harás."
+explosion:
+  names:
+    jp_kana: だいばくはつ
+    en: EXPLOSION
+    fr: EXPLOSION
+    it: ESPLOSIONE
+    de: EXPLOSION
+    es: EXPLOSIÓN
+  descriptions:
+    jp_kana: "てきに　だいダメージを　あたえるが\nつかうと　せんとうふのうに　なる"
+    en: "Inflicts severe damage but\nmakes the user faint."
+    fr: "Inflige de sérieux dégâts,\nmais met le lanceur K.O."
+    it: "Infligge un forte danno, ma\nchi la usa va KO."
+    de: "Richtet großen Schaden an.\nAnwender wird besiegt."
+    es: "Causa mucho daño, pero\nte debilita."
+extrasensory:
+  names:
+    jp_kana: じんつうりき
+    en: EXTRASENSORY
+    fr: EXTRASENSEUR
+    it: EXTRASENSO
+    de: SONDERSENSOR
+    es: PARANORMAL
+  descriptions:
+    jp_kana: "ふしぎな　ちからで　てきを　こうげき\nてきを　ひるませることがある"
+    en: "Attacks with a peculiar\npower. May cause flinching."
+    fr: "Pouvoir singulier qui peut\napeurer l’ennemi."
+    it: "Forza particolare che può\nfar tentennare."
+    de: "Besonderer Angriff. Gegner\nschreckt evtl. zurück."
+    es: "Energía muy extraña que\npuede causar el retroceso."
+extreme_speed:
+  names:
+    jp_kana: しんそく
+    en: EXTREMESPEED
+    fr: VIT.EXTREME
+    it: EXTRARAPIDO
+    de: TURBOTEMPO
+    es: VEL. EXTREMA
+  descriptions:
+    jp_kana: "ものすごい　はやさで　うごいて\nちからづよい　こうげきをする"
+    en: "An extremely fast and\npowerful attack."
+    fr: "Une attaque extrêmement\nrapide et puissante."
+    it: "Attacco estremamente\nrapido e potente."
+    de: "Extrem schnelle und kraft-\nvolle Attacke."
+    es: "Ataque extremadamente\nrápido y demoledor."
+facade:
+  names:
+    jp_kana: からげんき
+    en: FACADE
+    fr: FACADE
+    it: FACCIATA
+    de: FASSADE
+    es: IMAGEN
+  descriptions:
+    jp_kana: "どく　まひ　やけど　のとき\nこうげきの　いりょくが　あがる"
+    en: "Boosts ATTACK when burned,\nparalyzed, or poisoned."
+    fr: "Améliore l’ATTAQUE si brûlé,\nparalysé ou empoisonné."
+    it: "Con paralisi, avvelenamento\no scottatura sale ATTACCO."
+    de: "Erhöht ANGR. nach Verbren-\nnung, Paralyse o. Vergift."
+    es: "Potencia el ATAQUE al estar\nquemado, paraliz. o enven."
+fake_out:
+  names:
+    jp_kana: ねこだまし
+    en: FAKE OUT
+    fr: BLUFF
+    it: BRUCIAPELO
+    de: MOGELHIEB
+    es: SORPRESA
+  descriptions:
+    jp_kana: "せんせいこうげきで　ひるませる\nさいしょの　ターンにしか　つかえない"
+    en: "A 1st-turn, 1st-strike move\nthat causes flinching."
+    fr: "Une attaque en début de\nbataille pour apeurer."
+    it: "Primo colpo al primo\nturno: può far tentennare."
+    de: "Trifft schon mit dem ersten\nSchlag. Verjagt Gegner evtl."
+    es: "Ataca primero en un turno\ny puede causar retroceso."
+fake_tears:
+  names:
+    jp_kana: うそなき
+    en: FAKE TEARS
+    fr: CROCO LARME
+    it: FALSELACRIME
+    de: TRUGTRÄNE
+    es: LLANTO FALSO
+  descriptions:
+    jp_kana: "ないたふりで　あいてを　こまらせて\nとくぼうを　ガクッとさげさせる"
+    en: "Feigns crying to sharply\nlower the foe’s SP. DEF."
+    fr: "Fait semblant de pleurer\npour baisser la DEF. SPE."
+    it: "Pianto teatrale che riduce\nla DIF. SP. del nemico."
+    de: "Täuscht Weinen vor, um\ngegn. SPEZ. VERT. zu senken."
+    es: "Lágrimas de cocodrilo que\nbajan mucho la DEF. ESP."
+false_swipe:
+  names:
+    jp_kana: みねうち
+    en: FALSE SWIPE
+    fr: FAUX-CHAGE
+    it: FALSOFINALE
+    de: TRUGSCHLAG
+    es: FALSOTORTAZO
+  descriptions:
+    jp_kana: "かならず　たいりょくが　１のこるよう\nてかげんして　こうげき"
+    en: "An attack that leaves the\nfoe with at least 1 HP."
+    fr: "Une attaque qui laisse au\nmoins 1 PV à l’ennemi."
+    it: "Attacco che lascia il nemico\ncon almeno 1 PS."
+    de: "Ein Angriff, der dem Gegner\nzumindest 1 KP lässt."
+    es: "Deja al enemigo\ncon al menos 1 PS."
+feather_dance:
+  names:
+    jp_kana: フェザーダンス
+    en: FEATHERDANCE
+    fr: DANSE-PLUME
+    it: DANZADIPIUME
+    de: DAUNENREIGEN
+    es: DANZA PLUMA
+  descriptions:
+    jp_kana: "うもうを　ふりまき　からみつかせて　\nこうげきを　ガクッとさげさせる"
+    en: "Envelops the foe with down\nto sharply reduce ATTACK."
+    fr: "Enveloppe l’ennemi de duvet\net baisse l’ATTAQUE."
+    it: "Un manto di piume riduce di\nmolto l’ATTACCO del nemico."
+    de: "Hüllt Gegner in Daunen und\nsenkt ANGR.-Wert deutlich."
+    es: "Envuelve al rival con plumón\npara reducir su ATAQUE."
+feint_attack:
+  names:
+    jp_kana: だましうち
+    en: FAINT ATTACK
+    fr: FEINTE
+    it: FINTA
+    de: FINTE
+    es: FINTA
+  descriptions:
+    jp_kana: "てきを　ゆだんさせて　ちかづき\nよけられない　こうげきを　くりだす"
+    en: "Draws the foe close, then\nstrikes without fail."
+    fr: "Attire l’ennemi et frappe\nsans jamais échouer."
+    it: "Avvicina il nemico per\ncolpirlo infallibilmente."
+    de: "Zieht Gegner heran und\ntrifft mit Sicherheit."
+    es: "Acerca al enemigo para que\nel golpe no falle."
+fire_blast:
+  names:
+    jp_kana: だいもんじ
+    en: FIRE BLAST
+    fr: DEFLAGRATION
+    it: FUOCOBOMBA
+    de: FEUERSTURM
+    es: LLAMARADA
+  descriptions:
+    jp_kana: "だいの　もじが　すべてを　やきつくす\nてきを　やけどさせることがある"
+    en: "A fiery blast that scorches\nall. May cause a burn."
+    fr: "Une explosion qui carbonise\ntout. Peut brûler l’ennemi."
+    it: "Un’esplosione fa terra\nbruciata: può far scottare."
+    de: "Feuersbrunst, die alles ver-\nsengt. Verbrennt Geg. evtl."
+    es: "Llama que lo chamusca todo\ny suele causar quemadura."
+fire_punch:
+  names:
+    jp_kana: ほのおのパンチ
+    en: FIRE PUNCH
+    fr: POING DE FEU
+    it: FUOCOPUGNO
+    de: FEUERSCHLAG
+    es: PUÑO FUEGO
+  descriptions:
+    jp_kana: "ほのおをこめた　パンチで　こうげき\nてきを　やけどさせることがある"
+    en: "A fiery punch that may burn\nthe foe."
+    fr: "Un poing de feu pouvant\nbrûler l’ennemi."
+    it: "Pugno ardente che può\nscottare il nemico."
+    de: "Schlag, der dem Gegner evtl.\nVerbrennungen zufügt."
+    es: "Puñetazo ardiente.\nPuede quemar."
+fire_spin:
+  names:
+    jp_kana: ほのおのうず
+    en: FIRE SPIN
+    fr: DANSEFLAMME
+    it: TURBOFUOCO
+    de: FEUERWIRBEL
+    es: GIRO FUEGO
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　てきを\nほのおの　ちゅうしんに　とじこめる"
+    en: "Traps the foe in a ring of\nfire for 2 to 5 turns."
+    fr: "Encercle l’ennemi de flammes\npendant 2 à 5 tours."
+    it: "Un turbine di fuoco avvolge\nil nemico da 2 a 5 turni."
+    de: "Schließt Gegner für 2-5\nRunden in Feuerkreis ein."
+    es: "Un aro de fuego que\natrapa de 2 a 5 veces."
+fissure:
+  names:
+    jp_kana: じわれ
+    en: FISSURE
+    fr: ABIME
+    it: ABISSO
+    de: GEOFISSUR
+    es: FISURA
+  descriptions:
+    jp_kana: "じわれを　おこして　てきを　のみこむ\nのみこまれると　せんとうふのうになる"
+    en: "A one-hit KO move that\ndrops the foe in a fissure."
+    fr: "Fait tomber l’ennemi dans\nune crevasse et le met K.O."
+    it: "Mossa da KO in un attacco:\ngetta in un abisso."
+    de: "Sofort-K.O. Wirft Gegner\nin Gebirgsspalte."
+    es: "Ataque de tierra.\nFulmina en 1 golpe."
+flail:
+  names:
+    jp_kana: じたばた
+    en: FLAIL
+    fr: FLEAU
+    it: FLAGELLO
+    de: DRESCHFLEGEL
+    es: AZOTE
+  descriptions:
+    jp_kana: "じぶんの　たいりょくが　すくないほど\nてきに　おおきなダメージを　あたえる"
+    en: "Inflicts more damage when\nthe user’s HP is down."
+    fr: "Inflige plus de dégâts\nquand les PV sont faibles."
+    it: "Arreca danni maggiori se i\nPS di chi la usa sono bassi."
+    de: "Richtet mehr Schaden an,\nwenn eigene KP niedrig sind."
+    es: "Causa un daño mayor\nsi tienes pocos PS."
+flame_wheel:
+  names:
+    jp_kana: かえんぐるま
+    en: FLAME WHEEL
+    fr: ROUE DE FEU
+    it: RUOTAFUOCO
+    de: FLAMMENRAD
+    es: RUEDA FUEGO
+  descriptions:
+    jp_kana: "ほのおを　まとって　とっしんする\nてきを　やけどさせることがある"
+    en: "A fiery charge attack that\nmay inflict a burn."
+    fr: "Une charge enflammée qui\npeut brûler l’ennemi."
+    it: "Carica rovente che può\ncausare una scottatura."
+    de: "Feuer-Attacke, die Gegner\nevtl. verbrennt."
+    es: "Ataque de fuego que puede\ncausar quemaduras."
+flamethrower:
+  names:
+    jp_kana: かえんほうしゃ
+    en: FLAMETHROWER
+    fr: LANCE-FLAMME
+    it: LANCIAFIAMME
+    de: FLAMMENWURF
+    es: LANZALLAMAS
+  descriptions:
+    jp_kana: "すごい　ほのおで　こうげき\nてきを　やけどさせることがある"
+    en: "A powerful fire attack that\nmay inflict a burn."
+    fr: "Une puissante attaque de\nfeu pouvant brûler l’ennemi."
+    it: "Forte attacco di fuoco \nche può scottare."
+    de: "Starke Feuer-Attacke.\nVerbrennt Gegner evtl."
+    es: "Fuerte ataque que puede\ncausar quemaduras."
+flash:
+  names:
+    jp_kana: フラッシュ
+    en: FLASH
+    fr: FLASH
+    it: FLASH
+    de: BLITZ
+    es: DESTELLO
+  descriptions:
+    jp_kana: "つよい　ひかりで　めを　くらませて\nてきの　めいちゅうりつを　さげさせる"
+    en: "Looses a powerful blast of\nlight that cuts accuracy."
+    fr: "Explosion lumineuse qui\nfait baisser la précision."
+    it: "Violento abbaglio che\nabbatte la precisione."
+    de: "Erzeugt helles Licht, das\ngegn. Genauigkeit senkt."
+    es: "Ciega con un fogonazo de\nluz y baja la PRECISIÓN."
+flatter:
+  names:
+    jp_kana: おだてる
+    en: FLATTER
+    fr: FLATTERIE
+    it: ADULAZIONE
+    de: SCHMEICHLER
+    es: CAMELO
+  descriptions:
+    jp_kana: "てきを　おだてて　こんらんさせるが\nとくこうも　あげてしまう"
+    en: "Confuses the foe, but\nraises its SP. ATK."
+    fr: "Rend l’ennemi confus, mais\naugmente son ATQ. SPE."
+    it: "Confonde il nemico ma ne\naumenta l’ATT. SP."
+    de: "Verwirrt den Gegner, erhöht\naber dessen SPEZ. ANGR."
+    es: "Confunde al rival, pero\nsube su AT. ESP."
+fly:
+  names:
+    jp_kana: そらをとぶ
+    en: FLY
+    fr: VOL
+    it: VOLO
+    de: FLIEGEN
+    es: VUELO
+  descriptions:
+    jp_kana: "１ターンめで　そらに　とびたって\nつぎのターンで　てきを　こうげき"
+    en: "Flies up on the first turn,\nthen strikes the next turn."
+    fr: "S’envole au premier tour et\nfrappe au second tour."
+    it: "Vola alto al primo turno per\nattaccare nel successivo."
+    de: "Steigt empor in der 1. Runde\nund trifft Gegner in der 2."
+    es: "1.ᵉʳ turno: vuela.\n2.º: ataca."
+focus_energy:
+  names:
+    jp_kana: きあいだめ
+    en: FOCUS ENERGY
+    fr: PUISSANCE
+    it: FOCALENERGIA
+    de: ENERGIEFOKUS
+    es: FOCO ENERGÍA
+  descriptions:
+    jp_kana: "こうげきに　きあいを　こめて\nきゅうしょに　あたりやすくする"
+    en: "Focuses power to raise the\ncritical-hit ratio."
+    fr: "Concentration permettant\nun taux de critiques élevé."
+    it: "Concentrazione energetica:\nbrutti colpi più probabili."
+    de: "Bündelt Kraft. Volltreffer-\nchance wird erhöht."
+    es: "Concentra energía para\nasegurar un golpe crítico."
+focus_punch:
+  names:
+    jp_kana: きあいパンチ
+    en: FOCUS PUNCH
+    fr: MITRA-POING
+    it: CENTRIPUGNO
+    de: POWER-PUNCH
+    es: PUÑO CERTERO
+  descriptions:
+    jp_kana: "いりょくの　たかい　こうこうわざ\nこうげきを　もらうと　ひるむ"
+    en: "A powerful loyalty attack.\nThe user flinches if hit."
+    fr: "Lanceur apeuré si touché.\nAttaque puissante."
+    it: "Colpisce per ultima. Chi la \nla usa tentenna se colpito."
+    de: "Angriff, der später trifft.\nBen. schreckt evtl. zurück."
+    es: "Es tardío, pero si el rival\nte golpea no te moverás."
+follow_me:
+  names:
+    jp_kana: このゆびとまれ
+    en: FOLLOW ME
+    fr: PAR ICI
+    it: SONOQUI
+    de: SPOTLIGHT
+    es: SEÑUELO
+  descriptions:
+    jp_kana: "あいてを　じぶんに　ちゅうもくさせ\nこうげきを　ぜんぶ　じぶんが　うける"
+    en: "Draws attention to make\nfoes attack only the user."
+    fr: "Attire l’attention. Les adv.\nn’attaquent que le lanceur."
+    it: "Chi la usa costringe il\nnemico ad attaccarlo."
+    de: "Zieht Aufmerksamkeit an.\nGegner greift nur Anw. an."
+    es: "Llama la atención para\nconcentrar los ataques."
+foresight:
+  names:
+    jp_kana: みやぶる
+    en: FORESIGHT
+    fr: CLAIRVOYANCE
+    it: PREVEGGENZA
+    de: GESICHTE
+    es: PROFECÍA
+  descriptions:
+    jp_kana: "わざが　あたりにくくなった　てきに\nこうげきを　あてられるようになる"
+    en: "Negates the foe’s efforts\nto heighten evasiveness."
+    fr: "Empêche l’ennemi\nd’améliorer son esquive."
+    it: "Vanifica l’aumento di\nelusione del nemico."
+    de: "Verhindert Anstieg von\ngegnerischem Fluchtwert."
+    es: "Anula los intentos del rival\nde aumentar la EVASIÓN."
+frenzy_plant:
+  names:
+    jp_kana: ハードプラント
+    en: FRENZY PLANT
+    fr: VEGE-ATTAK
+    it: RADICALBERO
+    de: FAUNA-STATUE
+    es: PLANTA FEROZ
+  descriptions:
+    jp_kana: "ダメージは　おおきいが　つかうと\nつぎのターン　うごけなくなってしまう"
+    en: "Powerful, but leaves the\nuser immobile the next turn."
+    fr: "Puissant, mais immobilise\nle lanceur le tour suivant."
+    it: "È potente, ma chi la usa\nperde il turno successivo."
+    de: "Starker Angriff. Angreifer\nmuss eine Runde aussetzen."
+    es: "Es eficaz, pero deja\ninmóvil al agresor 1 turno."
+frustration:
+  names:
+    jp_kana: やつあたり
+    en: FRUSTRATION
+    fr: FRUSTRATION
+    it: FRUSTRAZIONE
+    de: FRUSTRATION
+    es: FRUSTRACIÓN
+  descriptions:
+    jp_kana: "むごい　しうちの　うさばらしに\nてきを　ぜんりょくで　こうげき"
+    en: "An attack that is stronger\nif the TRAINER is disliked."
+    fr: "Attaque plus puissante si\nle DRESSEUR est mal aimé."
+    it: "Più potente se chi la usa\nnon ama il suo ALLENATORE."
+    de: "Die Attacke ist stärker bei\nverhassten TRAINERn."
+    es: "Es más fuerte si no se\naprecia al ENTRENADOR."
+fury_attack:
+  names:
+    jp_kana: みだれづき
+    en: FURY ATTACK
+    fr: FURIE
+    it: FURIA
+    de: FURIENSCHLAG
+    es: ATAQUE FURIA
+  descriptions:
+    jp_kana: "とがった　つのなどを　つかい\n２ー５かい　れんぞくで　こうげき"
+    en: "Jabs the foe 2 to 5 times\nwith sharp horns, etc."
+    fr: "Frappe l’ennemi 2 à 5 fois\navec des cornes, etc."
+    it: "Corna affilate infilzano\nil nemico da 2 a 5 volte."
+    de: "Spießt den Gegner 2 - 5-mal\nmit spitzen Hörnern auf."
+    es: "Cornea al enemigo\nde 2 a 5 veces."
+fury_cutter:
+  names:
+    jp_kana: れんぞくぎり
+    en: FURY CUTTER
+    fr: TAILLADE
+    it: TAGLIOFURIA
+    de: ZORNKLINGE
+    es: CORTEFURIA
+  descriptions:
+    jp_kana: "わざを　あてるたびに\nいりょくが　ぞうだいしていく"
+    en: "An attack that intensifies\non each successive hit."
+    fr: "Une attaque qui s’inten-\nsifie après chaque coup."
+    it: "Aumenta d’intensità ad ogni\ncolpo successivo."
+    de: "Eine Attacke, deren Härte\nbei jedem Treffer zunimmt."
+    es: "Crece en intensidad\nsi se usa repetidas veces."
+fury_swipes:
+  names:
+    jp_kana: みだれひっかき
+    en: FURY SWIPES
+    fr: COMBO-GRIFFE
+    it: SFURIATE
+    de: KRATZFURIE
+    es: GOLPES FURIA
+  descriptions:
+    jp_kana: "するどいツメやカマなどで　ひっかいて\n２ー５かい　れんぞくで　こうげき"
+    en: "Rakes the foe with sharp\nclaws, etc., 2 to 5 times."
+    fr: "Ecorche l’ennemi avec des\ngriffes, etc., de 2 à 5 fois."
+    it: "Tormenta con tenaglie\ne simili da 2 a 5 volte."
+    de: "Beharkt Gegner 2 - 5-mal\nmit scharfen Klauen o. ä."
+    es: "Araña rápidamente\nde 2 a 5 veces."
+future_sight:
+  names:
+    jp_kana: みらいよち
+    en: FUTURE SIGHT
+    fr: PRESCIENCE
+    it: DIVINAZIONE
+    de: SEHER
+    es: PREMONICIÓN
+  descriptions:
+    jp_kana: "せいしんりょくを　たかめて\n２ターンごに　てきを　こうげきする"
+    en: "Heightens inner power to\nstrike 2 turns later."
+    fr: "Accumule de l’énergie pour\nfrapper 2 tours plus tard."
+    it: "Raccoglie le forze per\ncolpire dopo 2 turni."
+    de: "Stärkt innere Kraft. Trifft\n2 Runden später."
+    es: "Aumenta la energía interior\npara golpear a los 2 turnos."
+giga_drain:
+  names:
+    jp_kana: ギガドレイン
+    en: GIGA DRAIN
+    fr: GIGA-SANGSUE
+    it: GIGASSORBIM.
+    de: GIGASAUGER
+    es: GIGADRENADO
+  descriptions:
+    jp_kana: "てきに　あたえた　ダメージの\nはんぶん　たいりょくを　かいふくする"
+    en: "An attack that steals half\nthe damage inflicted."
+    fr: "Une attaque qui absorbe la\nmoitié des dégâts infligés."
+    it: "Assorbe metà dei PS\nsottratti al nemico."
+    de: "Absorbiert die Hälfte des\nangerichteten Schadens."
+    es: "Absorbe la mitad\ndel daño producido."
+glare:
+  names:
+    jp_kana: へびにらみ
+    en: GLARE
+    fr: INTIMIDATION
+    it: BAGLIORE
+    de: GIFTBLICK
+    es: DESLUMBRAR
+  descriptions:
+    jp_kana: "おなかの　もようで　てきを　いかくし\nおびえさせて　まひさせてしまう"
+    en: "Intimidates and frightens\nthe foe into paralysis."
+    fr: "Intimide l’ennemi et le\nparalyse de terreur."
+    it: "Il nemico è così\nspaventato da paralizzarsi."
+    de: "Schüchtert Gegner ein, so\ndass er paralysiert ist."
+    es: "Intimida y asusta al rival\nhasta dejarlo paralizado."
+grass_whistle:
+  names:
+    jp_kana: くさぶえ
+    en: GRASSWHISTLE
+    fr: SIFFL’HERBE
+    it: MELODERBA
+    de: GRASFLÖTE
+    es: SILBATO
+  descriptions:
+    jp_kana: "ここちよい　くさぶえの　ねいろで\nてきを　ふかいねむりへと　さそう"
+    en: "Lulls the foe into sleep\nwith a pleasant melody."
+    fr: "Endort l’ennemi en sifflant\nune douce mélodie."
+    it: "Una dolce melodia costringe\nil nemico ad addormentarsi."
+    de: "Versetzt Gegner mit schö-\nner Melodie in den Schlaf."
+    es: "Agradable melodía que\nadormece al rival."
+growl:
+  names:
+    jp_kana: なきごえ
+    en: GROWL
+    fr: RUGISSEMENT
+    it: RUGGITO
+    de: HEULER
+    es: GRUÑIDO
+  descriptions:
+    jp_kana: "かわいくないて　てきを　ゆだんさせて\nこうげきを　さげさせる"
+    en: "Growls cutely to reduce the\nfoe’s ATTACK."
+    fr: "Rugit gentiment et baisse\nl’ATTAQUE de l’ennemi."
+    it: "Un dolce ruggito riduce\nl’ATTACCO del nemico."
+    de: "Knurren, das den ANGR.-Wert\ndes Gegners senkt."
+    es: "Dulce gruñido que reduce\nel ATAQUE del otro."
+growth:
+  names:
+    jp_kana: せいちょう
+    en: GROWTH
+    fr: CROISSANCE
+    it: CRESCITA
+    de: WACHSTUM
+    es: DESARROLLO
+  descriptions:
+    jp_kana: "いっきに　からだを　せいちょうさせて\nとくこうを　あげる"
+    en: "Forces the body to grow\nand heightens SP. ATK."
+    fr: "Développe le corps et\naugmente l’ATQ. SPE."
+    it: "Provoca la crescita del\ncorpo e aumenta l’ATT. SP."
+    de: "Der Körper wächst und\nSPEZ. ANGR. wird erhöht."
+    es: "Crece a marchas forzadas\ny aumenta el AT. ESP."
+grudge:
+  names:
+    jp_kana: おんねん
+    en: GRUDGE
+    fr: RANCUNE
+    it: RANCORE
+    de: NACHSPIEL
+    es: RABIA
+  descriptions:
+    jp_kana: "てきの　わざで　ひんしに　なったとき\nその　わざの　ポイントを　０にする"
+    en: "If the user faints, deletes\nthe PP of the final move."
+    fr: "Si mis K.O., supprime les PP\ndu coup ennemi."
+    it: "Se chi la usa va KO, azzera\ni PP dell’ultima mossa."
+    de: "Wenn Anw. bes., werden AP\nder Finalattacke gelöscht."
+    es: "Si te debilitas, borra los PP\ndel último ataque del rival."
+guillotine:
+  names:
+    jp_kana: ハサミギロチン
+    en: GUILLOTINE
+    fr: GUILLOTINE
+    it: GHIGLIOTTINA
+    de: GUILLOTINE
+    es: GUILLOTINA
+  descriptions:
+    jp_kana: "おおきなハサミを　つかって\nてきを　はさみ　せんとうふのうにする"
+    en: "A powerful pincer attack\nthat may cause fainting."
+    fr: "Un puissant coup de pince\nqui peut mettre K.O."
+    it: "Forti tenaglie che possono\nmandare KO il nemico."
+    de: "Kräftige Scheren-Attacke.\nFührt evtl. zum K.O."
+    es: "Pinzas que pueden\nderribar de un golpe."
+gust:
+  names:
+    jp_kana: かぜおこし
+    en: GUST
+    fr: TORNADE
+    it: RAFFICA
+    de: WINDSTOSS
+    es: TORNADO
+  descriptions:
+    jp_kana: "つばさで　つよいかぜを　おこし\nそれを　てきにぶつけて　こうげき"
+    en: "Strikes the foe with a gust\nof wind whipped up by wings."
+    fr: "Envoie une rafale de vent\nen battant des ailes."
+    it: "Colpisce con una folata di\nvento sollevata dalle ali."
+    de: "Trifft den Gegner mit Wind-\nstoß durch Flügelschlag."
+    es: "Crea un tornado\ncon las alas."
+hail:
+  names:
+    jp_kana: あられ
+    en: HAIL
+    fr: GRELE
+    it: GRANDINE
+    de: HAGELSTURM
+    es: GRANIZO
+  descriptions:
+    jp_kana: "あられを　ふらせて\nまいターン　ダメージを　あたえる"
+    en: "Summons a hailstorm that\nstrikes every turn."
+    fr: "Tempête de grêle qui\nfrappe à chaque tour."
+    it: "Grandinata che può\ncolpire ad ogni turno."
+    de: "Erzeugt Hagelsturm, der in\njeder Runde trifft."
+    es: "Tormenta de granizo que\ngolpea en cada turno."
+harden:
+  names:
+    jp_kana: かたくなる
+    en: HARDEN
+    fr: ARMURE
+    it: RAFFORZATORE
+    de: HÄRTNER
+    es: FORTALEZA
+  descriptions:
+    jp_kana: "ぜんしんに　ちからをこめ　かたくなり\nぼうぎょを　あげる"
+    en: "Stiffens the body’s \nmuscles to raise DEFENSE."
+    fr: "Contracte les muscles pour\naugmenter la DEFENSE."
+    it: "I muscoli si tonificano per\naumentare la DIFESA."
+    de: "Stärkt die Muskulatur und\nerhöht VERT.-Wert."
+    es: "Tensa la musculatura para\naumentar la DEFENSA."
+haze:
+  names:
+    jp_kana: くろいきり
+    en: HAZE
+    fr: BUEE NOIRE
+    it: NUBE
+    de: DUNKELNEBEL
+    es: NIEBLA
+  descriptions:
+    jp_kana: "くろいきりに　おおわれ　のうりょくの\nいじょうを　もとにもどす"
+    en: "Creates a black haze that\neliminates all stat changes."
+    fr: "Crée un nuage noir annulant\ntout changement d’état."
+    it: "Una cupa nube annulla ogni\nmodifica delle statistiche."
+    de: "Erzeugt dunklen Dunst.\nLöscht alle Statusänder."
+    es: "Nube negra que elimina los\ncambios de característ."
+headbutt:
+  names:
+    jp_kana: ずつき
+    en: HEADBUTT
+    fr: COUP D’BOULE
+    it: BOTTINTESTA
+    de: KOPFNUSS
+    es: GOLPE CABEZA
+  descriptions:
+    jp_kana: "あたまから　つっこんで　こうげき\nてきを　ひるませることがある"
+    en: "A ramming attack that may\ncause flinching."
+    fr: "Une charge qui peut\napeurer l’ennemi."
+    it: "Attacco d’urto che può\nfar tentennare."
+    de: "Rammt den Gegner und lässt\nihn evtl. zurückschrecken."
+    es: "Cabezazo que puede\nhacer retroceder al rival."
+heal_bell:
+  names:
+    jp_kana: いやしのすず
+    en: HEAL BELL
+    fr: GLAS DE SOIN
+    it: RINTOCCASANA
+    de: VITALGLOCKE
+    es: CAMPANA CURA
+  descriptions:
+    jp_kana: "ここちよい　すずのねを　きかせて\nすべての　じょうたいを　かいふくする"
+    en: "Chimes soothingly to heal\nall status abnormalities."
+    fr: "Carillon apaisant qui soigne\ntout changement de statut."
+    it: "Uno scampanellio risolve\ntutti i problemi di stato."
+    de: "Läutet beruhigend, heilt\nalle Status-Veränderungen."
+    es: "Repicar que cura los\nproblemas de estado."
+heat_wave:
+  names:
+    jp_kana: ねっぷう
+    en: HEAT WAVE
+    fr: CANICULE
+    it: ONDACALDA
+    de: HITZEWELLE
+    es: ONDA ÍGNEA
+  descriptions:
+    jp_kana: "あついいきを　あいてに　ふきかける\nてきを　やけどさせることがある"
+    en: "Exhales a hot breath on the\nfoe. May inflict a burn."
+    fr: "Un souffle ardent pouvant\nbrûler l’ennemi."
+    it: "Il nemico è investito da un\nsoffio caldo: può scottare."
+    de: "Gegner wird von heißem Atem\ngetroffen. Verbrennt evtl."
+    es: "Exhala un vaho ígneo que\npuede quemar al rival."
+helping_hand:
+  names:
+    jp_kana: てだすけ
+    en: HELPING HAND
+    fr: COUP D’MAIN
+    it: ALTRUISMO
+    de: RECHTE HAND
+    es: REFUERZO
+  descriptions:
+    jp_kana: "てだすけされた　あいては\nわざの　いりょくが　あがる"
+    en: "Boosts the power of the\nrecipient’s moves."
+    fr: "Améliore la puissance\nd’attaque du receveur."
+    it: "Aumenta la potenza delle\nmosse di chi la subisce."
+    de: "Steigert die Kraft der An-\ngriffe des Getroffenen."
+    es: "Refuerza los movimientos\ndel receptor."
+hidden_power:
+  names:
+    jp_kana: めざめるパワー
+    en: HIDDEN POWER
+    fr: PUIS. CACHEE
+    it: INTROFORZA
+    de: KRAFTRESERVE
+    es: PODER OCULTO
+  descriptions:
+    jp_kana: "ポケモンによって　てきに　あたえる\nダメージの　りょうが　へんかする"
+    en: "The effectiveness varies\nwith the user."
+    fr: "L’efficacité de l’attaque\ndépend du lanceur."
+    it: "L’efficacia dipende da chi\nla usa."
+    de: "Die Wirkung dieser Attacke\nhängt vom Benutzer ab."
+    es: "Su eficacia varía\nsegún el agresor."
+high_jump_kick:
+  names:
+    jp_kana: とびひざげり
+    en: HI JUMP KICK
+    fr: PIED VOLTIGE
+    it: CALCINVOLO
+    de: TURMKICK
+    es: PAT. S. ALTA
+  descriptions:
+    jp_kana: "ジャンプした　いきおいで　ひざげりを\nくりだす　はずすと　ダメージをうける"
+    en: "A jumping knee kick. If it\nmisses, the user is hurt."
+    fr: "Coup de pied sauté. S’il est\nraté, le lanceur se blesse."
+    it: "Ginocchiata: chi la fa\nsubisce danni se fallisce."
+    de: "Sprung-Tritt mit Knie. Miss-\nerfolg verletzt Anwender."
+    es: "Si fallas esta patada,\npuedes autolesionarte."
+horn_attack:
+  names:
+    jp_kana: つのでつく
+    en: HORN ATTACK
+    fr: KOUD’KORNE
+    it: INCORNATA
+    de: HORNATTACKE
+    es: CORNADA
+  descriptions:
+    jp_kana: "とがった　つのを　つかい\nてきを　つついて　こうげき"
+    en: "Jabs the foe with sharp\nhorns."
+    fr: "Frappe l’ennemi d’un coup\nde corne pointue."
+    it: "Corna affilate infilzano\nil nemico."
+    de: "Spießt den Gegner mit\nspitzen Hörnern auf."
+    es: "Ataca al enemigo\ncon afilados cuernos."
+horn_drill:
+  names:
+    jp_kana: つのドリル
+    en: HORN DRILL
+    fr: EMPAL’KORNE
+    it: PERFORCORNO
+    de: HORNBOHRER
+    es: PERFORADOR
+  descriptions:
+    jp_kana: "つのを　ドリルのように　かいてんさせ\nてきを　つつき　せんとうふのうにする"
+    en: "A one-hit KO attack that\nuses a horn like a drill."
+    fr: "Empale l’ennemi d’un coup de\ncorne. Met K.O. en un coup."
+    it: "Un colpo perforante\nda KO in un attacco."
+    de: "K.O.-Attacke, die ein Horn\nals Bohrer einsetzt."
+    es: "Ataque taladro.\nFulmina en 1 golpe."
+howl:
+  names:
+    jp_kana: とおぼえ
+    en: HOWL
+    fr: GRONDEMENT
+    it: GRIDODILOTTA
+    de: JAULER
+    es: AULLIDO
+  descriptions:
+    jp_kana: "ほえて　きあいを　たかめることで\nこうげきを　あげる"
+    en: "Howls to raise the spirit\nand boosts ATTACK."
+    fr: "Grogne pour se rassurer\net booster l’ATTAQUE."
+    it: "Grido che aumenta l’ATTACCO\ndi chi la usa."
+    de: "Jault, um in sich zu gehen.\nErhöht ANGR.-Wert."
+    es: "Aullido que sube el ánimo\ny aumenta el ATAQUE."
+hydro_cannon:
+  names:
+    jp_kana: ハイドロカノン
+    en: HYDRO CANNON
+    fr: HYDROBLAST
+    it: IDROCANNONE
+    de: AQUAHAUBITZE
+    es: HIDROCAÑÓN
+  descriptions:
+    jp_kana: "ダメージは　おおきいが　つかうと\nつぎのターン　うごけなくなってしまう"
+    en: "Powerful, but leaves the\nuser immobile the next turn."
+    fr: "Puissant, mais immobilise\nle lanceur le tour suivant."
+    it: "È potente, ma chi la usa\nperde il turno successivo."
+    de: "Starker Angriff. Angreifer\nmuss eine Runde aussetzen."
+    es: "Es muy eficaz, pero\nte inmoviliza 1 turno."
+hydro_pump:
+  names:
+    jp_kana: ハイドロポンプ
+    en: HYDRO PUMP
+    fr: HYDROCANON
+    it: IDROPOMPA
+    de: HYDROPUMPE
+    es: HIDROBOMBA
+  descriptions:
+    jp_kana: "みずを　ものすごい　いきおいで\nはっしゃして　てきを　こうげき"
+    en: "Blasts water at high power\nto strike the foe."
+    fr: "Envoie un puissant jet\nd’eau pour frapper l’ennemi."
+    it: "Il nemico è travolto da un\npotente getto d’acqua."
+    de: "Spritzt Wasser mit\nHochdruck auf den Gegner."
+    es: "Lanza agua a chorros\npara atacar."
+hyper_beam:
+  names:
+    jp_kana: はかいこうせん
+    en: HYPER BEAM
+    fr: ULTRALASER
+    it: IPER RAGGIO
+    de: HYPERSTRAHL
+    es: HIPERRAYO
+  descriptions:
+    jp_kana: "ダメージは　おおきいが　つかうと\nつぎのターン　うごけなくなってしまう"
+    en: "Powerful, but leaves the\nuser immobile the next turn."
+    fr: "Puissant, mais immobilise\nle lanceur pour un tour."
+    it: "È potente, ma chi la usa\nperde il turno successivo."
+    de: "Starke Attacke. Angreifer\nsetzt eine Runde aus."
+    es: "Es eficaz, pero deja inmóvil\nal atacante 1 turno."
+hyper_fang:
+  names:
+    jp_kana: ひっさつまえば
+    en: HYPER FANG
+    fr: CROC DE MORT
+    it: IPERZANNA
+    de: HYPERZAHN
+    es: HIP.COLMILLO
+  descriptions:
+    jp_kana: "するどいまえばで　てきを　こうげき\nひるませることがある"
+    en: "Attacks with sharp fangs.\nMay cause flinching."
+    fr: "Blesse d’un coup de croc.\nPeut apeurer l’ennemi."
+    it: "Attacco con denti affilati,\nche può far tentennare."
+    de: "Angriff mit Zähnen.\nVerschreckt evtl. Gegner."
+    es: "Ataque con finos colmillos.\nPuede causar retroceso."
+hyper_voice:
+  names:
+    jp_kana: ハイパーボイス
+    en: HYPER VOICE
+    fr: MEGAPHONE
+    it: GRANVOCE
+    de: SCHALLWELLE
+    es: VOZARRÓN
+  descriptions:
+    jp_kana: "おおごえの　しんどうで\nてきに　ダメージを　あたえる"
+    en: "A loud attack that uses\nsound waves to injure."
+    fr: "Attaque bruyante blessant\navec des ondes sonores."
+    it: "Attacco rumoroso che\ncolpisce con onde sonore."
+    de: "Laute Attacke mit Schall-\nwellen."
+    es: "Ondas sonoras de alta\nfrecuencia que hieren."
+hypnosis:
+  names:
+    jp_kana: さいみんじゅつ
+    en: HYPNOSIS
+    fr: HYPNOSE
+    it: IPNOSI
+    de: HYPNOSE
+    es: HIPNOSIS
+  descriptions:
+    jp_kana: "てきに　あんじを　かけて\nふかい　ねむりへと　さそう"
+    en: "A hypnotizing move that\nmay induce sleep."
+    fr: "Une attaque hypnotique\npouvant endormir l’ennemi."
+    it: "Mossa ipnotizzante che può\nfar addormentare il nemico."
+    de: "Hypno-Attacke, die Gegner\nevtl. in Schlaf versetzt."
+    es: "Ataque hipnótico que\npuede dormir al enemigo."
+ice_ball:
+  names:
+    jp_kana: アイスボール
+    en: ICE BALL
+    fr: BALL’GLACE
+    it: PALLA GELO
+    de: FROSTBEULE
+    es: BOLA HIELO
+  descriptions:
+    jp_kana: "５ターンのあいだ　てきを　こうげき\nあてるたびに　ダメージが　あがる"
+    en: "A 5-turn attack that gains\npower on successive hits."
+    fr: "Une attaque en 5 tours de\nplus en plus puissante."
+    it: "Dura 5 turni, con aumento\nprogressivo dell’intensità."
+    de: "Angriff für 5 Runden. \nStärker, wenn Treffer."
+    es: "Dura 5 turnos y gana fuerza\nen cada uno."
+ice_beam:
+  names:
+    jp_kana: れいとうビーム
+    en: ICE BEAM
+    fr: LASER GLACE
+    it: GELORAGGIO
+    de: EISSTRAHL
+    es: RAYO HIELO
+  descriptions:
+    jp_kana: "れいきを　はっしゃして　こうげき\nてきを　こおらせることがある"
+    en: "Blasts the foe with an icy\nbeam that may freeze it."
+    fr: "Envoie un rayon de glace\npouvant geler l’ennemi."
+    it: "Un raggio gelido che può\ncongelare il nemico."
+    de: "Gegner wird von Eisstrahl\ngetroffen, friert evtl. ein."
+    es: "Rayo de hielo que\npuede llegar a congelar."
+ice_punch:
+  names:
+    jp_kana: れいとうパンチ
+    en: ICE PUNCH
+    fr: POINGLACE
+    it: GELOPUGNO
+    de: EISHIEB
+    es: PUÑO HIELO
+  descriptions:
+    jp_kana: "れいきをこめた　パンチで　こうげき\nてきを　こおらせることがある"
+    en: "An icy punch that may\nfreeze the foe."
+    fr: "Un poing de glace pouvant\ngeler l’ennemi."
+    it: "Pugno di ghiaccio che può\ncongelare il nemico."
+    de: "Ein Schlag, der den Gegner\nevtl. einfriert."
+    es: "Puñetazo helado.\nPuede congelar."
+icicle_spear:
+  names:
+    jp_kana: つららばり
+    en: ICICLE SPEAR
+    fr: STALAGTITE
+    it: GELOLANCIA
+    de: EISSPEER
+    es: CARÁMBANO
+  descriptions:
+    jp_kana: "つららを　２ー５かい　れんぞくで\nはっしゃして　てきを　こうげき"
+    en: "Attacks the foe by firing\n2 to 5 icicles in a row."
+    fr: "Mitraille l’ennemi avec 2 à\n5 glaçons à la suite."
+    it: "Da 2 a 5 raffiche di\nghiaccioli sul nemico."
+    de: "Feuert 2-5 Eiszapfen auf\nden Gegner."
+    es: "Ataca lanzando de 2 a 5\nráfagas de carámbanos."
+icy_wind:
+  names:
+    jp_kana: こごえるかぜ
+    en: ICY WIND
+    fr: VENT GLACE
+    it: VENTOGELATO
+    de: EISSTURM
+    es: VIENTO HIELO
+  descriptions:
+    jp_kana: "すごい　れいきで　てきを　こうげき\nすばやさを　さげさせる"
+    en: "A chilling attack that\nlowers the foe’s SPEED."
+    fr: "Attaque glaciale. Baisse\nla VITESSE de l’ennemi."
+    it: "Attacco gelido che riduce\nla VELOCITÀ del nemico."
+    de: "Eis-Attacke, die den INIT.-\nWert des Gegners senkt."
+    es: "Ataque helado que\nbaja la VELOCIDAD."
+imprison:
+  names:
+    jp_kana: ふういん
+    en: IMPRISON
+    fr: POSSESSIF
+    it: ESCLUSIVA
+    de: BEGRENZER
+    es: CERCA
+  descriptions:
+    jp_kana: "じぶんが　おぼえて　いる　わざを\nあいては　つかうことが　できなくなる"
+    en: "Prevents foes from using\nmoves known by the user."
+    fr: "Empêche les ennemis d’uti-\nliser les coups du lanceur."
+    it: "Il nemico non può usare le\nstesse mosse di chi la usa."
+    de: "Hindert Gegner an Atta-\ncken, die d. Benutzer kennt."
+    es: "Impide al rival usar ataques\nque tú conoces."
+ingrain:
+  names:
+    jp_kana: ねをはる
+    en: INGRAIN
+    fr: RACINES
+    it: RADICAMENTO
+    de: VERWURZLER
+    es: ARRAIGO
+  descriptions:
+    jp_kana: "ねをはって　ちょっとずつ　かいふく\nねをはって　いるので　いれかわれない"
+    en: "Lays roots that restore HP.\nThe user can’t switch out."
+    fr: "Plante des racines, regagne\nPV, ne peut plus changer."
+    it: "Chi la usa recupera PS ma\nnon può essere sostituito."
+    de: "Verwurzelung füllt KP auf.\nAustausch unmöglich."
+    es: "Echa raíces para recuperar\nPS, pero impide el relevo."
+iron_defense:
+  names:
+    jp_kana: てっぺき
+    en: IRON DEFENSE
+    fr: MUR DE FER
+    it: FERROSCUDO
+    de: EISENABWEHR
+    es: DEF. FÉRREA
+  descriptions:
+    jp_kana: "からだの　ひょうめんを　かたくして\nぼうぎょを　グーンとあげる"
+    en: "Hardens the body’s surface\nto sharply raise DEFENSE."
+    fr: "Endurcit le corps pour\nbooster la DEFENSE."
+    it: "La superficie del corpo si\nindurisce: sale la DIFESA."
+    de: "Stärkt den Körper.\nErhöht VERT.-Wert deutlich."
+    es: "Te fortalece y sube\nmucho la DEFENSA."
+iron_tail:
+  names:
+    jp_kana: アイアンテール
+    en: IRON TAIL
+    fr: QUEUE DE FER
+    it: CODACCIAIO
+    de: EISENSCHWEIF
+    es: COLA FÉRREA
+  descriptions:
+    jp_kana: "かたい　シッポで　てきを　こうげき\nてきの　ぼうぎょを　さげることがある"
+    en: "Attacks with a rock-hard\ntail. May lower DEFENSE."
+    fr: "Attaque avec sa queue.\nPeut baisser la DEFENSE."
+    it: "Coda coriacea che \npuò ridurre la DIFESA."
+    de: "Att. mit hartem Schweif. \nSenkt evtl. VERT.-Wert."
+    es: "Ataca con una cola férrea\ny puede bajar la DEFENSA."
+jump_kick:
+  names:
+    jp_kana: とびげり
+    en: JUMP KICK
+    fr: PIED SAUTE
+    it: CALCIOSALTO
+    de: SPRUNGKICK
+    es: PATADA SALTO
+  descriptions:
+    jp_kana: "ジャンプした　いきおいで　キックを\nくりだす　はずすと　ダメージをうける"
+    en: "A strong jumping kick. May\nmiss and hurt the kicker."
+    fr: "Un coup de pied sauté. Peut\nblesser le lanceur si raté."
+    it: "Potente calcio in volo che\npuò danneggiare chi lo usa."
+    de: "Sprung-Tritt. Selbstschä-\ndigung bei Misserfolg."
+    es: "Si falla, dañará\na quien lo usa."
+karate_chop:
+  names:
+    jp_kana: からてチョップ
+    en: KARATE CHOP
+    fr: POING-KARATE
+    it: COLPOKARATE
+    de: KARATESCHLAG
+    es: GOLPE KARATE
+  descriptions:
+    jp_kana: "チョップで　てきを　こうげき\nきゅうしょに　あたりやすい"
+    en: "A chopping attack with a\nhigh critical-hit ratio."
+    fr: "Une attaque tranchante à\ntaux de critiques élevé."
+    it: "Colpo netto. Probabile\nbrutto colpo."
+    de: "Gute Möglichkeit, einen\nVolltreffer zu landen."
+    es: "Da un golpe cortante.\nSuele ser crítico."
+kinesis:
+  names:
+    jp_kana: スプーンまげ
+    en: KINESIS
+    fr: TELEKINESIE
+    it: CINÈSI
+    de: PSYKRAFT
+    es: KINÉTICO
+  descriptions:
+    jp_kana: "てきの　めを　スプーンに　むけさせて\nめいちゅうりつを　さげさせる"
+    en: "Distracts the foe.\nMay lower accuracy."
+    fr: "Distrait l’ennemi.\nPeut baisser la précision."
+    it: "Distrae il nemico e può\nridurne la precisione."
+    de: "Lenkt Gegner ab und senkt\nevtl. seine Genauigkeit."
+    es: "Distrae al rival y baja\nsu nivel de PRECISIÓN."
+knock_off:
+  names:
+    jp_kana: はたきおとす
+    en: KNOCK OFF
+    fr: SABOTAGE
+    it: PRIVAZIONE
+    de: ABSCHLAG
+    es: DESARME
+  descriptions:
+    jp_kana: "あいての　どうぐを　はたきおとして\nおわるまで　つかえなくする"
+    en: "Knocks down the foe’s held\nitem to prevent its use."
+    fr: "Frappe l’objet tenu pour\nle rendre inutilisable."
+    it: "Impedisce al nemico di\nusare lo strumento tenuto."
+    de: "Schlägt Gegner Item weg.\nVereitelt so den Gebrauch."
+    es: "Deja al rival desprovisto\ndel objeto que lleva."
+leaf_blade:
+  names:
+    jp_kana: リーフブレード
+    en: LEAF BLADE
+    fr: LAME-FEUILLE
+    it: FENDIFOGLIA
+    de: LAUBKLINGE
+    es: HOJA AGUDA
+  descriptions:
+    jp_kana: "とがった　はっぱで　きりつける\nきゅうしょに　あたりやすい"
+    en: "Slashes with a sharp leaf.\nHigh critical-hit ratio."
+    fr: "Tranche avec une feuille.\nTaux de critiques élevé."
+    it: "Foglia affilata. Probabile\nbrutto colpo."
+    de: "Hieb mit scharfkantigem\nBlatt. Hohe Volltrefferqu."
+    es: "Acuchilla con una hoja fina.\nSuele dar un golpe crítico."
+leech_life:
+  names:
+    jp_kana: きゅうけつ
+    en: LEECH LIFE
+    fr: VAMPIRISME
+    it: SANGUISUGA
+    de: BLUTSAUGER
+    es: CHUPAVIDAS
+  descriptions:
+    jp_kana: "てきに　あたえた　ダメージの\nはんぶん　たいりょくを　かいふくする"
+    en: "An attack that steals half\nthe damage inflicted."
+    fr: "Une attaque qui aspire la\nmoitié des dégâts infligés."
+    it: "Sottrae PS al nemico pari a\nmetà del danno infertogli."
+    de: "Ein Angriff, der die Hälfte\ndes Schadens saugt."
+    es: "Absorbe la mitad del\ndaño producido."
+leech_seed:
+  names:
+    jp_kana: やどりぎのタネ
+    en: LEECH SEED
+    fr: VAMPIGRAINE
+    it: PARASSISEME
+    de: EGELSAMEN
+    es: DRENADORAS
+  descriptions:
+    jp_kana: "てきの　からだに　タネをうえて\nターンごとに　たいりょくを　すいとる"
+    en: "Plants a seed on the foe to\nsteal HP on every turn."
+    fr: "Plante des graines pour\nvoler des PV à chaque tour."
+    it: "Semi piantati sul nemico gli\nsottraggono PS ogni turno."
+    de: "Gegner wird bepflanzt und\nverliert jede Runde KP."
+    es: "Planta tres semillas que\nquitan PS en cada turno."
+leer:
+  names:
+    jp_kana: にらみつける
+    en: LEER
+    fr: GROZ’YEUX
+    it: FULMISGUARDO
+    de: SILBERBLICK
+    es: MALICIOSO
+  descriptions:
+    jp_kana: "てきを　にらんで　おびえさせて\nぼうぎょを　さげさせる"
+    en: "Frightens the foe with a\nleer to lower DEFENSE."
+    fr: "Lance un regard noir\net baisse la DEFENSE."
+    it: "Uno sguardo fulminante\nriduce la DIFESA del nemico."
+    de: "Gegners VERT.-Wert wird\ndurch Blick gesenkt."
+    es: "Asusta al enemigo\npara bajar su DEFENSA."
+lick:
+  names:
+    jp_kana: したでなめる
+    en: LICK
+    fr: LECHOUILLE
+    it: LECCATA
+    de: SCHLECKER
+    es: LENGÜETAZO
+  descriptions:
+    jp_kana: "ながいしたで　なめまわして　こうげき\nてきを　まひさせることがある"
+    en: "Licks with a long tongue to\ninjure. May also paralyze."
+    fr: "Blesse avec un long coup de\nlangue. Peut paralyser."
+    it: "Una lunga lingua infligge\ndanni e può paralizzare."
+    de: "Leck-Attacke mit Zunge.\nGegner evtl. paralysiert."
+    es: "Usa la lengua para atacar.\nPuede causar parálisis."
+light_screen:
+  names:
+    jp_kana: ひかりのかべ
+    en: LIGHT SCREEN
+    fr: MUR LUMIERE
+    it: SCHERMOLUCE
+    de: LICHTSCHILD
+    es: PANTALLA LUZ
+  descriptions:
+    jp_kana: "ひかりのかべを　つくり\nとくこうの　ダメージを　よわめる"
+    en: "Creates a wall of light that\nlowers SP. ATK damage."
+    fr: "Crée un mur lumineux et\nréduit les dégâts d’ATQ SP."
+    it: "Una barriera di luce riduce\ni danni dell’ATT. SP."
+    de: "Erzeugt Lichtwand u. senkt\nSPEZ. ANGR.-Schaden."
+    es: "Reduce el daño que causa\nel AT. ESP. del rival."
+lock_on:
+  names:
+    jp_kana: ロックオン
+    en: LOCK-ON
+    fr: VERROUILLAGE
+    it: LOCALIZZA
+    de: ZIELSCHUSS
+    es: FIJAR BLANCO
+  descriptions:
+    jp_kana: "てきに　しょうじゅんを　あわせて\nつぎの　こうげきを　かならずあてる"
+    en: "Locks on to the foe to\nensure the next move hits."
+    fr: "Le coup suivant sera réussi\nà coup sûr."
+    it: "Localizza il nemico: la mossa\nsuccessiva andrà a segno."
+    de: "Visiert Gegner an u. trifft\nin der nächsten Runde."
+    es: "Fija el blanco para que el\nsiguiente ataque no falle."
+lovely_kiss:
+  names:
+    jp_kana: あくまのキッス
+    en: LOVELY KISS
+    fr: GROBISOU
+    it: DEMONBACIO
+    de: TODESKUSS
+    es: BESO AMOROSO
+  descriptions:
+    jp_kana: "こわい　かおで　キスを　せまる\nキスされると　ねむってしまう"
+    en: "Demands a kiss with a scary\nface that induces sleep."
+    fr: "Demande un bisou en\ngrimaçant. Peut endormir."
+    it: "Un bacio rubato che può\ncostringere al sonno."
+    de: "Fordert Kuss mit bösem\nBlick. Evtl. Schlaf."
+    es: "Pide un beso con una cara\nque asusta y adormece."
+low_kick:
+  names:
+    jp_kana: けたぐり
+    en: LOW KICK
+    fr: BALAYAGE
+    it: COLPO BASSO
+    de: FUSSKICK
+    es: PATADA BAJA
+  descriptions:
+    jp_kana: "おもい　ポケモンには　より\nおおきな　ダメージを　あたえる"
+    en: "A kick that inflicts more\ndamage on heavier foes."
+    fr: "Un coup de pied faisant\nplus mal aux ennemis lourds."
+    it: "Un calcio che danneggia\ni nemici più pesanti."
+    de: "Tritt, der massigen Gegnern\nmehr Schaden zufügt."
+    es: "Cuanto más pesa el\nenemigo, más daño causa."
+luster_purge:
+  names:
+    jp_kana: ラスターパージ
+    en: LUSTER PURGE
+    fr: LUMI-ECLAT
+    it: ABBAGLIANTE
+    de: SCHEINWERFER
+    es: RESPLANDOR
+  descriptions:
+    jp_kana: "ひかりを　ほうしゅつして　こうげき\nとくぼうを　さげることがある"
+    en: "Attacks with a burst of\nlight. May lower SP. DEF."
+    fr: "Envoie une lueur intense.\nPeut baisser DEF. SPE."
+    it: "Luce abbagliante che può\nridurre la DIF. SP."
+    de: "Angriff mit grellem Licht.\nSenkt evtl. SPEZ. VERT."
+    es: "Fogonazo de luz que puede\nbajar la DEF. ESP."
+mach_punch:
+  names:
+    jp_kana: マッハパンチ
+    en: MACH PUNCH
+    fr: MACH PUNCH
+    it: PUGNORAPIDO
+    de: TEMPOHIEB
+    es: ULTRAPUÑO
+  descriptions:
+    jp_kana: "ものすごいはやさで　パンチをくりだし\nせんせいこうげきする"
+    en: "A punch is thrown at wicked\nspeed to strike first."
+    fr: "Coup de poing fulgurant.\nPermet de frapper le 1er."
+    it: "Un pugno rapidissimo, che\ncolpisce per primo."
+    de: "Schneller Hieb, der stets\nzuerst trifft."
+    es: "Puñetazo que se da rápido\npara golpear primero."
+magic_coat:
+  names:
+    jp_kana: マジックコート
+    en: MAGIC COAT
+    fr: REFLET MAGIK
+    it: MAGIVELO
+    de: MAGIEMANTEL
+    es: CAPA MÁGICA
+  descriptions:
+    jp_kana: "とくしゅな　わざの　こうかを\nはねかえして　あいてに　かけてしまう"
+    en: "Reflects special effects\nback to the attacker."
+    fr: "Renvoie les effets\nspéciaux vers le lanceur."
+    it: "Restituisce al mittente\ndeterminati effetti."
+    de: "Gibt Spezialeffekte zurück\nan Benutzer."
+    es: "El agresor recibe el reflejo\nde los efectos especiales."
+magical_leaf:
+  names:
+    jp_kana: マジカルリーフ
+    en: MAGICAL LEAF
+    fr: FEUILLEMAGIK
+    it: FOGLIAMAGICA
+    de: ZAUBERBLATT
+    es: HOJA MÁGICA
+  descriptions:
+    jp_kana: "ぜったいに　よけられない　\nふしぎな　はっぱで　てきを　こうげき"
+    en: "Attacks with a strange leaf\nthat cannot be evaded."
+    fr: "Envoie des feuilles ne\npouvant être esquivées."
+    it: "Strana foglia che va\nsempre a segno."
+    de: "Magischer Blattangriff.\nAusweichen unmöglich."
+    es: "Ataca con una extraña hoja\nque no se puede esquivar."
+magnitude:
+  names:
+    jp_kana: マグニチュード
+    en: MAGNITUDE
+    fr: AMPLEUR
+    it: MAGNITUDO
+    de: INTENSITÄT
+    es: MAGNITUD
+  descriptions:
+    jp_kana: "じめんを　ゆらして　てきを　こうげき\nダメージは　ランダムで　かわる"
+    en: "A ground-shaking attack\nof random intensity."
+    fr: "Un tremblement de terre\nd’intensité variable."
+    it: "Attacco sismico\nd’intensità casuale."
+    de: "Ein erdbebenartiger An-\ngriff von zufälliger Stärke."
+    es: "Sacudida sísmica\nde intensidad variable."
+mean_look:
+  names:
+    jp_kana: くろいまなざし
+    en: MEAN LOOK
+    fr: REGARD NOIR
+    it: MALOSGUARDO
+    de: HORRORBLICK
+    es: MAL DE OJO
+  descriptions:
+    jp_kana: "てきを　じーっと　みていると　なぜか\nてきは　にげられなく　なってしまう"
+    en: "Fixes the foe with a mean\nlook that prevents escape."
+    fr: "Lance un regard méchant\npour empêcher la fuite."
+    it: "Sguardo sinistro che impe-\ndisce al nemico di fuggire."
+    de: "Böser Blick, der die Flucht\ndes Gegners vereitelt."
+    es: "Mal de ojo que impide al\nrival huir o pedir el relevo."
+meditate:
+  names:
+    jp_kana: ヨガのポーズ
+    en: MEDITATE
+    fr: YOGA
+    it: MEDITAZIONE
+    de: MEDITATION
+    es: MEDITACIÓN
+  descriptions:
+    jp_kana: "ヨガのポーズで　ねむった　ちからを\nひきだし　こうげきを　あげる"
+    en: "Meditates in a peaceful\nfashion to raise ATTACK."
+    fr: "Méditation pacifique pour\naugmenter l’ATTAQUE."
+    it: "Chi la usa medita per\nmigliorare l’ATTACCO."
+    de: "Friedliche Meditation, um\nANGR.-Wert zu steigern."
+    es: "Reposa y medita para\naumentar el ATAQUE."
+mega_drain:
+  names:
+    jp_kana: メガドレイン
+    en: MEGA DRAIN
+    fr: MEGA-SANGSUE
+    it: MEGASSORBIM.
+    de: MEGASAUGER
+    es: MEGAAGOTAR
+  descriptions:
+    jp_kana: "てきに　あたえた　ダメージの\nはんぶん　たいりょくを　かいふくする"
+    en: "An attack that absorbs\nhalf the damage inflicted."
+    fr: "Une attaque absorbant la\nmoitié des dégâts infligés."
+    it: "Assorbe metà dei PS\nsottratti al nemico."
+    de: "Attacke, die die Hälfte des\nSchadens absorbiert."
+    es: "Absorbe la mitad del daño\nproducido."
+mega_kick:
+  names:
+    jp_kana: メガトンキック
+    en: MEGA KICK
+    fr: ULTIMAWASHI
+    it: MEGACALCIO
+    de: MEGAKICK
+    es: MEGAPATADA
+  descriptions:
+    jp_kana: "ものすごい　ちからをこめた　キックで\nてきを　けっとばして　こうげき"
+    en: "An extremely powerful kick\nwith intense force."
+    fr: "Un coup de pied super\npuissant et intense."
+    it: "Un calcio estremamente\npotente."
+    de: Ein extrem heftiger Tritt.
+    es: "Patada de extrema\nfuerza."
+mega_punch:
+  names:
+    jp_kana: メガトンパンチ
+    en: MEGA PUNCH
+    fr: ULTIMAPOING
+    it: MEGAPUGNO
+    de: MEGAHIEB
+    es: MEGAPUÑO
+  descriptions:
+    jp_kana: "ものすごい　ちからをこめた　パンチで\nてきを　なぐって　こうげき"
+    en: "A strong punch thrown with\nincredible power."
+    fr: "Un coup de poing d’une\npuissance incroyable."
+    it: "Un pugno tirato\ncon estrema potenza."
+    de: "Ein unglaublich kräftiger\nHieb."
+    es: "Un puñetazo de gran\npotencia."
+megahorn:
+  names:
+    jp_kana: メガホーン
+    en: MEGAHORN
+    fr: MEGACORNE
+    it: MEGACORNO
+    de: VIELENDER
+    es: MEGACUERNO
+  descriptions:
+    jp_kana: "かたいつのを　ものすごい　いきおいで\nつきだして　こうげき"
+    en: "A brutal ramming attack\nusing out-thrust horns."
+    fr: "Une charge violente,\ntoutes cornes en avant."
+    it: "Brutale urto con potenti\ncorna."
+    de: "Brutaler Frontalangriff\nmit spitzen Hörnern."
+    es: "Violenta embestida con\nretorcidos cuernos."
+memento:
+  names:
+    jp_kana: おきみやげ
+    en: MEMENTO
+    fr: SOUVENIR
+    it: MEMENTO
+    de: MEMENTO-MORI
+    es: LEGADO
+  descriptions:
+    jp_kana: "じぶんは　ひんしに　なるが　\nあいての　のうりょくが　さがる"
+    en: "The user faints and lowers\nthe foe’s abilities."
+    fr: "Le lanceur est mis K.O. et\nbaisse les cap. ennemies."
+    it: "Chi la usa va KO e riduce le\nstatistiche del nemico."
+    de: "Der Benutzer ist besiegt\nund senkt die gegn. Werte."
+    es: "Baja las habilidades\ndel rival y te fulmina."
+metal_claw:
+  names:
+    jp_kana: メタルクロー
+    en: METAL CLAW
+    fr: GRIFFE ACIER
+    it: FERRARTIGLI
+    de: METALLKLAUE
+    es: GARRA METAL
+  descriptions:
+    jp_kana: "かたいツメで　てきを　こうげき\nこうげきが　あがることがある"
+    en: "A claw attack that may\nraise the user’s ATTACK."
+    fr: "Attaque avec des griffes.\nPeut augmenter l’ATTAQUE."
+    it: "Colpo di artigli: l’ATTACCO\ndi chi lo usa può salire."
+    de: "Klauen-Attacke. Evtl. Er-\nhöhung d. ANGR.-Wert d. Anw."
+    es: "Ataque con garra que puede\naumentar tu ATAQUE."
+metal_sound:
+  names:
+    jp_kana: きんぞくおん
+    en: METAL SOUND
+    fr: STRIDO-SON
+    it: FERROSTRIDO
+    de: METALLSOUND
+    es: ECO METÁLICO
+  descriptions:
+    jp_kana: "いやなおとを　だして　てきの\nとくぼうを　ガクッとさげさせる"
+    en: "Emits a horrible screech\nthat sharply lowers SP. DEF."
+    fr: "Cri horrible qui baisse la\nDEF. SPE. énormément."
+    it: "Orribile stridio che riduce\ndi molto la DIF. SP."
+    de: "Stößt einen spitzen Schrei\naus. Senkt SPEZ. VERT."
+    es: "Tremendo chirrido que baja\nmucho la DEF. ESP."
+meteor_mash:
+  names:
+    jp_kana: コメットパンチ
+    en: METEOR MASH
+    fr: POING METEOR
+    it: METEORPUGNO
+    de: STERNENHIEB
+    es: PUÑO METEORO
+  descriptions:
+    jp_kana: "すいせいのごとく　パンチを　くりだす\nこうげきが　あがることがある"
+    en: "Fires a meteor-like punch.\nMay raise ATTACK."
+    fr: "Coup de poing météore.\nPeut augmenter l’ATTAQUE."
+    it: "Pugno simile a una meteora:\npuò far salire l’ATTACCO."
+    de: "Ein Schlag wie ein Meteor.\nErhöht evtl. ANGR.-Wert."
+    es: "Impacta como un meteorito\ny suele subir el ATAQUE."
+metronome:
+  names:
+    jp_kana: ゆびをふる
+    en: METRONOME
+    fr: METRONOME
+    it: METRONOMO
+    de: METRONOM
+    es: METRÓNOMO
+  descriptions:
+    jp_kana: "ゆびを　ふって　のうを　しげきして\nいろんな　ワザを　ランダムでくりだす"
+    en: "Waggles a finger to use any\nPOKéMON move at random."
+    fr: "Remue un doigt et lance une\nattaque POKéMON au hasard."
+    it: "Un dito oscilla per usare\nuna mossa POKéMON a caso."
+    de: "Bewegt Finger und wählt\nPKMN-Attacke zufällig aus."
+    es: "Usa al azar un\nataque POKéMON."
+milk_drink:
+  names:
+    jp_kana: ミルクのみ
+    en: MILK DRINK
+    fr: LAIT A BOIRE
+    it: BUONLATTE
+    de: MILCHGETRÄNK
+    es: BATIDO
+  descriptions:
+    jp_kana: "キズついた　からだを　たいりょくの\nはんぶんだけ　かいふくする"
+    en: "Recovers up to half the\nuser’s maximum HP."
+    fr: "Regagne jusqu’à la moitié\ndes PV max du lanceur."
+    it: "Chi la usa recupera fino a\nmetà dei PS massimi."
+    de: "Füllt bis zur Hälfte der max.\nKP des Benutzers auf."
+    es: "Restaura hasta la mitad\nde tus PS máximos."
+mimic:
+  names:
+    jp_kana: ものまね
+    en: MIMIC
+    fr: COPIE
+    it: MIMICA
+    de: MIMIKRY
+    es: MIMÉTICO
+  descriptions:
+    jp_kana: "てきが　つかった　わざが\nそのときだけ　じぶんの　わざになる"
+    en: "Copies a move used by the\nfoe during one battle."
+    fr: "Imite une des attaques\nutilisées par l’ennemi."
+    it: "Copia una delle mosse usate\ndal nemico durante la lotta."
+    de: "Kopiert eine zuvor ausge-\nführte Attacke d. Gegners."
+    es: "Copia un ataque usado\npor el enemigo."
+mind_reader:
+  names:
+    jp_kana: こころのめ
+    en: MIND READER
+    fr: LIRE-ESPRIT
+    it: LEGGIMENTE
+    de: WILLENSLESER
+    es: TELÉPATA
+  descriptions:
+    jp_kana: "てきの　うごきを　こころで　かんじて\nつぎの　こうげきを　かならず　あてる"
+    en: "Senses the foe’s action to\nensure the next move’s hit."
+    fr: "Pressent l’action pour\nréussir l’attaque suivante."
+    it: "Studia il nemico: la prossima\nmossa andrà a segno."
+    de: "Ahnt gegnerische Aktion.\nNächste Attacke trifft."
+    es: "Adivina el ataque del otro\ny actúa en consecuencia."
+minimize:
+  names:
+    jp_kana: ちいさくなる
+    en: MINIMIZE
+    fr: LILLIPUT
+    it: MINIMIZZATO
+    de: KOMPRIMATOR
+    es: REDUCCIÓN
+  descriptions:
+    jp_kana: "からだを　ちぢめて　ちいさくなり\nかいひりつを　あげる"
+    en: "Minimizes the user’s size\nto raise evasiveness."
+    fr: "Rapetisse le lanceur pour\naugmenter l’esquive."
+    it: "Chi la usa si rimpicciolisce\naumentando l’elusione."
+    de: "Anwender schrumpft, um\nFluchtwert zu erhöhen."
+    es: "El agresor mengua para\naumentar la EVASIÓN."
+mirror_coat:
+  names:
+    jp_kana: ミラーコート
+    en: MIRROR COAT
+    fr: VOILE MIROIR
+    it: SPECCHIOVELO
+    de: SPIEGELCAPE
+    es: MANTO ESPEJO
+  descriptions:
+    jp_kana: "てきから　うけた　とくこうの\nダメージを　ばいにして　かえす"
+    en: "Counters the foe’s special\nattack at double the power."
+    fr: "Renvoie l’attaque spéciale\nennemie 2 fois plus fort."
+    it: "Risponde ad un attacco\nspeciale con forza doppia."
+    de: "Kontert d. Spezial-Attacke\nd. Geg. mit 2-facher Kraft."
+    es: "Responde a un ATAQUE\nESPECIAL con doble fuerza."
+mirror_move:
+  names:
+    jp_kana: オウムがえし
+    en: MIRROR MOVE
+    fr: MIMIQUE
+    it: SPECULMOSSA
+    de: SPIEGELTRICK
+    es: MOV. ESPEJO
+  descriptions:
+    jp_kana: "てきの　わざを　まねして\nおなじわざで　てきを　こうげき"
+    en: "Counters the foe’s attack\nwith the same move."
+    fr: "Contre l’attaque de l’ennemi\navec la même attaque."
+    it: "Risponde ad un attacco con\nla stessa mossa."
+    de: "Erwidert gegn. Angriff mit\nderselben Attacke."
+    es: "Contraataca con\nel mismo movimiento."
+mist:
+  names:
+    jp_kana: しろいきり
+    en: MIST
+    fr: BRUME
+    it: NEBBIA
+    de: WEISSNEBEL
+    es: NEBLINA
+  descriptions:
+    jp_kana: "しろいきりで　からだを　おおい\nのうりょくを　さげられないようにする"
+    en: "Creates a mist that stops\nreduction of abilities."
+    fr: "Crée une brume stoppant\nla réduction des capacités."
+    it: "Fitta nebbia che blocca la\nriduzione delle statistiche."
+    de: "Nebel, der die Änderung der\nWerte verhindert."
+    es: "Te rodea de fina niebla\ny protege tus habilidades."
+mist_ball:
+  names:
+    jp_kana: ミストボール
+    en: MIST BALL
+    fr: BALL’BRUME
+    it: FOSCHISFERA
+    de: NEBELBALL
+    es: BOLA NEBLINA
+  descriptions:
+    jp_kana: "きりじょうの　うもうで　こうげき\nとくこうを　さげることがある"
+    en: "Attacks with a flurry of\ndown. May lower SP. ATK."
+    fr: "Envoie une rafale de duvet.\nPeut baisser ATQ. SPE."
+    it: "Nube di piume sul nemico:\npuò ridurre l’ATT. SP."
+    de: "Angriff m. Daunengestöber,\nSenkt evtl. SPEZ. ANGR."
+    es: "Banco de niebla que\npuede bajar el AT. ESP."
+moonlight:
+  names:
+    jp_kana: つきのひかり
+    en: MOONLIGHT
+    fr: RAYON LUNE
+    it: LUCELUNARE
+    de: MONDSCHEIN
+    es: LUZ LUNAR
+  descriptions:
+    jp_kana: "たいりょくを　かいふくする\nてんきで　かいふくりょうが　かわる"
+    en: "Restores HP. The amount\nvaries with the weather."
+    fr: "Restaure les PV.\nVarie suivant le temps."
+    it: "Ridà un numero di PS in\nbase al tempo che fa."
+    de: "Füllt KP auf. Die Menge\nhängt vom Wetter ab."
+    es: "Restaura PS. La cantidad\nvaría según el clima."
+morning_sun:
+  names:
+    jp_kana: あさのひざし
+    en: MORNING SUN
+    fr: AURORE
+    it: MATTINDORO
+    de: MORGENGRAUEN
+    es: SOL MATINAL
+  descriptions:
+    jp_kana: "たいりょくを　かいふくする\nてんきで　かいふくりょうが　かわる"
+    en: "Restores HP. The amount\nvaries with the weather."
+    fr: "Restaure les PV.\nVarie suivant le temps."
+    it: "Ridà un numero di PS in\nbase al tempo che fa."
+    de: "Füllt KP auf. Die Menge\nhängt vom Wetter ab."
+    es: "Restaura PS. La cantidad\nvaría según el clima."
+mud_shot:
+  names:
+    jp_kana: マッドショット
+    en: MUD SHOT
+    fr: TIR DE BOUE
+    it: COLPODIFANGO
+    de: LEHMSCHUSS
+    es: DISP. LODO
+  descriptions:
+    jp_kana: "どろを　なげつけて　こうげき\nすばやさを　さげさせる"
+    en: "Hurls mud at the foe and\nreduces SPEED."
+    fr: "Envoie de la boue à l’ennemi\npour réduire sa VITESSE."
+    it: "Fango lanciato sul nemico,\nper ridurne la VELOCITÀ."
+    de: "Bewirft den Gegner mit Lehm\nund senkt INIT.-Wert."
+    es: "Dispara lodo al rival y\nreduce su VELOCIDAD."
+mud_slap:
+  names:
+    jp_kana: どろかけ
+    en: MUD-SLAP
+    fr: COUD’BOUE
+    it: FANGOSBERLA
+    de: LEHMSCHELLE
+    es: BOFETÓN LODO
+  descriptions:
+    jp_kana: "てきの　かおなどに　ドロをかけて\nめいちゅうりつを　さげさせる"
+    en: "Hurls mud in the foe’s face\nto reduce its accuracy."
+    fr: "Envoie de la boue au visage\npour baisser la précision."
+    it: "Fango in faccia al nemico,\nper ridurne la precisione."
+    de: "Wirft Gegner Matsch ins Ge-\nsicht. Genauigkeit sinkt."
+    es: "Echa lodo en la cara\npara bajar la PRECISIÓN."
+mud_sport:
+  names:
+    jp_kana: どろあそび
+    en: MUD SPORT
+    fr: LANCE-BOUE
+    it: FANGATA
+    de: LEHMSUHLER
+    es: CHAPOTEOLODO
+  descriptions:
+    jp_kana: "どろどろに　なって\nでんきタイプの　ダメージを　へらす"
+    en: "Covers the user in mud to\nraise electrical resistance."
+    fr: "Couvre le lanceur de boue.\nAugmente résist. électr."
+    it: "Fango: sale la sensibilità\nelettrica di chi lo usa."
+    de: "Bedeckt Anw. mit Lehm u. er-\nhöht Schutz geg. Elek.-Att."
+    es: "Te cubre de lodo y mejora\ntu resistencia eléctrica."
+muddy_water:
+  names:
+    jp_kana: だくりゅう
+    en: MUDDY WATER
+    fr: OCROUPI
+    it: FANGHIGLIA
+    de: LEHMBRÜHE
+    es: AGUA LODOSA
+  descriptions:
+    jp_kana: "どろみずで　てきを　こうげき\nたまに　めいちゅうりつを　さげさせる"
+    en: "Attacks with muddy water.\nMay lower accuracy."
+    fr: "Attaque d’eau croupie.\nPeut baisser la précision."
+    it: "Acqua fangosa che può\nridurre la precisione."
+    de: "Greift mit Matsch an und\nsenkt evtl. Genauigkeit."
+    es: "Ataque con agua lodosa que\npuede bajar la PRECISIÓN."
+nature_power:
+  names:
+    jp_kana: しぜんのちから
+    en: NATURE POWER
+    fr: FORCE-NATURE
+    it: NATURFORZA
+    de: NATUR-KRAFT
+    es: ADAPTACIÓN
+  descriptions:
+    jp_kana: "しぜんのちからを　かりて　こうげき\nばしょによって　でる　わざが　かわる"
+    en: "The type of attack varies\ndepending on the location."
+    fr: "Le type de l’attaque change\nselon le lieu du combat."
+    it: "Il tipo dell’attacco varia\nsecondo il luogo."
+    de: "Die Elementklasse des\nAngriffs hängt vom Ort ab."
+    es: "El tipo de ataque\nvaría según el sitio."
+needle_arm:
+  names:
+    jp_kana: ニードルアーム
+    en: NEEDLE ARM
+    fr: POING DARD
+    it: PUGNOSPINE
+    de: NIETENRANKE
+    es: BRAZO PINCHO
+  descriptions:
+    jp_kana: "トゲだらけの　うでで　なぐり　つける\nてきを　ひるませることがある"
+    en: "Attacks with thorny arms.\nMay cause flinching."
+    fr: "Attaque avec des bras\népineux. Peut apeurer."
+    it: "Un pugno spinoso che\npuò far tentennare."
+    de: "Angriff mit dornigen Armen. \nGeg. schreckt evtl. zurück."
+    es: "Pega con brazos de pinchos\ny puede causar retroceso."
+night_shade:
+  names:
+    jp_kana: ナイトヘッド
+    en: NIGHT SHADE
+    fr: TENEBRES
+    it: OMBRA NOTT.
+    de: NACHTNEBEL
+    es: TINIEBLAS
+  descriptions:
+    jp_kana: "てきに　おそろしい　まぼろしを　みせ\nレベルぶんの　ダメージを　あたえる"
+    en: "Inflicts damage identical\nto the user’s level."
+    fr: "Inflige des dégâts selon\nle niveau du lanceur."
+    it: "Infligge un danno pari al\nlivello di chi la usa."
+    de: "Richtet Schaden gemäß\nLevel d. Angreifers an."
+    es: "Se restarán tantos PS\ncomo nivel tenga el agresor."
+nightmare:
+  names:
+    jp_kana: あくむ
+    en: NIGHTMARE
+    fr: CAUCHEMAR
+    it: INCUBO
+    de: NACHTMAHR
+    es: PESADILLA
+  descriptions:
+    jp_kana: "てきが　ねてるあいだ　たいりょくを\nまいターン　４ぶんの１　へらしていく"
+    en: "Inflicts 1/4 damage on a\nsleeping foe every turn."
+    fr: "Inflige 1/4 de dégâts à un\nennemi endormi chaque tour."
+    it: "Il nemico addormentato\nperde 1/4 dei PS ogni turno."
+    de: "Bewirkt 1/4 Schaden pro\nZug bei schlafendem Gegner."
+    es: "El rival dormido pierde\n1/4 de PS por turno."
+octazooka:
+  names:
+    jp_kana: オクタンほう
+    en: OCTAZOOKA
+    fr: OCTAZOOKA
+    it: OCTAZOOKA
+    de: OCTAZOOKA
+    es: PULPOCAÑÓN
+  descriptions:
+    jp_kana: "すみの　かたまりを　はっしゃして\nめいちゅうりつを　さげさせる"
+    en: "Fires a lump of ink to\ndamage and cut accuracy."
+    fr: "Jet d’encre qui blesse\net baisse la précision."
+    it: "Inchiostro arreca danni\ne abbatte la precisione."
+    de: "Verschießt Tinte und senkt\ndadurch Genauigkeit."
+    es: "Dispara tinta para atacar\ny bajar la PRECISIÓN."
+odor_sleuth:
+  names:
+    jp_kana: かぎわける
+    en: ODOR SLEUTH
+    fr: FLAIR
+    it: SEGUGIO
+    de: SCHNÜFFLER
+    es: RASTREO
+  descriptions:
+    jp_kana: "わざが　あたりにくくなった　てきに\nこうげきを　あてられるようになる"
+    en: "Negates the foe’s efforts\nto heighten evasiveness."
+    fr: "Empêche l’ennemi\nd’augmenter son esquive."
+    it: "Vanifica l’aumento di\nelusione del nemico."
+    de: "Hindert Gegner daran, ihren\nFluchtwert zu erhöhen."
+    es: "Anula los intentos del rival\npor aumentar la EVASIÓN."
+outrage:
+  names:
+    jp_kana: げきりん
+    en: OUTRAGE
+    fr: COLERE
+    it: OLTRAGGIO
+    de: WUTANFALL
+    es: ENFADO
+  descriptions:
+    jp_kana: "２ー３ターンのあいだ　あばれつづける\nあばれたあとは　こんらんしてしまう"
+    en: "A rampage of 2 to 3 turns\nthat confuses the user."
+    fr: "Une attaque furieuse sur 2\nà 3 tours. Lanceur confus."
+    it: "Attacco veemente di 2-3\nturni: confonde chi lo usa."
+    de: "Wiederholt Angriff 2-3 Run-\nden lang. Verwirrt Anwender."
+    es: "Embestida que dura 2 ó 3\nturnos y te confunde."
+overheat:
+  names:
+    jp_kana: オーバーヒート
+    en: OVERHEAT
+    fr: SURCHAUFFE
+    it: VAMPATA
+    de: HITZEKOLLER
+    es: SOFOCO
+  descriptions:
+    jp_kana: "フルパワーで　こうげき　できるが\nとくこうが　ガクッと　さがってしまう"
+    en: "Allows a full-power attack,\nbut sharply lowers SP. ATK."
+    fr: "Attaque à pleine puissance,\nmais baisse ATQ. SPE."
+    it: "Potente attacco, ma riduce\ndi molto l’ATT. SP."
+    de: "Angriff mit voller Kraft.\nSPEZ. ANGR. sinkt deutlich."
+    es: "Ataque en toda regla que\nbaja mucho tu AT. ESP."
+pain_split:
+  names:
+    jp_kana: いたみわけ
+    en: PAIN SPLIT
+    fr: BALANCE
+    it: MALCOMUNE
+    de: LEIDTEILER
+    es: DIVIDE DOLOR
+  descriptions:
+    jp_kana: "てきと　じぶんの　たいりょくを\nたして　それを　なかよく　わける"
+    en: "Adds the user and foe’s HP,\nthen shares them equally."
+    fr: "Ajoute les PV des deux com-\nbattants et les partage."
+    it: "Somma i PS dei 2 avversari\nridistribuendoli equamente."
+    de: "Addiert KP v. Anwender u.\nGegner, teilt gerecht auf."
+    es: "Une tus PS a los del rival\ny los reparte por igual."
+pay_day:
+  names:
+    jp_kana: ネコにこばん
+    en: PAY DAY
+    fr: JACKPOT
+    it: GIORNOPAGA
+    de: ZAHLTAG
+    es: DÍA DE PAGO
+  descriptions:
+    jp_kana: "こばんをなげて　てきを　こうげき\nせんとうごに　おかねが　てにはいる"
+    en: "Throws coins at the foe.\nMoney is recovered after."
+    fr: "Lance des pièces. L’argent\nest récupéré plus tard."
+    it: "Tira monete sul nemico, per\nrecuperarle più tardi."
+    de: "Wirft Münzen auf Gegner.\nGeld wird erstattet."
+    es: "Arroja monedas\nque luego recupera."
+peck:
+  names:
+    jp_kana: つつく
+    en: PECK
+    fr: PICPIC
+    it: BECCATA
+    de: SCHNABEL
+    es: PICOTAZO
+  descriptions:
+    jp_kana: "くちばしなどを　つかって\nてきを　つついて　こうげき"
+    en: "Attacks the foe with a\njabbing beak, etc."
+    fr: "Attaque l’ennemi avec un\nbec pointu, etc."
+    it: "Il nemico è colpito da una\nbeccata o un colpo simile."
+    de: "Greift Gegner mit dem\nSchnabel an."
+    es: "Ataca con un punzante\npico."
+perish_song:
+  names:
+    jp_kana: ほろびのうた
+    en: PERISH SONG
+    fr: REQUIEM
+    it: ULTIMOCANTO
+    de: ABGESANG
+    es: CANTO MORTAL
+  descriptions:
+    jp_kana: "きいた　ポケモンは　３ターンごに\nせんとうふのうに　なってしまう"
+    en: "Any POKéMON hearing this\nsong faints in 3 turns."
+    fr: "Un POKéMON qui entend ce\nrequiem est K.O. en 3 tours."
+    it: "Se un POKéMON sente questo\ncanto va KO in 3 turni."
+    de: "Wer dieses Lied hört, wird\nnach 3 Runden besiegt."
+    es: "A los 3 turnos del canto,\ncaen rival y atacante."
+petal_dance:
+  names:
+    jp_kana: はなびらのまい
+    en: PETAL DANCE
+    fr: DANSE-FLEUR
+    it: PETALODANZA
+    de: BLÄTTERTANZ
+    es: DANZA PÉTALO
+  descriptions:
+    jp_kana: "２ー３ターンのあいだ　あばれつづける\nあばれたあとは　こんらんしてしまう"
+    en: "A rampage of 2 to 3 turns\nthat confuses the user."
+    fr: "Une attaque furieuse de 2 à\n3 tours. Lanceur confus."
+    it: "Attacco veemente di 2-3\nturni: confonde chi lo usa."
+    de: "Angriff in 2-3 Runden.\nAngreifer wird verwirrt."
+    es: "Dura de 2 a 3 turnos\ny acaba confundiéndote."
+pin_missile:
+  names:
+    jp_kana: ミサイルばり
+    en: PIN MISSILE
+    fr: DARD-NUEE
+    it: MISSILSPILLO
+    de: NADELRAKETE
+    es: PIN MISIL
+  descriptions:
+    jp_kana: "するどいハリを　てきに　はっしゃして\n２ー５かい　れんぞくで　こうげき"
+    en: "Sharp pins are fired to\nstrike 2 to 5 times."
+    fr: "Envoie des dards qui\nfrappent 2 à 5 fois."
+    it: "Spilli di fuoco colpiscono il\nnemico da 2 a 5 volte."
+    de: "Spitze Nadeln treffen den\nGegner 2 - 5-mal."
+    es: "Lanza finas púas que\nhieren de 2 a 5 veces."
+poison_fang:
+  names:
+    jp_kana: どくどくのキバ
+    en: POISON FANG
+    fr: CROCHETVENIN
+    it: VELENODENTI
+    de: GIFTZAHN
+    es: COLMILLO VEN
+  descriptions:
+    jp_kana: "するどいキバで　こうげき　\nたまに　もうどく　じょうたいに　する"
+    en: "A sharp-fanged attack.\nMay badly poison the foe."
+    fr: "Morsure pouvant sérieuse-\nment empoisonner l’ennemi."
+    it: "Denti affilati: possono\navvelenare il nemico."
+    de: "Angriff mit Reißzähnen. \nGegner wird evtl. vergiftet."
+    es: "Incisivos colmillos que\npueden envenenar al rival."
+poison_gas:
+  names:
+    jp_kana: どくガス
+    en: POISON GAS
+    fr: GAZ TOXIK
+    it: VELENOGAS
+    de: GIFTWOLKE
+    es: GAS VENENOSO
+  descriptions:
+    jp_kana: "どくガスを　てきに　ふきかけて\nどくをあたえる"
+    en: "Envelops the foe in a toxic\ngas that may poison."
+    fr: "Enveloppe l’ennemi d’un gaz\ntoxique. Peut empoisonner."
+    it: "Il nemico è avvolto in un\ngas che può avvelenare."
+    de: "Hüllt Gegner in giftiges Gas\nein, kann vergiften."
+    es: "Envuelve al enemigo en gas\ntóxico venenoso."
+poison_powder:
+  names:
+    jp_kana: どくのこな
+    en: POISONPOWDER
+    fr: POUDRE TOXIK
+    it: VELENPOLVERE
+    de: GIFTPUDER
+    es: POLVO VENENO
+  descriptions:
+    jp_kana: "どくそを　ふくんだ　こなを　ふりまき\nてきに　どくをあたえる"
+    en: "Scatters a toxic powder\nthat may poison the foe."
+    fr: "Répand une poudre toxique\npouvant empoisonner."
+    it: "Polvere tossica che può\navvelenare il nemico."
+    de: "Verstreut giftigen Puder,\nder Gegner vergiften kann."
+    es: "Polvo tóxico que puede\nenvenenar al enemigo."
+poison_sting:
+  names:
+    jp_kana: どくばり
+    en: POISON STING
+    fr: DARD-VENIN
+    it: VELENOSPINA
+    de: GIFTSTACHEL
+    es: PICOTAZO VEN
+  descriptions:
+    jp_kana: "どくのある　ハリや　つので　こうげき\nてきに　どくをあたえることがある"
+    en: "A toxic attack with barbs,\netc., that may poison."
+    fr: "Une attaque de dards, etc.,\npouvant empoisonner."
+    it: "Attacco con aculei e simili:\npuò avvelenare il nemico."
+    de: "Angriff mit Widerhaken,\nkann Gegner vergiften."
+    es: "Puede envenenar al\nenemigo con púas, etc."
+poison_tail:
+  names:
+    jp_kana: ポイズンテール
+    en: POISON TAIL
+    fr: QUEUE-POISON
+    it: VELENOCODA
+    de: GIFTSCHWEIF
+    es: COLA VENENO
+  descriptions:
+    jp_kana: "たまに　どくを　あたえる　ことがあり\nきゅうしょにも　あたりやすい"
+    en: "Has a high critical-hit\nratio. May also poison."
+    fr: "Haut taux de critiques.\nPeut aussi empoisonner."
+    it: "Probabile brutto colpo.\nPuò avvelenare."
+    de: "Hohe Volltrefferquote.\nGegner evtl. vergiftet."
+    es: "Puede envenenar y dar un\ngolpe crítico."
+pound:
+  names:
+    jp_kana: はたく
+    en: POUND
+    fr: ECRAS’FACE
+    it: BOTTA
+    de: PFUND
+    es: DESTRUCTOR
+  descriptions:
+    jp_kana: "てや　しっぽなどを　つかい\nてきを　はたいて　こうげき"
+    en: "Pounds the foe with\nforelegs or tail."
+    fr: "Ecrase l’ennemi avec les\npattes avant ou la queue."
+    it: "Il nemico è colpito con la\ncoda o le zampe anteriori."
+    de: "Ein Hieb mit den Vorder-\nbeinen oder dem Schweif."
+    es: "Golpea con las patas\no la cola."
+powder_snow:
+  names:
+    jp_kana: こなゆき
+    en: POWDER SNOW
+    fr: POUDREUSE
+    it: POLNEVE
+    de: PULVERSCHNEE
+    es: NIEVE POLVO
+  descriptions:
+    jp_kana: "ゆきを　かぜにのせて　こうげき\nてきを　こおらせることがある"
+    en: "Blasts the foe with a snowy\ngust. May cause freezing."
+    fr: "Envoie une rafale de neige.\nPeut geler l’ennemi."
+    it: "Raffica di neve che può\ncongelare il nemico."
+    de: "Schnee auf Gegner, der\nevtl. eingefroren wird."
+    es: "Lanza una nevada que puede\nllegar a congelar."
+present:
+  names:
+    jp_kana: プレゼント
+    en: PRESENT
+    fr: CADEAU
+    it: REGALINO
+    de: GESCHENK
+    es: PRESENTE
+  descriptions:
+    jp_kana: "てきに　ばくだんを　プレゼントする\nたまに　かいふくしてしまうことがある"
+    en: "A gift in the form of a\nbomb. May restore HP."
+    fr: "Cadeau en forme de bombe.\nPeut restaurer des PV."
+    it: "Regalo a forma di bomba:\npuò far recuperare PS."
+    de: "Eine Bombe als Geschenk. Es\nkann KP wiederherstellen."
+    es: "Regalo con forma de bomba.\nPuede que restaure los PS."
+protect:
+  names:
+    jp_kana: まもる
+    en: PROTECT
+    fr: ABRI
+    it: PROTEZIONE
+    de: SCHUTZSCHILD
+    es: PROTECCIÓN
+  descriptions:
+    jp_kana: "そのターンの　こうげきを　うけない\nれんぞくで　だすと　しっぱいしやすい"
+    en: "Evades attack, but may fail\nif used in succession."
+    fr: "Esquive l’attaque, mais\npeut échouer si réutilisé."
+    it: "Elude gli attacchi: se usato\nripetutamente può fallire."
+    de: "Weicht Angriff aus.\nScheitert evtl. bei Wdh."
+    es: "Frena ataques, pero puede\nfallar si se usa sin cesar."
+psybeam:
+  names:
+    jp_kana: サイケこうせん
+    en: PSYBEAM
+    fr: RAFALE PSY
+    it: PSICORAGGIO
+    de: PSYSTRAHL
+    es: PSICORRAYO
+  descriptions:
+    jp_kana: "ふしぎな　ひかりを　はっしゃする\nてきを　こんらんさせることがある"
+    en: "Fires a peculiar ray that\nmay confuse the foe."
+    fr: "Etrange rayon pouvant\nrendre l’ennemi confus."
+    it: "Un raggio speciale che può\nconfondere il nemico."
+    de: "Feuert einen Strahl ab, der\nGegner verwirren kann."
+    es: "Extraño rayo que puede\ncausar confusión."
+psych_up:
+  names:
+    jp_kana: じこあんじ
+    en: PSYCH UP
+    fr: BOOST
+    it: PSICAMISÙ
+    de: PSYCHO-PLUS
+    es: MÁS PSIQUE
+  descriptions:
+    jp_kana: "てきに　かかっている　ほじょこうかを\nじぶんにも　かける"
+    en: "Copies the foe’s effect(s)\nand gives to the user."
+    fr: "Copie les effets de l’ennemi\net les passe au lanceur."
+    it: "Copia le modifiche nelle\nstatistiche del nemico."
+    de: "Kopiert Effekte d. Gegners\nu. gibt sie dem Angreifer."
+    es: "Copia los efectos del rival\ny te los adjudica."
+psychic:
+  names:
+    jp_kana: サイコキネシス
+    en: PSYCHIC
+    fr: PSYKO
+    it: PSICHICO
+    de: PSYCHOKINESE
+    es: PSÍQUICO
+  descriptions:
+    jp_kana: "つよいねんりきで　てきを　こうげき\nとくぼうを　さげることがある"
+    en: "A powerful psychic attack\nthat may lower SP. DEF."
+    fr: "Une puissante attaque PSY\npouvant baisser la DEF. SPE."
+    it: "Potente attacco psichico:\npuò ridurre la DIF. SP."
+    de: "Starke Psycho-Attacke, die\nevtl. SPEZ. VERT. senkt."
+    es: "Fuerte ataque psíquico que\npuede bajar la DEF. ESP."
+psycho_boost:
+  names:
+    jp_kana: サイコブースト
+    en: PSYCHO BOOST
+    fr: PSYCHO BOOST
+    it: PSICOSLANCIO
+    de: PSYSCHUB
+    es: PSICOATAQUE
+  descriptions:
+    jp_kana: "フルパワーで　こうげき　できるが\nとくこうが　ガクッと　さがってしまう"
+    en: "Allows a full-power attack,\nbut sharply lowers SP. ATK."
+    fr: "Attaque à pleine puissance,\nmais baisse ATQ. SPE."
+    it: "Potente attacco, ma riduce\ndi molto l’ATT. SP."
+    de: "Angriff mit voller Kraft.\nSPEZ. ANGR. sinkt deutlich."
+    es: "Es tremendamente potente,\npero baja mucho el AT. ESP."
+psywave:
+  names:
+    jp_kana: サイコウェーブ
+    en: PSYWAVE
+    fr: VAGUE PSY
+    it: PSICONDA
+    de: PSYWELLE
+    es: PSICOONDA
+  descriptions:
+    jp_kana: "ふしぎな　ねんぱで　てきを　こうげき\nつかうたびに　いりょくが　かわる"
+    en: "Attacks with a psychic\nwave of varying intensity."
+    fr: "Envoie une onde PSY\nd’intensité variable."
+    it: "Onda psichica di\nintensità variabile."
+    de: "Psycho-Welle mit unter-\nschiedlicher Intensität."
+    es: "Ataque con onda psíquica\nde intensidad variable."
+pursuit:
+  names:
+    jp_kana: おいうち
+    en: PURSUIT
+    fr: POURSUITE
+    it: INSEGUIMENTO
+    de: VERFOLGUNG
+    es: PERSECUCIÓN
+  descriptions:
+    jp_kana: "あいてが　こうかんするときに\nつかうと　だいダメージを　あたえる"
+    en: "Inflicts bad damage if used\non a foe switching out."
+    fr: "Inflige de sérieux dégâts\nlorsque l’ennemi change."
+    it: "Più efficace se il nemico\nè in fase di sostituzione."
+    de: "Richtet großen Schaden bei\nAustausch des Gegners an."
+    es: "Hace mucho daño al rival\nque pide el relevo."
+quick_attack:
+  names:
+    jp_kana: でんこうせっか
+    en: QUICK ATTACK
+    fr: VIVE-ATTAQUE
+    it: ATT. RAPIDO
+    de: RUCKZUCKHIEB
+    es: AT. RÁPIDO
+  descriptions:
+    jp_kana: "ものすごい　はやさで　うごいて　\nせんせいこうげきする"
+    en: "An extremely fast attack\nthat always strikes first."
+    fr: "Attaque fulgurante qui\npermet de frapper d’abord."
+    it: "Attacco rapidissimo che\ncolpisce sempre per primo."
+    de: "Sehr schneller Angriff mit\nErstschlaggarantie."
+    es: "Ataque rápido que permite\ngolpear en 1.ᵉʳ lugar."
+rage:
+  names:
+    jp_kana: いかり
+    en: RAGE
+    fr: FRENESIE
+    it: IRA
+    de: RASEREI
+    es: FURIA
+  descriptions:
+    jp_kana: "こうげきされるたびに　いかりで\nこうげきが　あがっていく"
+    en: "Raises the user’s ATTACK\nevery time it is hit."
+    fr: "Augmente l’ATTAQUE du\nlanceur à chaque coup reçu."
+    it: "Sale ATTACCO di chi la usa\nogni volta che è colpito."
+    de: "Erhöht ANGR. des Anwenders\nbei jedem gegn. Treffer."
+    es: "Mejora tu ATAQUE cada\nvez que te golpean."
+rain_dance:
+  names:
+    jp_kana: あまごい
+    en: RAIN DANCE
+    fr: DANSE PLUIE
+    it: PIOGGIADANZA
+    de: REGENTANZ
+    es: DANZA LLUVIA
+  descriptions:
+    jp_kana: "５ターンのあいだ　みずタイプの\nわざの　いりょくが　あがる"
+    en: "Boosts the power of WATER-\ntype moves for 5 turns."
+    fr: "Améliore les attaques EAU\npendant 5 tours."
+    it: "Aumenta l’effetto delle\nmosse ACQUA per 5 turni."
+    de: "Erhöht Stärke von WASSER-\nAttacken 5 Runden lang."
+    es: "Refuerza los ataques de\ntipo AGUA durante 5 turnos."
+rapid_spin:
+  names:
+    jp_kana: こうそくスピン
+    en: RAPID SPIN
+    fr: TOUR RAPIDE
+    it: RAPIGIRO
+    de: TURBODREHER
+    es: GIRO RÁPIDO
+  descriptions:
+    jp_kana: "からだを　はやく　かいてんさせて\nてきを　こうげき"
+    en: "Spins the body at high\nspeed to strike the foe."
+    fr: "Frappe l’ennemi en\ntournant sur soi-même."
+    it: "Potente rotazione che\ncolpisce il nemico."
+    de: "Trifft den Gegner durch\nDrehen mit max. Tempo."
+    es: "Ataque corporal giratorio\nde gran velocidad."
+razor_leaf:
+  names:
+    jp_kana: はっぱカッター
+    en: RAZOR LEAF
+    fr: TRANCH’HERBE
+    it: FOGLIELAMA
+    de: RASIERBLATT
+    es: HOJA AFILADA
+  descriptions:
+    jp_kana: "はっぱで　てきを　きりつける\nきゅうしょに　あたりやすい"
+    en: "Cuts the enemy with leaves.\nHigh critical-hit ratio."
+    fr: "Tranche avec des feuilles.\nTaux de critiques élevé."
+    it: "Foglie tagliano il nemico.\nProbabile brutto colpo."
+    de: "Trifft Gegner mit Blättern.\nHohe Volltrefferquote."
+    es: "Corta con hojas.\nSuele ser crítico."
+razor_wind:
+  names:
+    jp_kana: かまいたち
+    en: RAZOR WIND
+    fr: COUPE-VENT
+    it: VENTAGLIENTE
+    de: KLINGENSTURM
+    es: V. CORTANTE
+  descriptions:
+    jp_kana: "１ターンめで　かぜのやいばを　つくり\nつぎのターンで　てきを　こうげき"
+    en: "A 2-turn move that strikes\nthe foe on the 2nd turn."
+    fr: "Une attaque en 2 tours qui\nfrappe au 2ᵉ tour."
+    it: "Mossa in due tempi, che\ncolpisce al secondo turno."
+    de: "Eine Attacke, die auf 2\nRunden basiert."
+    es: "1.ᵉʳ turno: prepara.\n2.º: ataca."
+recover:
+  names:
+    jp_kana: じこさいせい
+    en: RECOVER
+    fr: SOIN
+    it: RIPRESA
+    de: GENESUNG
+    es: RECUPERACIÓN
+  descriptions:
+    jp_kana: "キズついた　からだを　たいりょくの\nはんぶんだけ　かいふくする"
+    en: "Recovers up to half the\nuser’s maximum HP."
+    fr: "Regagne jusqu’à la moitié\ndes PV max du lanceur."
+    it: "Chi la usa recupera fino a\nmetà dei PS massimi."
+    de: "Max. KP des Anwenders w.\nbis zur Hälfte aufgefüllt."
+    es: "Restaura hasta la mitad\nde los PS máximos."
+recycle:
+  names:
+    jp_kana: リサイクル
+    en: RECYCLE
+    fr: RECYCLAGE
+    it: RICICLO
+    de: AUFBEREITUNG
+    es: RECICLAJE
+  descriptions:
+    jp_kana: "いちど　つかってしまった　どうぐを\nもういちど　つかうことが　できる"
+    en: "Recycles a used item for\none more use."
+    fr: "Recycle un objet pour\nl’utiliser une fois de plus."
+    it: "Permette di riutilizzare\nuno strumento già usato."
+    de: "Recycling eines\nverwendeten Items."
+    es: "Recicla un objeto usado\npara utilizarlo de nuevo."
+reflect:
+  names:
+    jp_kana: リフレクター
+    en: REFLECT
+    fr: PROTECTION
+    it: RIFLESSO
+    de: REFLEKTOR
+    es: REFLEJO
+  descriptions:
+    jp_kana: "かべを　つくって　ぶつり　こうげきの\nダメージを　よわめる"
+    en: "Creates a wall of light that\nweakens physical attacks."
+    fr: "Crée un mur lumineux.\nAffaiblit att. physiques."
+    it: "Una parete di luce indebo- \nlisce gli attacchi fisici."
+    de: "Erzeugt Lichtwand, schützt\nteilweise vor phys. Angr."
+    es: "Pared de luz que debilita\nlos ataques físicos."
+refresh:
+  names:
+    jp_kana: リフレッシュ
+    en: REFRESH
+    fr: REGENERATION
+    it: RINFRESCATA
+    de: HEILUNG
+    es: ALIVIO
+  descriptions:
+    jp_kana: "どく　まひ　やけど　じょうたいを\nなおしてしまう"
+    en: "Heals poisoning, paralysis,\nor a burn."
+    fr: "Soigne un empoisonnement,\nune paralysie, une brûlure."
+    it: "Cura avvelenamenti,\nparalisi e scottature."
+    de: "Kuriert Vergiftungen, Para-\nlyse und Verbrennung."
+    es: "Cura envenenamientos,\nparálisis y quemaduras."
+rest:
+  names:
+    jp_kana: ねむる
+    en: REST
+    fr: REPOS
+    it: RIPOSO
+    de: ERHOLUNG
+    es: DESCANSO
+  descriptions:
+    jp_kana: "２ターン　ねむって　たいりょくと\nからだのいじょうを　かいふくする"
+    en: "The user sleeps for 2 turns,\nrestoring HP and status."
+    fr: "Le lanceur dort 2 tours\net regagne PV et statut."
+    it: "Chi la usa dorme per 2 turni\ne recupera PS e stato."
+    de: "Anwender schläft 2 Runden,\nKP und Status erneuert."
+    es: "Te duerme durante 2 turnos\npara curarte totalmente."
+return:
+  names:
+    jp_kana: おんがえし
+    en: RETURN
+    fr: RETOUR
+    it: RITORNO
+    de: RÜCKKEHR
+    es: RETROCESO
+  descriptions:
+    jp_kana: "よくしてくれる　トレーナーの　ために\nぜんりょくで　てきを　こうげき"
+    en: "An attack that increases\nin power with friendship."
+    fr: "Attaque dont la puissance\ndépend de l’amitié."
+    it: "Più potente se chi la usa è\namico del suo ALLENATORE."
+    de: "Angriff, dessen Kraft bei \nFreundschaft größer wird."
+    es: "Ataque que aumenta sus\nefectos con la amistad."
+revenge:
+  names:
+    jp_kana: リベンジ
+    en: REVENGE
+    fr: VENDETTA
+    it: VENDETTA
+    de: VERGELTUNG
+    es: DESQUITE
+  descriptions:
+    jp_kana: "あいてから　ダメージを　うけていると\nいりょくが　あがる"
+    en: "An attack that gains power\nif injured by the foe."
+    fr: "Gagne en puissance quand\nblessé par l’ennemi."
+    it: "Più potente se si è stati\ncolpiti dal nemico."
+    de: "Attacke wird stärker, wenn\nAnwender Schaden nimmt."
+    es: "Ataque que gana fuerza\nsi el enemigo te hiere."
+reversal:
+  names:
+    jp_kana: きしかいせい
+    en: REVERSAL
+    fr: CONTRE
+    it: CONTROPIEDE
+    de: GEGENSCHLAG
+    es: INVERSIÓN
+  descriptions:
+    jp_kana: "じぶんの　たいりょくが　すくないほど\nてきに　おおきなダメージを　あたえる"
+    en: "Inflicts more damage when\nthe user’s HP is down."
+    fr: "Inflige plus de dégâts\nquand les PV sont faibles."
+    it: "Arreca danni maggiori se i\nPS di chi la usa sono bassi."
+    de: "Richtet mehr Schaden an,\nwenn eigene KP niedrig sind."
+    es: "Si tienes pocos PS, el daño\nque causa es mucho mayor."
+roar:
+  names:
+    jp_kana: ほえる
+    en: ROAR
+    fr: HURLEMENT
+    it: BOATO
+    de: BRÜLLER
+    es: RUGIDO
+  descriptions:
+    jp_kana: "ほえて　てきを　にげださせる\nてきが　にげると　せんとうは　おわる"
+    en: "Makes the foe flee to end\nthe battle."
+    fr: "Fait fuir l’ennemi pour\nmettre fin au combat."
+    it: "Mette in fuga il nemico per\nporre termine alla lotta."
+    de: "Verjagt den Gegner und be-\nendet den Kampf in Wildnis."
+    es: "Ahuyenta al rival\ny finaliza el combate."
+rock_blast:
+  names:
+    jp_kana: ロックブラスト
+    en: ROCK BLAST
+    fr: BOULE ROC
+    it: CADUTAMASSI
+    de: FELSWURF
+    es: PEDRADA
+  descriptions:
+    jp_kana: "いわを　２ー５かい　れんぞくで\nはっしゃして　てきを　こうげき"
+    en: "Hurls boulders at the foe\n2 to 5 times in a row."
+    fr: "Projette des rochers sur\nl’ennemi 2 à 5 fois de suite."
+    it: "Lancio di massi sul nemico\nche dura da 2 a 5 volte."
+    de: "Wirft 2 - 5-mal in Folge\nFelsblöcke auf den Gegner."
+    es: "Lanza pedruscos al rival de\n2 a 5 veces consecutivas."
+rock_slide:
+  names:
+    jp_kana: いわなだれ
+    en: ROCK SLIDE
+    fr: EBOULEMENT
+    it: FRANA
+    de: STEINHAGEL
+    es: AVALANCHA
+  descriptions:
+    jp_kana: "おおきな　いわを　なげつける\nてきを　ひるませることがある"
+    en: "Large boulders are hurled.\nMay cause flinching."
+    fr: "Envoie de gros rochers.\nPeut apeurer l’ennemi."
+    it: "Grandi massi lanciati sul\nnemico, che può tentennare."
+    de: "Schleudert riesige Felsen.\nVerschreckt evtl. Gegner."
+    es: "Lanza grandes pedruscos.\nPuede causar retroceso."
+rock_smash:
+  names:
+    jp_kana: いわくだき
+    en: ROCK SMASH
+    fr: ECLATE-ROC
+    it: SPACCAROCCIA
+    de: ZERTRÜMMERER
+    es: GOLPE ROCA
+  descriptions:
+    jp_kana: "いわを　くだく　いきおいで　こうげき\nてきの　ぼうぎょを　さげることがある"
+    en: "A rock-crushing attack\nthat may lower DEFENSE."
+    fr: "Une attaque puissante qui\npeut baisser la DEFENSE."
+    it: "Un lancio di rocce che\npuò ridurre la DIFESA."
+    de: "Zertrümmernder Angriff, \nder evtl. VERT.-Wert senkt."
+    es: "Ataque de fuerza brutal\nque puede bajar la DEFENSA."
+rock_throw:
+  names:
+    jp_kana: いわおとし
+    en: ROCK THROW
+    fr: JET-PIERRES
+    it: SASSATA
+    de: STEINWURF
+    es: LANZARROCAS
+  descriptions:
+    jp_kana: "ちいさな　いわを　なげつけて\nてきを　こうげき"
+    en: "Throws small rocks to\nstrike the foe."
+    fr: "Envoie des cailloux pour\nfrapper l’ennemi."
+    it: "Il nemico è colpito da\npiccole rocce."
+    de: "Wirft kleine Steine auf den\nGegner."
+    es: "Tira pequeñas rocas\nal enemigo."
+rock_tomb:
+  names:
+    jp_kana: がんせきふうじ
+    en: ROCK TOMB
+    fr: TOMBEROCHE
+    it: ROCCIOTOMBA
+    de: FELSGRAB
+    es: TUMBA ROCAS
+  descriptions:
+    jp_kana: "いわで　うごきを　ふうじて　こうげき\nあいての　すばやさも　さげる"
+    en: "Stops the foe from moving\nwith rocks and cuts SPEED."
+    fr: "Immobilise l’ennemi avec des\nrochers. Baisse la VITESSE."
+    it: "Rocce bloccano il nemico e\nne abbattono la VELOCITÀ."
+    de: "Hält den Feind mit Steinen\nauf u. senkt INIT.-Wert."
+    es: "Tira rocas al rival, lo para\ny suele bajarle VELOCIDAD."
+role_play:
+  names:
+    jp_kana: なりきり
+    en: ROLE PLAY
+    fr: IMITATION
+    it: GIOCODIRUOLO
+    de: ROLLENTAUSCH
+    es: IMITACIÓN
+  descriptions:
+    jp_kana: "あいてに　なりきって　あいての\nとくせいを　コピーする"
+    en: "Mimics the target and\ncopies its special ability."
+    fr: "Imite la cible et copie\nsa capacité spéciale."
+    it: "Mima un POKéMON copiandone\nl’abilità speciale."
+    de: "Parodiert Gegner u. kopiert\nseine Spezialfähigkeiten."
+    es: "Imita al rival y copia\nsu HABILIDAD ESPECIAL."
+rolling_kick:
+  names:
+    jp_kana: まわしげり
+    en: ROLLING KICK
+    fr: MAWASHI GERI
+    it: CALCIORULLO
+    de: FEGEKICK
+    es: PATADA GIRO
+  descriptions:
+    jp_kana: "からだを　すばやく　１かいてんさせ\nそのいきおいで　キックを　くりだす"
+    en: "A fast kick delivered from\na rapid spin."
+    fr: "Un coup de pied tournoyant\net extrêmement rapide."
+    it: "Un rapido calcio assestato\ncon una rotazione."
+    de: "Schneller Tritt aus der\nDrehung."
+    es: "Una patada rápida\ny circular."
+rollout:
+  names:
+    jp_kana: ころがる
+    en: ROLLOUT
+    fr: ROULADE
+    it: ROTOLAMENTO
+    de: WALZER
+    es: DESENROLLAR
+  descriptions:
+    jp_kana: "５ターンのあいだ　てきを　こうげき\nあてるたびに　ダメージが　あがる"
+    en: "An attack lasting 5 turns\nwith rising intensity."
+    fr: "Une attaque sur 5 tours,\nde plus en plus puissante."
+    it: "Dura 5 turni, con\nintensità crescente."
+    de: "Attacke, die 5 Runden\ndauert. Die Härte nimmt zu."
+    es: "Ataque de 5 turnos,\ncon fuerza cada vez mayor."
+sacred_fire:
+  names:
+    jp_kana: せいなるほのお
+    en: SACRED FIRE
+    fr: FEU SACRE
+    it: MAGIFUOCO
+    de: LÄUTERFEUER
+    es: FUEGOSAGRADO
+  descriptions:
+    jp_kana: "しんぴてきな　ほのおで　こうげき\nてきを　やけどさせることがある"
+    en: "A mystical fire attack that\nmay inflict a burn."
+    fr: "Une attaque de feu mys-\ntique pouvant brûler."
+    it: "Fuoco magico che può\ncausare una scottatura."
+    de: "Mystische Feuer-Attacke, \ndie d. Geg. evtl. verbrennt."
+    es: "Fuego místico que\npuede causar quemaduras."
+safeguard:
+  names:
+    jp_kana: しんぴのまもり
+    en: SAFEGUARD
+    fr: RUNE PROTECT
+    it: SALVAGUARDIA
+    de: BODYGUARD
+    es: VELO SAGRADO
+  descriptions:
+    jp_kana: "ふしぎな　ちからで　まもられて\nとくしゅ　じょうたいに　ならなくなる"
+    en: "A mystical force prevents\nall status problems."
+    fr: "Force mystique empêchant\ntout changement de statut."
+    it: "Forza magica: protegge\nda problemi di stato."
+    de: "Mystische Kraft, die alle\nStatusprobleme verhindert."
+    es: "Fuerza mística que evita\nproblemas de estado."
+sand_attack:
+  names:
+    jp_kana: すなかけ
+    en: SAND-ATTACK
+    fr: JET DE SABLE
+    it: TURBOSABBIA
+    de: SANDWIRBEL
+    es: ATAQUE ARENA
+  descriptions:
+    jp_kana: "てきの　かおなどに　すなをかけて\nめいちゅうりつを　さげさせる"
+    en: "Reduces the foe’s accuracy\nby hurling sand in its face."
+    fr: "Lance du sable et baisse\nla précision de l’ennemi."
+    it: "Riduce la precisione del\nnemico sollevando sabbia."
+    de: "Senkt Genauigkeit des Geg-\nners durch Sand."
+    es: "Arroja arena a la cara\ny baja la PRECISIÓN."
+sand_tomb:
+  names:
+    jp_kana: すなじごく
+    en: SAND TOMB
+    fr: TOURBI-SABLE
+    it: SABBIOTOMBA
+    de: SANDGRAB
+    es: BUCLE ARENA
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　てきを\nうずの　ちゅうしんに　とじこめる"
+    en: "Traps and hurts the foe in\nquicksand for 2 to 5 turns."
+    fr: "Piège l’ennemi dans un \ncyclone de 2 à 5 tours."
+    it: "Un vortice danneggia il\nnemico da 2 a 5 turni."
+    de: "Gegner leidet für 2-5\nRunden in Sandhose."
+    es: "Enreda en un remolino\nde arena de 2 a 5 turnos."
+sandstorm:
+  names:
+    jp_kana: すなあらし
+    en: SANDSTORM
+    fr: TEMPETESABLE
+    it: TERREMPESTA
+    de: SANDSTURM
+    es: TORM. ARENA
+  descriptions:
+    jp_kana: "すなあらしを　はっせいさせて\nまいターン　ダメージを　あたえる"
+    en: "Causes a sandstorm that\nrages for several turns."
+    fr: "Une tempête de sable qui\nsouffle plusieurs tours."
+    it: "Una tempesta di sabbia che\npersiste per diversi turni."
+    de: "Erzeugt einen Sandsturm,\nder mehrere Runden wütet."
+    es: "Tormenta de arena\nque dura varios turnos."
+scary_face:
+  names:
+    jp_kana: こわいかお
+    en: SCARY FACE
+    fr: GRIMACE
+    it: VISOTRUCE
+    de: GRIMASSE
+    es: CARA SUSTO
+  descriptions:
+    jp_kana: "こわいかおで　てきを　おびえさせて\nすばやさを　ガクッとさげさせる"
+    en: "Frightens with a scary face\nto sharply reduce SPEED."
+    fr: "Effraye avec une grimace\npour baisser la VITESSE."
+    it: "Sguardo che riduce di molto\nla VELOCITÀ del nemico."
+    de: "Erschreckt mit Grimasse. \nINIT.-Wert sinkt deutlich."
+    es: "Asusta al enemigo para\nbajarle VELOCIDAD."
+scratch:
+  names:
+    jp_kana: ひっかく
+    en: SCRATCH
+    fr: GRIFFE
+    it: GRAFFIO
+    de: KRATZER
+    es: ARAÑAZO
+  descriptions:
+    jp_kana: "するどいツメを　つかい\nてきを　ひっかいて　こうげき"
+    en: "Scratches the foe with\nsharp claws."
+    fr: "Lacère l’ennemi avec \ndes griffes acérées."
+    it: "Graffia il nemico con\nartigli affilati."
+    de: "Der Gegner wird mit\nscharfen Klauen zerkratzt."
+    es: "Araña con afiladas\ngarras."
+screech:
+  names:
+    jp_kana: いやなおと
+    en: SCREECH
+    fr: GRINCEMENT
+    it: STRIDIO
+    de: KREIDESCHREI
+    es: CHIRRIDO
+  descriptions:
+    jp_kana: "いやなおとを　だして　てきの\nぼうぎょを　ガクッとさげさせる"
+    en: "Emits a screech to sharply\nreduce the foe’s DEFENSE."
+    fr: "Cri strident qui baisse la\nDEFENSE ennemie."
+    it: "Stridio che riduce di molto \nla DIFESA del nemico."
+    de: "Stößt einen Schrei aus, um\ngegn. VERT. zu senken."
+    es: "Ruido agudo que baja mucho\nla DEFENSA del rival."
+secret_power:
+  names:
+    jp_kana: ひみつのちから
+    en: SECRET POWER
+    fr: FORCE CACHEE
+    it: FORZASEGRETA
+    de: GEHEIMPOWER
+    es: DAÑO SECRETO
+  descriptions:
+    jp_kana: "ひみつの　ちからを　よびさます\nばしょによって　ついかこうかがちがう"
+    en: "An attack with effects\nthat vary by location."
+    fr: "Les effets de l’attaque\ndépendent du lieu."
+    it: "L’effetto varia secondo\nil luogo."
+    de: "Angriff, dessen Auswirkung\nabhängig vom Ort ist."
+    es: "Los efectos de este ataque\nvarían según la zona."
+seismic_toss:
+  names:
+    jp_kana: ちきゅうなげ
+    en: SEISMIC TOSS
+    fr: FRAPPE ATLAS
+    it: MOV. SISMICO
+    de: GEOWURF
+    es: MOV. SÍSMICO
+  descriptions:
+    jp_kana: "いんりょくを　りようして　なげる\nレベルぶんの　ダメージを　あたえる"
+    en: "Inflicts damage identical\nto the user’s level."
+    fr: "Inflige des dégâts selon\nle niveau du lanceur."
+    it: "Infligge un danno pari al\nlivello di chi la usa."
+    de: "Richtet Schaden gemäß\nLevel d. Angreifers an."
+    es: "Se restarán tantos PS\ncomo nivel tenga el agresor."
+self_destruct:
+  names:
+    jp_kana: じばく
+    en: SELFDESTRUCT
+    fr: DESTRUCTION
+    it: AUTODISTRUZ.
+    de: FINALE
+    es: AUTODESTRUC
+  descriptions:
+    jp_kana: "てきに　だいダメージを　あたえるが\nつかうと　せんとうふのうに　なる"
+    en: "Inflicts severe damage but\nmakes the user faint."
+    fr: "Inflige de sérieux dégâts,\nmais met le lanceur K.O."
+    it: "Infligge un forte danno, ma\nchi la usa va KO."
+    de: "Richtet großen Schaden an.\nAnwender wird besiegt."
+    es: "Potente, pero hace\nque te debilites."
+shadow_ball:
+  names:
+    jp_kana: シャドーボール
+    en: SHADOW BALL
+    fr: BALL’OMBRE
+    it: PALLA OMBRA
+    de: SPUKBALL
+    es: BOLA SOMBRA
+  descriptions:
+    jp_kana: "くろいかたまりを　なげて　こうげき\nとくぼうを　さげることがある"
+    en: "Hurls a black blob that may\nlower the foe’s SP. DEF."
+    fr: "Projette une grande tache\nqui peut baisser la DEF. SP."
+    it: "Sfera nera che può ridurre\nla DIF. SP. del nemico."
+    de: "Bewirft Gegner und senkt\nevtl. SPEZ. VERT."
+    es: "Lanza una bola negra que\npuede bajar la DEF. ESP."
+shadow_punch:
+  names:
+    jp_kana: シャドーパンチ
+    en: SHADOW PUNCH
+    fr: POING OMBRE
+    it: PUGNODOMBRA
+    de: FINSTERFAUST
+    es: PUÑO SOMBRA
+  descriptions:
+    jp_kana: "かげにまぎれて　パンチを　くりだす\nてきは　ぜったいに　よけられない"
+    en: "An unavoidable punch that\nis thrown from shadows."
+    fr: "Un coup de poing inévitable\nsortant de l’ombre."
+    it: "Pugno inevitabile, che\nproviene dalle tenebre."
+    de: "Schattenhieb. Ausweichen\nunmöglich."
+    es: "Puñetazo ineludible\nprocedente de las sombras."
+sharpen:
+  names:
+    jp_kana: かくばる
+    en: SHARPEN
+    fr: AFFUTAGE
+    it: AFFILATORE
+    de: SCHÄRFER
+    es: AFILAR
+  descriptions:
+    jp_kana: "ポリゴンを　へらし　カクカクになって\nこうげきを　あげる"
+    en: "Reduces the polygon count\nand raises ATTACK."
+    fr: "Réduit les polygones\net augmente l’ATTAQUE."
+    it: "Riduce i poligoni per\naumentare l’ATTACCO."
+    de: "Reduziert Polygonzahl und\nerhöht ANGR.-Wert."
+    es: "Mejora el ATAQUE\nde quien lo usa."
+sheer_cold:
+  names:
+    jp_kana: ぜったいれいど
+    en: SHEER COLD
+    fr: GLACIATION
+    it: PUROGELO
+    de: EISESKÄLTE
+    es: FRÍO POLAR
+  descriptions:
+    jp_kana: "ぜったいれいどで　てきを　おそう\nきまると　せんとうふのうになる"
+    en: "A chilling attack that\ncauses fainting if it hits."
+    fr: "Attaque glacée qui met K.O.\nquand elle est réussie."
+    it: "Attacco gelido che se va a\nsegno fa andare KO."
+    de: "Eis-Attacke. Besiegt den\nGegner, wenn sie trifft."
+    es: "Ataque polar que debilita\nal rival si le alcanza."
+shock_wave:
+  names:
+    jp_kana: でんげきは
+    en: SHOCK WAVE
+    fr: ONDE DE CHOC
+    it: ONDASHOCK
+    de: SCHOCKWELLE
+    es: ONDA VOLTIO
+  descriptions:
+    jp_kana: "すばやく　でんげきを　くりだす\nてきは　ぜったいに　よけられない"
+    en: "A fast and unavoidable\nelectric attack."
+    fr: "Attaque électrique rapide\net impossible à esquiver."
+    it: "Rapido ed inevitabile\nattacco elettrico."
+    de: "Schnelle Elektro-Attacke\nmit Treffergarantie."
+    es: "Ataque eléctrico muy rápido\ne ineludible."
+signal_beam:
+  names:
+    jp_kana: シグナルビーム
+    en: SIGNAL BEAM
+    fr: RAYON SIGNAL
+    it: SEGNORAGGIO
+    de: AMPELLEUCHTE
+    es: DOBLE RAYO
+  descriptions:
+    jp_kana: "ふしぎな　ひかりを　はっしゃする\nてきを　こんらんさせることがある"
+    en: "A strange beam attack that\nmay confuse the foe."
+    fr: "Un étrange rayon qui peut\nrendre l’ennemi confus."
+    it: "Strano raggio che può\nconfondere il nemico."
+    de: "Seltsame Strahlenattacke.\nVerwirrt evtl. den Gegner."
+    es: "Extraño ataque con rayo.\nPuede causar confusión."
+silver_wind:
+  names:
+    jp_kana: ぎんいろのかぜ
+    en: SILVER WIND
+    fr: VENT ARGENTE
+    it: VENTARGENTEO
+    de: SILBERHAUCH
+    es: VIENTO PLATA
+  descriptions:
+    jp_kana: "かぜに　りんぷんを　のせて　こうげき\nのうりょくが　あがることがある"
+    en: "A powdery attack that may\nraise abilities."
+    fr: "Attaque poudreuse qui peut\naugmenter les capacités."
+    it: "Polvere che può far\nsalire le statistiche."
+    de: "Pulver-Attacke, die evtl.\ndie Werte erhöht."
+    es: "Partículas de plata que\nquizá suban las habilidades."
+sing:
+  names:
+    jp_kana: うたう
+    en: SING
+    fr: BERCEUSE
+    it: CANTO
+    de: GESANG
+    es: CANTO
+  descriptions:
+    jp_kana: "ここちよい　うたごえで\nてきを　ふかいねむりへと　さそう"
+    en: "A soothing song lulls the\nfoe into a deep slumber."
+    fr: "Berceuse plongeant l’ennemi\ndans un profond sommeil."
+    it: "Una dolce nenia costringe\nil nemico ad addormentarsi."
+    de: "Ein Lied, das den Gegner\nin tiefen Schlaf versetzt."
+    es: "Cancioncilla que puede\ndormir al enemigo."
+sketch:
+  names:
+    jp_kana: スケッチ
+    en: SKETCH
+    fr: GRIBOUILLE
+    it: SCHIZZO
+    de: NACHAHMER
+    es: ESQUEMA
+  descriptions:
+    jp_kana: "てきが　つかったわざを　スケッチして\nそのわざを　じぶんのものに　する"
+    en: "Copies the foe’s last move\npermanently."
+    fr: "Copie en permanence la\ndernière attaque ennemie."
+    it: "Copia per sempre l’ultima\nmossa usata dal nemico."
+    de: "Kopiert stets den zuletzt\nerlittenen Angriff."
+    es: "Copia siempre el último\nataque del rival."
+skill_swap:
+  names:
+    jp_kana: スキルスワップ
+    en: SKILL SWAP
+    fr: ECHANGE
+    it: BARATTO
+    de: WERTEWECHSEL
+    es: INTERCAMBIO
+  descriptions:
+    jp_kana: "おたがいの　とくせいを　\nいれかえることが　できる"
+    en: "The user swaps special\nabilities with the target."
+    fr: "Le lanceur et la cible\néchangent leurs cap. spéc."
+    it: "Chi la usa scambia l’abilità\nspeciale."
+    de: "Anw. tauscht Spezial-\nfähigkeit mit POKéMON."
+    es: "Intercambia la habilidad\nespecial con otro POKéMON."
+skull_bash:
+  names:
+    jp_kana: ロケットずつき
+    en: SKULL BASH
+    fr: COUD’KRANE
+    it: CAPOCCIATA
+    de: SCHÄDELWUMME
+    es: CABEZAZO
+  descriptions:
+    jp_kana: "１ターンめで　あたまを　ひっこめて\nつぎのターンで　てきを　こうげき"
+    en: "Tucks in the head, then\nattacks on the next turn."
+    fr: "Rentre la tête et attaque\nau tour suivant."
+    it: "Abbassa la testa per\nattaccare dopo un turno."
+    de: "Zieht Kopf ein und greift in\nder nächsten Runde an."
+    es: "1.ᵉʳ turno: se prepara.\n2.º: da el cabezazo."
+sky_attack:
+  names:
+    jp_kana: ゴッドバード
+    en: SKY ATTACK
+    fr: PIQUE
+    it: AEROATTACCO
+    de: HIMMELSFEGER
+    es: ATAQUE AÉREO
+  descriptions:
+    jp_kana: "１ターンめで　じゃくてんを　さがし\nつぎのターンで　てきを　こうげき"
+    en: "Searches out weak spots,\nthen strikes the next turn."
+    fr: "Cherche les points faibles\net frappe au tour suivant."
+    it: "Trova punti deboli, per at-\ntaccare al turno seguente."
+    de: "Sucht nach Schwächen,\nTreffer nächste Runde."
+    es: "1.º, busca punto flaco.\n2.º, va a por él."
+sky_uppercut:
+  names:
+    jp_kana: スカイアッパー
+    en: SKY UPPERCUT
+    fr: STRATOPERCUT
+    it: STRAMONTANTE
+    de: HIMMELHIEB
+    es: GANCHO ALTO
+  descriptions:
+    jp_kana: "そらに　むかうような　いきおいで\nアッパーを　くりだし　こうげき"
+    en: "An uppercut thrown as if\nleaping into the sky."
+    fr: "Un uppercut porté en\ndirection du ciel."
+    it: "Montante che sembra\nlanciare il nemico in cielo."
+    de: "Kinnhaken, als würde man in\ndie Luft springen."
+    es: "Gancho ascendente de gran\nímpetu."
+slack_off:
+  names:
+    jp_kana: なまける
+    en: SLACK OFF
+    fr: PARESSE
+    it: PIGRO
+    de: TAGEDIEB
+    es: RELAJO
+  descriptions:
+    jp_kana: "なまけて　からだを　たいりょくの\nはんぶんだけ　かいふくする"
+    en: "Slacks off and restores\nhalf the maximum HP."
+    fr: "Se détend et récupère\nla moitié des PV maximum."
+    it: "Rilassamento: restituisce\nmetà dei PS massimi."
+    de: "Durch Müßiggang wird die\nHälfte d. max. KP aufgefüllt."
+    es: "Te relaja y restaura la\nmitad de los PS máximos."
+slam:
+  names:
+    jp_kana: たたきつける
+    en: SLAM
+    fr: SOUPLESSE
+    it: SCHIANTO
+    de: SLAM
+    es: PORTAZO
+  descriptions:
+    jp_kana: "ながいシッポや　ツルなどを\nてきに　たたきつけて　こうげき"
+    en: "Slams the foe with a long\ntail, vine, etc."
+    fr: "Fouette l’ennemi avec sa\nqueue, une liane, etc."
+    it: "Un colpo inferto con una\ncoda, una liana o simili."
+    de: "Schlag mit einem langen\nSchweif, einer Ranke o. ä."
+    es: "Golpea con las\nextremidades."
+slash:
+  names:
+    jp_kana: きりさく
+    en: SLASH
+    fr: TRANCHE
+    it: LACERAZIONE
+    de: SCHLITZER
+    es: CUCHILLADA
+  descriptions:
+    jp_kana: "するどいカマや　ツメなどで　こうげき\nきゅうしょに　あたりやすい"
+    en: "Slashes with claws, etc. Has\na high critical-hit ratio."
+    fr: "Coups de griffe, etc.\nTaux de critiques élevé."
+    it: "Attacco di artigli e simili:\nprobabile brutto colpo."
+    de: "Hieb mit Klauen o. ä. Hohe\nVolltrefferquote."
+    es: "Acuchilla con pinzas, etc.\nSuele dar un golpe crítico."
+sleep_powder:
+  names:
+    jp_kana: ねむりごな
+    en: SLEEP POWDER
+    fr: POUDRE DODO
+    it: SONNIFERO
+    de: SCHLAFPUDER
+    es: SOMNÍFERO
+  descriptions:
+    jp_kana: "ねむくなる　こなを　ふりまき\nてきを　ねむらせてしまう"
+    en: "Scatters a powder that may\ncause the foe to sleep."
+    fr: "Répand une poudre pouvant\nendormir l’ennemi."
+    it: "Polvere che può far\naddormentare il nemico."
+    de: "Verstreut Puder, der Geg.\nevtl. in Schlaf versetzt."
+    es: "Esparce polvo que puede\ndormir al enemigo."
+sleep_talk:
+  names:
+    jp_kana: ねごと
+    en: SLEEP TALK
+    fr: BLABLA DODO
+    it: SONNOLALIA
+    de: SCHLAFREDE
+    es: SONÁMBULO
+  descriptions:
+    jp_kana: "ねているときだけ　つかえる　わざ\nランダムで　じぶんのわざを　くりだす"
+    en: "Uses an own move randomly\nwhile asleep."
+    fr: "Utilise un coup au hasard\nen dormant."
+    it: "Chi la usa sfodera uno dei\npropri attacchi nel sonno."
+    de: "Benutzt per Zufall eine\nAttacke im Schlaf."
+    es: "Mientras duerme, usa un\nataque elegido al azar."
+sludge:
+  names:
+    jp_kana: ヘドロこうげき
+    en: SLUDGE
+    fr: DETRITUS
+    it: FANGO
+    de: SCHLAMMBAD
+    es: RESIDUOS
+  descriptions:
+    jp_kana: "ヘドロを　なげつけて　こうげき\nてきに　どくをあたえることがある"
+    en: "Sludge is hurled to inflict\ndamage. May also poison."
+    fr: "Blesse en envoyant des\ndétritus. Peut empoisonner."
+    it: "Lancio di fango che arreca\ndanno e può avvelenare."
+    de: "Wirft Schlamm auf Gegner.\nEvtl. Vergiftung."
+    es: "Arroja residuos al rival.\nPuede llegar a envenenar."
+sludge_bomb:
+  names:
+    jp_kana: ヘドロばくだん
+    en: SLUDGE BOMB
+    fr: BOMB-BEURK
+    it: FANGOBOMBA
+    de: MATSCHBOMBE
+    es: BOMBA LODO
+  descriptions:
+    jp_kana: "ヘドロを　なげつけて　こうげき\nてきに　どくをあたえることがある"
+    en: "Sludge is hurled to inflict\ndamage. May also poison."
+    fr: "Envoie des détritus pour\nblesser. Peut empoisonner."
+    it: "Lancio di fango che arreca\ndanno e può avvelenare."
+    de: "Wirft Schlamm auf Gegner\nund vergiftet ihn evtl."
+    es: "Explosión de lodo que puede\nllegar a envenenar."
+smelling_salts:
+  names:
+    jp_kana: きつけ
+    en: SMELLINGSALT
+    fr: STIMULANT
+    it: MANIEREFORTI
+    de: RIECHSALZ
+    es: ESTÍMULO
+  descriptions:
+    jp_kana: "まひしている　あいてに　だいダメージ\nそのかわり　まひが　なおる"
+    en: "Powerful against paralyzed\nfoes, but also heals them."
+    fr: "Utile contre les ennemis\nparalysés, mais les soigne."
+    it: "Forte contro nemici\nparalizzati, ma li cura."
+    de: "Effektiv geg. paralysierte\nGegner. Heilt sie aber auch."
+    es: "Afecta a rivales paraliza-\ndos, pero también los cura."
+smog:
+  names:
+    jp_kana: スモッグ
+    en: SMOG
+    fr: PUREDPOIS
+    it: SMOG
+    de: SMOG
+    es: POLUCIÓN
+  descriptions:
+    jp_kana: "はいきガスを　ふきかけて　こうげき\nてきに　どくをあたえることがある"
+    en: "An exhaust-gas attack\nthat may also poison."
+    fr: "Un gaz nocif pouvant\nempoisonner l’ennemi."
+    it: "Gas di scarico che può\nanche avvelenare."
+    de: "Angriff mit Gas. Gegner wird\nevtl. vergiftet."
+    es: "Gases de escape que pueden\nllegar a envenenar."
+smokescreen:
+  names:
+    jp_kana: えんまく
+    en: SMOKESCREEN
+    fr: BROUILLARD
+    it: MURO DI FUMO
+    de: RAUCHWOLKE
+    es: PANTALLAHUMO
+  descriptions:
+    jp_kana: "けむりや　スミなどで　てきの\nめいちゅうりつを　さげさせる"
+    en: "Lowers the foe’s accuracy\nusing smoke, ink, etc."
+    fr: "Baisse la précision ennemie\nutilisant fumée, encre, etc."
+    it: "Fumo o inchiostro riducono\nla precisione del nemico."
+    de: "Senkt Genauigkeit d. Geg-\nners mit Rauch, Tinte o. ä."
+    es: "Baja la PRECISIÓN del\nenemigo con humo, etc."
+snatch:
+  names:
+    jp_kana: よこどり
+    en: SNATCH
+    fr: SAISIE
+    it: SCIPPO
+    de: ÜBERNAHME
+    es: ROBO
+  descriptions:
+    jp_kana: "あいてが　つかおうとした　わざを\nうばって　じぶんに　つかってしまう"
+    en: "Steals the effects of the\nmove the foe uses next."
+    fr: "Vole les effets de la\nprochaine attaque ennemie."
+    it: "Ruba e utilizza una mossa \nche il nemico vuole usare."
+    de: "Immunität geg. den Effekt\nd. nächsten gegn. Angriffs."
+    es: "Roba el efecto del ataque\nque el rival use después."
+snore:
+  names:
+    jp_kana: いびき
+    en: SNORE
+    fr: RONFLEMENT
+    it: RUSSARE
+    de: SCHNARCHER
+    es: RONQUIDO
+  descriptions:
+    jp_kana: "ねているときだけ　つかえる　わざ\nすごいいびきで　てきを　こうげき"
+    en: "A loud attack that can be\nused only while asleep."
+    fr: "Attaque sonore qui ne peut\nêtre lancée qu’endormi."
+    it: "Attacco rumoroso usato\nsolo mentre si dorme."
+    de: "Laute Attacke. Kann nur im\nSchlaf benutzt werden."
+    es: "Fuerte ronquido que puede\nusarse estando dormido."
+soft_boiled:
+  names:
+    jp_kana: タマゴうみ
+    en: SOFTBOILED
+    fr: E-COQUE
+    it: COVAUOVA
+    de: WEICHEI
+    es: AMORTIGUADOR
+  descriptions:
+    jp_kana: "キズついた　からだを　たいりょくの\nはんぶんだけ　かいふくする"
+    en: "Recovers up to half the\nuser’s maximum HP."
+    fr: "Regagne jusqu’à la moitié\ndes PV max du lanceur."
+    it: "Chi la usa recupera fino a\nmetà dei PS massimi."
+    de: "Max. KP des Anwenders w.\nbis zur Hälfte aufgefüllt."
+    es: "Restaura hasta la mitad\nde tus PS máximos."
+solar_beam:
+  names:
+    jp_kana: ソーラービーム
+    en: SOLARBEAM
+    fr: LANCE-SOLEIL
+    it: SOLARRAGGIO
+    de: SOLARSTRAHL
+    es: RAYO SOLAR
+  descriptions:
+    jp_kana: "１ターンめで　ひかりを　きゅうしゅう\nつぎのターンで　てきを　こうげき"
+    en: "Absorbs light in one turn,\nthen attacks next turn."
+    fr: "Absorbe la lumière et\nattaque le tour suivant."
+    it: "Al primo turno assorbe luce\ne attacca nel successivo."
+    de: "Absorbiert Licht in der 1.\nRunde, 2. Runde Angriff."
+    es: "1.ᵉʳ turno: absorbe luz.\n2.º: ataca."
+sonic_boom:
+  names:
+    jp_kana: ソニックブーム
+    en: SONICBOOM
+    fr: SONICBOOM
+    it: SONICBOOM
+    de: ULTRASCHALL
+    es: BOMBA SÓNICA
+  descriptions:
+    jp_kana: "しょうげきはで　てきを　こうげき\n２０の　きまったダメージを　あたえる"
+    en: "Launches shock waves that\nalways inflict 20 HP damage."
+    fr: "Envoie des ondes de choc\ninfligeant 20 PV de dégâts."
+    it: "Onde acustiche che fanno\nsempre un danno di 20 PS."
+    de: "Schockwellen. Richten immer\n20 KP Schaden an."
+    es: "Lanza ondas de choque\nque restan 20 PS."
+spark:
+  names:
+    jp_kana: スパーク
+    en: SPARK
+    fr: ETINCELLE
+    it: SCINTILLA
+    de: FUNKENSPRUNG
+    es: CHISPA
+  descriptions:
+    jp_kana: "でんきを　まとって　とっしんする\nてきを　まひさせることがある"
+    en: "An electrified tackle that\nmay paralyze the foe."
+    fr: "Une charge électrique qui\npeut paralyser l’ennemi."
+    it: "Attacco elettrico che può\nparalizzare il nemico."
+    de: "Elektro-Hieb, der Gegner\nparalysieren kann."
+    es: "Ataque eléctrico que puede\nllegar a paralizar."
+spider_web:
+  names:
+    jp_kana: クモのす
+    en: SPIDER WEB
+    fr: TOILE
+    it: RAGNATELA
+    de: SPINNENNETZ
+    es: TELARAÑA
+  descriptions:
+    jp_kana: "ネバネバとした　いとを　からませて\nてきを　にげられなく　してしまう"
+    en: "Ensnares the foe to stop it\nfrom fleeing or switching."
+    fr: "Capture l’ennemi et empêche\ntoute fuite ou changement."
+    it: "Il nemico non può fuggire\nné essere sostituito."
+    de: "Wickelt Gegner ein. Flucht \noder Tausch unmöglich."
+    es: "Enreda al rival para evitar\nque huya o pida el relevo."
+spike_cannon:
+  names:
+    jp_kana: とげキャノン
+    en: SPIKE CANNON
+    fr: PICANON
+    it: SPARALANCE
+    de: DORNKANONE
+    es: CLAVO CAÑÓN
+  descriptions:
+    jp_kana: "するどいハリを　てきに　はっしゃして\n２ー５かい　れんぞくで　こうげき"
+    en: "Launches sharp spikes that\nstrike 2 to 5 times."
+    fr: "Lance des pointes qui\nfrappent 2 à 5 fois."
+    it: "Lance acuminate colpiscono\nil nemico da 2 a 5 volte."
+    de: "Verschießt spitze Stacheln\nund trifft 2 - 5-mal."
+    es: "Lanza finas púas que\nhieren de 2 a 5 veces."
+spikes:
+  names:
+    jp_kana: まきびし
+    en: SPIKES
+    fr: PICOTS
+    it: PUNTE
+    de: STACHLER
+    es: PÚAS
+  descriptions:
+    jp_kana: "てきの　あしばに　わなを　しかけ\nこうたいした　てきを　こうげきする"
+    en: "Sets spikes that hurt a \nfoe switching out."
+    fr: "Pointes blessant lors d’un\nchangement d’adversaire."
+    it: "Punte che danneggiano il\nnemico se sostituito."
+    de: "Richtet bei Tausch Schaden\nmit Stacheln an."
+    es: "Riega púas que hieren si\nel rival pide el relevo."
+spit_up:
+  names:
+    jp_kana: はきだす
+    en: SPIT UP
+    fr: RELACHE
+    it: SFOGHENERGIA
+    de: ENTFESSLER
+    es: ESCUPIR
+  descriptions:
+    jp_kana: "たくわえた　ちからを　はきだす\nかいすうで　ダメージが　へんかする"
+    en: "Releases stockpiled power\n(the more the better)."
+    fr: "Libère la puissance\nprécédemment accumulée."
+    it: "L’effetto dipende dall’\nenergia prima accumulata."
+    de: "Entlädt gehortete Kraft.\nJe mehr, desto besser."
+    es: "Libera energía acumulada.\nCuanta más, mejor."
+spite:
+  names:
+    jp_kana: うらみ
+    en: SPITE
+    fr: DEPIT
+    it: DISPETTO
+    de: GROLL
+    es: RENCOR
+  descriptions:
+    jp_kana: "あいてが　だした　わざを　うらんで\nその　わざポイントを　へらしてしまう"
+    en: "Spitefully cuts the PP\nof the foe’s last move."
+    fr: "Réduit méchamment les PP\nde la dernière att. ennemie."
+    it: "Abbatte i PP dell’ultima \nmossa del nemico."
+    de: "AP des letzten gegner.\nAngriffs werden gesenkt."
+    es: "Baja con rencor PP del\núltimo ataque recibido."
+splash:
+  names:
+    jp_kana: はねる
+    en: SPLASH
+    fr: TREMPETTE
+    it: SPLASH
+    de: PLATSCHER
+    es: SALPICADURA
+  descriptions:
+    jp_kana: はねるだけで　なにもおこらない⋯⋯
+    en: "It’s just a splash...\nHas no effect whatsoever."
+    fr: "Eclabousse l’ennemi...\nN’a aucun effet."
+    it: "Semplice spruzzo, privo\ndi qualsiasi efficacia."
+    de: "Nur ein Platscher..., der\nüberhaupt nichts bewirkt."
+    es: "No tiene ningún efecto.\nSólo salpica."
+spore:
+  names:
+    jp_kana: キノコのほうし
+    en: SPORE
+    fr: SPORE
+    it: SPORA
+    de: PILZSPORE
+    es: ESPORA
+  descriptions:
+    jp_kana: "さいみんこうかのある　ほうしを\nふりまき　てきを　ねむらせる"
+    en: "Scatters a cloud of spores\nthat always induce sleep."
+    fr: "Répand un nuage de spores\nqui endort toujours."
+    it: "Nube di spore che fa sempre\naddormentare il nemico."
+    de: "Erzeugt eine Wolke aus ein-\nschläfernden Sporen."
+    es: "Esparce esporas\nque inducen al sueño."
+steel_wing:
+  names:
+    jp_kana: はがねのつばさ
+    en: STEEL WING
+    fr: AILE D’ACIER
+    it: ALACCIAIO
+    de: STAHLFLÜGEL
+    es: ALA DE ACERO
+  descriptions:
+    jp_kana: "かたいつばさを　おおきく　ひろげて\nそのまま　てきに　たいあたりする"
+    en: "Strikes the foe with hard\nwings spread wide."
+    fr: "Frappe l’ennemi en \ndéployant ses ailes d’acier."
+    it: "Colpo inferto da forti\nali spiegate."
+    de: "Trifft den Gegner hart mit\nausgebreiteten Flügeln."
+    es: "Alas rígidas que\ngolpean al rival."
+stockpile:
+  names:
+    jp_kana: たくわえる
+    en: STOCKPILE
+    fr: STOCKAGE
+    it: ACCUMULO
+    de: HORTER
+    es: RESERVA
+  descriptions:
+    jp_kana: "さいだい　３かいまで\nちからを　たくわえる"
+    en: "Charges up power for up to\n3 turns."
+    fr: "Accumule de la puissance\npendant 3 tours maximum."
+    it: "Accumula energia fino\na 3 turni."
+    de: "Lädt Kraft für bis zu 3\nRunden auf."
+    es: "Recarga energía hasta\n3 veces."
+stomp:
+  names:
+    jp_kana: ふみつけ
+    en: STOMP
+    fr: ECRASEMENT
+    it: PESTONE
+    de: STAMPFER
+    es: PISOTÓN
+  descriptions:
+    jp_kana: "おおきなあしで　ふみつけて　こうげき\nてきを　ひるませることがある"
+    en: "Stomps the enemy with a big\nfoot. May cause flinching."
+    fr: "Ecrase avec un énorme pied.\nPeut apeurer l’ennemi."
+    it: "Un grosso piede colpisce il\nnemico, che può tentennare."
+    de: "Stampfen mit Fuß. Gegner\nschreckt evtl. zurück."
+    es: "Tremendo pisotón que\npuede causar retroceso."
+strength:
+  names:
+    jp_kana: かいりき
+    en: STRENGTH
+    fr: FORCE
+    it: FORZA
+    de: STÄRKE
+    es: FUERZA
+  descriptions:
+    jp_kana: "ぜんしんに　すごいちからを　ためて\nてきを　こうげき"
+    en: "Builds enormous power,\nthen slams the foe."
+    fr: "Accumule de la puissance,\npuis frappe l’ennemi."
+    it: "Raccoglie un’enorme energia\nper poi colpire il nemico."
+    de: "Erzeugt enorme Kraft und\nrammt den Gegner."
+    es: Potente ataque físico.
+string_shot:
+  names:
+    jp_kana: いとをはく
+    en: STRING SHOT
+    fr: SECRETION
+    it: MILLEBAVE
+    de: FADENSCHUSS
+    es: DISP. DEMORA
+  descriptions:
+    jp_kana: "いとを　てきの　からだに　まきつけ\nすばやさを　さげさせる"
+    en: "Binds the foe with string\nto reduce its SPEED."
+    fr: "Ligote l’ennemi afin de\nréduire sa VITESSE."
+    it: "Un filo avvolge il nemico\nriducendone la VELOCITÀ."
+    de: "Umwickelt Gegner mit Faden\nund senkt INIT.-Wert."
+    es: "Baja la VELOCIDAD\ndel enemigo."
+struggle:
+  names:
+    jp_kana: わるあがき
+    en: STRUGGLE
+    fr: LUTTE
+    it: SCONTRO
+    de: VERZWEIFLER
+    es: COMBATE
+  descriptions:
+    jp_kana: "わざポイントがなくなると　でるわざ\nじぶんもすこし　ダメージをうける"
+    en: "Used only if all PP are gone.\nAlso hurts the user a little."
+    fr: "Fonctionne s’il ne reste\nplus de PP. Blesse un peu."
+    it: "Agisce solo a PP azzerati e\ndanneggia anche chi la usa."
+    de: "Einsatz nur bei verbrauch-\nten AP. Selbstschädigung!"
+    es: "Sólo se usa al acabarse\nlos PP. Te hiere un poco."
+stun_spore:
+  names:
+    jp_kana: しびれごな
+    en: STUN SPORE
+    fr: PARA-SPORE
+    it: PARALIZZANTE
+    de: STACHELSPORE
+    es: PARALIZADOR
+  descriptions:
+    jp_kana: "しびれる　こなを　ふりまき\nてきを　まひさせてしまう"
+    en: "Scatters a powder that may\nparalyze the foe."
+    fr: "Répand une poudre pouvant\nparalyser l’ennemi."
+    it: "Polvere che può paralizzare\nil nemico."
+    de: "Verstreut Puder, der den\nGegner evtl. paralysiert."
+    es: "Esparce polvo que puede\nparalizar al enemigo."
+submission:
+  names:
+    jp_kana: じごくぐるま
+    en: SUBMISSION
+    fr: SACRIFICE
+    it: SOTTOMISS.
+    de: ÜBERROLLER
+    es: SUMISIÓN
+  descriptions:
+    jp_kana: "じぶんごと　じめんに　たたきつける\nじぶんにも　すこしダメージ"
+    en: "A reckless body slam that\nalso hurts the user."
+    fr: "Une charge violente qui\nblesse aussi le lanceur."
+    it: "Carica spericolata che\ndanneggia anche chi la fa."
+    de: "Rücksichtsloser Rempler. \nSchädigt auch Angreifer."
+    es: "Golpe desmedido que\ntambién hiere al agresor."
+substitute:
+  names:
+    jp_kana: みがわり
+    en: SUBSTITUTE
+    fr: CLONAGE
+    it: SOSTITUTO
+    de: DELEGATOR
+    es: SUSTITUTO
+  descriptions:
+    jp_kana: "たいりょくの　４ぶんの１を　つかって\nじぶんの　ぶんしんをだす"
+    en: "Creates a decoy using 1/4\nof the user’s maximum HP."
+    fr: "Crée un leurre avec 1/4\ndes PV max du lanceur."
+    it: "Crea un’esca con 1/4 dei\nPS massimi di chi la usa."
+    de: "Lockvogel, der 1/4 der max.\nKP des Anwenders besitzt."
+    es: "Crea un señuelo con\n1/4 de tus PS máximos."
+sunny_day:
+  names:
+    jp_kana: にほんばれ
+    en: SUNNY DAY
+    fr: ZENITH
+    it: GIORNODISOLE
+    de: SONNENTAG
+    es: DÍA SOLEADO
+  descriptions:
+    jp_kana: "５ターンのあいだ　ほのおタイプの\nわざの　いりょくが　あがる"
+    en: "Boosts the power of FIRE-\ntype moves for 5 turns."
+    fr: "Améliore les attaques FEU\npendant 5 tours."
+    it: "Aumenta l’effetto delle\nmosse FUOCO per 5 turni."
+    de: "Erhöht Stärke von FEUER-\nAttacken 5 Runden lang."
+    es: "Sube los ataques de tipo\nFUEGO durante 5 turnos."
+super_fang:
+  names:
+    jp_kana: いかりのまえば
+    en: SUPER FANG
+    fr: CROC FATAL
+    it: SUPERZANNA
+    de: SUPERZAHN
+    es: SUPERDIENTE
+  descriptions:
+    jp_kana: "するどいまえばで　こうげきして\nてきの　たいりょくを　はんぶんにする"
+    en: "Attacks with sharp fangs\nand cuts half the foe’s HP."
+    fr: "Coup de croc qui fait\nbaisser les PV de moitié."
+    it: "Denti affilati abbattono\nmetà dei PS del nemico."
+    de: "Greift mit scharfen Zähnen\nan. Halbiert gegnerische KP."
+    es: "Finos colmillos que bajan\na la mitad los PS del rival."
+superpower:
+  names:
+    jp_kana: ばかぢから
+    en: SUPERPOWER
+    fr: SURPUISSANCE
+    it: TROPPOFORTE
+    de: KRAFTKOLOSS
+    es: FUERZA BRUTA
+  descriptions:
+    jp_kana: "すごい　ちからを　はっきするが　\nつかれて　のうりょくが　さがる"
+    en: "Boosts strength sharply,\nbut lowers abilities."
+    fr: "Booste la force, mais\nbaisse les capacités."
+    it: "Rende molto più forti, ma\npeggiora le statistiche."
+    de: "Steigert Stärke deutlich,\nsenkt aber Status-Werte."
+    es: "Aumenta mucho la fuerza,\npero las habilidades bajan."
+supersonic:
+  names:
+    jp_kana: ちょうおんぱ
+    en: SUPERSONIC
+    fr: ULTRASON
+    it: SUPERSUONO
+    de: SUPERSCHALL
+    es: SUPERSÓNICO
+  descriptions:
+    jp_kana: "からだから　かいおんぱを　はっして\nてきを　こんらんさせることがある"
+    en: "Emits bizarre sound waves\nthat may confuse the foe."
+    fr: "Etranges ondes sonores\npouvant rendre confus."
+    it: "Strane onde acustiche\nconfondono il nemico."
+    de: "Ausstoß bizarrer Schallwel-\nlen. Verwirrt Gegner evtl."
+    es: "Raras ondas sónicas\nque pueden confundir."
+surf:
+  names:
+    jp_kana: なみのり
+    en: SURF
+    fr: SURF
+    it: SURF
+    de: SURFER
+    es: SURF
+  descriptions:
+    jp_kana: "みずに　なみを　おこし　それを\nものすごい　ちからで　たたきつける"
+    en: "Creates a huge wave, then\ncrashes it down on the foe."
+    fr: "Crée une énorme vague qui\ns’écrase sur l’ennemi."
+    it: "Un’onda enorme si abbatte\nsul nemico."
+    de: "Eine riesige Welle bricht\nüber den Gegner herein."
+    es: "Crea una ola enorme y\nse la lanza al enemigo."
+swagger:
+  names:
+    jp_kana: いばる
+    en: SWAGGER
+    fr: VANTARDISE
+    it: BULLO
+    de: ANGEBEREI
+    es: CONTONEO
+  descriptions:
+    jp_kana: "てきを　おこらせて　こんらんさせるが\nこうげきも　グーンと　あげてしまう"
+    en: "Confuses the foe, but also\nsharply raises ATTACK."
+    fr: "Rend l’ennemi confus et\nbooste l’ATTAQUE."
+    it: "Confonde il nemico e ne\naumenta l’ATTACCO."
+    de: "Verwirrt den Gegner und\nerhöht ANGR.-Wert deutlich."
+    es: "Provoca confusión, pero\ntambién sube el ATAQUE."
+swallow:
+  names:
+    jp_kana: のみこむ
+    en: SWALLOW
+    fr: AVALE
+    it: INTROENERGIA
+    de: VERZEHRER
+    es: TRAGAR
+  descriptions:
+    jp_kana: "たくわえた　ちからを　のみこむ\nたいりょくを　かいふくする"
+    en: "Absorbs stockpiled power\nand restores HP."
+    fr: "Absorbe la puissance accu-\nmulée et restaure les PV."
+    it: "Assorbe l’energia accumula-\nta restituendo PS."
+    de: "Absorbiert gehortete\nKraft. Stellt KP wieder her."
+    es: "Absorbe energía acumulada\ny restaura PS."
+sweet_kiss:
+  names:
+    jp_kana: てんしのキッス
+    en: SWEET KISS
+    fr: DOUX BAISER
+    it: DOLCEBACIO
+    de: BITTERKUSS
+    es: BESO DULCE
+  descriptions:
+    jp_kana: "かわいい　かおで　キスを　せまる\nキスされると　こんらんしてしまう"
+    en: "Demands a kiss with a cute\nlook. May cause confusion."
+    fr: "Demande un bisou tout\nmignon. Peut rendre confus."
+    it: "Un bacio rubato che può\ncausare confusione."
+    de: "Fordert Kuss mit süßem\nBlick. Verwirrt Gegner evtl."
+    es: "Pide un beso con dulzura\ny suele causar confusión."
+sweet_scent:
+  names:
+    jp_kana: あまいかおり
+    en: SWEET SCENT
+    fr: DOUX PARFUM
+    it: PROFUMINO
+    de: LOCKDUFT
+    es: DULCE AROMA
+  descriptions:
+    jp_kana: "あまいかおりで　きを　そらせて\nてきの　かいひりつを　さげさせる"
+    en: "Allures the foe to reduce\nevasiveness."
+    fr: "Séduit l’ennemi pour\nbaisser son esquive."
+    it: "Alletta il nemico per\nridurne l’elusione."
+    de: "Lockt Gegner an und senkt\nseinen Fluchtwert."
+    es: "Engatusa al rival para\nreducir su EVASIÓN."
+swift:
+  names:
+    jp_kana: スピードスター
+    en: SWIFT
+    fr: METEORES
+    it: COMETE
+    de: STERNSCHAUER
+    es: RAPIDEZ
+  descriptions:
+    jp_kana: "ぜったいに　よけられない　ほしがたの\nこうせんを　むすうに　はっしゃする"
+    en: "Sprays star-shaped rays\nthat never miss."
+    fr: "Envoie des rayons en forme\nd’étoile. Touche toujours."
+    it: "Raggi a forma di stella:\ninfallibili."
+    de: "Verschießt sternförmige\nStrahlen. Treffergarantie!"
+    es: "Lanza rayos en forma de\nestrella que no fallan."
+swords_dance:
+  names:
+    jp_kana: つるぎのまい
+    en: SWORDS DANCE
+    fr: DANSE-LAMES
+    it: DANZASPADA
+    de: SCHWERTTANZ
+    es: DANZA ESPADA
+  descriptions:
+    jp_kana: "たたかいの　おどりを　おどって\nこうげきを　グーンとあげる"
+    en: "A fighting dance that\nsharply raises ATTACK."
+    fr: "Une danse de combat pour\nbooster l’ATTAQUE."
+    it: "Una danza che potenzia\nfortemente l’ATTACCO."
+    de: "Erhöht den Angriffs-Wert\ndrastisch."
+    es: "Baile que mejora\nel ATAQUE."
+synthesis:
+  names:
+    jp_kana: こうごうせい
+    en: SYNTHESIS
+    fr: SYNTHESE
+    it: SINTESI
+    de: SYNTHESE
+    es: SÍNTESIS
+  descriptions:
+    jp_kana: "たいりょくを　かいふくする\nてんきで　かいふくりょうが　かわる"
+    en: "Restores HP. The amount\nvaries with the weather."
+    fr: "Restaure les PV.\nVarie suivant le temps."
+    it: "Ridà un numero di PS in\nbase al tempo che fa."
+    de: "Füllt KP auf. Die Menge\nhängt vom Wetter ab."
+    es: "Restaura PS. La cantidad\nvaría según el clima."
+tackle:
+  names:
+    jp_kana: たいあたり
+    en: TACKLE
+    fr: CHARGE
+    it: AZIONE
+    de: TACKLE
+    es: PLACAJE
+  descriptions:
+    jp_kana: "からだぜんたいを　つかって\nてきに　たいあたりして　こうげき"
+    en: "Charges the foe with a full-\nbody tackle."
+    fr: "Charge l’ennemi avec un\nviolent plaquage."
+    it: "Una carica portata\ncon tutto il corpo."
+    de: "Trifft den Gegner mit vollem\nKörpereinsatz."
+    es: "Embiste con todo\nel cuerpo."
+tail_glow:
+  names:
+    jp_kana: ほたるび
+    en: TAIL GLOW
+    fr: LUMIQUEUE
+    it: CODADILUCE
+    de: SCHWEIFGLANZ
+    es: RÁFAGA
+  descriptions:
+    jp_kana: "ひかりを　てんめつさせて\nとくこうを　グーンとあげる"
+    en: "Flashes a light that sharply\nraises SP. ATK."
+    fr: "Flash lumineux qui booste\nl’ATQ. SPE."
+    it: "Luce brillante che aumenta\ndi molto l’ATT. SP."
+    de: "Ein blinkendes Licht. SPEZ.\nANGR. wird deutlich erhöht."
+    es: "Ráfaga de luz que sube\nmuchísimo el AT. ESP."
+tail_whip:
+  names:
+    jp_kana: しっぽをふる
+    en: TAIL WHIP
+    fr: MIMI-QUEUE
+    it: COLPOCODA
+    de: RUTENSCHLAG
+    es: LÁTIGO
+  descriptions:
+    jp_kana: "てきに　しっぽをふって　ゆだんさせて\nぼうぎょを　さげさせる"
+    en: "Wags the tail to lower the\nfoe’s DEFENSE."
+    fr: "Remue la queue pour baisser\nla DEFENSE de l’ennemi."
+    it: "Agita la coda per ridurre\nla DIFESA del nemico."
+    de: "Hieb mit dem Schweif, senkt\ndie VERT. des Gegners."
+    es: "Agita la cola para bajar\nla DEFENSA del otro."
+take_down:
+  names:
+    jp_kana: とっしん
+    en: TAKE DOWN
+    fr: BELIER
+    it: RIDUTTORE
+    de: BODYCHECK
+    es: DERRIBO
+  descriptions:
+    jp_kana: "いきおいをつけて　てきに　たいあたり\nじぶんもすこし　ダメージをうける"
+    en: "A reckless charge attack\nthat also hurts the user."
+    fr: "Une charge violente qui\nblesse aussi le lanceur."
+    it: "Carica spericolata che\ndanneggia anche chi la fa."
+    de: "Rücksichtslose Attacke,\nmit Selbstschädigung."
+    es: "Carga desmedida que\ntambién hiere al agresor."
+taunt:
+  names:
+    jp_kana: ちょうはつ
+    en: TAUNT
+    fr: PROVOC
+    it: PROVOCAZIONE
+    de: VERHÖHNER
+    es: MOFA
+  descriptions:
+    jp_kana: "あいてを　ちょうはつして　おこらせる\nあいては　こうげき　しかできなくなる"
+    en: "Taunts the foe into only\nusing attack moves."
+    fr: "Provoque l’ennemi. L’oblige\nà utiliser ses attaques."
+    it: "Induce il nemico ad usare\nsolo mosse d’attacco."
+    de: "Legt den Gegner rein. Er\nbenutzt nur noch Angriffe."
+    es: "Hace que el rival sólo\nuse ataques."
+teeter_dance:
+  names:
+    jp_kana: フラフラダンス
+    en: TEETER DANCE
+    fr: DANSE-FOLLE
+    it: STRAMPADANZA
+    de: TAUMELTANZ
+    es: DANZA CAOS
+  descriptions:
+    jp_kana: "すべての　ポケモンを\nこんらん　じょうたいに　する"
+    en: "Confuses all POKéMON on\nthe scene."
+    fr: "Rend tous les POKéMON\nengagés confus."
+    it: "Confonde tutti i POKéMON\npresenti."
+    de: "Verwirrt alle POKéMON im \nKampf."
+    es: "Confunde a todos los\nPOKéMON que hay en escena."
+teleport:
+  names:
+    jp_kana: テレポート
+    en: TELEPORT
+    fr: TELEPORT
+    it: TELETRASPOR.
+    de: TELEPORT
+    es: TELETRANSP
+  descriptions:
+    jp_kana: "ちょうのうりょくを　つかって\nせんとうから　だっしゅつする"
+    en: "A psychic move for fleeing\nfrom battle instantly."
+    fr: "Attaque PSY permettant de\nprendre aussitôt la fuite."
+    it: "Mossa psichica per fuggire\nimmediatamente dalla lotta."
+    de: "Psycho-Angriff, um sofort\naus einem Kampf zu fliehen."
+    es: "Movimiento psíquico que\npermite huir al instante."
+thief:
+  names:
+    jp_kana: どろぼう
+    en: THIEF
+    fr: LARCIN
+    it: FURTO
+    de: RAUB
+    es: LADRÓN
+  descriptions:
+    jp_kana: "こうげきの　さいちゅうに　すきをみて\nてきが　もっている　どうぐを　ぬすむ"
+    en: "While attacking, it may\nsteal the foe’s held item."
+    fr: "Peut voler l’objet tenu par\nl’ennemi pendant l’attaque."
+    it: "Può rubare lo strumento\ntenuto dal nemico."
+    de: "Kann das vom Gegner\ngehaltene Item stehlen."
+    es: "Puede quitarle al rival\nel objeto que lleve."
+thrash:
+  names:
+    jp_kana: あばれる
+    en: THRASH
+    fr: MANIA
+    it: COLPO
+    de: FUCHTLER
+    es: GOLPE
+  descriptions:
+    jp_kana: "２ー３ターンのあいだ　あばれつづける\nあばれたあとは　こんらんしてしまう"
+    en: "A rampage of 2 to 3 turns\nthat confuses the user."
+    fr: "Une attaque furieuse de 2 à\n3 tours. Lanceur confus."
+    it: "Attacco veemente di 2-3\nturni: confonde chi lo usa."
+    de: "Attacke in 2 bis 3 Runden,\ndie Anwender verwirrt."
+    es: "Dura de 2 a 3 turnos\ny acaba confundiéndote."
+thunder:
+  names:
+    jp_kana: かみなり
+    en: THUNDER
+    fr: FATAL-FOUDRE
+    it: TUONO
+    de: DONNER
+    es: TRUENO
+  descriptions:
+    jp_kana: "てきに　むかって　かみなりを　おとす\nまひさせることがある"
+    en: "A lightning attack that may\ncause paralysis."
+    fr: "Une attaque foudroyante\npouvant paralyser l’ennemi."
+    it: "Un tuono che può\ncausare paralisi."
+    de: "Elektro-Attacke, die den\nGegner evtl. paralysiert."
+    es: "Un estruendo que puede\nparalizar al enemigo."
+thunder_punch:
+  names:
+    jp_kana: かみなりパンチ
+    en: THUNDERPUNCH
+    fr: POING-ECLAIR
+    it: TUONOPUGNO
+    de: DONNERSCHLAG
+    es: PUÑO TRUENO
+  descriptions:
+    jp_kana: "でんげきをこめた　パンチで　こうげき\nてきを　まひさせることがある"
+    en: "An electrified punch that\nmay paralyze the foe."
+    fr: "Un poing électrique\npouvant paralyser l’ennemi."
+    it: "Pugno elettrico che può\nparalizzare il nemico."
+    de: "Schlag, der den Gegner evtl.\nparalysiert."
+    es: "Puñetazo eléctrico.\nPuede paralizar."
+thunder_shock:
+  names:
+    jp_kana: でんきショック
+    en: THUNDERSHOCK
+    fr: ECLAIR
+    it: TUONOSHOCK
+    de: DONNERSCHOCK
+    es: IMPACTRUENO
+  descriptions:
+    jp_kana: "でんげきを　あびせて　こうげき\nてきを　まひさせることがある"
+    en: "An electrical attack that\nmay paralyze the foe."
+    fr: "Une attaque électrique\npouvant paralyser l’ennemi."
+    it: "Attacco elettrico che può\nparalizzare il nemico."
+    de: "Elektro-Attacke. Gegner\nevtl. paralysiert."
+    es: "Ataque eléctrico que\npuede paralizar al enemigo."
+thunder_wave:
+  names:
+    jp_kana: でんじは
+    en: THUNDER WAVE
+    fr: CAGE-ECLAIR
+    it: TUONONDA
+    de: DONNERWELLE
+    es: ONDA TRUENO
+  descriptions:
+    jp_kana: "よわいでんげきを　てきに　ぶつけて\nまひさせてしまう"
+    en: "A weak jolt of electricity\nthat paralyzes the foe."
+    fr: "Un faible choc électrique\nqui paralyse l’ennemi."
+    it: "Debole scarica elettrica\nche paralizza il nemico."
+    de: "Ein schwacher Stromstoß,\nder den Gegner paralysiert."
+    es: "Una descarga que puede\nparalizar al enemigo."
+thunderbolt:
+  names:
+    jp_kana: １０まんボルト
+    en: THUNDERBOLT
+    fr: TONNERRE
+    it: FULMINE
+    de: DONNERBLITZ
+    es: RAYO
+  descriptions:
+    jp_kana: "つよいでんげきを　あびせて　こうげき\nてきを　まひさせることがある"
+    en: "A strong electrical attack\nthat may paralyze the foe."
+    fr: "Forte attaque électrique\npouvant paralyser l’ennemi."
+    it: "Potente attacco elettrico:\npuò paralizzare il nemico."
+    de: "Starke Elektro-Attacke,\nGegner evtl. paralysiert."
+    es: "Duro ataque eléctrico que\npuede paralizar al enemigo."
+tickle:
+  names:
+    jp_kana: くすぐる
+    en: TICKLE
+    fr: CHATOUILLE
+    it: SOLLETICO
+    de: SPASSKANONE
+    es: COSQUILLAS
+  descriptions:
+    jp_kana: "あいてを　くすぐり　わらわせて\nこうげきと　ぼうぎょを　さげさせる"
+    en: "Makes the foe laugh to\nlower ATTACK and DEFENSE."
+    fr: "Fait rire l’ennemi et baisse\nson ATTAQUE et sa DEFENSE."
+    it: "Riduce ATTACCO e DIFESA\ndel nemico facendolo ridere."
+    de: "Bringt Gegner zum Lachen.\nANGR. u. VERT. sinken."
+    es: "Hace reír para bajar el\nATAQUE y la DEFENSA."
+torment:
+  names:
+    jp_kana: いちゃもん
+    en: TORMENT
+    fr: TOURMENTE
+    it: ATTACCALITE
+    de: FOLTERKNECHT
+    es: TORMENTO
+  descriptions:
+    jp_kana: "あいてに　いちゃもんを　つけて　\nおなじわざを　れんぞくで　ださせない"
+    en: "Torments the foe and stops\nsuccessive use of a move."
+    fr: "Perturbe l’ennemi. Empêche\nla réutilisation d’une att."
+    it: "Il nemico non può più usare\nl’ultima mossa utilizzata."
+    de: "Quält Gegner u. verhindert\nWdh. eines Angriffs."
+    es: "Agobia e impide el uso\nreiterado de un ataque."
+toxic:
+  names:
+    jp_kana: どくどく
+    en: TOXIC
+    fr: TOXIK
+    it: TOSSINA
+    de: TOXIN
+    es: TÓXICO
+  descriptions:
+    jp_kana: "じょじょに　ダメージがふえる　どくを\nてきに　あたえる"
+    en: "Poisons the foe with an\nintensifying toxin."
+    fr: "Empoisonne l’ennemi avec\nune puissante toxine."
+    it: "Avvelena il nemico con una\npotente tossina."
+    de: "Vergiftet den Gegner mit \neinem starken Toxin."
+    es: "Envenena al rival\nde forma progresiva."
+transform:
+  names:
+    jp_kana: へんしん
+    en: TRANSFORM
+    fr: MORPHING
+    it: TRASFORMAZ.
+    de: WANDLER
+    es: TRANSFORM
+  descriptions:
+    jp_kana: "てきの　ポケモンと　おなじ　すがたに\nさいぼうを　へんかさせ　へんしんする"
+    en: "Alters the user’s cells to\nbecome a copy of the foe."
+    fr: "Modifie ses cellules pour\ncopier l’ennemi."
+    it: "Chi la usa si trasforma in\nuna copia del nemico."
+    de: "Ändert die Anwenderzellen\nfür ein Ebenbild d. Gegners."
+    es: "Modifica las células\ndel rival y lo clona."
+tri_attack:
+  names:
+    jp_kana: トライアタック
+    en: TRI ATTACK
+    fr: TRIPLATTAQUE
+    it: TRIPLETTA
+    de: TRIPLETTE
+    es: TRIATAQUE
+  descriptions:
+    jp_kana: "３しゅるいの　こうせんを\n１つにまとめて　てきに　はっしゃする"
+    en: "Fires three types of beams\nat the same time."
+    fr: "Envoie trois types de\nrayons en même temps."
+    it: "Spara raggi di tre diversi\ntipi contemporaneamente."
+    de: "Feuert 3 Arten von Strahlen\ngleichzeitig ab."
+    es: "Dispara 3 tipos\nde rayos a la vez."
+trick:
+  names:
+    jp_kana: トリック
+    en: TRICK
+    fr: TOURMAGIK
+    it: RAGGIRO
+    de: TRICKBETRUG
+    es: TRUCO
+  descriptions:
+    jp_kana: "トリックを　つかって\nどうぐを　こうかん　してしまう"
+    en: "Tricks the foe into trading\nheld items."
+    fr: "Oblige la cible à échanger\nles objets tenus."
+    it: "Convince a scambiare uno\nstrumento tenuto."
+    de: "Betrügt beim Handel\nmit Gegenständen."
+    es: "Engaña al rival y provoca\nun cambio de objeto."
+triple_kick:
+  names:
+    jp_kana: トリプルキック
+    en: TRIPLE KICK
+    fr: TRIPLE PIED
+    it: TRIPLOCALCIO
+    de: DREIFACHKICK
+    es: TRIPLEPATADA
+  descriptions:
+    jp_kana: "てきを　３かい　れんぞくで　こうげき\nあてるたびに　ダメージが　あがる"
+    en: "Kicks the foe 3 times in a\nrow with rising intensity."
+    fr: "Trois coups de pied de plus\nen plus puissants."
+    it: "Tre calci consecutivi,\nsempre più forti."
+    de: "Tritt Gegner 3-mal nach-\neinander. Härte nimmt zu."
+    es: "Patea 3 veces seguidas\ny cada vez más fuerte."
+twineedle:
+  names:
+    jp_kana: ダブルニードル
+    en: TWINEEDLE
+    fr: DOUBLE-DARD
+    it: DOPPIO AGO
+    de: DUONADEL
+    es: DOBLEATAQUE
+  descriptions:
+    jp_kana: "りょうての　ハリを　つかって\nてきを　２かい　れんぞくで　こうげき"
+    en: "Stingers on the forelegs\njab the foe twice."
+    fr: "Les dards des pattes avant\nfrappent deux fois."
+    it: "Aculei sulle zampe anteriori\ncolpiscono il nemico 2 volte."
+    de: "Stacheln an den Vorderbei-\nnen treffen Gegner 2-mal."
+    es: "Clava aguijones al\nrival 2 veces."
+twister:
+  names:
+    jp_kana: たつまき
+    en: TWISTER
+    fr: OURAGAN
+    it: TORNADO
+    de: WINDHOSE
+    es: CICLÓN
+  descriptions:
+    jp_kana: "ものすごい　かぜを　おこして\nてきを　こうげき"
+    en: "Whips up a vicious twister\nto tear at the foe."
+    fr: "Déclenche un terrible\nouragan blessant l’ennemi."
+    it: "Un potente tornado si\nabbatte contro il nemico."
+    de: "Trifft Gegner mit\nheftigem Wirbelsturm."
+    es: "Crea un violento tornado\npara hacer trizas al rival."
+uproar:
+  names:
+    jp_kana: さわぐ
+    en: UPROAR
+    fr: BROUHAHA
+    it: BARAONDA
+    de: AUFRUHR
+    es: ALBOROTO
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　さわいで\nだれも　ねむれない"
+    en: "Causes an uproar for 2 to 5\nturns and prevents sleep."
+    fr: "Brouhaha de 2 à 5 tours.\nEmpêche de dormir."
+    it: "Frastuono che dura da 2 a\n5 turni e non fa dormire."
+    de: "Erzeugt für 2-5 Züge einen\nAufruhr. Verhindert Schlaf."
+    es: "Alborota de 2 a 5 turnos.\nMantiene despierto."
+vine_whip:
+  names:
+    jp_kana: つるのムチ
+    en: VINE WHIP
+    fr: FOUET LIANES
+    it: FRUSTATA
+    de: RANKENHIEB
+    es: LÁTIGO CEPA
+  descriptions:
+    jp_kana: "ムチのように　ほそながい　つるを\nてきに　たたきつけて　こうげき"
+    en: "Strikes the foe with\nslender, whiplike vines."
+    fr: "Fouette l’ennemi avec de\nfines lianes."
+    it: "Colpisce il nemico con\nliane sottili simili a fruste."
+    de: "Peitschenähnlicher Schlag\nmit Ranken."
+    es: "Azota al enemigo\ncon ramas finas."
+vise_grip:
+  names:
+    jp_kana: はさむ
+    en: VICEGRIP
+    fr: FORCE POIGNE
+    it: PRESA
+    de: KLAMMER
+    es: AGARRE
+  descriptions:
+    jp_kana: "おおきなハサミを　つかい\nてきを　はさんで　こうげき"
+    en: "Grips the foe with large and\npowerful pincers."
+    fr: "Empoigne l’ennemi avec\nde puissantes pinces."
+    it: "Stringe il nemico in una\nmorsa di forti tenaglie."
+    de: "Umklammert den Gegner mit\ngroßen, kräftigen Zangen."
+    es: "Atrapa con potentes\npinzas."
+vital_throw:
+  names:
+    jp_kana: あてみなげ
+    en: VITAL THROW
+    fr: CORPS PERDU
+    it: VITALTIRO
+    de: ÜBERWURF
+    es: TIRO VITAL
+  descriptions:
+    jp_kana: "あとぜめに　なるが　かならず\nこうげきが　あたる"
+    en: "Makes the user’s move last,\nbut it never misses."
+    fr: "L’attaque dure longtemps,\nmais n’échoue jamais."
+    it: "Colpisce sempre per\nultimo, ma è infallibile."
+    de: "Attacke stets gleich, aber\nmit Treffergarantie."
+    es: "Lleva su tiempo, pero no\nfalla."
+volt_tackle:
+  names:
+    jp_kana: ボルテッカー
+    en: VOLT TACKLE
+    fr: ELECTACLE
+    it: LOCOMOVOLT
+    de: VOLTTACKLE
+    es: PLACAJE ELÉC
+  descriptions:
+    jp_kana: "いのちをかけて　てきに　たいあたり\nじぶんもすこし　ダメージをうける"
+    en: "A life-risking tackle that\nslightly hurts the user."
+    fr: "Une dangereuse charge qui\nblesse aussi le lanceur."
+    it: "Potente carica: danneggia\nleggermente chi la fa."
+    de: "Lebensgefährliche Attacke,\nleichte Selbstschädigung."
+    es: "Placaje de alto riesgo que\nhiere un poco al atacante."
+water_gun:
+  names:
+    jp_kana: みずでっぽう
+    en: WATER GUN
+    fr: PISTOLET A O
+    it: PISTOLACQUA
+    de: AQUAKNARRE
+    es: PISTOLA AGUA
+  descriptions:
+    jp_kana: "みずを　はっしゃして\nてきを　こうげき"
+    en: "Squirts water to attack\nthe foe."
+    fr: "Attaque l’ennemi en\nprojetant de l’eau."
+    it: "Il nemico è colpito da un\ngetto d’acqua."
+    de: "Der Gegner wird mit Wasser\nbespritzt."
+    es: Rocía agua para atacar.
+water_pulse:
+  names:
+    jp_kana: みずのはどう
+    en: WATER PULSE
+    fr: VIBRAQUA
+    it: IDROPULSAR
+    de: AQUAWELLE
+    es: HIDROPULSO
+  descriptions:
+    jp_kana: "ちょうおんぱで　てきを　こうげき\nてきを　こんらんさせることがある"
+    en: "Attacks with ultrasonic\nwaves. May confuse the foe"
+    fr: "Envoi d’ondes aquatiques.\nPeut rendre confus."
+    it: "Onde ultrasoniche: possono\nconfondere il nemico."
+    de: "Ultraschallwellen, die den\nGegner verwirren können."
+    es: "Ondas ultrasónicas que\npueden confundir al rival."
+water_sport:
+  names:
+    jp_kana: みずあそび
+    en: WATER SPORT
+    fr: TOURNIQUET
+    it: DOCCIASCUDO
+    de: NASSMACHER
+    es: HIDROCHORRO
+  descriptions:
+    jp_kana: "びしょびしょに　なって\nほのおタイプの　ダメージを　へらす"
+    en: "The user becomes soaked to\nraise resistance to fire."
+    fr: "Mouille le lanceur et aug-\nmente sa résistance au feu."
+    it: "Chi la usa s’impregna d’ac-\nqua per resistere al fuoco."
+    de: "Benutzer wird nass, so dass\ner Feuer besser standhält."
+    es: "Te moja para que resistas\nmás los ataques de fuego."
+water_spout:
+  names:
+    jp_kana: しおふき
+    en: WATER SPOUT
+    fr: GICLEDO
+    it: ZAMPILLO
+    de: FONTRÄNEN
+    es: SALPICAR
+  descriptions:
+    jp_kana: "じぶんの　たいりょくが　おおいほど\nおおきな　ダメージを　あたえる"
+    en: "Inflicts more damage if the\nuser’s HP is high."
+    fr: "Inflige plus de dégâts si le\nlanceur a beaucoup de PV."
+    it: "Più efficace se i PS di chi\nla usa sono alti."
+    de: "Ist wirkungsvoller, wenn KP\ndes Benutzers hoch sind."
+    es: "Si tienes muchos PS, el daño\nque causa es mucho mayor."
+waterfall:
+  names:
+    jp_kana: たきのぼり
+    en: WATERFALL
+    fr: CASCADE
+    it: CASCATA
+    de: KASKADE
+    es: CASCADA
+  descriptions:
+    jp_kana: "たきを　さかのぼるような　いきおいで\nてきに　とっしんする"
+    en: "Charges the foe with speed\nto climb waterfalls."
+    fr: "Charge rapide permettant\nde franchir des cascades."
+    it: "Carica il nemico con la for-\nza di chi risale cascate."
+    de: "Attacke basiert auf Tempo.\nErklimmt Wasserfälle."
+    es: "Embiste con impulso para\nremontar una cascada."
+weather_ball:
+  names:
+    jp_kana: ウェザーボール
+    en: WEATHER BALL
+    fr: BALL’METEO
+    it: PALLA CLIMA
+    de: METEOROLOGE
+    es: METEOROBOLA
+  descriptions:
+    jp_kana: "てんきに　よって\nタイプと　いりょくが　へんかする"
+    en: "The move’s type and power\nchange with the weather."
+    fr: "Type et puissance de\nl’attaque selon le climat."
+    it: "Il tipo e la forza dipendono\nda che tempo fa."
+    de: "Elementkl. u. Stärke der At-\ntacke sind wetterabhängig."
+    es: "El tipo y fuerza del ataque\nvarían según el clima."
+whirlpool:
+  names:
+    jp_kana: うずしお
+    en: WHIRLPOOL
+    fr: SIPHON
+    it: MULINELLO
+    de: WHIRLPOOL
+    es: TORBELLINO
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　てきを\nうずの　ちゅうしんに　とじこめる"
+    en: "Traps and hurts the foe in\na whirlpool for 2 to 5 turns."
+    fr: "Piège l’ennemi dans un tour-\nbillon pendant 2 à 5 tours."
+    it: "Il nemico è intrappolato in\nun vortice da 2 a 5 turni."
+    de: "Hält Gegner 2-5 Züge in\neinem Strudel gefangen."
+    es: "Atrapa y daña al rival de 2 a\n5 turnos con un torbellino."
+whirlwind:
+  names:
+    jp_kana: ふきとばし
+    en: WHIRLWIND
+    fr: CYCLONE
+    it: TURBINE
+    de: WIRBELWIND
+    es: REMOLINO
+  descriptions:
+    jp_kana: "つよいかぜで　てきを　ふきとばす\nふきとばすと　せんとうは　おわる"
+    en: "Blows away the foe with\nwind and ends the battle."
+    fr: "Envoie une rafale de vent\net met fin au combat."
+    it: "Un colpo di vento scaccia il\nnemico terminando la lotta."
+    de: "Weht Gegner weg und be-\nendet den Kampf in Wildnis."
+    es: "Se lleva al rival\ny termina el combate."
+will_o_wisp:
+  names:
+    jp_kana: おにび
+    en: WILL-O-WISP
+    fr: FEU FOLLET
+    it: FUOCOFATUO
+    de: IRRLICHT
+    es: FUEGO FATUO
+  descriptions:
+    jp_kana: "おにのような　ひで\nあいてを　やけど　させる"
+    en: "Inflicts a burn on the foe\nwith intense fire."
+    fr: "Inflige une douloureuse \nbrûlure à l’ennemi."
+    it: "Fiamme intense causano\nuna scottatura al nemico."
+    de: "Fügt dem Gegner \nVerbrennungen zu."
+    es: "Fuego muy intenso que\nproduce quemaduras."
+wing_attack:
+  names:
+    jp_kana: つばさでうつ
+    en: WING ATTACK
+    fr: CRU-AILE
+    it: ATT. D’ALA
+    de: FLÜGELSCHLAG
+    es: ATAQUE ALA
+  descriptions:
+    jp_kana: "つばさを　おおきく　ひろげて\nそのまま　てきに　たいあたりする"
+    en: "Strikes the foe with wings\nspread wide."
+    fr: "Frappe l’ennemi en \ndéployant les ailes."
+    it: "Colpisce il nemico\nspiegando le ali."
+    de: "Trifft den Gegner mit weit\ngespreizten Flügeln."
+    es: "Golpea al objetivo\ncon las alas."
+wish:
+  names:
+    jp_kana: ねがいごと
+    en: WISH
+    fr: VOEU
+    it: DESIDERIO
+    de: WUNSCHTRAUM
+    es: DESEO
+  descriptions:
+    jp_kana: "ねがいごとをして　かいふくする\nかなうまでに　ちょっと　かかる"
+    en: "A wish that restores HP.\nIt takes time to work."
+    fr: "Un vœu qui restaure les PV.\nDemande un certain temps."
+    it: "Fa recuperare PS, ma\nnon agisce immediatamente."
+    de: "Ein Wunsch, der KP auffüllt.\nDie Erfüllung braucht Zeit."
+    es: "Lleva tiempo, pero cumple el\ndeseo de restaurar los PS."
+withdraw:
+  names:
+    jp_kana: からにこもる
+    en: WITHDRAW
+    fr: REPLI
+    it: RITIRATA
+    de: PANZERSCHUTZ
+    es: REFUGIO
+  descriptions:
+    jp_kana: "かたいからに　もぐりこんで\nぼうぎょを　あげる"
+    en: "Withdraws the body into its\nhard shell to raise DEFENSE."
+    fr: "Se recroqueville dans sa\ncarapace. Monte la DEFENSE."
+    it: "Il corpo si ritira nel guscio\nper aumentare la DIFESA."
+    de: "Rückzug in den harten\nPanzer. Erhöht VERT.-Wert."
+    es: "El agresor se protege en su\ncoraza y sube la DEFENSA."
+wrap:
+  names:
+    jp_kana: まきつく
+    en: WRAP
+    fr: LIGOTAGE
+    it: AVVOLGIBOTTA
+    de: WICKEL
+    es: REPETICIÓN
+  descriptions:
+    jp_kana: "２ー５ターンのあいだ　ながいからだや\nツルをつかって　てきを　しめつける"
+    en: "Wraps and squeezes the foe\n2 to 5 times with vines, etc."
+    fr: "Ligote l’ennemi et l’étouffe\n2 à 5 fois avec des lianes."
+    it: "Avvolge e stringe il\nnemico da 2 a 5 volte."
+    de: "Umwickelt Gegner 2 - 5-mal\nmit Ranken o. ä."
+    es: "Oprime de 2 a 5\nturnos con ramas, etc."
+yawn:
+  names:
+    jp_kana: あくび
+    en: YAWN
+    fr: BAILLEMENT
+    it: SBADIGLIO
+    de: GÄHNER
+    es: BOSTEZO
+  descriptions:
+    jp_kana: "あくびで　さそって　つぎの　ターンに\nあいてを　ねむり　じょうたいに　する"
+    en: "Lulls the foe into yawning,\nthen sleeping next turn."
+    fr: "Fait bâiller l’ennemi, qui\ns’endort au tour suivant."
+    it: "Il nemico sbadiglia e al\nturno dopo s’addormenta."
+    de: "Gegner gähnt und schläft\nin der nächsten Runde ein."
+    es: "Provoca el bostezo\ny después el sueño."
+zap_cannon:
+  names:
+    jp_kana: でんじほう
+    en: ZAP CANNON
+    fr: ELECANON
+    it: FALCECANNONE
+    de: BLITZKANONE
+    es: ELECTROCAÑÓN
+  descriptions:
+    jp_kana: "あたりにくいが　ダメージは　おおきい\nあたれば　かならず　まひさせる"
+    en: "Powerful and sure to cause\nparalysis, but inaccurate."
+    fr: "Puissant et paralysant, \nmais pas très précis."
+    it: "Causa sempre paralisi,\nma è poco preciso."
+    de: "Kräftige, ungenaue At-\ntacke, die evtl. paralysiert."
+    es: "No es certero, pero causa\nparálisis si atina."

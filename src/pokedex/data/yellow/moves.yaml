@@ -1,0 +1,1320 @@
+absorb:
+  names:
+    jp_kana: すいとる
+    en: ABSORB
+    fr: VOL-VIE
+    it: ASSORBIMENTO
+    de: ABSORBER
+    es: ABSORBER
+acid:
+  names:
+    jp_kana: ようかいえき
+    en: ACID
+    fr: ACIDE
+    it: ACIDO
+    de: SÄURE
+    es: ÁCIDO
+acid_armor:
+  names:
+    jp_kana: とける
+    en: ACID ARMOR
+    fr: ACIDARMURE
+    it: SCUDO ACIDO
+    de: SÄUREPANZER
+    es: ARMAD. ÁCIDA
+agility:
+  names:
+    jp_kana: こうそくいどう
+    en: AGILITY
+    fr: HATE
+    it: AGILITÀ
+    de: AGILITÄT
+    es: AGILIDAD
+amnesia:
+  names:
+    jp_kana: ドわすれ
+    en: AMNESIA
+    fr: AMNESIE
+    it: AMNESIA
+    de: AMNESIE
+    es: AMNESIA
+aurora_beam:
+  names:
+    jp_kana: オーロラビーム
+    en: AURORA BEAM
+    fr: ONDE BOREALE
+    it: RAGGIAURORA
+    de: AURORASTRAHL
+    es: RAYO AURORA
+barrage:
+  names:
+    jp_kana: たまなげ
+    en: BARRAGE
+    fr: PILONNAGE
+    it: ATT. PIOGGIA
+    de: STAKKATO
+    es: PRESA
+barrier:
+  names:
+    jp_kana: バリアー
+    en: BARRIER
+    fr: BOUCLIER
+    it: BARRIERA
+    de: BARRIERE
+    es: BARRERA
+bide:
+  names:
+    jp_kana: がまん
+    en: BIDE
+    fr: PATIENCE
+    it: PAZIENZA
+    de: GEDULD
+    es: VENGANZA
+bind:
+  names:
+    jp_kana: しめつける
+    en: BIND
+    fr: ETREINTE
+    it: LEGATUTTO
+    de: KLAMMERGRIFF
+    es: ATADURA
+bite:
+  names:
+    jp_kana: かみつく
+    en: BITE
+    fr: MORSURE
+    it: MORSO
+    de: BISS
+    es: MORDISCO
+blizzard:
+  names:
+    jp_kana: ふぶき
+    en: BLIZZARD
+    fr: BLIZZARD
+    it: BORA
+    de: BLIZZARD
+    es: VENTISCA
+body_slam:
+  names:
+    jp_kana: のしかかり
+    en: BODY SLAM
+    fr: PLAQUAGE
+    it: BODY SLAM
+    de: BODYSLAM
+    es: GOLPE CUERPO
+bone_club:
+  names:
+    jp_kana: ホネこんぼう
+    en: BONE CLUB
+    fr: MASSD’OS
+    it: OSSOCLAVA
+    de: KNOCHENKEULE
+    es: HUESO PALO
+bonemerang:
+  names:
+    jp_kana: ホネブーメラン
+    en: BONEMERANG
+    fr: OSMERANG
+    it: OSSOMERANG
+    de: KNOCHMERANG
+    es: HUESOMERANG
+bubble:
+  names:
+    jp_kana: あわ
+    en: BUBBLE
+    fr: ECUME
+    it: BOLLA
+    de: BLUBBER
+    es: BURBUJA
+bubble_beam:
+  names:
+    jp_kana: バブルこうせん
+    en: BUBBLEBEAM
+    fr: BULLES D’O
+    it: BOLLARAGGIO
+    de: BLUBBSTRAHL
+    es: RAYO BURBUJA
+clamp:
+  names:
+    jp_kana: からではさむ
+    en: CLAMP
+    fr: CLAQUOIR
+    it: TENAGLIA
+    de: SCHNAPPER
+    es: TENAZA
+comet_punch:
+  names:
+    jp_kana: れんぞくパンチ
+    en: COMET PUNCH
+    fr: POING COMETE
+    it: COMETAPUGNO
+    de: KOMETENHIEB
+    es: PUñO COMETA
+confuse_ray:
+  names:
+    jp_kana: あやしいひかり
+    en: CONFUSE RAY
+    fr: ONDE FOLIE
+    it: STORDIRAGGIO
+    de: KONFUSTRAHL
+    es: RAYO CONFUSO
+confusion:
+  names:
+    jp_kana: ねんりき
+    en: CONFUSION
+    fr: CHOC MENTAL
+    it: CONFUSIONE
+    de: KONFUSION
+    es: CONFUSIÓN
+constrict:
+  names:
+    jp_kana: からみつく
+    en: CONSTRICT
+    fr: CONSTRICTION
+    it: LIMITAZIONE
+    de: UMKLAMMERUNG
+    es: RESTRICCIÓN
+conversion:
+  names:
+    jp_kana: テクスチャー
+    en: CONVERSION
+    fr: ADAPTATION
+    it: CONVERSIONE
+    de: UMWANDLUNG
+    es: CONVERSIÓN
+counter:
+  names:
+    jp_kana: カウンター
+    en: COUNTER
+    fr: RIPOSTE
+    it: CONTATORE
+    de: KONTER
+    es: CONTADOR
+crabhammer:
+  names:
+    jp_kana: クラブハンマー
+    en: CRABHAMMER
+    fr: PINCE-MASSE
+    it: MARTELLATA
+    de: KRABBHAMMER
+    es: MARTILLAZO
+cut:
+  names:
+    jp_kana: いあいぎり
+    en: CUT
+    fr: COUPE
+    it: TAGLIO
+    de: ZERSCHNEIDER
+    es: CORTE
+defense_curl:
+  names:
+    jp_kana: まるくなる
+    en: DEFENSE CURL
+    fr: BOUL’ARMURE
+    it: RICCIOLSCUDO
+    de: EINIGLER
+    es: RIZO DEFENSA
+dig:
+  names:
+    jp_kana: あなをほる
+    en: DIG
+    fr: TUNNEL
+    it: FOSSA
+    de: SCHAUFLER
+    es: EXCAVAR
+disable:
+  names:
+    jp_kana: かなしばり
+    en: DISABLE
+    fr: ENTRAVE
+    it: INIBITORE
+    de: AUSSETZER
+    es: ANULACIÓN
+dizzy_punch:
+  names:
+    jp_kana: ピヨピヨパンチ
+    en: DIZZY PUNCH
+    fr: UPPERCUT
+    it: STORDIPUGNO
+    de: IRRSCHLAG
+    es: PUñO-MAREO
+double_edge:
+  names:
+    jp_kana: すてみタックル
+    en: DOUBLE-EDGE
+    fr: DAMOCLES
+    it: SDOPPIATORE
+    de: RISIKOTACKLE
+    es: DOBLE FILO
+double_kick:
+  names:
+    jp_kana: にどげり
+    en: DOUBLE KICK
+    fr: DOUBLE PIED
+    it: DOPPIOCALCIO
+    de: DOPPELKICK
+    es: DOBLE PATADA
+double_slap:
+  names:
+    jp_kana: おうふくビンタ
+    en: DOUBLESLAP
+    fr: TORGNOLES
+    it: DOPPIASBERLA
+    de: DUPLEXHIEB
+    es: DOBLEBOFETÓN
+double_team:
+  names:
+    jp_kana: かげぶんしん
+    en: DOUBLE TEAM
+    fr: REFLET
+    it: DOPPIOTEAM
+    de: DOPPELTEAM
+    es: DOBLE EQUIPO
+dragon_rage:
+  names:
+    jp_kana: りゅうのいかり
+    en: DRAGON RAGE
+    fr: DRACO-RAGE
+    it: IRA DI DRAGO
+    de: DRACHENWUT
+    es: FURIA DRAGÓN
+dream_eater:
+  names:
+    jp_kana: ゆめくい
+    en: DREAM EATER
+    fr: DEVOREVE
+    it: MANGIASOGNI
+    de: TRAUMFRESSER
+    es: COME SUEñOS
+drill_peck:
+  names:
+    jp_kana: ドリルくちばし
+    en: DRILL PECK
+    fr: BEC VRILLE
+    it: PERFORBECCO
+    de: BOHRSCHNABEL
+    es: PICO TALADRO
+earthquake:
+  names:
+    jp_kana: じしん
+    en: EARTHQUAKE
+    fr: SEISME
+    it: TERREMOTO
+    de: ERDBEBEN
+    es: TERREMOTO
+egg_bomb:
+  names:
+    jp_kana: タマゴばくだん
+    en: EGG BOMB
+    fr: BOMB’OEUF
+    it: UOVOBOMBA
+    de: EIERBOMBE
+    es: BOMBA HUEVO
+ember:
+  names:
+    jp_kana: ひのこ
+    en: EMBER
+    fr: FLAMMECHE
+    it: BRACIERE
+    de: GLUT
+    es: ASCUAS
+explosion:
+  names:
+    jp_kana: だいばくはつ
+    en: EXPLOSION
+    fr: EXPLOSION
+    it: ESPLOSIONE
+    de: EXPLOSION
+    es: EXPLOSIÓN
+fire_blast:
+  names:
+    jp_kana: だいもんじ
+    en: FIRE BLAST
+    fr: DEFLAGRATION
+    it: FUOCOBOMBA
+    de: FEUERSTURM
+    es: LLAMARADA
+fire_punch:
+  names:
+    jp_kana: ほのおのパンチ
+    en: FIRE PUNCH
+    fr: POING DE FEU
+    it: FUOCOPUGNO
+    de: FEUERSCHLAG
+    es: PUñO FUEGO
+fire_spin:
+  names:
+    jp_kana: ほのおのうず
+    en: FIRE SPIN
+    fr: DANSEFLAMME
+    it: TURBOFUOCO
+    de: FEUERWIRBEL
+    es: GIRO FUEGO
+fissure:
+  names:
+    jp_kana: じわれ
+    en: FISSURE
+    fr: ABIME
+    it: ABISSO
+    de: GEOFISSUR
+    es: FISURA
+flamethrower:
+  names:
+    jp_kana: かえんほうしゃ
+    en: FLAMETHROWER
+    fr: LANCE-FLAMME
+    it: LANCIAFIAMME
+    de: FLAMMENWURF
+    es: LANZALLAMAS
+flash:
+  names:
+    jp_kana: フラッシュ
+    en: FLASH
+    fr: FLASH
+    it: FLASH
+    de: BLITZ
+    es: DESTELLO
+fly:
+  names:
+    jp_kana: そらをとぶ
+    en: FLY
+    fr: VOL
+    it: VOLO
+    de: FLIEGEN
+    es: VUELO
+focus_energy:
+  names:
+    jp_kana: きあいだめ
+    en: FOCUS ENERGY
+    fr: PUISSANCE
+    it: ENERGY CONC.
+    de: ENERGIEFOKUS
+    es: FOCO ENERGÍA
+fury_attack:
+  names:
+    jp_kana: みだれづき
+    en: FURY ATTACK
+    fr: FURIE
+    it: FURIA
+    de: FURIENSCHLAG
+    es: ATAQUE FURIA
+fury_swipes:
+  names:
+    jp_kana: みだれひっかき
+    en: FURY SWIPES
+    fr: COMBO-GRIFFE
+    it: SFURIATE
+    de: KRATZFURIE
+    es: GOLPES FURIA
+glare:
+  names:
+    jp_kana: へびにらみ
+    en: GLARE
+    fr: INTIMIDATION
+    it: BAGLIORE
+    de: GIFTBLICK
+    es: DESLUMBRAR
+growl:
+  names:
+    jp_kana: なきごえ
+    en: GROWL
+    fr: RUGISSEMENT
+    it: RUGGITO
+    de: HEULER
+    es: GRUñIDO
+growth:
+  names:
+    jp_kana: せいちょう
+    en: GROWTH
+    fr: CROISSANCE
+    it: CRESCITA
+    de: WACHSTUM
+    es: DESARROLLO
+guillotine:
+  names:
+    jp_kana: ハサミギロチン
+    en: GUILLOTINE
+    fr: GUILLOTINE
+    it: GHIGLIOTTINA
+    de: GUILLOTINE
+    es: GUILLOTINA
+gust:
+  names:
+    jp_kana: かぜおこし
+    en: GUST
+    fr: TORNADE
+    it: RAFFICA
+    de: WINDSTOSS
+    es: TORNADO
+harden:
+  names:
+    jp_kana: かたくなる
+    en: HARDEN
+    fr: ARMURE
+    it: RAFFORZATORE
+    de: HÄRTNER
+    es: FORTALEZA
+haze:
+  names:
+    jp_kana: くろいきり
+    en: HAZE
+    fr: BUEE NOIRE
+    it: NUBE
+    de: DUNKELNEBEL
+    es: NIEBLA
+headbutt:
+  names:
+    jp_kana: ずつき
+    en: HEADBUTT
+    fr: COUP D’BOULE
+    it: BOTTINTESTA
+    de: KOPFNUSS
+    es: GOLPE CABEZA
+high_jump_kick:
+  names:
+    jp_kana: とびひざげり
+    en: HI JUMP KICK
+    fr: PIED VOLTIGE
+    it: CALCINVOLO
+    de: TURMKICK
+    es: PATADA S.ALTA
+horn_attack:
+  names:
+    jp_kana: つのでつく
+    en: HORN ATTACK
+    fr: KOUD’KORNE
+    it: INCORNATA
+    de: HORNATTACKE
+    es: CORNADA
+horn_drill:
+  names:
+    jp_kana: つのドリル
+    en: HORN DRILL
+    fr: EMPAL’KORNE
+    it: PERFORCORNO
+    de: HORNBOHRER
+    es: PERFORADOR
+hydro_pump:
+  names:
+    jp_kana: ハイドロポンプ
+    en: HYDRO PUMP
+    fr: HYDROCANON
+    it: IDROPOMPA
+    de: HYDROPUMPE
+    es: HIDRO BOMBA
+hyper_beam:
+  names:
+    jp_kana: はかいこうせん
+    en: HYPER BEAM
+    fr: ULTRALASER
+    it: IPER-RAGGIO
+    de: HYPERSTRAHL
+    es: HÍPER RAYO
+hyper_fang:
+  names:
+    jp_kana: ひっさつまえば
+    en: HYPER FANG
+    fr: CROC DE MORT
+    it: IPERZANNA
+    de: HYPERZAHN
+    es: HIP.COLMILLO
+hypnosis:
+  names:
+    jp_kana: さいみんじゅつ
+    en: HYPNOSIS
+    fr: HYPNOSE
+    it: IPNOSI
+    de: HYPNOSE
+    es: HIPNOSIS
+ice_beam:
+  names:
+    jp_kana: れいとうビーム
+    en: ICE BEAM
+    fr: LASER GLACE
+    it: GELORAGGIO
+    de: EISSTRAHL
+    es: RAYO HIELO
+ice_punch:
+  names:
+    jp_kana: れいとうパンチ
+    en: ICE PUNCH
+    fr: POINGLACE
+    it: GELOPUGNO
+    de: EISHIEB
+    es: PUñO HIELO
+jump_kick:
+  names:
+    jp_kana: とびげり
+    en: JUMP KICK
+    fr: PIED SAUTE
+    it: CALCIO-SALTO
+    de: SPRUNGKICK
+    es: PATADA SALTO
+karate_chop:
+  names:
+    jp_kana: からてチョップ
+    en: KARATE CHOP
+    fr: POING-KARATE
+    it: COLPO-KARATE
+    de: KARATESCHLAG
+    es: GOLPE KARATE
+kinesis:
+  names:
+    jp_kana: スプーンまげ
+    en: KINESIS
+    fr: TELEKINESIE
+    it: CINÈSI
+    de: PSYKRAFT
+    es: KINÉTICO
+leech_life:
+  names:
+    jp_kana: きゅうけつ
+    en: LEECH LIFE
+    fr: VAMPIRISME
+    it: SANGUISUGA
+    de: BLUTSAUGER
+    es: CHUPA VIDAS
+leech_seed:
+  names:
+    jp_kana: やどりぎのタネ
+    en: LEECH SEED
+    fr: VAMPIGRAINE
+    it: PARASSISEME
+    de: EGELSAMEN
+    es: DRENADORAS
+leer:
+  names:
+    jp_kana: にらみつける
+    en: LEER
+    fr: GROZ’YEUX
+    it: FULMISGUARDO
+    de: SILBERBLICK
+    es: MALICIOSO
+lick:
+  names:
+    jp_kana: したでなめる
+    en: LICK
+    fr: LECHOUILLE
+    it: LECCATA
+    de: SCHLECKER
+    es: LENGÜETAZO
+light_screen:
+  names:
+    jp_kana: ひかりのかべ
+    en: LIGHT SCREEN
+    fr: MUR LUMIERE
+    it: SCHERMO-LUCE
+    de: LICHTSCHILD
+    es: PANTALLA LUZ
+lovely_kiss:
+  names:
+    jp_kana: あくまのキッス
+    en: LOVELY KISS
+    fr: GROBISOU
+    it: DEMONBACIO
+    de: TODESKUSS
+    es: BESO AMOROSO
+low_kick:
+  names:
+    jp_kana: けたぐり
+    en: LOW KICK
+    fr: BALAYAGE
+    it: COLPO BASSO
+    de: FUSSKICK
+    es: PATADA BAJA
+meditate:
+  names:
+    jp_kana: ヨガのポーズ
+    en: MEDITATE
+    fr: YOGA
+    it: MEDITAZIONE
+    de: MEDITATION
+    es: MEDITACIÓN
+mega_drain:
+  names:
+    jp_kana: メガドレイン
+    en: MEGA DRAIN
+    fr: MEGA-SANGSUE
+    it: MEGASSORBIM.
+    de: MEGASAUGER
+    es: MEGA AGOTAR
+mega_kick:
+  names:
+    jp_kana: メガトンキック
+    en: MEGA KICK
+    fr: ULTIMAWASHI
+    it: MEGACALCIO
+    de: MEGAKICK
+    es: MEGA PATADA
+mega_punch:
+  names:
+    jp_kana: メガトンパンチ
+    en: MEGA PUNCH
+    fr: ULTIMAPOING
+    it: MEGAPUGNO
+    de: MEGAHIEB
+    es: MEGA PUñO
+metronome:
+  names:
+    jp_kana: ゆびをふる
+    en: METRONOME
+    fr: METRONOME
+    it: METRONOMO
+    de: METRONOM
+    es: METRÓNOMO
+mimic:
+  names:
+    jp_kana: ものまね
+    en: MIMIC
+    fr: COPIE
+    it: MIMICA
+    de: MIMIKRY
+    es: MIMÉTICO
+minimize:
+  names:
+    jp_kana: ちいさくなる
+    en: MINIMIZE
+    fr: LILLIPUT
+    it: MINIMIZZ.
+    de: KOMPRIMATOR
+    es: REDUCCIÓN
+mirror_move:
+  names:
+    jp_kana: オウムがえし
+    en: MIRROR MOVE
+    fr: MIMIQUE
+    it: SPECULMOSSA
+    de: SPIEGELTRICK
+    es: MOV. ESPEJO
+mist:
+  names:
+    jp_kana: しろいきり
+    en: MIST
+    fr: BRUME
+    it: NEBBIA
+    de: WEISSNEBEL
+    es: NEBLINA
+night_shade:
+  names:
+    jp_kana: ナイトヘッド
+    en: NIGHT SHADE
+    fr: TENEBRES
+    it: OMBRA NOTT.
+    de: NACHTNEBEL
+    es: TINIEBLAS
+pay_day:
+  names:
+    jp_kana: ネコにこばん
+    en: PAY DAY
+    fr: JACKPOT
+    it: GIORNO-PAGA
+    de: ZAHLTAG
+    es: DíA DE PAGO
+peck:
+  names:
+    jp_kana: つつく
+    en: PECK
+    fr: PICPIC
+    it: BECCATA
+    de: SCHNABEL
+    es: PICOTAZO
+petal_dance:
+  names:
+    jp_kana: はなびらのまい
+    en: PETAL DANCE
+    fr: DANSE-FLEUR
+    it: PETALODANZA
+    de: BLÄTTERTANZ
+    es: DANZA PÉTALO
+pin_missile:
+  names:
+    jp_kana: ミサイルばり
+    en: PIN MISSILE
+    fr: DARD-NUEE
+    it: MISSILSPILLO
+    de: NADELRAKETE
+    es: PIN MISIL
+poison_gas:
+  names:
+    jp_kana: どくガス
+    en: POISON GAS
+    fr: GAZ TOXIK
+    it: VELENOGAS
+    de: GIFTWOLKE
+    es: GAS VENENOSO
+poison_powder:
+  names:
+    jp_kana: どくのこな
+    en: POISONPOWDER
+    fr: POUDRE TOXIK
+    it: VELENPOLVERE
+    de: GIFTPUDER
+    es: POLVO VENENO
+poison_sting:
+  names:
+    jp_kana: どくばり
+    en: POISON STING
+    fr: DARD-VENIN
+    it: VELENOSPINA
+    de: GIFTSTACHEL
+    es: PICOTAZO VEN.
+pound:
+  names:
+    jp_kana: はたく
+    en: POUND
+    fr: ECRAS’FACE
+    it: LIBBRA
+    de: PFUND
+    es: DESTRUCTOR
+psybeam:
+  names:
+    jp_kana: サイケこうせん
+    en: PSYBEAM
+    fr: RAFALE PSY
+    it: PSICORAGGIO
+    de: PSYSTRAHL
+    es: PSICO-RAYO
+psychic:
+  names:
+    jp_kana: サイコキネシス
+    en: PSYCHIC
+    fr: PSYKO
+    it: PSICHICO
+    de: PSYCHOKINESE
+    es: PSÍQUICO
+psywave:
+  names:
+    jp_kana: サイコウェーブ
+    en: PSYWAVE
+    fr: VAGUE PSY
+    it: PSICO-ONDA
+    de: PSYWELLE
+    es: PSICO-ONDA
+quick_attack:
+  names:
+    jp_kana: でんこうせっか
+    en: QUICK ATTACK
+    fr: VIVE-ATTAQUE
+    it: ATT. RAPIDO
+    de: RUCKZUCKHIEB
+    es: ATA. RÁPIDO
+rage:
+  names:
+    jp_kana: いかり
+    en: RAGE
+    fr: FRENESIE
+    it: IRA
+    de: RASEREI
+    es: FURIA
+razor_leaf:
+  names:
+    jp_kana: はっぱカッター
+    en: RAZOR LEAF
+    fr: TRANCH’HERBE
+    it: FOGLIELAMA
+    de: RASIERBLATT
+    es: HOJA AFILADA
+razor_wind:
+  names:
+    jp_kana: かまいたち
+    en: RAZOR WIND
+    fr: COUPE-VENT
+    it: VENTAGLIENTE
+    de: KLINGENSTURM
+    es: V. CORTANTE
+recover:
+  names:
+    jp_kana: じこさいせい
+    en: RECOVER
+    fr: SOIN
+    it: RIPRESA
+    de: GENESUNG
+    es: RECUPERACIÓN
+reflect:
+  names:
+    jp_kana: リフレクター
+    en: REFLECT
+    fr: PROTECTION
+    it: RIFLESSO
+    de: REFLEKTOR
+    es: REFLEJO
+rest:
+  names:
+    jp_kana: ねむる
+    en: REST
+    fr: REPOS
+    it: RIPOSO
+    de: ERHOLUNG
+    es: DESCANSO
+roar:
+  names:
+    jp_kana: ほえる
+    en: ROAR
+    fr: HURLEMENT
+    it: BOATO
+    de: BRÜLLER
+    es: RUGIDO
+rock_slide:
+  names:
+    jp_kana: いわなだれ
+    en: ROCK SLIDE
+    fr: EBOULEMENT
+    it: FRANA
+    de: STEINHAGEL
+    es: AVALANCHA
+rock_throw:
+  names:
+    jp_kana: いわおとし
+    en: ROCK THROW
+    fr: JET-PIERRES
+    it: SASSATA
+    de: STEINWURF
+    es: LANZA ROCAS
+rolling_kick:
+  names:
+    jp_kana: まわしげり
+    en: ROLLING KICK
+    fr: MAWASHI GERI
+    it: CALCIO-RULLO
+    de: FEGEKICK
+    es: PATADA GIRO
+sand_attack:
+  names:
+    jp_kana: すなかけ
+    en: SAND-ATTACK
+    fr: JET DE SABLE
+    it: TURBOSABBIA
+    de: SANDWIRBEL
+    es: ATAQUE-ARENA
+scratch:
+  names:
+    jp_kana: ひっかく
+    en: SCRATCH
+    fr: GRIFFE
+    it: GRAFFIO
+    de: KRATZER
+    es: ARAñAZO
+screech:
+  names:
+    jp_kana: いやなおと
+    en: SCREECH
+    fr: GRINCEMENT
+    it: STRIDIO
+    de: KREIDESCHREI
+    es: CHIRRIDO
+seismic_toss:
+  names:
+    jp_kana: ちきゅうなげ
+    en: SEISMIC TOSS
+    fr: FRAPPE ATLAS
+    it: MOV. SISMICO
+    de: GEOWURF
+    es: MOV. SÍSMICO
+self_destruct:
+  names:
+    jp_kana: じばく
+    en: SELFDESTRUCT
+    fr: DESTRUCTION
+    it: AUTODISTRUZ.
+    de: FINALE
+    es: AUTODESTRUC.
+sharpen:
+  names:
+    jp_kana: かくばる
+    en: SHARPEN
+    fr: AFFUTAGE
+    it: AFFILATORE
+    de: SCHÄRFER
+    es: AFILAR
+sing:
+  names:
+    jp_kana: うたう
+    en: SING
+    fr: BERCEUSE
+    it: CANTO
+    de: GESANG
+    es: CANTO
+skull_bash:
+  names:
+    jp_kana: ロケットずつき
+    en: SKULL BASH
+    fr: COUD’KRANE
+    it: CAPOCCIATA
+    de: SCHÄDELWUMME
+    es: CABEZAZO
+sky_attack:
+  names:
+    jp_kana: ゴッドバード
+    en: SKY ATTACK
+    fr: PIQUE
+    it: AEROATTACCO
+    de: HIMMELSFEGER
+    es: ATAQUE AÉREO
+slam:
+  names:
+    jp_kana: たたきつける
+    en: SLAM
+    fr: SOUPLESSE
+    it: SCHIANTO
+    de: SLAM
+    es: PORTAZO
+slash:
+  names:
+    jp_kana: きりさく
+    en: SLASH
+    fr: TRANCHE
+    it: LACERAZIONE
+    de: SCHLITZER
+    es: CUCHILLADA
+sleep_powder:
+  names:
+    jp_kana: ねむりごな
+    en: SLEEP POWDER
+    fr: POUDRE DODO
+    it: SONNIFERO
+    de: SCHLAFPUDER
+    es: SOMNÍFERO
+sludge:
+  names:
+    jp_kana: ヘドロこうげき
+    en: SLUDGE
+    fr: DETRITUS
+    it: FANGO
+    de: SCHLAMMBAD
+    es: RESIDUOS
+smog:
+  names:
+    jp_kana: スモッグ
+    en: SMOG
+    fr: PUREDPOIS
+    it: SMOG
+    de: SMOG
+    es: POLUCIÓN
+smokescreen:
+  names:
+    jp_kana: えんまく
+    en: SMOKESCREEN
+    fr: BROUILLARD
+    it: MURO DI FUMO
+    de: RAUCHWOLKE
+    es: PANTALLAHUMO
+soft_boiled:
+  names:
+    jp_kana: タマゴうみ
+    en: SOFTBOILED
+    fr: E-COQUE
+    it: COVAUOVA
+    de: WEICHEI
+    es: AMORTIGUADOR
+solar_beam:
+  names:
+    jp_kana: ソーラービーム
+    en: SOLARBEAM
+    fr: LANCE-SOLEIL
+    it: SOLARRAGGIO
+    de: SOLARSTRAHL
+    es: RAYO SOLAR
+sonic_boom:
+  names:
+    jp_kana: ソニックブーム
+    en: SONICBOOM
+    fr: SONICBOOM
+    it: SONICBOOM
+    de: ULTRASCHALL
+    es: BOMBA SÓNICA
+spike_cannon:
+  names:
+    jp_kana: とげキャノン
+    en: SPIKE CANNON
+    fr: PICANON
+    it: SPARALANCE
+    de: DORNKANONE
+    es: CLAVO CAñÓN
+splash:
+  names:
+    jp_kana: はねる
+    en: SPLASH
+    fr: TREMPETTE
+    it: SPLASH
+    de: PLATSCHER
+    es: SALPICADURA
+spore:
+  names:
+    jp_kana: キノコのほうし
+    en: SPORE
+    fr: SPORE
+    it: SPORA
+    de: PILZSPORE
+    es: ESPORA
+stomp:
+  names:
+    jp_kana: ふみつけ
+    en: STOMP
+    fr: ECRASEMENT
+    it: PESTONE
+    de: STAMPFER
+    es: PISOTÓN
+strength:
+  names:
+    jp_kana: かいりき
+    en: STRENGTH
+    fr: FORCE
+    it: FORZA
+    de: STÄRKE
+    es: FUERZA
+string_shot:
+  names:
+    jp_kana: いとをはく
+    en: STRING SHOT
+    fr: SECRETION
+    it: MILLEBAVE
+    de: FADENSCHUSS
+    es: DISP. DEMORA
+struggle:
+  names:
+    jp_kana: わるあがき
+    en: STRUGGLE
+    fr: LUTTE
+    it: SCONTRO
+    de: VERZWEIFLER
+    es: COMBATE
+stun_spore:
+  names:
+    jp_kana: しびれごな
+    en: STUN SPORE
+    fr: PARA-SPORE
+    it: PARALIZZANTE
+    de: STACHELSPORE
+    es: PARALIZADOR
+submission:
+  names:
+    jp_kana: じごくぐるま
+    en: SUBMISSION
+    fr: SACRIFICE
+    it: SOTTOMISS.
+    de: ÜBERROLLER
+    es: SUMISIÓN
+substitute:
+  names:
+    jp_kana: みがわり
+    en: SUBSTITUTE
+    fr: CLONAGE
+    it: SOSTITUTO
+    de: DELEGATOR
+    es: SUSTITUTO
+super_fang:
+  names:
+    jp_kana: いかりのまえば
+    en: SUPER FANG
+    fr: CROC FATAL
+    it: SUPERZANNA
+    de: SUPERZAHN
+    es: SUPER DIENTE
+supersonic:
+  names:
+    jp_kana: ちょうおんぱ
+    en: SUPERSONIC
+    fr: ULTRASON
+    it: SUPERSUONO
+    de: SUPERSCHALL
+    es: SUPERSÓNICO
+surf:
+  names:
+    jp_kana: なみのり
+    en: SURF
+    fr: SURF
+    it: SURF
+    de: SURFER
+    es: SURF
+swift:
+  names:
+    jp_kana: スピードスター
+    en: SWIFT
+    fr: METEORES
+    it: COMETE
+    de: STERNSCHAUER
+    es: RAPIDEZ
+swords_dance:
+  names:
+    jp_kana: つるぎのまい
+    en: SWORDS DANCE
+    fr: DANSE-LAMES
+    it: DANZA-SPADA
+    de: SCHWERTTANZ
+    es: DANZA-ESPADA
+tackle:
+  names:
+    jp_kana: たいあたり
+    en: TACKLE
+    fr: CHARGE
+    it: AZIONE
+    de: TACKLE
+    es: PLACAJE
+tail_whip:
+  names:
+    jp_kana: しっぽをふる
+    en: TAIL WHIP
+    fr: MIMI-QUEUE
+    it: COLPO-CODA
+    de: RUTENSCHLAG
+    es: LÁTIGO
+take_down:
+  names:
+    jp_kana: とっしん
+    en: TAKE DOWN
+    fr: BELIER
+    it: RIDUTTORE
+    de: BODYCHECK
+    es: DERRIBO
+teleport:
+  names:
+    jp_kana: テレポート
+    en: TELEPORT
+    fr: TELEPORT
+    it: TELETRASPOR.
+    de: TELEPORT
+    es: TELETRANSP.
+thrash:
+  names:
+    jp_kana: あばれる
+    en: THRASH
+    fr: MANIA
+    it: COLPO
+    de: FUCHTLER
+    es: GOLPE
+thunder:
+  names:
+    jp_kana: かみなり
+    en: THUNDER
+    fr: FATAL-FOUDRE
+    it: TUONO
+    de: DONNER
+    es: TRUENO
+thunder_punch:
+  names:
+    jp_kana: かみなりパンチ
+    en: THUNDERPUNCH
+    fr: POING-ECLAIR
+    it: TUONOPUGNO
+    de: DONNERSCHLAG
+    es: PUñO-TRUENO
+thunder_shock:
+  names:
+    jp_kana: でんきショック
+    en: THUNDERSHOCK
+    fr: ECLAIR
+    it: TUONOSHOCK
+    de: DONNERSCHOCK
+    es: IMPACTRUENO
+thunder_wave:
+  names:
+    jp_kana: でんじは
+    en: THUNDER WAVE
+    fr: CAGE-ECLAIR
+    it: TUONONDA
+    de: DONNERWELLE
+    es: ONDA TRUENO
+thunderbolt:
+  names:
+    jp_kana: １０まんボルト
+    en: THUNDERBOLT
+    fr: TONNERRE
+    it: FULMINE
+    de: DONNERBLITZ
+    es: RAYO
+toxic:
+  names:
+    jp_kana: どくどく
+    en: TOXIC
+    fr: TOXIK
+    it: TOSSINA
+    de: TOXIN
+    es: TÓXICO
+transform:
+  names:
+    jp_kana: へんしん
+    en: TRANSFORM
+    fr: MORPHING
+    it: TRASFORMAZ.
+    de: WANDLER
+    es: TRANSFORM.
+tri_attack:
+  names:
+    jp_kana: トライアタック
+    en: TRI ATTACK
+    fr: TRIPLATTAQUE
+    it: TRIPLETTA
+    de: TRIPLETTE
+    es: TRI-ATAQUE
+twineedle:
+  names:
+    jp_kana: ダブルニードル
+    en: TWINEEDLE
+    fr: DOUBLE-DARD
+    it: DOPPIO AGO
+    de: DUONADEL
+    es: DOBLEATAQUE
+vine_whip:
+  names:
+    jp_kana: つるのムチ
+    en: VINE WHIP
+    fr: FOUET LIANES
+    it: FRUSTATA
+    de: RANKENHIEB
+    es: LÁTIGO CEPA
+vise_grip:
+  names:
+    jp_kana: はさむ
+    en: VICEGRIP
+    fr: FORCE POIGNE
+    it: PRESA
+    de: KLAMMER
+    es: AGARRE
+water_gun:
+  names:
+    jp_kana: みずでっぽう
+    en: WATER GUN
+    fr: PISTOLET A O
+    it: PISTOLACQUA
+    de: AQUAKNARRE
+    es: PISTOLA AGUA
+waterfall:
+  names:
+    jp_kana: たきのぼり
+    en: WATERFALL
+    fr: CASCADE
+    it: CASCATA
+    de: KASKADE
+    es: CASCADA
+whirlwind:
+  names:
+    jp_kana: ふきとばし
+    en: WHIRLWIND
+    fr: CYCLONE
+    it: TURBINE
+    de: WIRBELWIND
+    es: REMOLINO
+wing_attack:
+  names:
+    jp_kana: つばさでうつ
+    en: WING ATTACK
+    fr: CRU-AILE
+    it: ATT. D’ALA
+    de: FLÜGELSCHLAG
+    es: ATAQUE-ALA
+withdraw:
+  names:
+    jp_kana: からにこもる
+    en: WITHDRAW
+    fr: REPLI
+    it: RITIRATA
+    de: PANZERSCHUTZ
+    es: REFUGIO
+wrap:
+  names:
+    jp_kana: まきつく
+    en: WRAP
+    fr: LIGOTAGE
+    it: AVVOLGIBOTTA
+    de: WICKEL
+    es: REPETICIÓN

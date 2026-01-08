@@ -1,0 +1,1080 @@
+antidote:
+  names:
+    jp_kana: どくけし
+    en: ANTIDOTE
+    fr: ANTIDOTE
+    it: ANTIDOTO
+    de: GEGENGIFT
+    es: ANTÍDOTO
+awakening:
+  names:
+    jp_kana: ねむけざまし
+    en: AWAKENING
+    fr: REVEIL
+    it: SVEGLIA
+    de: AUFWECKER
+    es: DESPERTAR
+bike:
+  names:
+    jp_kana: じてんしゃ
+    en: BICYCLE
+    fr: BICYCLETTE
+    it: BICICLETTA
+    de: FAHRRAD
+    es: BICICLETA
+bike_voucher:
+  names:
+    jp_kana: ひきかえけん
+    en: BIKE VOUCHER
+    fr: BON COMMANDE
+    it: BUONO BICI
+    de: RAD-COUPON
+    es: BONO BICI
+boulderbadge:
+  names:
+    jp_kana: グレーバッジ
+    en: BOULDERBADGE
+    fr: BADGE ROCHE
+    it: MED. SASSO
+    de: FELSORDEN
+    es: MED.ROCA
+burn_heal:
+  names:
+    jp_kana: やけどなおし
+    en: BURN HEAL
+    fr: ANTI-BRULE
+    it: ANTISCOTTAT.
+    de: FEUERHEILER
+    es: ANTIQUEMAR
+calcium:
+  names:
+    jp_kana: リゾチウム
+    en: CALCIUM
+    fr: CALCIUM
+    it: CALCIO
+    de: KALZIUM
+    es: CALCIO
+carbos:
+  names:
+    jp_kana: インドメタシン
+    en: CARBOS
+    fr: CARBONE
+    it: CARBURANTE
+    de: CARBON
+    es: CARBURANTE
+card_key:silph_co:
+  names:
+    jp_kana: カードキー
+    en: CARD KEY
+    fr: CARTE MAGN.
+    it: APRIPORTA
+    de: TÜRÖFFNER
+    es: LL.MAGNÉTICA
+cascadebadge:
+  names:
+    jp_kana: ブルーバッジ
+    en: CASCADEBADGE
+    fr: BADGECASCADE
+    it: MED. CASCATA
+    de: QUELLORDEN
+    es: MED.CASCADA
+coin:
+  names:
+    jp_kana: コイン
+    en: COIN
+    fr: JETONS
+    it: GETTONI
+    de: MÜNZEN
+    es: MONEDA
+coin_case:
+  names:
+    jp_kana: コインケース
+    en: COIN CASE
+    fr: BOITE JETON
+    it: SALVADANAIO
+    de: MÜNZKORB
+    es: MONEDERO
+dire_hit:
+  names:
+    jp_kana: クリティカッター
+    en: DIRE HIT
+    fr: MUSCLE +
+    it: SUPERCOLPO
+    de: ANGRIFFPLUS
+    es: DIRECTO
+dome_fossil:
+  names:
+    jp_kana: こうらのカセキ
+    en: DOME FOSSIL
+    fr: FOSSILE DOME
+    it: DOMOFOSSILE
+    de: DOMFOSSIL
+    es: FÓSIL DOMO
+dowsing_machine:
+  names:
+    jp_kana: ダウジングマシン
+    en: ITEMFINDER
+    fr: CHERCH’OBJET
+    it: DETECTOR
+    de: DETEKTOR
+    es: BUSCAOBJETOS
+earthbadge:
+  names:
+    jp_kana: グリーンバッジ
+    en: EARTHBADGE
+    fr: BADGE TERRE
+    it: MED. TERRA
+    de: ERDORDEN
+    es: MED.TIERRA
+elixir:
+  names:
+    jp_kana: ピーピーエイダー
+    en: ELIXER
+    fr: ELIXIR
+    it: ELISIR
+    de: ELIXIER
+    es: ELIXIR
+escape_rope:
+  names:
+    jp_kana: あなぬけのヒモ
+    en: ESCAPE ROPE
+    fr: CORDE SORTIE
+    it: FUNE DI FUGA
+    de: FLUCHTSEIL
+    es: CUERDA HUIDA
+ether:
+  names:
+    jp_kana: ピーピーエイド
+    en: ETHER
+    fr: HUILE
+    it: ETERE
+    de: ÄTHER
+    es: ÉTER
+exp_share:
+  names:
+    jp_kana: がくしゅうそうち
+    en: EXP.ALL
+    fr: MULTI EXP
+    it: DISTRIB ESP.
+    de: EP-TEILER
+    es: REPARTIR EXP
+fire_stone:
+  names:
+    jp_kana: ほのおのいし
+    en: FIRE STONE
+    fr: PIERRE FEU
+    it: PIETRAFOCAIA
+    de: FEUERSTEIN
+    es: PIEDRA FUEGO
+fresh_water:
+  names:
+    jp_kana: おいしいみず
+    en: FRESH WATER
+    fr: EAU FRAICHE
+    it: ACQUA FRESCA
+    de: TAFELWASSER
+    es: AGUA FRESCA
+full_heal:
+  names:
+    jp_kana: なんでもなおし
+    en: FULL HEAL
+    fr: TOTAL SOIN
+    it: CURA TOTALE
+    de: HYPERHEILER
+    es: CURA TOTAL
+full_restore:
+  names:
+    jp_kana: かいふくのくすり
+    en: FULL RESTORE
+    fr: GUERISON
+    it: RICARICA TOT
+    de: TOP-GENESUNG
+    es: RESTAU. TODO
+gold_teeth:
+  names:
+    jp_kana: きんのいれば
+    en: GOLD TEETH
+    fr: DENT D’OR
+    it: DENTI D’ORO
+    de: GOLDZÄHNE
+    es: DIENTE ORO
+good_rod:
+  names:
+    jp_kana: いいつりざお
+    en: GOOD ROD
+    fr: SUPER CANNE
+    it: AMO BUONO
+    de: PROFIANGEL
+    es: CAñA BUENA
+great_ball:
+  names:
+    jp_kana: スーパーボール
+    en: GREAT BALL
+    fr: SUPER BALL
+    it: MEGA BALL
+    de: SUPERBALL
+    es: SÚPER BALL
+guard_spec:
+  names:
+    jp_kana: エフェクトガード
+    en: GUARD SPEC.
+    fr: DEFENSE SPEC
+    it: SUPERGUARDIA
+    de: MEGABLOCK
+    es: PROTEC. ESP.
+helix_fossil:
+  names:
+    jp_kana: かいのカセキ
+    en: HELIX FOSSIL
+    fr: NAUTILE
+    it: HELIXFOSSILE
+    de: HELIXFOSSIL
+    es: FÓSIL HELIX
+hm01:
+  names:
+    jp_kana: ひでんマシン０１
+    en: HM01
+    fr: CS01
+    it: MN01
+    de: VM01
+    es: MO01
+hm02:
+  names:
+    jp_kana: ひでんマシン０２
+    en: HM02
+    fr: CS02
+    it: MN02
+    de: VM02
+    es: MO02
+hm03:
+  names:
+    jp_kana: ひでんマシン０３
+    en: HM03
+    fr: CS03
+    it: MN03
+    de: VM03
+    es: MO03
+hm04:
+  names:
+    jp_kana: ひでんマシン０４
+    en: HM04
+    fr: CS04
+    it: MN04
+    de: VM04
+    es: MO04
+hm05:
+  names:
+    jp_kana: ひでんマシン０５
+    en: HM05
+    fr: CS05
+    it: MN05
+    de: VM05
+    es: MO05
+hp_up:
+  names:
+    jp_kana: マックスアップ
+    en: HP UP
+    fr: PV PLUS
+    it: PS-SU
+    de: KP-PLUS
+    es: MÁS PS
+hyper_potion:
+  names:
+    jp_kana: すごいキズぐすり
+    en: HYPER POTION
+    fr: HYPER POTION
+    it: IPERPOZIONE
+    de: HYPERTRANK
+    es: HÍPER POCIÓN
+ice_heal:
+  names:
+    jp_kana: こおりなおし
+    en: ICE HEAL
+    fr: ANTIGEL
+    it: ANTIGELO
+    de: EISHEILER
+    es: ANTIHIELO
+iron:
+  names:
+    jp_kana: ブロムヘキシン
+    en: IRON
+    fr: FER
+    it: FERRO
+    de: EISEN
+    es: HIERRO
+leaf_stone:
+  names:
+    jp_kana: リーフのいし
+    en: LEAF STONE
+    fr: PIERREPLANTE
+    it: PIETRAFOGLIA
+    de: BLATTSTEIN
+    es: PIEDRA HOJA
+lemonade:
+  names:
+    jp_kana: ミックスオレ
+    en: LEMONADE
+    fr: LIMONADE
+    it: LEMONSUCCO
+    de: LIMONADE
+    es: LIMONADA
+lift_key:
+  names:
+    jp_kana: エレベータのカギ
+    en: LIFT KEY
+    fr: CLE ASC.
+    it: CHIAVE ASC.
+    de: LIFTÖFFNER
+    es: LL. ASCENSOR
+marshbadge:
+  names:
+    jp_kana: ゴールドバッジ
+    en: MARSHBADGE
+    fr: BADGE MARAIS
+    it: MED. PALUDE
+    de: SUMPFORDEN
+    es: MED.PANTANO
+master_ball:
+  names:
+    jp_kana: マスターボール
+    en: MASTER BALL
+    fr: MASTER BALL
+    it: MASTER BALL
+    de: MEISTERBALL
+    es: MASTER BALL
+max_elixir:
+  names:
+    jp_kana: ピーピーマックス
+    en: MAX ELIXER
+    fr: MAX ELIXIR
+    it: ELISIR MAX
+    de: TOP-ELIXIER
+    es: ELIXIR MÁX.
+max_ether:
+  names:
+    jp_kana: ピーピーリカバー
+    en: MAX ETHER
+    fr: HUILE MAX
+    it: ETERE MAX
+    de: TOP-ÄTHER
+    es: ÉTER MÁX.
+max_potion:
+  names:
+    jp_kana: まんたんのくすり
+    en: MAX POTION
+    fr: POTION MAX
+    it: POZIONE MAX
+    de: TOP-TRANK
+    es: MÁX. POCIÓN
+max_repel:
+  names:
+    jp_kana: ゴールドスプレー
+    en: MAX REPEL
+    fr: MAX REPOUSSE
+    it: REPELL.MAX
+    de: TOP-SCHUTZ
+    es: MÁX. REPEL
+max_revive:
+  names:
+    jp_kana: げんきのかたまり
+    en: MAX REVIVE
+    fr: RAPPEL MAX
+    it: REVITAL.MAX
+    de: TOP-BELEBER
+    es: MÁX. REVIVIR
+moon_stone:
+  names:
+    jp_kana: つきのいし
+    en: MOON STONE
+    fr: PIERRE LUNE
+    it: PIETRALUNARE
+    de: MONDSTEIN
+    es: PIEDRA LUNAR
+nugget:
+  names:
+    jp_kana: きんのたま
+    en: NUGGET
+    fr: PEPITE
+    it: PEPITA
+    de: NUGGET
+    es: PEPITA
+old_amber:
+  names:
+    jp_kana: ひみつのコハク
+    en: OLD AMBER
+    fr: VIEIL AMBRE
+    it: AMBRA ANTICA
+    de: ALTBERNSTEIN
+    es: ÁMBAR VIEJO
+old_rod:
+  names:
+    jp_kana: ボロのつりざお
+    en: OLD ROD
+    fr: CANNE
+    it: AMO VECCHIO
+    de: ANGEL
+    es: CAñA VIEJA
+paralyze_heal:
+  names:
+    jp_kana: まひなおし
+    en: PARLYZ HEAL
+    fr: ANTI-PARA
+    it: ANTIPARALISI
+    de: PARA-HEILER
+    es: ANTIPARALIZ.
+parcel:kanto:
+  names:
+    jp_kana: おとどけもの
+    en: OAK’s PARCEL
+    fr: COLIS CHEN
+    it: PACCO DI OAK
+    de: EICHS PAKET
+    es: CORREO-OAK
+poke_ball:
+  names:
+    jp_kana: モンスターボール
+    en: POKé BALL
+    fr: POKé BALL
+    it: POKé BALL
+    de: POKéBALL
+    es: POKé BALL
+poke_doll:
+  names:
+    jp_kana: ピッピにんぎょう
+    en: POKé DOLL
+    fr: POKéPOUPEE
+    it: POKé BAMBOLA
+    de: POKéPUPPE
+    es: POKé MUÑECA
+poke_flute:
+  names:
+    jp_kana: ポケモンのふえ
+    en: POKé FLUTE
+    fr: POKéFLUTE
+    it: POKé FLAUTO
+    de: POKéFLÖTE
+    es: POKé FLAUTA
+pokedex:
+  names:
+    jp_kana: ポケモンずかん
+    en: POKéDEX
+    fr: POKéDEX
+    it: POKéDEX
+    de: POKéDEX
+    es: POKéDEX
+potion:
+  names:
+    jp_kana: キズぐすり
+    en: POTION
+    fr: POTION
+    it: POZIONE
+    de: TRANK
+    es: POCIÓN
+pp_up:
+  names:
+    jp_kana: ポイントアップ
+    en: PP UP
+    fr: PP PLUS
+    it: PP-SU
+    de: AP-PLUS
+    es: MÁS  PP
+protein:
+  names:
+    jp_kana: タウリン
+    en: PROTEIN
+    fr: PROTEINE
+    it: PROTEINA
+    de: PROTEIN
+    es: PROTEÍNAS
+rainbowbadge:
+  names:
+    jp_kana: レインボーバッジ
+    en: RAINBOWBADGE
+    fr: BADGE PRISME
+    it: MED. ARCOB.
+    de: FARBORDEN
+    es: MED.ARCOIRIS
+rare_candy:
+  names:
+    jp_kana: ふしぎなアメ
+    en: RARE CANDY
+    fr: SUPER BONBON
+    it: CARAM. RARA
+    de: SONDERBONBON
+    es: CARAMELORARO
+repel:
+  names:
+    jp_kana: むしよけスプレー
+    en: REPEL
+    fr: REPOUSSE
+    it: REPELLENTE
+    de: SCHUTZ
+    es: REPELENTE
+revive:
+  names:
+    jp_kana: げんきのかけら
+    en: REVIVE
+    fr: RAPPEL
+    it: REVITALIZ.
+    de: BELEBER
+    es: REVIVIR
+safari_ball:
+  names:
+    jp_kana: サファリボール
+    en: SAFARI BALL
+    fr: SAFARI BALL
+    it: SAFARI BALL
+    de: SAFARIBALL
+    es: SAFARI BALL
+secret_key:cinnabar_island_gym:
+  names:
+    jp_kana: ひみつのカギ
+    en: SECRET KEY
+    fr: CLE SECRETE
+    it: CHIAVE SEGR.
+    de: ?-ÖFFNER
+    es: LL. SECRETA
+silph_scope:
+  names:
+    jp_kana: シルフスコープ
+    en: SILPH SCOPE
+    fr: SCOPE SYLPHE
+    it: SPETTROSONDA
+    de: SILPH SCOPE
+    es: SCOPE SILPH
+soda_pop:
+  names:
+    jp_kana: サイコソーダ
+    en: SODA POP
+    fr: SODA COOL
+    it: GASSOSA
+    de: SPRUDEL
+    es: REFRESCO
+soulbadge:
+  names:
+    jp_kana: ピンクバッジ
+    en: SOULBADGE
+    fr: BADGE AME
+    it: MED. ANIMA
+    de: SEELENORDEN
+    es: MED.ALMA
+ss_ticket:ss_anne:
+  names:
+    jp_kana: ふねのチケット
+    en: S.S.TICKET
+    fr: PASSE BATEAU
+    it: BIGL. NAVE
+    de: BOOTSTICKET
+    es: TICKET BARCO
+super_potion:
+  names:
+    jp_kana: いいキズぐすり
+    en: SUPER POTION
+    fr: SUPER POTION
+    it: SUPERPOZIONE
+    de: SUPERTRANK
+    es: SÚPER POCIÓN
+super_repel:
+  names:
+    jp_kana: シルバースプレー
+    en: SUPER REPEL
+    fr: SUPEREPOUSSE
+    it: SUPERREPELL.
+    de: SUPERSCHUTZ
+    es: SÚPER REPEL
+super_rod:
+  names:
+    jp_kana: すごいつりざお
+    en: SUPER ROD
+    fr: MEGA CANNE
+    it: SUPER AMO
+    de: SUPERANGEL
+    es: SÚPER CAÑA
+thunder_stone:
+  names:
+    jp_kana: かみなりのいし
+    en: THUNDERSTONE
+    fr: PIERREFOUDRE
+    it: PIETRATUONO
+    de: DONNERSTEIN
+    es: PIEDRATRUENO
+thunderbadge:
+  names:
+    jp_kana: オレンジバッジ
+    en: THUNDERBADGE
+    fr: BADGE FOUDRE
+    it: MED. TUONO
+    de: DONNERORDEN
+    es: MED.TRUENO
+tm001:
+  names:
+    jp_kana: わざマシン０１
+    en: TM01
+    fr: CT01
+    it: MT01
+    de: TM01
+    es: MT01
+tm002:
+  names:
+    jp_kana: わざマシン０２
+    en: TM02
+    fr: CT02
+    it: MT02
+    de: TM02
+    es: MT02
+tm003:
+  names:
+    jp_kana: わざマシン０３
+    en: TM03
+    fr: CT03
+    it: MT03
+    de: TM03
+    es: MT03
+tm004:
+  names:
+    jp_kana: わざマシン０４
+    en: TM04
+    fr: CT04
+    it: MT04
+    de: TM04
+    es: MT04
+tm005:
+  names:
+    jp_kana: わざマシン０５
+    en: TM05
+    fr: CT05
+    it: MT05
+    de: TM05
+    es: MT05
+tm006:
+  names:
+    jp_kana: わざマシン０６
+    en: TM06
+    fr: CT06
+    it: MT06
+    de: TM06
+    es: MT06
+tm007:
+  names:
+    jp_kana: わざマシン０７
+    en: TM07
+    fr: CT07
+    it: MT07
+    de: TM07
+    es: MT07
+tm008:
+  names:
+    jp_kana: わざマシン０８
+    en: TM08
+    fr: CT08
+    it: MT08
+    de: TM08
+    es: MT08
+tm009:
+  names:
+    jp_kana: わざマシン０９
+    en: TM09
+    fr: CT09
+    it: MT09
+    de: TM09
+    es: MT09
+tm010:
+  names:
+    jp_kana: わざマシン１０
+    en: TM10
+    fr: CT10
+    it: MT10
+    de: TM10
+    es: MT10
+tm011:
+  names:
+    jp_kana: わざマシン１１
+    en: TM11
+    fr: CT11
+    it: MT11
+    de: TM11
+    es: MT11
+tm012:
+  names:
+    jp_kana: わざマシン１２
+    en: TM12
+    fr: CT12
+    it: MT12
+    de: TM12
+    es: MT12
+tm013:
+  names:
+    jp_kana: わざマシン１３
+    en: TM13
+    fr: CT13
+    it: MT13
+    de: TM13
+    es: MT13
+tm014:
+  names:
+    jp_kana: わざマシン１４
+    en: TM14
+    fr: CT14
+    it: MT14
+    de: TM14
+    es: MT14
+tm015:
+  names:
+    jp_kana: わざマシン１５
+    en: TM15
+    fr: CT15
+    it: MT15
+    de: TM15
+    es: MT15
+tm016:
+  names:
+    jp_kana: わざマシン１６
+    en: TM16
+    fr: CT16
+    it: MT16
+    de: TM16
+    es: MT16
+tm017:
+  names:
+    jp_kana: わざマシン１７
+    en: TM17
+    fr: CT17
+    it: MT17
+    de: TM17
+    es: MT17
+tm018:
+  names:
+    jp_kana: わざマシン１８
+    en: TM18
+    fr: CT18
+    it: MT18
+    de: TM18
+    es: MT18
+tm019:
+  names:
+    jp_kana: わざマシン１９
+    en: TM19
+    fr: CT19
+    it: MT19
+    de: TM19
+    es: MT19
+tm020:
+  names:
+    jp_kana: わざマシン２０
+    en: TM20
+    fr: CT20
+    it: MT20
+    de: TM20
+    es: MT20
+tm021:
+  names:
+    jp_kana: わざマシン２１
+    en: TM21
+    fr: CT21
+    it: MT21
+    de: TM21
+    es: MT21
+tm022:
+  names:
+    jp_kana: わざマシン２２
+    en: TM22
+    fr: CT22
+    it: MT22
+    de: TM22
+    es: MT22
+tm023:
+  names:
+    jp_kana: わざマシン２３
+    en: TM23
+    fr: CT23
+    it: MT23
+    de: TM23
+    es: MT23
+tm024:
+  names:
+    jp_kana: わざマシン２４
+    en: TM24
+    fr: CT24
+    it: MT24
+    de: TM24
+    es: MT24
+tm025:
+  names:
+    jp_kana: わざマシン２５
+    en: TM25
+    fr: CT25
+    it: MT25
+    de: TM25
+    es: MT25
+tm026:
+  names:
+    jp_kana: わざマシン２６
+    en: TM26
+    fr: CT26
+    it: MT26
+    de: TM26
+    es: MT26
+tm027:
+  names:
+    jp_kana: わざマシン２７
+    en: TM27
+    fr: CT27
+    it: MT27
+    de: TM27
+    es: MT27
+tm028:
+  names:
+    jp_kana: わざマシン２８
+    en: TM28
+    fr: CT28
+    it: MT28
+    de: TM28
+    es: MT28
+tm029:
+  names:
+    jp_kana: わざマシン２９
+    en: TM29
+    fr: CT29
+    it: MT29
+    de: TM29
+    es: MT29
+tm030:
+  names:
+    jp_kana: わざマシン３０
+    en: TM30
+    fr: CT30
+    it: MT30
+    de: TM30
+    es: MT30
+tm031:
+  names:
+    jp_kana: わざマシン３１
+    en: TM31
+    fr: CT31
+    it: MT31
+    de: TM31
+    es: MT31
+tm032:
+  names:
+    jp_kana: わざマシン３２
+    en: TM32
+    fr: CT32
+    it: MT32
+    de: TM32
+    es: MT32
+tm033:
+  names:
+    jp_kana: わざマシン３３
+    en: TM33
+    fr: CT33
+    it: MT33
+    de: TM33
+    es: MT33
+tm034:
+  names:
+    jp_kana: わざマシン３４
+    en: TM34
+    fr: CT34
+    it: MT34
+    de: TM34
+    es: MT34
+tm035:
+  names:
+    jp_kana: わざマシン３５
+    en: TM35
+    fr: CT35
+    it: MT35
+    de: TM35
+    es: MT35
+tm036:
+  names:
+    jp_kana: わざマシン３６
+    en: TM36
+    fr: CT36
+    it: MT36
+    de: TM36
+    es: MT36
+tm037:
+  names:
+    jp_kana: わざマシン３７
+    en: TM37
+    fr: CT37
+    it: MT37
+    de: TM37
+    es: MT37
+tm038:
+  names:
+    jp_kana: わざマシン３８
+    en: TM38
+    fr: CT38
+    it: MT38
+    de: TM38
+    es: MT38
+tm039:
+  names:
+    jp_kana: わざマシン３９
+    en: TM39
+    fr: CT39
+    it: MT39
+    de: TM39
+    es: MT39
+tm040:
+  names:
+    jp_kana: わざマシン４０
+    en: TM40
+    fr: CT40
+    it: MT40
+    de: TM40
+    es: MT40
+tm041:
+  names:
+    jp_kana: わざマシン４１
+    en: TM41
+    fr: CT41
+    it: MT41
+    de: TM41
+    es: MT41
+tm042:
+  names:
+    jp_kana: わざマシン４２
+    en: TM42
+    fr: CT42
+    it: MT42
+    de: TM42
+    es: MT42
+tm043:
+  names:
+    jp_kana: わざマシン４３
+    en: TM43
+    fr: CT43
+    it: MT43
+    de: TM43
+    es: MT43
+tm044:
+  names:
+    jp_kana: わざマシン４４
+    en: TM44
+    fr: CT44
+    it: MT44
+    de: TM44
+    es: MT44
+tm045:
+  names:
+    jp_kana: わざマシン４５
+    en: TM45
+    fr: CT45
+    it: MT45
+    de: TM45
+    es: MT45
+tm046:
+  names:
+    jp_kana: わざマシン４６
+    en: TM46
+    fr: CT46
+    it: MT46
+    de: TM46
+    es: MT46
+tm047:
+  names:
+    jp_kana: わざマシン４７
+    en: TM47
+    fr: CT47
+    it: MT47
+    de: TM47
+    es: MT47
+tm048:
+  names:
+    jp_kana: わざマシン４８
+    en: TM48
+    fr: CT48
+    it: MT48
+    de: TM48
+    es: MT48
+tm049:
+  names:
+    jp_kana: わざマシン４９
+    en: TM49
+    fr: CT49
+    it: MT49
+    de: TM49
+    es: MT49
+tm050:
+  names:
+    jp_kana: わざマシン５０
+    en: TM50
+    fr: CT50
+    it: MT50
+    de: TM50
+    es: MT50
+town_map:
+  names:
+    jp_kana: タウンマップ
+    en: TOWN MAP
+    fr: CARTE
+    it: MAPPA CITTÀ
+    de: KARTE
+    es: MAPA PUEBLO
+ultra_ball:
+  names:
+    jp_kana: ハイパーボール
+    en: ULTRA BALL
+    fr: HYPER BALL
+    it: ULTRA BALL
+    de: HYPERBALL
+    es: ULTRA BALL
+volcanobadge:
+  names:
+    jp_kana: クリムゾンバッジ
+    en: VOLCANOBADGE
+    fr: BADGE VOLCAN
+    it: MED. VULCANO
+    de: VULKANORDEN
+    es: MED.VOLCÁN
+water_stone:
+  names:
+    jp_kana: みずのいし
+    en: WATER STONE
+    fr: PIERRE EAU
+    it: PIETRAIDRICA
+    de: WASSERSTEIN
+    es: PIEDRA AGUA
+x_accuracy:
+  names:
+    jp_kana: ヨクアタール
+    en: X ACCURACY
+    fr: PRECISION +
+    it: PRECISIONE X
+    de: X-TREFFER
+    es: PRECISIÓN X
+x_attack:
+  names:
+    jp_kana: プラスパワー
+    en: X ATTACK
+    fr: ATTAQUE +
+    it: ATTACCO X
+    de: X-ANGRIFF
+    es: ATAQUE X
+x_defense:
+  names:
+    jp_kana: ディフェンダー
+    en: X DEFEND
+    fr: DEFENSE +
+    it: DIFESA X
+    de: X-ABWEHR
+    es: DEFENSA X
+x_sp_atk:
+  names:
+    jp_kana: スペシャルアップ
+    en: X SPECIAL
+    fr: SPECIAL +
+    it: SPECIAL X
+    de: X-SPEZIAL
+    es: ESPECIAL X
+x_speed:
+  names:
+    jp_kana: スピーダー
+    en: X SPEED
+    fr: VITESSE +
+    it: VELOCITÀ X
+    de: X-TEMPO
+    es: VELOCIDAD X

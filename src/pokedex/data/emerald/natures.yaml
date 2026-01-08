@@ -1,0 +1,200 @@
+adamant:
+  names:
+    jp_kana: いじっぱり
+    en: ADAMANT
+    fr: RIGIDE
+    it: DECISA
+    de: HART
+    es: FIRME
+bashful:
+  names:
+    jp_kana: てれや
+    en: BASHFUL
+    fr: PUDIQUE
+    it: RITROSA
+    de: ZAGHAFT
+    es: TÍMIDA
+bold:
+  names:
+    jp_kana: ずぶとい
+    en: BOLD
+    fr: ASSURE
+    it: SICURA
+    de: KÜHN
+    es: OSADA
+brave:
+  names:
+    jp_kana: ゆうかん
+    en: BRAVE
+    fr: BRAVE
+    it: AUDACE
+    de: MUTIG
+    es: AUDAZ
+calm:
+  names:
+    jp_kana: おだやか
+    en: CALM
+    fr: CALME
+    it: CALMA
+    de: STILL
+    es: SERENA
+careful:
+  names:
+    jp_kana: しんちょう
+    en: CAREFUL
+    fr: PRUDENT
+    it: CAUTA
+    de: SACHT
+    es: CAUTA
+docile:
+  names:
+    jp_kana: すなお
+    en: DOCILE
+    fr: DOCILE
+    it: DOCILE
+    de: SANFT
+    es: DÓCIL
+gentle:
+  names:
+    jp_kana: おとなしい
+    en: GENTLE
+    fr: GENTIL
+    it: GENTILE
+    de: ZART
+    es: AMABLE
+hardy:
+  names:
+    jp_kana: がんばりや
+    en: HARDY
+    fr: HARDI
+    it: ARDITA
+    de: ROBUST
+    es: FUERTE
+hasty:
+  names:
+    jp_kana: せっかち
+    en: HASTY
+    fr: PRESSE
+    it: LESTA
+    de: HASTIG
+    es: ACTIVA
+impish:
+  names:
+    jp_kana: わんぱく
+    en: IMPISH
+    fr: MALIN
+    it: SCALTRA
+    de: PFIFFIG
+    es: AGITADA
+jolly:
+  names:
+    jp_kana: ようき
+    en: JOLLY
+    fr: JOVIAL
+    it: ALLEGRA
+    de: FROH
+    es: ALEGRE
+lax:
+  names:
+    jp_kana: のうてんき
+    en: LAX
+    fr: LACHE
+    it: FIACCA
+    de: LASCH
+    es: FLOJA
+lonely:
+  names:
+    jp_kana: さみしがり
+    en: LONELY
+    fr: SOLO
+    it: SCHIVA
+    de: SOLO
+    es: HURAÑA
+mild:
+  names:
+    jp_kana: おっとり
+    en: MILD
+    fr: DOUX
+    it: MITE
+    de: MILD
+    es: AFABLE
+modest:
+  names:
+    jp_kana: ひかえめ
+    en: MODEST
+    fr: MODESTE
+    it: MODESTA
+    de: MÄSSIG
+    es: MODESTA
+naive:
+  names:
+    jp_kana: むじゃき
+    en: NAIVE
+    fr: NAIF
+    it: INGENUA
+    de: NAIV
+    es: INGENUA
+naughty:
+  names:
+    jp_kana: やんちゃ
+    en: NAUGHTY
+    fr: MAUVAIS
+    it: BIRBONA
+    de: FRECH
+    es: PÍCARA
+quiet:
+  names:
+    jp_kana: れいせい
+    en: QUIET
+    fr: DISCRET
+    it: QUIETA
+    de: RUHIG
+    es: MANSA
+quirky:
+  names:
+    jp_kana: きまぐれ
+    en: QUIRKY
+    fr: BIZARRE
+    it: FURBA
+    de: KAUZIG
+    es: RARA
+rash:
+  names:
+    jp_kana: うっかりや
+    en: RASH
+    fr: FOUFOU
+    it: ARDENTE
+    de: HITZIG
+    es: ALOCADA
+relaxed:
+  names:
+    jp_kana: のんき
+    en: RELAXED
+    fr: RELAX
+    it: PLACIDA
+    de: LOCKER
+    es: PLÁCIDA
+sassy:
+  names:
+    jp_kana: なまいき
+    en: SASSY
+    fr: MALPOLI
+    it: VIVACE
+    de: FORSCH
+    es: GROSERA
+serious:
+  names:
+    jp_kana: まじめ
+    en: SERIOUS
+    fr: SERIEUX
+    it: SERIA
+    de: ERNST
+    es: SERIA
+timid:
+  names:
+    jp_kana: おくびょう
+    en: TIMID
+    fr: TIMIDE
+    it: TIMIDA
+    de: SCHEU
+    es: MIEDOSA

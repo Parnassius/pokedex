@@ -1,0 +1,120 @@
+bug:
+  names:
+    jp_kana: むし
+    en: BUG
+    fr: INSECTE
+    it: COLEOTT.
+    de: KÄFER
+    es: BICHO
+dragon:
+  names:
+    jp_kana: ドラゴン
+    en: DRAGON
+    fr: DRAGON
+    it: DRAGO
+    de: DRACHEN
+    es: DRAGÓN
+electric:
+  names:
+    jp_kana: でんき
+    en: ELECTRIC
+    fr: ELECTRIK
+    it: ELETTRO
+    de: ELEKTRO
+    es: ELÉCTRIC
+fighting:
+  names:
+    jp_kana: かくとう
+    en: FIGHTING
+    fr: COMBAT
+    it: LOTTA
+    de: KAMPF
+    es: LUCHA
+fire:
+  names:
+    jp_kana: ほのお
+    en: FIRE
+    fr: FEU
+    it: FUOCO
+    de: FEUER
+    es: FUEGO
+flying:
+  names:
+    jp_kana: ひこう
+    en: FLYING
+    fr: VOL
+    it: VOLANTE
+    de: FLUG
+    es: VOLADOR
+ghost:
+  names:
+    jp_kana: ゴースト
+    en: GHOST
+    fr: SPECTRE
+    it: SPETTRO
+    de: GEIST
+    es: FANTASMA
+grass:
+  names:
+    jp_kana: くさ
+    en: GRASS
+    fr: PLANTE
+    it: ERBA
+    de: PFLANZE
+    es: PLANTA
+ground:
+  names:
+    jp_kana: じめん
+    en: GROUND
+    fr: SOL
+    it: TERRA
+    de: BODEN
+    es: TIERRA
+ice:
+  names:
+    jp_kana: こおり
+    en: ICE
+    fr: GLACE
+    it: GHIACCIO
+    de: EIS
+    es: HIELO
+normal:
+  names:
+    jp_kana: ノーマル
+    en: NORMAL
+    fr: NORMAL
+    it: NORMALE
+    de: NORMAL
+    es: NORMAL
+poison:
+  names:
+    jp_kana: どく
+    en: POISON
+    fr: POISON
+    it: VELENO
+    de: GIFT
+    es: VENENO
+psychic:
+  names:
+    jp_kana: エスパー
+    en: PSYCHIC
+    fr: PSY
+    it: PSICO
+    de: PSYCHO
+    es: PSÍQUICO
+rock:
+  names:
+    jp_kana: いわ
+    en: ROCK
+    fr: ROCHE
+    it: ROCCIA
+    de: GESTEIN
+    es: ROCA
+water:
+  names:
+    jp_kana: みず
+    en: WATER
+    fr: EAU
+    it: ACQUA
+    de: WASSER
+    es: AGUA

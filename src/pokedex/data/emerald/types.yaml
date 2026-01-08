@@ -1,0 +1,144 @@
+bug:
+  names:
+    jp_kana: むし
+    en: BUG
+    fr: INSECT
+    it: COLEOT
+    de: KÄFER
+    es: BICHO
+dark:
+  names:
+    jp_kana: あく
+    en: DARK
+    fr: TENEBR
+    it: BUIO
+    de: UNL.
+    es: SINIE.
+dragon:
+  names:
+    jp_kana: ドラゴン
+    en: DRAGON
+    fr: DRAGON
+    it: DRAGO
+    de: DRA.
+    es: DRAGÓN
+electric:
+  names:
+    jp_kana: でんき
+    en: ELECTR
+    fr: ELECTR
+    it: ELETT
+    de: ELEK.
+    es: ELÉCT.
+fighting:
+  names:
+    jp_kana: かくとう
+    en: FIGHT
+    fr: COMBAT
+    it: LOTTA
+    de: KAMPF
+    es: LUCHA
+fire:
+  names:
+    jp_kana: ほのお
+    en: FIRE
+    fr: FEU
+    it: FUOCO
+    de: FEUER
+    es: FUEGO
+flying:
+  names:
+    jp_kana: ひこう
+    en: FLYING
+    fr: VOL
+    it: VOLAN
+    de: FLUG
+    es: VOLAD.
+ghost:
+  names:
+    jp_kana: ゴースト
+    en: GHOST
+    fr: SPECTR
+    it: SP.TRO
+    de: GEIST
+    es: FANT.
+grass:
+  names:
+    jp_kana: くさ
+    en: GRASS
+    fr: PLANTE
+    it: ERBA
+    de: PFLAN.
+    es: PLANTA
+ground:
+  names:
+    jp_kana: じめん
+    en: GROUND
+    fr: SOL
+    it: TERRA
+    de: BODEN
+    es: TIERRA
+ice:
+  names:
+    jp_kana: こおり
+    en: ICE
+    fr: GLACE
+    it: GHIACC
+    de: EIS
+    es: HIELO
+normal:
+  names:
+    jp_kana: ノーマル
+    en: NORMAL
+    fr: NORMAL
+    it: NORM
+    de: NORMAL
+    es: NORMAL
+poison:
+  names:
+    jp_kana: どく
+    en: POISON
+    fr: POISON
+    it: VELENO
+    de: GIFT
+    es: VENENO
+psychic:
+  names:
+    jp_kana: エスパー
+    en: PSYCHC
+    fr: PSY
+    it: PSICO
+    de: PSYCHO
+    es: PSÍQ.
+question_marks:
+  names:
+    jp_kana: ？？？
+    en: ???
+    fr: ???
+    it: ???
+    de: ???
+    es: (?)
+rock:
+  names:
+    jp_kana: いわ
+    en: ROCK
+    fr: ROCHE
+    it: ROCCIA
+    de: GEST.
+    es: ROCA
+steel:
+  names:
+    jp_kana: はがね
+    en: STEEL
+    fr: ACIER
+    it: ACC.IO
+    de: STAHL
+    es: ACERO
+water:
+  names:
+    jp_kana: みず
+    en: WATER
+    fr: EAU
+    it: ACQUA
+    de: WASSER
+    es: AGUA
