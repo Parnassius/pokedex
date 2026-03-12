@@ -1,6 +1,5 @@
 bug:
   names:
-    jp_kana: むし
     jp_kanji: むし
     en: Bug
     fr: Insecte
@@ -12,7 +11,6 @@ bug:
     zh_trad: 蟲
 dark:
   names:
-    jp_kana: あく
     jp_kanji: あく
     en: Dark
     fr: Ténèbres
@@ -24,7 +22,6 @@ dark:
     zh_trad: 惡
 dragon:
   names:
-    jp_kana: ドラゴン
     jp_kanji: ドラゴン
     en: Dragon
     fr: Dragon
@@ -36,7 +33,6 @@ dragon:
     zh_trad: 龍
 electric:
   names:
-    jp_kana: でんき
     jp_kanji: でんき
     en: Electric
     fr: Électrik
@@ -48,7 +44,6 @@ electric:
     zh_trad: 電
 fairy:
   names:
-    jp_kana: フェアリー
     jp_kanji: フェアリー
     en: Fairy
     fr: Fée
@@ -60,7 +55,6 @@ fairy:
     zh_trad: 妖精
 fighting:
   names:
-    jp_kana: かくとう
     jp_kanji: かくとう
     en: Fighting
     fr: Combat
@@ -72,7 +66,6 @@ fighting:
     zh_trad: 格鬥
 fire:
   names:
-    jp_kana: ほのお
     jp_kanji: ほのお
     en: Fire
     fr: Feu
@@ -84,7 +77,6 @@ fire:
     zh_trad: 火
 flying:
   names:
-    jp_kana: ひこう
     jp_kanji: ひこう
     en: Flying
     fr: Vol
@@ -96,7 +88,6 @@ flying:
     zh_trad: 飛行
 ghost:
   names:
-    jp_kana: ゴースト
     jp_kanji: ゴースト
     en: Ghost
     fr: Spectre
@@ -108,7 +99,6 @@ ghost:
     zh_trad: 幽靈
 grass:
   names:
-    jp_kana: くさ
     jp_kanji: くさ
     en: Grass
     fr: Plante
@@ -120,7 +110,6 @@ grass:
     zh_trad: 草
 ground:
   names:
-    jp_kana: じめん
     jp_kanji: じめん
     en: Ground
     fr: Sol
@@ -132,7 +121,6 @@ ground:
     zh_trad: 地面
 ice:
   names:
-    jp_kana: こおり
     jp_kanji: こおり
     en: Ice
     fr: Glace
@@ -144,7 +132,6 @@ ice:
     zh_trad: 冰
 normal:
   names:
-    jp_kana: ノーマル
     jp_kanji: ノーマル
     en: Normal
     fr: Normal
@@ -156,7 +143,6 @@ normal:
     zh_trad: 一般
 poison:
   names:
-    jp_kana: どく
     jp_kanji: どく
     en: Poison
     fr: Poison
@@ -168,7 +154,6 @@ poison:
     zh_trad: 毒
 psychic:
   names:
-    jp_kana: エスパー
     jp_kanji: エスパー
     en: Psychic
     fr: Psy
@@ -180,7 +165,6 @@ psychic:
     zh_trad: 超能力
 rock:
   names:
-    jp_kana: いわ
     jp_kanji: いわ
     en: Rock
     fr: Roche
@@ -192,7 +176,6 @@ rock:
     zh_trad: 岩石
 steel:
   names:
-    jp_kana: はがね
     jp_kanji: はがね
     en: Steel
     fr: Acier
@@ -204,7 +187,6 @@ steel:
     zh_trad: 鋼
 stellar:
   names:
-    jp_kana: ステラ
     jp_kanji: ステラ
     en: Stellar
     fr: Stellaire
@@ -216,7 +198,6 @@ stellar:
     zh_trad: 星晶
 water:
   names:
-    jp_kana: みず
     jp_kanji: みず
     en: Water
     fr: Eau

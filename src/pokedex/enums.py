@@ -61,7 +61,7 @@ class GameGroup(OrderedEnum):
             Language.GERMAN,
             Language.SPANISH,
         }
-        if self is not GameGroup.LEGENDS_ARCEUS:
+        if self < GameGroup.LEGENDS_ARCEUS:
             langs.add(Language.JAPANESE_KANA)
         if self is GameGroup.GOLD_SILVER or self >= GameGroup.DIAMOND_PEARL:
             langs.add(Language.KOREAN)
