@@ -1,4 +1,3 @@
-import re
 from enum import Enum, auto, unique
 from functools import total_ordering
 from itertools import product
@@ -166,39 +165,6 @@ class Language(OrderedEnum):
     @classmethod
     def get_default(cls) -> "Language":
         return cls.ENGLISH
-
-    @classmethod
-    def get(cls, language: str) -> "Language | None":
-        language = re.sub(r"[^a-z]", "", language.lower())
-        table = {
-            "jp": cls.JAPANESE_KANA,
-            "japanese": cls.JAPANESE_KANA,
-            "kana": cls.JAPANESE_KANA,
-            "jpkana": cls.JAPANESE_KANA,
-            "japanesekana": cls.JAPANESE_KANA,
-            "kanji": cls.JAPANESE_KANJI,
-            "jpkanji": cls.JAPANESE_KANJI,
-            "japanesekanji": cls.JAPANESE_KANJI,
-            "fr": cls.FRENCH,
-            "french": cls.FRENCH,
-            "de": cls.GERMAN,
-            "german": cls.GERMAN,
-            "es": cls.SPANISH,
-            "spanish": cls.SPANISH,
-            "it": cls.ITALIAN,
-            "italian": cls.ITALIAN,
-            "en": cls.ENGLISH,
-            "english": cls.ENGLISH,
-            "ko": cls.KOREAN,
-            "korean": cls.KOREAN,
-            "zh": cls.CHINESE_SIMPLIFIED,
-            "chinese": cls.CHINESE_SIMPLIFIED,
-            "zhsimp": cls.CHINESE_SIMPLIFIED,
-            "chinesesimplified": cls.CHINESE_SIMPLIFIED,
-            "zhtrad": cls.CHINESE_TRADITIONAL,
-            "chinesetraditional": cls.CHINESE_TRADITIONAL,
-        }
-        return table.get(language)
 
 
 @unique
