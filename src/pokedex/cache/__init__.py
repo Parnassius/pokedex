@@ -99,7 +99,9 @@ def load_all(cache_path: Path | None = None) -> None:
     for entity in BaseEntity.__subclasses__():
         shelf_path = cache_path / entity.yaml_name
         _build_shelf_if_required(entity, shelf_path)
-        data[entity] = CacheData(entity, shelve.open(shelf_path, "r"))  # noqa: SIM115
+        shelf = shelve.open(shelf_path, "r")  # noqa: SIM115
+        atexit.register(shelf.close)
+        data[entity] = CacheData(entity, shelf)
 
 
 def get[T: BaseEntity](entity: type[T]) -> CacheData[T]:
