@@ -46,6 +46,7 @@ class GameGroup(OrderedEnum):
     BRILLIANT_DIAMOND_SHINING_PEARL = auto()
     LEGENDS_ARCEUS = auto()
     SCARLET_VIOLET = auto()
+    LEGENDS_ZA = auto()
 
     @property
     def games(self) -> "list[Game]":
@@ -68,6 +69,8 @@ class GameGroup(OrderedEnum):
             langs.add(Language.JAPANESE_KANJI)
         if self >= GameGroup.SUN_MOON:
             langs.update({Language.CHINESE_SIMPLIFIED, Language.CHINESE_TRADITIONAL})
+        if self >= GameGroup.LEGENDS_ZA:
+            langs.add(Language.SPANISH_LATAM)
         return sorted(langs)
 
     @property
@@ -89,7 +92,7 @@ class GameGroup(OrderedEnum):
 
     @classmethod
     def get_default(cls) -> "GameGroup":
-        return cls.SCARLET_VIOLET
+        return next(reversed(cls))
 
 
 @unique
@@ -132,6 +135,7 @@ class Game(OrderedEnum):
     LEGENDS_ARCEUS = auto(), GameGroup.LEGENDS_ARCEUS
     SCARLET = auto(), GameGroup.SCARLET_VIOLET
     VIOLET = auto(), GameGroup.SCARLET_VIOLET
+    LEGENDS_ZA = auto(), GameGroup.LEGENDS_ZA
 
     game_group: GameGroup
 
@@ -161,6 +165,7 @@ class Language(OrderedEnum):
     KOREAN = "ko"
     CHINESE_SIMPLIFIED = "zh_simp"
     CHINESE_TRADITIONAL = "zh_trad"
+    SPANISH_LATAM = "es_latam"
 
     @classmethod
     def get_default(cls) -> "Language":

@@ -1,0 +1,300 @@
+adamant:
+  names:
+    jp_kanji: いじっぱり
+    en: Adamant
+    fr: Rigide
+    it: Decisa
+    de: Hart
+    es: Firme
+    ko: 고집
+    zh_simp: 固执
+    zh_trad: 固執
+    es_latam: Firme
+bashful:
+  names:
+    jp_kanji: てれや
+    en: Bashful
+    fr: Pudique
+    it: Ritrosa
+    de: Zaghaft
+    es: Tímida
+    ko: 수줍음
+    zh_simp: 害羞
+    zh_trad: 害羞
+    es_latam: Tímida
+bold:
+  names:
+    jp_kanji: ずぶとい
+    en: Bold
+    fr: Assuré
+    it: Sicura
+    de: Kühn
+    es: Osada
+    ko: 대담
+    zh_simp: 大胆
+    zh_trad: 大膽
+    es_latam: Osada
+brave:
+  names:
+    jp_kanji: ゆうかん
+    en: Brave
+    fr: Brave
+    it: Audace
+    de: Mutig
+    es: Audaz
+    ko: 용감
+    zh_simp: 勇敢
+    zh_trad: 勇敢
+    es_latam: Audaz
+calm:
+  names:
+    jp_kanji: おだやか
+    en: Calm
+    fr: Calme
+    it: Calma
+    de: Still
+    es: Serena
+    ko: 차분
+    zh_simp: 温和
+    zh_trad: 溫和
+    es_latam: Serena
+careful:
+  names:
+    jp_kanji: しんちょう
+    en: Careful
+    fr: Prudent
+    it: Cauta
+    de: Sacht
+    es: Cauta
+    ko: 신중
+    zh_simp: 慎重
+    zh_trad: 慎重
+    es_latam: Cauta
+docile:
+  names:
+    jp_kanji: すなお
+    en: Docile
+    fr: Docile
+    it: Docile
+    de: Sanft
+    es: Dócil
+    ko: 온순
+    zh_simp: 坦率
+    zh_trad: 坦率
+    es_latam: Dócil
+gentle:
+  names:
+    jp_kanji: おとなしい
+    en: Gentle
+    fr: Gentil
+    it: Gentile
+    de: Zart
+    es: Amable
+    ko: 얌전
+    zh_simp: 温顺
+    zh_trad: 溫順
+    es_latam: Amable
+hardy:
+  names:
+    jp_kanji: がんばりや
+    en: Hardy
+    fr: Hardi
+    it: Ardita
+    de: Robust
+    es: Fuerte
+    ko: 노력
+    zh_simp: 勤奋
+    zh_trad: 勤奮
+    es_latam: Fuerte
+hasty:
+  names:
+    jp_kanji: せっかち
+    en: Hasty
+    fr: Pressé
+    it: Lesta
+    de: Hastig
+    es: Activa
+    ko: 성급
+    zh_simp: 急躁
+    zh_trad: 急躁
+    es_latam: Activa
+impish:
+  names:
+    jp_kanji: わんぱく
+    en: Impish
+    fr: Malin
+    it: Scaltra
+    de: Pfiffig
+    es: Agitada
+    ko: 장난꾸러기
+    zh_simp: 淘气
+    zh_trad: 淘氣
+    es_latam: Agitada
+jolly:
+  names:
+    jp_kanji: ようき
+    en: Jolly
+    fr: Jovial
+    it: Allegra
+    de: Froh
+    es: Alegre
+    ko: 명랑
+    zh_simp: 爽朗
+    zh_trad: 爽朗
+    es_latam: Alegre
+lax:
+  names:
+    jp_kanji: のうてんき
+    en: Lax
+    fr: Lâche
+    it: Fiacca
+    de: Lasch
+    es: Floja
+    ko: 촐랑
+    zh_simp: 乐天
+    zh_trad: 樂天
+    es_latam: Descuidada
+lonely:
+  names:
+    jp_kanji: さみしがり
+    en: Lonely
+    fr: Solo
+    it: Schiva
+    de: Solo
+    es: Huraña
+    ko: 외로움
+    zh_simp: 怕寂寞
+    zh_trad: 怕寂寞
+    es_latam: Huraña
+mild:
+  names:
+    jp_kanji: おっとり
+    en: Mild
+    fr: Doux
+    it: Mite
+    de: Mild
+    es: Afable
+    ko: 의젓
+    zh_simp: 慢吞吞
+    zh_trad: 慢吞吞
+    es_latam: Cordial
+modest:
+  names:
+    jp_kanji: ひかえめ
+    en: Modest
+    fr: Modeste
+    it: Modesta
+    de: Mäßig
+    es: Modesta
+    ko: 조심
+    zh_simp: 内敛
+    zh_trad: 內斂
+    es_latam: Modesta
+naive:
+  names:
+    jp_kanji: むじゃき
+    en: Naive
+    fr: Naïf
+    it: Ingenua
+    de: Naiv
+    es: Ingenua
+    ko: 천진난만
+    zh_simp: 天真
+    zh_trad: 天真
+    es_latam: Ingenua
+naughty:
+  names:
+    jp_kanji: やんちゃ
+    en: Naughty
+    fr: Mauvais
+    it: Birbona
+    de: Frech
+    es: Pícara
+    ko: 개구쟁이
+    zh_simp: 顽皮
+    zh_trad: 頑皮
+    es_latam: Pícara
+quiet:
+  names:
+    jp_kanji: れいせい
+    en: Quiet
+    fr: Discret
+    it: Quieta
+    de: Ruhig
+    es: Mansa
+    ko: 냉정
+    zh_simp: 冷静
+    zh_trad: 冷靜
+    es_latam: Apacible
+quirky:
+  names:
+    jp_kanji: きまぐれ
+    en: Quirky
+    fr: Bizarre
+    it: Furba
+    de: Kauzig
+    es: Rara
+    ko: 변덕
+    zh_simp: 浮躁
+    zh_trad: 浮躁
+    es_latam: Extravagante
+rash:
+  names:
+    jp_kanji: うっかりや
+    en: Rash
+    fr: Foufou
+    it: Ardente
+    de: Hitzig
+    es: Alocada
+    ko: 덜렁
+    zh_simp: 马虎
+    zh_trad: 馬虎
+    es_latam: Alocada
+relaxed:
+  names:
+    jp_kanji: のんき
+    en: Relaxed
+    fr: Relax
+    it: Placida
+    de: Locker
+    es: Plácida
+    ko: 무사태평
+    zh_simp: 悠闲
+    zh_trad: 悠閒
+    es_latam: Relajada
+sassy:
+  names:
+    jp_kanji: なまいき
+    en: Sassy
+    fr: Malpoli
+    it: Vivace
+    de: Forsch
+    es: Grosera
+    ko: 건방
+    zh_simp: 自大
+    zh_trad: 自大
+    es_latam: Grosera
+serious:
+  names:
+    jp_kanji: まじめ
+    en: Serious
+    fr: Sérieux
+    it: Seria
+    de: Ernst
+    es: Seria
+    ko: 성실
+    zh_simp: 认真
+    zh_trad: 認真
+    es_latam: Seria
+timid:
+  names:
+    jp_kanji: おくびょう
+    en: Timid
+    fr: Timide
+    it: Timida
+    de: Scheu
+    es: Miedosa
+    ko: 겁쟁이
+    zh_simp: 胆小
+    zh_trad: 膽小
+    es_latam: Miedosa

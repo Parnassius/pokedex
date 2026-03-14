@@ -47,7 +47,11 @@ def test_get(entity: type[BaseEntity], identifier: str) -> None:
         (
             Nature,
             "Timida",
-            {(Language.ITALIAN, "timid"), (Language.SPANISH, "bashful")},
+            {
+                (Language.ITALIAN, "timid"),
+                (Language.SPANISH, "bashful"),
+                (Language.SPANISH_LATAM, "bashful"),
+            },
         ),
         (
             Move,
