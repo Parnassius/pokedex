@@ -32,7 +32,6 @@ jobs:
           - macos-15  # renovate: github-runner
           - windows-2025  # renovate: github-runner
         python-version:
-          - "3.12"
           - "3.13"
           - "3.14"
           - "3.15"

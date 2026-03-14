@@ -1,6 +1,6 @@
 [project]
 name = "pokedex"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 license = "MIT"
 authors = [
     {name="Parnassius", email="Parnassius@users.noreply.github.com"},
@@ -29,7 +29,7 @@ source = "vcs"
 
 
 [tool.mypy]
-python_version = "3.12"
+python_version = "3.13"
 strict = true
 
 # Disallow dynamic typing
