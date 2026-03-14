@@ -37726,7 +37726,7 @@ pumpkaboo:
     zh_simp: 南瓜精
     zh_trad: 南瓜精
   forms:
-    pumpkaboo_average_size:
+    pumpkaboo_medium_variety:
       form_id: 0
       names:
         jp_kana: ふつうのサイズ
@@ -37793,7 +37793,7 @@ pumpkaboo:
         zh_trad:
           sword: "在這個世界遊蕩的靈魂\n會被裝到南瓜精的身體裡，\n啟程前往另一個世界。"
           shield: "南瓜的洞裡發出的光\n會催眠並控制\n看到牠的人和寶可夢。"
-    pumpkaboo_small_size:
+    pumpkaboo_small_variety:
       form_id: 1
       names:
         jp_kana: ちいさいサイズ
@@ -37860,7 +37860,7 @@ pumpkaboo:
         zh_trad:
           sword: "小尺寸的南瓜精\n喜歡把小孩子的靈魂\n帶往另一個世界。"
           shield: "據說是因為生活在\n遊蕩的靈魂不多的地方，\n所以身體變小了。"
-    pumpkaboo_large_size:
+    pumpkaboo_large_variety:
       form_id: 2
       names:
         jp_kana: おおきいサイズ
@@ -37927,7 +37927,7 @@ pumpkaboo:
         zh_trad:
           sword: "大尺寸的南瓜精\n喜歡把大人的靈魂\n帶往另一個世界。"
           shield: "據說是因為生活在\n遊蕩的靈魂比較多的地方，\n所以身體變大了。"
-    pumpkaboo_super_size:
+    pumpkaboo_jumbo_variety:
       form_id: 3
       names:
         jp_kana: とくだいサイズ
@@ -38011,7 +38011,7 @@ gourgeist:
     zh_simp: 南瓜怪人
     zh_trad: 南瓜怪人
   forms:
-    gourgeist_average_size:
+    gourgeist_medium_variety:
       form_id: 0
       names:
         jp_kana: ふつうのサイズ
@@ -38078,7 +38078,7 @@ gourgeist:
         zh_trad:
           sword: "深夜時分，牠身體裡發出\n的詭異叫聲似乎是死者\n在另一個世界裡的痛苦哭聲。"
           shield: "南瓜怪人會在朔月的夜裡\n去別人家門口敲門。開了門的人\n會被牠帶往另一個世界。"
-    gourgeist_small_size:
+    gourgeist_small_variety:
       form_id: 1
       names:
         jp_kana: ちいさいサイズ
@@ -38145,7 +38145,7 @@ gourgeist:
         zh_trad:
           sword: "小尺寸的南瓜怪人會扮成\n小孩子，趁大人失去防備時\n把他們帶往另一個世界。"
           shield: "身體偏小的南瓜精\n進化之後的樣子。\n身體的大小會遺傳。"
-    gourgeist_large_size:
+    gourgeist_large_variety:
       form_id: 2
       names:
         jp_kana: おおきいサイズ
@@ -38212,7 +38212,7 @@ gourgeist:
         zh_trad:
           sword: "大尺寸的南瓜怪人會扮成\n大人，牽起小孩子的手，\n把他們帶往另一個世界。"
           shield: "身體偏大的南瓜精\n進化之後的樣子。\n身體的大小會遺傳。"
-    gourgeist_super_size:
+    gourgeist_jumbo_variety:
       form_id: 3
       names:
         jp_kana: とくだいサイズ
@@ -38578,7 +38578,7 @@ xerneas:
     zh_simp: 哲尔尼亚斯
     zh_trad: 哲爾尼亞斯
   forms:
-    xerneas_neutral_mode:
+    xerneas:
       form_id: 0
       names:
         jp_kana: リラックスモード

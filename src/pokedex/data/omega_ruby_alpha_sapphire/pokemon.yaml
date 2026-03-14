@@ -54542,7 +54542,7 @@ pumpkaboo:
     es: Pumpkaboo
     ko: 호바귀
   forms:
-    pumpkaboo_average_size:
+    pumpkaboo_medium_variety:
       form_id: 0
       names:
         jp_kana: ふつうのサイズ
@@ -54601,7 +54601,7 @@ pumpkaboo:
         ko:
           omega_ruby: "성불하지 못한 혼을\n호박으로 된 몸속에 담고 있다.\n해가 지면 활동하기 시작한다."
           alpha_sapphire: "떠도는 영혼을 성불시키기 위해\n죽은 자들이 사는 세계로\n옮기고 있다고 전해진다."
-    pumpkaboo_small_size:
+    pumpkaboo_small_variety:
       form_id: 1
       names:
         jp_kana: ちいさいサイズ
@@ -54660,7 +54660,7 @@ pumpkaboo:
         ko:
           omega_ruby: "성불하지 못한 혼을\n호박으로 된 몸속에 담고 있다.\n해가 지면 활동하기 시작한다."
           alpha_sapphire: "떠도는 영혼을 성불시키기 위해\n죽은 자들이 사는 세계로\n옮기고 있다고 전해진다."
-    pumpkaboo_large_size:
+    pumpkaboo_large_variety:
       form_id: 2
       names:
         jp_kana: おおきいサイズ
@@ -54719,7 +54719,7 @@ pumpkaboo:
         ko:
           omega_ruby: "성불하지 못한 혼을\n호박으로 된 몸속에 담고 있다.\n해가 지면 활동하기 시작한다."
           alpha_sapphire: "떠도는 영혼을 성불시키기 위해\n죽은 자들이 사는 세계로\n옮기고 있다고 전해진다."
-    pumpkaboo_super_size:
+    pumpkaboo_jumbo_variety:
       form_id: 3
       names:
         jp_kana: とくだいサイズ
@@ -54793,7 +54793,7 @@ gourgeist:
     es: Gourgeist
     ko: 펌킨인
   forms:
-    gourgeist_average_size:
+    gourgeist_medium_variety:
       form_id: 0
       names:
         jp_kana: ふつうのサイズ
@@ -54852,7 +54852,7 @@ gourgeist:
         ko:
           omega_ruby: "초승달이 뜬 밤에 기분 나쁜 목소리로\n노래를 부르며 마을 안을 헤맨다.\n그 노래를 들으면 저주를 받는다."
           alpha_sapphire: "머리카락 같은 팔로 사냥감을\n조른다. 괴로워하는 모습을\n지켜보며 즐거운 듯 노래한다."
-    gourgeist_small_size:
+    gourgeist_small_variety:
       form_id: 1
       names:
         jp_kana: ちいさいサイズ
@@ -54911,7 +54911,7 @@ gourgeist:
         ko:
           omega_ruby: "초승달이 뜬 밤에 기분 나쁜 목소리로\n노래를 부르며 마을 안을 헤맨다.\n그 노래를 들으면 저주를 받는다."
           alpha_sapphire: "머리카락 같은 팔로 사냥감을\n조른다. 괴로워하는 모습을\n지켜보며 즐거운 듯 노래한다."
-    gourgeist_large_size:
+    gourgeist_large_variety:
       form_id: 2
       names:
         jp_kana: おおきいサイズ
@@ -54970,7 +54970,7 @@ gourgeist:
         ko:
           omega_ruby: "초승달이 뜬 밤에 기분 나쁜 목소리로\n노래를 부르며 마을 안을 헤맨다.\n그 노래를 들으면 저주를 받는다."
           alpha_sapphire: "머리카락 같은 팔로 사냥감을\n조른다. 괴로워하는 모습을\n지켜보며 즐거운 듯 노래한다."
-    gourgeist_super_size:
+    gourgeist_jumbo_variety:
       form_id: 3
       names:
         jp_kana: とくだいサイズ
@@ -55290,7 +55290,7 @@ xerneas:
     es: Xerneas
     ko: 제르네아스
   forms:
-    xerneas_neutral_mode:
+    xerneas:
       form_id: 0
       names:
         jp_kana: リラックスモード

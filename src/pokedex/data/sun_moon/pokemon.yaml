@@ -43141,7 +43141,7 @@ pumpkaboo:
     zh_simp: 南瓜精
     zh_trad: 南瓜精
   forms:
-    pumpkaboo_average_size:
+    pumpkaboo_medium_variety:
       form_id: 0
       names:
         jp_kana: ふつうのサイズ
@@ -43177,7 +43177,7 @@ pumpkaboo:
         - pickup
         - frisk
       hidden_ability: insomnia
-    pumpkaboo_small_size:
+    pumpkaboo_small_variety:
       form_id: 1
       names:
         jp_kana: ちいさいサイズ
@@ -43213,7 +43213,7 @@ pumpkaboo:
         - pickup
         - frisk
       hidden_ability: insomnia
-    pumpkaboo_large_size:
+    pumpkaboo_large_variety:
       form_id: 2
       names:
         jp_kana: おおきいサイズ
@@ -43249,7 +43249,7 @@ pumpkaboo:
         - pickup
         - frisk
       hidden_ability: insomnia
-    pumpkaboo_super_size:
+    pumpkaboo_jumbo_variety:
       form_id: 3
       names:
         jp_kana: とくだいサイズ
@@ -43302,7 +43302,7 @@ gourgeist:
     zh_simp: 南瓜怪人
     zh_trad: 南瓜怪人
   forms:
-    gourgeist_average_size:
+    gourgeist_medium_variety:
       form_id: 0
       names:
         jp_kana: ふつうのサイズ
@@ -43338,7 +43338,7 @@ gourgeist:
         - pickup
         - frisk
       hidden_ability: insomnia
-    gourgeist_small_size:
+    gourgeist_small_variety:
       form_id: 1
       names:
         jp_kana: ちいさいサイズ
@@ -43374,7 +43374,7 @@ gourgeist:
         - pickup
         - frisk
       hidden_ability: insomnia
-    gourgeist_large_size:
+    gourgeist_large_variety:
       form_id: 2
       names:
         jp_kana: おおきいサイズ
@@ -43410,7 +43410,7 @@ gourgeist:
         - pickup
         - frisk
       hidden_ability: insomnia
-    gourgeist_super_size:
+    gourgeist_jumbo_variety:
       form_id: 3
       names:
         jp_kana: とくだいサイズ
@@ -43617,7 +43617,7 @@ xerneas:
     zh_simp: 哲尔尼亚斯
     zh_trad: 哲爾尼亞斯
   forms:
-    xerneas_neutral_mode:
+    xerneas:
       form_id: 0
       names:
         jp_kana: リラックスモード
