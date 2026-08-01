@@ -45,9 +45,9 @@ class _BaseMulti[K, V](Mapping[K, V]):
         if key is not None:
             return self._data.get(key, default)
 
-        for key in self._default_keys:
+        for default_key in self._default_keys:
             with suppress(KeyError):
-                return self._data[key]
+                return self._data[default_key]
 
         return default
 
@@ -131,9 +131,9 @@ class Localized[V](_BaseMulti[tuple[Language, GameGroup], V]):
         else:
             keys = self._default_keys
 
-        for key in keys:
+        for default_key in keys:
             with suppress(KeyError):
-                return self._data[key]
+                return self._data[default_key]
 
         return default
 

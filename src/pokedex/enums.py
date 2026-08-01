@@ -139,7 +139,7 @@ class Game(OrderedEnum):
 
     game_group: GameGroup
 
-    def __new__(cls, value: str, game_group: "GameGroup") -> "Game":
+    def __new__(cls, value: str, game_group: "GameGroup") -> Self:
         obj = object.__new__(cls)
         obj._value_ = value
         obj.game_group = game_group
